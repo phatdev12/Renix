@@ -1,0 +1,15 @@
+---
+/* /kanji/<char>/ — the kanji grid with that character's detail open */
+import Base from '../../layouts/Base.astro';
+import { UNITS } from '../../lib/course';
+
+export function getStaticPaths() {
+  return UNITS.flatMap((u) => u.kanji.map((k) => ({ params: { c: k.c } })));
+}
+const { c } = Astro.params;
+---
+<Base nav="kanji" title="Kanji" jp="かんじ" args={[c]}>
+  <script>
+    import '../../scripts/pages/kanji';
+  </script>
+</Base>

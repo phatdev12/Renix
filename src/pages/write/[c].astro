@@ -1,0 +1,15 @@
+---
+/* /write/<kanji>/ — opens the writer on that character (any character with KanjiVG stroke data). */
+import kvg from '../../data/kanjivg.json';
+import Base from '../../layouts/Base.astro';
+
+export function getStaticPaths() {
+  return Object.keys(kvg).map((c) => ({ params: { c } }));
+}
+const { c } = Astro.params;
+---
+<Base nav="write" title="Tập viết" jp="かんじをかく" args={[c]}>
+  <script>
+    import '../../scripts/pages/write';
+  </script>
+</Base>

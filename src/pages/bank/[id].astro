@@ -1,0 +1,19 @@
+---
+/* One LMS quiz (or "mix": 20 random keyed questions picked on the list page, kept in localStorage). */
+import Base from '../../layouts/Base.astro';
+import { BANK } from '../../lib/bank';
+
+export function getStaticPaths() {
+  return [
+    ...BANK.map((q) => ({ params: { id: q.id }, props: { name: q.name } })),
+    { params: { id: 'mix' }, props: { name: 'Trộn ngẫu nhiên' } },
+  ];
+}
+const { id } = Astro.params;
+const { name } = Astro.props;
+---
+<Base nav="bank" title="Đề luyện LMS" jp={name} args={[id]}>
+  <script>
+    import '../../scripts/pages/bank';
+  </script>
+</Base>

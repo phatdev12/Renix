@@ -1,0 +1,1079 @@
+{
+  "1822/0/1": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc (đoạn của Akio): 「山で、山や花のしゃしんをとりました。」→ Ở trên núi, bố Akio chụp ảnh núi và hoa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/0/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「父は、写真をとるのが好きでした。」→ Bố Akio thích chụp ảnh nên chọn câu khẳng định 「はい」.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bài gốc chỉ nói 「好きでした」 (thích, quá khứ), không nói 「大好き」; nhưng [1] là lựa chọn khẳng định duy nhất."
+  },
+  "1822/0/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「父と母も、大学の山の会で会いました。」→ Bố mẹ Akio gặp nhau ở câu lạc bộ leo núi (山の会) của trường đại học.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/0/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「わたしは、風景をとるのも、人をとるのも、好きです。」→ Akio chụp cả phong cảnh (風景) lẫn chụp người.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「父は、風景をとるのが好きです。」→ Bố Akio thích chụp phong cảnh (mẫu VるのがA).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bài gốc dùng 「好きです」, đáp án ghi 「大好きです」; vẫn là lựa chọn khẳng định duy nhất."
+  },
+  "1822/0/6": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「子どもの時は、家族でよく山に行きました。」→ Hồi nhỏ cả nhà Akio hay đi núi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/0/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「わたしの趣味は、山に登ることと、写真をとることです。」→ Sở thích của Akio là leo núi và chụp ảnh (mẫu 趣味はVることです).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/0/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「父も母も、山登りが大好きです。」→ Cả bố lẫn mẹ Akio đều rất thích leo núi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/1": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc (đoạn của thầy Nishiyama): 「おいしいワインを飲みながら、いろいろな話をします。」→ Vừa uống rượu vang ngon vừa nói đủ chuyện (Vながら = vừa… vừa…).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「ジャズとクラシックが好きです。」→ Thầy Nishiyama thích nhạc jazz và nhạc cổ điển.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「生のジャズを聞くのは、本当にたのしいです。」→ Nghe jazz trực tiếp (生の = sống, live) thật sự rất vui (mẫu VるのはA).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「大学生の時は、友だちといっしょにジャズのバンドをしていました。」→ Hồi đại học thầy chơi ban nhạc jazz cùng bạn bè.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「わたしは、ベースをひいていました。」→ Trong ban nhạc thầy chơi đàn bass (ベース).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/6": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「妻も、ジャズが好きです。」→ Vợ thầy cũng thích jazz (妻 = vợ mình, 奥さん = vợ người khác).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/7": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「時々、ライブハウスにも行きます。」→ Thỉnh thoảng thầy đến live house (quán nhạc sống).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/8": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「子どもの時は、ピアノを習っていました。」→ Hồi nhỏ thầy học piano (習う = học có người dạy).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/9": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「妻も、ピアノをひくことができます。」→ Vợ thầy cũng có thể chơi piano (mẫu Vることができます).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/10": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「金曜日の夜は、妻と二人でジャズを聞きながら、ワインを飲みます。」→ Tối thứ Sáu hai vợ chồng vừa nghe jazz vừa uống rượu vang.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/1/11": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「わたしの趣味は、音楽を聞くことです。」→ Sở thích của thầy là nghe nhạc.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc (đoạn của Li): 「わたしは、音楽を聞くのも好きです。」→ Ngoài đọc sách, Li cũng thích nghe nhạc (も = cũng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「弟は、本を読むのはあまり好きではありません。」→ Em trai Li không thích đọc sách lắm (あまり〜ない).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「テレビで、日本のドラマも見ました。」→ Li xem phim truyền hình Nhật trên ti vi (で = phương tiện).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lựa chọn [1] viết sai chính tả 「コンピュター」 (đúng là コンピューター); không ảnh hưởng đáp án."
+  },
+  "1822/2/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「姉といっしょによくアニメ映画を見に行きました。」→ Li hay đi xem phim hoạt hình cùng chị gái (姉).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/5": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「弟の趣味は、マンガを読むことと、サッカーをすることです。」→ Sở thích của em trai Li là đọc truyện tranh và chơi bóng đá.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/6": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「うちで、アニメのＤＶＤもよく見ました。」→ Ở nhà Li cũng hay xem DVD anime.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「子どものときは、いつも家で本を読んでいました。」→ Hồi nhỏ Li lúc nào cũng đọc sách ở nhà.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「わたしは、本を読むのが大好きです。」→ Li rất thích đọc sách (mẫu VるのがA).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/9": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「姉も、音楽を聞くのが大好きです。」→ Chị gái của Li cũng rất thích nghe nhạc, nên đáp án dự kiến là 「はい」.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Câu hỏi ghi 妹 (em gái) nhưng bài đọc chỉ nhắc đến 姉 (chị gái); có lẽ người ra đề nhầm 姉/妹. Đáp án dự kiến: [0] はい、好きです。"
+  },
+  "1822/2/10": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「姉もわたしも、Ｊポップが好きです。」→ Li và chị gái đều thích J-pop.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1822/2/11": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「子どもの時は、日本のアニメを見るのが大好きでした。」→ Hồi nhỏ Li rất thích xem anime Nhật (quá khứ でした).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/0/1": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "しゅみは本をよむことです。",
+    "explain": "Mẫu 「しゅみは Vる＋ことです」: Sở thích là đọc sách. しょうらい = tương lai, ゆめ = ước mơ, きょうみ = hứng thú.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/0/2": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "音楽を聞くのが好きです。Jポップが大好きです。",
+    "explain": "Thích nghe nhạc → rất thích J-pop (Jポップ). プリンター = máy in, レンタカー = xe cho thuê, テント = lều.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/0/3": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "モーツァルトのきょくを聞くのが好きです。",
+    "explain": "「モーツァルトのきょく」 = bản nhạc của Mozart. メンバー = thành viên, テーマ = chủ đề, ベース = đàn bass.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/0/4": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "さあ、授業をはじめましょう。",
+    "explain": "はじめます (始めます) là tha động từ đi với を: 授業をはじめましょう = Nào, bắt đầu giờ học. はじまります là tự động từ (授業が始まります).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/0/5": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "なまのさかなを食べることができません。",
+    "explain": "Mẫu 生のN: なまのさかな = cá sống. Các lựa chọn còn lại là chữ bị đảo thứ tự.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/1": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Tranh: nhóm người hát, đánh trống, chơi guitar → バンド (ban nhạc).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Tranh: bản nhạc trên khuông nhạc → きょく (曲, bản nhạc). Chú ý âm きょ (kyo), không phải きゃ/ぎょ/ぎゃ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/3": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Tranh vẽ cây đàn điện kèm nốt nhạc → từ vựng nhạc cụ ベース (đàn bass) của Unit 14.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Hình thực tế là guitar điện 6 dây (không phải bass 4 dây) và đáp án không có ギター. Đề P2 kiểm tra đủ 11 từ của Unit 14, Jポップ đã được hỏi ở Part I câu 2, nên từ còn lại cho câu này là ベース."
+  },
+  "1859/1/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh: các loại bánh quy → おかし (お菓子, bánh kẹo). はなみ = ngắm hoa, おちゃ = trà, はなび = pháo hoa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh: lá đỏ mùa thu → こうよう (紅葉), có trường âm ở cả こう và よう.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/6": {
+    "type": "single",
+    "answer": 0,
+    "explain": "ピアノをひきます = chơi đàn piano; với nhạc cụ phím/dây dùng động từ ひく (弾く).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Người đàn ông đang chơi đàn → えんそうしています (演奏 = biểu diễn nhạc cụ). せんたく = giặt giũ, そうじ = dọn dẹp.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "しゃしんをとります = chụp ảnh (写真を撮る).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/9": {
+    "type": "single",
+    "answer": 0,
+    "explain": "きものをきます = mặc kimono (着る: mặc áo/đồ phần thân trên hoặc cả người).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1859/1/10": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Cô gái đang học viết chữ (thư pháp) với cô giáo → かんじをならっています (習う = học có người dạy). なまって/まなって là từ không tồn tại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2431/0/1": {
+    "type": "dragtext",
+    "answer": [3, 7, 2, 4, 5, 1, 6, 0],
+    "sentence": "写真をとります／ピアノをひきます／山にのぼります／はをみがきます／曲をききます／うちをでます／おふろにはいります／電車をおります",
+    "explain": "Cụm cố định: 写真をとる (chụp ảnh), ピアノをひく (chơi piano), 山にのぼる (leo núi), 歯をみがく (đánh răng), 曲をきく (nghe nhạc), うちをでる (ra khỏi nhà), おふろにはいる (tắm bồn), 電車をおりる (xuống tàu).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2430/0/1": {
+    "type": "matching",
+    "answer": {
+      "すいます": "Nhóm 1",
+      "はじめます": "Nhóm 2",
+      "えんそうします": "Nhóm 3"
+    },
+    "explain": "すいます: âm hàng い trước ます → nhóm 1 (すう). はじめます: âm hàng え (め) trước ます → nhóm 2 (はじめる). Danh từ + します → nhóm 3.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2430/0/2": {
+    "type": "matching",
+    "answer": {
+      "べんきょうします": "Nhóm 3",
+      "たべます": "Nhóm 2",
+      "いそぎます": "Nhóm 1"
+    },
+    "explain": "べんきょうします (N＋します) → nhóm 3; たべます (âm え trước ます) → nhóm 2 (たべる); いそぎます (âm い trước ます) → nhóm 1 (いそぐ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2430/0/3": {
+    "type": "matching",
+    "answer": {
+      "おきます": "Nhóm 2",
+      "はなします": "Nhóm 1",
+      "きます": "Nhóm 3"
+    },
+    "explain": "おきます (起きます, thức dậy) là ngoại lệ: âm い nhưng thuộc nhóm 2 (おきる), giống みます・います. はなします → nhóm 1 (はなす); きます (来ます) → nhóm 3 (くる).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Nếu là 置きます (đặt) thì thuộc nhóm 1, nhưng trong ドリル② của bài おきます được xếp ở nhóm II, tức là 起きます."
+  },
+  "2155/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "X",
+      "2": "O",
+      "3": "X",
+      "4": "O"
+    },
+    "explain": "1) Sai: 「顔はほんとうによく似ていますが、性格はずいぶんちがいます」. 2) Đúng: 「特に外国の小説が好きで…」. 3) Sai: người hiền lành (おとなしい) là chị しずか, còn あすか thích chơi ngoài trời. 4) Đúng: 「あすかはほしいと思ったら、何でもすぐ買います」.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu 2 ghi furigana sai: 小説（しょうせ）, đúng là しょうせつ."
+  },
+  "2155/0/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "私のしゅみは外国語の勉強です。いま、日本語を勉強しています。",
+    "explain": "「いま、日本語を勉強しています」 = Bây giờ tôi đang học tiếng Nhật (Vています: đang làm). 「〜することです」 chỉ dùng sau 「しゅみは」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/0/3": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "息子は動物をかうのが好きです。",
+    "explain": "Mẫu VるのがA với A = 好き: 動物をかうのが好きです (Con trai tôi thích nuôi động vật).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Tiếng Nhật thực tế đôi khi cũng nói 「〜ことが好き」, nhưng theo mẫu của bài (VるのがA) đáp án là の."
+  },
+  "2155/0/4": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "電車のなかでよくJポップを聞きます。",
+    "explain": "Câu kể thói quen: 電車のなかでよくJポップを聞きます (Tôi hay nghe J-pop trên tàu điện). 「聞くことです」 chỉ dùng trong mẫu 「しゅみは〜ことです」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/0/5": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "私のしゅみはおんがくを聞くことです。",
+    "explain": "Mẫu 「しゅみは Vる＋ことです」: Sở thích của tôi là nghe nhạc.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/0/6": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "あさこさんはベトナム語を話すことができます。",
+    "explain": "Mẫu Vることができます: Asako có thể nói tiếng Việt. Không dùng 「のができます」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/1/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD để biết mỗi con chó làm được gì (〜ことができます): a = hiểu lệnh tiếng Anh (come, sit), c = đọc báo, e = đi xe đạp; mỗi chữ a/c/e dùng cho một con ジャック, アミ, モモ (b = bơi là ví dụ của ポチ).",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2155/1/2": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD: nghe thấy 「〜ことができます」 thì chọn O, 「〜ことができません」 thì chọn X cho 3 việc: photocopy sách ở thư viện, đi xem chùa hôm nay, gửi e-mail và ảnh.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2155/1/3": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD để điền sở thích (dạng Vる＋こと) của từng người bạn rồi chọn quà: b = CD nhạc Bach, d = bát và thìa nĩa trộn salad, e = rượu vang (gợi ý: thích nghe nhạc → b, thích nấu ăn → d, thích uống rượu vang → e).",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Ví dụ trong đề viết 「絵を書くこと」; thông thường viết 「絵をかく／描く」."
+  },
+  "2155/2/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "テニスをする"
+    },
+    "sentence": "しゅみはテニスをすることです。",
+    "explain": "Tranh: chơi tennis. Mẫu 「しゅみは Vる＋ことです」: テニスをします → テニスをする.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/2": {
+    "type": "blanks",
+    "answer": {
+      "1": ["やさいを食べる", "野菜を食べる", "やさいをたべる"]
+    },
+    "sentence": "やさいを食べるのは体にいいです。",
+    "explain": "Tranh: ăn rau. Mẫu VるのはA (tính chất): やさいを食べるのは体にいいです (Ăn rau thì tốt cho cơ thể).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/3": {
+    "type": "blanks",
+    "answer": {
+      "1": "みんなでご飯を食べるの",
+      "2": ["たのしいです。", "たのしいです"]
+    },
+    "sentence": "みんなでご飯を食べるのはたのしいです。",
+    "explain": "Mẫu VるのはA: 食べます → 食べる + の làm chủ đề: Ăn cơm cùng mọi người thì vui.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Ngữ pháp chắc chắn; chỉ không rõ hệ thống có yêu cầu gõ 「。」 ở ô 2 hay không (khung câu không có dấu 。 sau ô 2)."
+  },
+  "2155/2/4": {
+    "type": "blanks",
+    "answer": {
+      "1": "電話しながらうんてんするの",
+      "2": ["あぶないです。", "あぶないです"]
+    },
+    "sentence": "電話しながらうんてんするのはあぶないです。",
+    "explain": "Mẫu VるのはA: うんてんします → うんてんする + の: Vừa gọi điện vừa lái xe thì nguy hiểm.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Ngữ pháp chắc chắn; chỉ không rõ hệ thống có yêu cầu gõ 「。」 ở ô 2 hay không (khung câu không có dấu 。 sau ô 2)."
+  },
+  "2155/2/5": {
+    "type": "blanks",
+    "answer": {
+      "1": "カードではらうこと",
+      "2": "できます"
+    },
+    "sentence": "カードではらうことができます。",
+    "explain": "Mẫu Vることができます: はらいます → はらう: Có thể trả bằng thẻ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/6": {
+    "type": "blanks",
+    "answer": {
+      "1": ["ギターをひく", "ギターを弾く"]
+    },
+    "sentence": "ギターをひくことができます。",
+    "explain": "Tranh: chơi guitar. Mẫu Vることができます: ひきます → ひく: Có thể chơi guitar.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/7": {
+    "type": "blanks",
+    "answer": {
+      "1": ["しゅみはえをかくことです", "しゅみは絵をかくことです"]
+    },
+    "sentence": "しゅみはえをかくことです。",
+    "explain": "Mẫu 「しゅみは Vる＋ことです」: かきます → かく: Sở thích là vẽ tranh. Dấu 。 đã có sẵn sau ô trống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/8": {
+    "type": "blanks",
+    "answer": {
+      "1": ["およぐ", "泳ぐ"]
+    },
+    "sentence": "およぐのが上手です。",
+    "explain": "Tranh: bơi giỏi (Good at). Mẫu VるのがA (A = 上手): およぎます → およぐ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2155/2/9": {
+    "type": "blanks",
+    "answer": {
+      "1": ["ビールを飲む", "ビールをのむ", "お酒を飲む", "おさけをのむ"]
+    },
+    "sentence": "ビールを飲むことができません。",
+    "explain": "Tranh: người xua tay từ chối khi được rót bia. Mẫu Vることができません: のみます → のむ (giống câu mẫu của bài 「ビールを飲むことができません」).",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Không chắc đáp án mẫu dùng ビール hay おさけ; cả hai đều đúng ngữ pháp."
+  },
+  "2155/2/10": {
+    "type": "blanks",
+    "answer": {
+      "1": "しらない人と話すの",
+      "2": "きらいです"
+    },
+    "sentence": "しらない人と話すのがきらいです。",
+    "explain": "Mẫu VるのがA (A = きらい): 話します → 話す + の: Ghét nói chuyện với người lạ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2136/0/1": {
+    "type": "order",
+    "answer": [1, 2, 0, 3],
+    "sentence": "弟の趣味は、マンガを読むことです。",
+    "explain": "Mẫu 趣味は Vる＋ことです: マンガ＋を＋読む＋こと (Sở thích của em trai là đọc truyện tranh).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2136/0/2": {
+    "type": "order",
+    "answer": [0, 1, 2, 3],
+    "sentence": "一人で住むのはさびしいです。",
+    "explain": "Mẫu VるのはA (A chỉ tính chất): 一人で住む＋のは＋さびしい (Sống một mình thì buồn) — câu mẫu của bài.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2136/0/3": {
+    "type": "order",
+    "answer": [2, 1, 0, 3],
+    "sentence": "彼女ははなすのがとてもはやいです。",
+    "explain": "Mẫu VるのがA (A = はやい, chỉ năng lực): はなす＋のが＋とても＋はやい (Cô ấy nói rất nhanh); とても đứng ngay trước tính từ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2136/1/1": {
+    "type": "matching",
+    "answer": {
+      "趣味（しゅみ）はVることです": "Sở thích là ….",
+      "VるのがA": "Biến động từ V thành danh từ. Việc V thì A. A là tính từ chỉ sở thích, kỹ năng, năng lực như: すき、きらい、じょうず、へた、はやい、おそい、…",
+      "VるのはA": "Biến động từ V thành danh từ. Việc V thì A. A là tính từ chỉ tính chất như: むずかしい、やさしい、おもしろい、たのしい、たいへん、…"
+    },
+    "explain": "趣味はVることです = Sở thích là…; VるのがA đi với tính từ chỉ sở thích/năng lực (好き, じょうず, はやい…); VるのはA đi với tính từ chỉ tính chất (むずかしい, たのしい, たいへん…).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1946/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "すう",
+      "2": "いそぐ",
+      "3": "あそぶ",
+      "4": "まつ",
+      "5": "はなす",
+      "6": "はじめる",
+      "7": "たべる",
+      "8": "おきる",
+      "9": "えんそうする",
+      "10": "べんきょうする",
+      "11": "くる"
+    },
+    "explain": "Nhóm I: đổi âm hàng い trước ます sang hàng う (い→う, ぎ→ぐ, び→ぶ, ち→つ, し→す). Nhóm II: bỏ ます thêm る. Nhóm III: します→する, きます→くる.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đề ghi 「IIぐグループ」 (lỗi đánh máy, thừa ぐ)."
+  },
+  "1948/0/1": {
+    "type": "matching",
+    "answer": {
+      "Vることができます。/できません。": "Biểu thị một việc gì đó có thể được làm (hoặc không thể được làm) bởi năng lực mà người đó có hoặc 1 hành vi nào có khả năng thực hiện được (hoặc không thực hiện được) do hoàn cảnh đó tạo ra.",
+      "それで": "Vì thế. Từ nguyên nhân, lý do dẫn đến một việc xảy ra trong thực tế."
+    },
+    "explain": "Vることができます／できません = có thể / không thể làm V (do năng lực hoặc hoàn cảnh). それで = vì thế, nối nguyên nhân với kết quả thực tế.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1948/1/1": {
+    "type": "order",
+    "answer": [3, 1, 2, 0],
+    "sentence": "日本語が話すことができますが、中国語をはなすことができません。",
+    "explain": "Mẫu Vることができません: はなす＋こと＋が＋できません (…nhưng không thể nói tiếng Trung).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phần câu in sẵn trong hình có lỗi ngữ pháp: 「日本語が話すことができます」 đúng ra phải là 「日本語を話すことができます」."
+  },
+  "1948/1/2": {
+    "type": "order",
+    "answer": [2, 0, 3, 1],
+    "sentence": "バスが来ません。それで、あるきました。",
+    "explain": "それで (vì thế) nối nguyên nhân → kết quả: Xe buýt không đến. Vì thế tôi đã đi bộ (あるき＋ました) — câu mẫu của bài.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1948/1/3": {
+    "type": "order",
+    "answer": [3, 0, 2, 1],
+    "sentence": "ピアノをひくことができます。",
+    "explain": "Mẫu Vることができます: ひく＋こと＋が＋でき(ます) (Tôi có thể chơi piano) — câu mẫu của bài.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/1": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "わたしは花見のパーティーがにがてです。にぎやかなのは好きじゃないです。",
+    "explain": "Tính từ đuôi な phải giữ な trước の khi danh từ hóa: にぎやかなのは好きじゃない (Tôi không thích chỗ ồn ào náo nhiệt).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/2": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Câu hỏi 「〜のが好きですか」 → trả lời bằng cùng mẫu VるのがA: 「はい、料理を作るのが好きです。」",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/3": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "よるおそく1人であるくのはあぶないです。",
+    "explain": "Mẫu VるのはA: あるきます → あるく (nhóm 1): Đi bộ một mình lúc khuya thì nguy hiểm.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Hỏi cảm nhận 「Vるのはどうですか」 → trả lời bằng 「VるのはA」: 日本語をべんきょうするのはおもしろいです (Học tiếng Nhật thì thú vị).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Hỏi 「どこで…買うことができますか」 (có thể mua ở đâu) → trả lời địa điểm + で: 「AnhDuc Digitalで買うことができます。」",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/6": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "夏休みに山に行きます。しずかなのが好きです。",
+    "explain": "Tính từ đuôi な + な + の: しずかなのが好きです (Tôi thích nơi yên tĩnh).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/7": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "わたしははるが好きです。",
+    "explain": "Danh từ đi thẳng với が好き, không thêm な/の: はるが好きです (Tôi thích mùa xuân).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/8": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "妹はさくら大学にはいることができます。",
+    "explain": "Mẫu Vることができます: はいります → はいる (nhóm 1): Em gái có thể vào ĐH Sakura.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/9": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "相撲を見たことがありますか。",
+    "explain": "Mẫu Vたことがあります (kinh nghiệm, đã từng): 相撲を見たことがありますか = Bạn đã từng xem sumo chưa?",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "「見ることがありますか」 cũng đúng ngữ pháp nhưng nghĩa khác (thỉnh thoảng có xem không); với 「ことがありますか」 đáp án chuẩn trong sách là thể た 見た."
+  },
+  "1881/0/10": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Hỏi 「Nができますか」 → trả lời 「はい、サッカーができます。」 (Có, có thể chơi bóng đá ở công viên này).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/11": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "朝うちでコーヒーをのんでから、会社へ行きます。",
+    "explain": "Mẫu Vてから (làm V xong rồi mới…): のみます → のんで (nhóm 1: み→んで).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/12": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "日本語の新聞をよむことができますか。",
+    "explain": "Mẫu Vることができます cần thể từ điển + こと: よむこと (Bạn có thể đọc báo tiếng Nhật không?).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/13": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "わたしの趣味はピアノをひくことです。",
+    "explain": "Mẫu 趣味は Vる＋ことです: ひきます → ひく + ことです.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/14": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "わたしの猫もあたたかいのが好きです。",
+    "explain": "Tính từ đuôi い + の (giữ nguyên い): あたたかいのが好きです (Con mèo của tôi cũng thích chỗ ấm).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/15": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Hỏi 「しゅみは何ですか」 → trả lời bằng 「Vることです」: サッカーをすることです.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/16": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "言葉を覚えても、なかなかはなすことができません。",
+    "explain": "Mẫu Vることができません: はなします → はなす: Dù đã nhớ từ nhưng mãi vẫn không nói được.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/17": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "あべさんはさむいきせつが好きです。",
+    "explain": "Tính từ đuôi い bổ nghĩa trực tiếp cho danh từ: さむいきせつ (mùa lạnh), không chèn の.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/18": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "わたしの趣味はスポーツです。",
+    "explain": "Danh từ + です: 趣味はスポーツです; không cần の/な/こと.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/19": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "じぶんのきもちをつたえるのはとてもむずかしいと思います。",
+    "explain": "Mẫu VるのはA: つたえます → つたえる (nhóm 2): Truyền đạt cảm xúc của bản thân thì rất khó.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1881/0/20": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "あたらしいことをしるのはおもしろいです。",
+    "explain": "Mẫu VるのはA: しります → しる + の: Biết điều mới thì thú vị. Phải có の thì động từ mới làm chủ đề với は được.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/0/1": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "9億円が当たったら、どうしますか。",
+    "explain": "当たる (あたる) = trúng (xổ số): 9億円が当たったら = nếu trúng 900 triệu yên.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/0/2": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "妻は英語のきょうしです。",
+    "explain": "妻 (つま) = vợ (của mình). 麦 = lúa mạch, 凄 = ghê gớm, 夏 = mùa hè.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/0/3": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "彼女は真っ白いドレスを着ています。",
+    "explain": "真っ白 (まっしろ) = trắng tinh; 真 đọc là ま trong 真っ〜.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/0/4": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "その角を右に曲がると、小さい家々が並んでいます。",
+    "explain": "曲がる (まがる) = rẽ, quẹo: 角を右に曲がる = rẽ phải ở góc đường.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/0/5": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "かれはどうぶつえんで働いています。",
+    "explain": "働く (はたらく) = làm việc; khác 動 (うごく, chuyển động) ở bộ nhân đứng 亻.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/1/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "心",
+      "2": "味",
+      "3": "習",
+      "4": "婚",
+      "5": "働"
+    },
+    "explain": "関心 (かんしん: quan tâm), 食味 (しょくみ: hương vị món ăn), 習慣 (しゅうかん: thói quen), 離婚 (りこん: ly hôn), 労働 (ろうどう: lao động).",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Ô 2: 食味 là từ ít gặp; 食飲 và 食旅 không phải từ (từ đúng là 飲食 いんしょく, 飲 đứng trước 食), nên chọn 味. Nếu người ra đề định hỏi 飲食 thì ô trống bị đặt sai vị trí."
+  },
+  "2138/1/2": {
+    "type": "blanks",
+    "answer": {
+      "1": "音楽",
+      "2": "映画",
+      "3": "趣味",
+      "4": "写真",
+      "5": "結婚",
+      "6": "家族",
+      "7": "飲む",
+      "8": "本当",
+      "9": "習う",
+      "10": "妻"
+    },
+    "explain": "Chữ đúng: 音楽 (おんがく), 映画 (えいが), 趣味 (しゅみ), 写真 (しゃしん), 結婚 (けっこん), 家族 (かぞく), 飲む (のむ), 本当 (ほんとう), 習う (ならう), 妻 (つま); các phương án còn lại là chữ viết sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2138/2/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "ならう",
+      "2": "えいが",
+      "3": "おと",
+      "4": "あたる",
+      "5": "あじ",
+      "6": "きょく",
+      "7": "たび",
+      "8": "うつる",
+      "9": "むすぶ",
+      "10": "すきな"
+    },
+    "explain": "Chữ đứng một mình đọc âm Kun: 音 = おと (âm On オン dùng trong từ ghép như 音楽), 味 = あじ, 旅 = たび; 曲 = きょく. Động từ: 習う ならう, 当たる あたる, 写る うつる, 結ぶ むすぶ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/1": {
+    "type": "single",
+    "answer": 0,
+    "explain": "音楽 (おんがく) = âm nhạc; 暗 (tối) và 薬 (thuốc) là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "曲 đọc là きょく (bản nhạc): không có trường âm う, không phải âm đục ぎょ.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lựa chọn [0] và [1] giống hệt nhau (きょくう), đều sai."
+  },
+  "1805/0/3": {
+    "type": "single",
+    "answer": 2,
+    "explain": "意味 (いみ) = ý nghĩa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "写真 (しゃしん) = bức ảnh; 考 (suy nghĩ) và 査 (điều tra) là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "味 (あじ) = vị; dễ nhầm với 昧 (mờ tối), 妹 (em gái), 呼 (gọi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/6": {
+    "type": "single",
+    "answer": 2,
+    "explain": "映画 (えいが) = phim; 英 (Anh) và 面 (mặt) là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "旅行 (りょこう) = du lịch; 族 (tộc) dễ nhầm với 旅, 光 (ánh sáng) là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "飲み (のみ) từ 飲む = uống; 食 (ăn), 飯 (cơm), 餃 (bánh gyoza) đều là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/9": {
+    "type": "single",
+    "answer": 3,
+    "explain": "店員 (てんいん) = nhân viên cửa hàng; chữ 員 gồm 口 ở trên và 貝 ở dưới.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/10": {
+    "type": "single",
+    "answer": 3,
+    "explain": "画面 (がめん) = màn hình; 画 đọc là が trong từ này.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/11": {
+    "type": "single",
+    "answer": 1,
+    "explain": "趣味 (しゅみ) = sở thích; しゅ là âm ngắn, không có trường âm, không đục.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/12": {
+    "type": "single",
+    "answer": 0,
+    "explain": "結婚 (けっこん) = kết hôn; 結婚式 = lễ cưới.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/13": {
+    "type": "single",
+    "answer": 1,
+    "explain": "旅館 (りょかん) = nhà trọ kiểu Nhật; 旅 đọc りょ (âm ngắn).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/14": {
+    "type": "single",
+    "answer": 3,
+    "explain": "夫妻 (ふさい) = vợ chồng; 妻 có âm On là サイ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1805/0/15": {
+    "type": "single",
+    "answer": 2,
+    "explain": "発音 (はつおん) = phát âm; 音 có âm On là オン.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/1": {
+    "type": "short",
+    "answer": "わたしは、本を読むのが大好きです。",
+    "explain": "Gõ lại câu trong hình (không gõ furigana): Tôi rất thích đọc sách (mẫu VるのがA).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/2": {
+    "type": "short",
+    "answer": "弟の趣味は、マンガを読むことと、サッカーをすることです。",
+    "explain": "Gõ lại câu trong hình: Sở thích của em trai là đọc truyện tranh và chơi bóng đá (趣味はVることと、Vることです).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/3": {
+    "type": "short",
+    "answer": "子どもの時は、日本のアニメを見るのが大好きでした。",
+    "explain": "Gõ lại câu trong hình, 時 viết bằng chữ Hán: Hồi nhỏ tôi rất thích xem anime Nhật.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Furigana trong hình ghi 「じ」 trên chữ 時 là sai; trong 子どもの時 phải đọc là とき."
+  },
+  "163/0/4": {
+    "type": "short",
+    "answer": "姉も、音楽を聞くのが大好きです。",
+    "explain": "Gõ lại câu trong hình: Chị gái tôi cũng rất thích nghe nhạc.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/5": {
+    "type": "short",
+    "answer": "テレビで、日本のドラマも見ました。",
+    "explain": "Gõ lại câu trong hình: Tôi cũng xem phim truyền hình Nhật trên ti vi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/6": {
+    "type": "short",
+    "answer": "うちで、アニメのＤＶＤもよく見ました。",
+    "explain": "Gõ lại câu trong hình: Ở nhà tôi cũng hay xem DVD anime. Chữ ＤＶＤ trong hình là chữ Latinh toàn khổ (full-width).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/7": {
+    "type": "short",
+    "answer": "姉といっしょによくアニメ映画を見に行きました。",
+    "explain": "Gõ lại câu trong hình: Tôi hay cùng chị gái đi xem phim hoạt hình (Vに行く: đi để làm V).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/8": {
+    "type": "short",
+    "answer": "わたしは、音楽を聞くのも好きです。",
+    "explain": "Gõ lại câu trong hình: Tôi cũng thích nghe nhạc (のも = cũng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/9": {
+    "type": "short",
+    "answer": "子どものときは、いつも家で本を読んでいました。",
+    "explain": "Gõ lại câu trong hình (câu này viết とき bằng hiragana): Hồi nhỏ tôi lúc nào cũng đọc sách ở nhà.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/10": {
+    "type": "short",
+    "answer": "姉もわたしも、Ｊポップが好きです。",
+    "explain": "Gõ lại câu trong hình: Cả chị tôi lẫn tôi đều thích J-pop. Ｊ là chữ toàn khổ; khoảng trống sau 「、」 chỉ là độ rộng của chữ, không phải dấu cách.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/11": {
+    "type": "short",
+    "answer": "マンガを読むのは大好きです。",
+    "explain": "Gõ lại câu trong hình: (Em trai) rất thích đọc truyện tranh.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "163/0/12": {
+    "type": "short",
+    "answer": "弟は、本を読むのはあまり好きではありません。",
+    "explain": "Gõ lại câu trong hình: Em trai tôi không thích đọc sách lắm. Khoảng trống sau 弟 là do furigana おとうと, không phải dấu cách.",
+    "confidence": "high",
+    "needs_audio": false
+  }
+}

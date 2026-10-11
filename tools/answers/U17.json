@@ -1,0 +1,879 @@
+{
+  "1825/0/1": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "妹さんと弟さんは、リさんにセーターをあげました。",
+    "explain": "Bài đọc: 「妹と弟は、セーターをくれました。」 → em gái và em trai tặng Li áo len. Câu hỏi đứng ở góc nhìn người ngoài nên dùng あげました; Li tự kể (người nhận là mình) thì dùng くれました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1825/0/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "リさんは、おじさんにおこづかいをもらいました。",
+    "explain": "Bài đọc: 「親戚のおじさんは、おこづかいをくれました。」 → Li nhận tiền tiêu vặt từ chú/bác họ hàng. Xに もらいます = nhận từ X.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1825/0/3": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "お母さんは、リさんにスカーフをあげました。",
+    "explain": "Bài đọc: 「母は、スカーフをくれました。」 → mẹ tặng Li khăn quàng (スカーフ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1825/0/4": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「兄と姉は、バッグをくれました。」 → anh và chị tặng túi xách (バッグ), không phải áo len, nên trả lời いいえ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1825/0/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Câu đầu bài đọc: 「日本に来るとき、…いろいろな人からプレゼントをもらいました」 → Li nhận quà vì sắp sang Nhật. 〜からです = vì 〜.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bài đọc dùng 日本に来る (Li kể khi đã ở Nhật), đáp án dùng 日本に行く – cùng ý."
+  },
+  "1825/0/6": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「どれも、とても好きでした。とてもうれしかったです。」 → món nào cũng thích, rất vui. どれも = cái nào cũng.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đáp án viết 「どれも、とてもすてきでした」 thay cho 「好きでした」 trong bài – ý tương đương."
+  },
+  "1825/0/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「いろいろな人からプレゼントをもらいました」 → nhận quà từ nhiều người (Xから もらいます = nhận từ X).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đề viết 「りさん」 bằng hiragana (lỗi chính tả của リさん)."
+  },
+  "1825/0/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「父は、時計をくれました。」 → bố tặng Li đồng hồ (とけい).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đề viết 「（りさん）」 bằng hiragana (lỗi chính tả của リさん)."
+  },
+  "1856/0/1": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh là mấy chiếc khăn vuông chấm bi → ハンカチ (khăn tay). ハンサム = đẹp trai, ハチ = con ong, ハート = trái tim.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/0/2": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh hộp quà thắt nơ → プレゼント (món quà). プレゼン = bài thuyết trình, スカーフ = khăn quàng, ベルト = dây nịt.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/0/3": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh gấu bông, ô tô, khối xếp hình… → おもちゃ (đồ chơi). おかね = tiền, おちゃ = trà.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/0/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh nhiều người thuộc nhiều thế hệ tụ họp → しんせき (親戚 = họ hàng). しんせつ = tử tế, しんぶん = báo, しんじゅく = Shinjuku.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Tranh áo len → セーター (có 2 trường âm: セー・ター). センター = trung tâm; セータ, セター viết sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/1": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "毎月、ちちはおこづかいをあげます。",
+    "explain": "Hằng tháng bố cho tiền tiêu vặt → おこづかいをあげます. おみまい = đi thăm người ốm; おかあさん, おじさん là người, không hợp nghĩa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "クリスマス (Giáng sinh) và たんじょうび (sinh nhật) là dịp/ngày lễ; プレゼント (món quà) là đồ vật → khác loại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/3": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "まいばん、お母さんはこどもにえほんを読みます。",
+    "explain": "Mỗi tối mẹ đọc sách tranh cho con → えほん (絵本 = sách tranh). ネクタイ (cà vạt) không 'đọc' được.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án えはがみ, あいが không phải từ có nghĩa (có thể là gõ nhầm từ えはがき)."
+  },
+  "1856/1/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "ハンカチ (khăn tay), ネクタイ (cà vạt) là đồ dùng/phụ kiện; しょうがっこう (小学校 = trường tiểu học) là nơi chốn → khác loại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "スカーフ (khăn quàng), バッグ (túi xách) là đồ vật/phụ kiện; しょくじ (食事 = bữa ăn) thì không → khác loại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/6": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "クリスマス（に）、子どもにDVDをあげます。",
+    "explain": "Giáng sinh tặng con đĩa DVD → N2(người)に N3を あげます = tặng N3 cho N2.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu đề thiếu trợ từ に sau クリスマス (đúng: クリスマスに)."
+  },
+  "1856/1/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "にんぎょう (búp bê), おもちゃ (đồ chơi) là danh từ chỉ đồ chơi; うれしい (vui) là tính từ → khác loại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "あげます (cho, tặng) và くれます (cho tôi) là động từ cho–nhận; はいります (vào) thì không → khác loại.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/9": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "12月27日はわたしのたんじょうびです。",
+    "explain": "Ngày 27/12 là sinh nhật của tôi → たんじょうび. クリスマス là 25/12, おしょうがつ là Tết (1/1), うれしい là tính từ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1856/1/10": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "子どもは今年の9月に小学校にはいります。",
+    "explain": "小学校に入ります = vào (nhập học) tiểu học, đi với trợ từ に. いれます = cho vào (ngoại động từ), không hợp.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1838/0/1": {
+    "type": "matching",
+    "answer": null,
+    "explain": "Phải nghe CD: mỗi người (①すずき ②シン ③ホセ ④ジョイ ⑤あべ) nói sẽ tặng Kara món gì – a trang sức (dây chuyền, nhẫn), b sô-cô-la, c khăn tay, d hoa, e chuột máy tính. Nghe danh từ đứng trước 「を あげます」.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "1838/0/2": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD: với mỗi đoạn ①–④, nghe (1) nhận được gì (a trang sức, b đồng hồ đeo tay, c từ điển điện tử, d máy quay, e ô/dù, f mũ) và (2) nhận từ ai (g bố, h mẹ, i chị, j bạn) – chú ý cụm 「Xに／Xから もらいました」.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "1838/1/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD: Roberta kể đã mua gì ở Nhật (ô 1, 3, 5 – なにをかいましたか) và tặng cho ai trong tranh (ô 2, 4, 6 – だれにあげましたか); chú ý mẫu 「Xに Yを あげました」.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "1838/2/1": {
+    "type": "dragtext",
+    "answer": [2, 5, 4, 0, 1, 3],
+    "sentence": "ネクタイをかいます／おこづかいをもらいます／えほんをよみます／しょうがっこうにはいります／しょくじをします／にんぎょうをつくります",
+    "explain": "Mỗi thẻ dùng 1 lần: 小学校に入ります (vào tiểu học), 食事をします (dùng bữa), 絵本を読みます (đọc sách tranh), おこづかいをもらいます (nhận tiền tiêu vặt – không thể mua hay làm); còn lại ネクタイを買います (mua cà vạt), 人形を作ります (làm búp bê).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Cặp ネクタイ/にんぎょう với かいます/つくります: ネクタイをかいます + にんぎょうをつくります là tự nhiên nhất (ネクタイをつくります rất ít dùng)."
+  },
+  "1838/3/1": {
+    "type": "matching",
+    "answer": {"①": "たんじょうび", "②": "クリスマス", "③": "小学校", "④": "セーター", "⑤": "食事"},
+    "explain": "① cô bé với bánh sinh nhật → たんじょうび; ② Merry Christmas → クリスマス; ③ học sinh trước trường, hoa anh đào (mùa nhập học) → 小学校; ④ áo len → セーター; ⑤ đang ăn cơm → 食事 (しょくじ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1838/3/2": {
+    "type": "matching",
+    "answer": {"①": "スカーフ", "②": "バッグ", "③": "おこづかい", "④": "ベルト", "⑤": "ネクタイ"},
+    "explain": "① khăn quàng cổ → スカーフ; ② túi xách → バッグ; ③ ví với tiền xu rơi ra → おこづかい (tiền tiêu vặt); ④ dây nịt → ベルト; ⑤ cà vạt → ネクタイ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1962/0/1": {
+    "type": "matching",
+    "answer": {
+      "N1（人）は N2（人）に N3（もの）＋ あげます・さしあげます。": "Ai đó tặng gì đó cho người nào đó.",
+      "N1（人）は N2（人）に/から N3（もの）＋ もらいます・いただきます。": "Ai đó đã nhận gì đó từ người nào đó.",
+      "N1（人）は 私・私の家族 に N3（もの）＋ くれます・くださいます。": "Ai đó tặng gì đó cho TÔI/GIA ĐÌNH TÔI."
+    },
+    "explain": "あげます・さしあげます: ai đó tặng cho người khác; もらいます・いただきます (に/から): ai đó nhận từ người khác; くれます・くださいます: người khác tặng cho TÔI/gia đình tôi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1962/1/1": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "私は友達からネクタイをもらいました。",
+    "explain": "Có 「友達から」 (từ bạn) và chủ ngữ 私 → động từ nhận もらいました. Bạn bè ngang hàng nên không cần いただきました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1962/1/2": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "社長は私に人形をくださいました。",
+    "explain": "社長 (giám đốc – bề trên) tặng cho tôi → dùng kính ngữ của くれました là くださいました.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án [1] 「あげまあした」 bị gõ sai. [2] くれました đúng ngữ pháp nhưng không lịch sự với giám đốc."
+  },
+  "1962/1/3": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "おじさんは私の妹に人形をくれました。",
+    "explain": "Người nhận là 「私の妹」 (gia đình tôi), người cho là chú/bác (họ hàng, giống 「親戚のおじさんは…くれました」 trong bài) → くれました (ai đó cho tôi/gia đình tôi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1962/1/4": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "母は、毎月私におこづかいをくれました。",
+    "explain": "Mẹ cho 「私に」 (cho tôi) → người khác cho tôi dùng くれました; あげました không dùng khi người nhận là tôi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1962/1/5": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "リさんのたんじょうびに、先生に本をいただきました。",
+    "explain": "Đúng câu mẫu của bài: nhận sách từ thầy/cô (bề trên) → いただきました (khiêm nhường ngữ của もらいました); 先生に = từ thầy/cô.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1963/0/1": {
+    "type": "matching",
+    "answer": {
+      "どれも": "Mọi thứ (Chỉ được sử dụng cho vật)",
+      "みんな": "Mọi thứ (Được sử dụng cho cả người và vật)"
+    },
+    "explain": "Theo bài: どれも (cái nào cũng) chỉ dùng cho đồ vật; みんな (tất cả, mọi người) dùng được cho cả người và vật.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1963/1/1": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "その店のアイスクリームはどれも美味しいです。",
+    "explain": "Kem là đồ vật, 'loại nào cũng ngon' → どれも. どこでも = ở đâu cũng, なにも đi với phủ định.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "すべて (tất cả) về ngữ pháp cũng dùng được, nhưng bài tập luyện mẫu どれも của Unit 17."
+  },
+  "1963/1/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "子供たちはみんな楽しそうに遊んでいます。",
+    "explain": "Chủ thể là người (bọn trẻ) → みんな (dùng được cho người); どれも chỉ dùng cho vật.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/0/1": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "わたしはAさんにプレゼントをあげました。",
+    "explain": "Tranh: B (わたし – người có bong bóng thoại) đưa sô-cô-la cho A → tôi tặng người khác: わたしはAさんにあげました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/0/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "すずきさんは父に本をもらいました。",
+    "explain": "Mũi tên: bố đưa sách cho Suzuki → chủ ngữ すずきさん là người nhận: Xに もらいました (nhận từ X).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/0/3": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "ゆきちゃんは母にはなをあげました。",
+    "explain": "Bé Yuki tặng hoa cho mẹ. Người nói gọi là 「母」 nên Yuki cũng là người nhà (em/chị) của người nói; người trong gia đình tặng nhau mà không tặng cho 'tôi' → dùng あげました (theo ghi chú của bài).",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Câu hơi mơ hồ: nếu ゆきちゃん là người ngoài (không phải người nhà) thì phải dùng くれました (tặng cho gia đình tôi). Bong bóng 「わたしは…」 trong tranh nằm cạnh người mẹ nhưng câu lại dùng 「母に」, không khớp với tranh."
+  },
+  "2158/0/4": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "わたしはAさんにチョコレートをあげました。",
+    "explain": "Mũi tên: B đưa sô-cô-la cho A. Câu là 「わたしはAさんに…」 nên わたし = B (người cho) → あげました.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Bong bóng 「わたしは…」 lại nằm cạnh A (người nhận). Nếu ý đề là わたし = A thì câu phải là 「わたしはBさんにチョコレートをもらいました」 – có thể đề gõ nhầm B thành A."
+  },
+  "2158/0/5": {
+    "type": "blanks",
+    "answer": {
+      "1": ["つかう", "使う"],
+      "2": "a",
+      "3": ["あそぶ", "遊ぶ"],
+      "4": "d",
+      "5": ["もって行く", "もっていく", "持って行く", "持っていく"],
+      "6": "c",
+      "7": ["つかう", "使う"],
+      "8": "b"
+    },
+    "sentence": "1) 学校でつかうものをあげます。→ a　2) うちであそぶものをあげます。→ d　3) キャンプのときもって行くものをあげます。→ c　4) スポーツのときつかうものをあげます。→ b",
+    "explain": "Động từ thể từ điển đứng trước danh từ để bổ nghĩa: つかいます→つかう, あそびます→あそぶ, もって行きます→もって行く. a sách, bút, hộp bút (dùng ở trường); d máy chơi game (chơi ở nhà); c ba lô, bình nước (mang đi cắm trại); b vợt, bóng (dùng khi chơi thể thao).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/0/6": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "Aさんはわたしにプレゼントをくれました。",
+    "explain": "A đưa quà cho わたし → người khác cho tôi → くれました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/1/1": {
+    "type": "blanks",
+    "answer": {"1": "くださいました"},
+    "sentence": "ぶちょうは（私に）ぼうしをくださいました。",
+    "explain": "Trưởng phòng (部長 – bề trên) tặng tôi cái mũ → kính ngữ của くれました là くださいました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/1/2": {
+    "type": "blanks",
+    "answer": {"1": "a", "2": null, "3": "c", "4": null, "5": "b", "6": null},
+    "explain": "① Hàng 1 có 'đồ người kết hôn muốn' → a 結婚; hàng 2 có đồ chơi, khung ảnh, đồ mẹ dùng → c しゅっさん (sinh con); hàng 3 có bút, hộp đựng danh thiếp, ăn uống, tiệc → b しゅうしょく (đi làm). ② Món quà điền vào ( ) phải lấy từ đoạn văn gốc.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Đề yêu cầu 「ぶんしょうを読んで」 nhưng đoạn văn không có trong đề (chỉ có bảng), nên ô 2, 4, 6 không xác định được (để null). Phỏng đoán theo tranh bài nghe 2158/2/3, KHÔNG chắc chắn: hàng 1 ~ かざるもの/とけい, hàng 2 ~ 赤ちゃんの服, hàng 3 ~ とけい (đồng hồ đeo tay). Ô 1, 3, 5 thì chắc chắn."
+  },
+  "2158/1/3": {
+    "type": "blanks",
+    "answer": {"1": "いただきました"},
+    "sentence": "（私は）部長にえいがのチケットをいただきました。",
+    "explain": "Tôi nhận vé xem phim từ trưởng phòng (bề trên) → khiêm nhường ngữ của もらいました là いただきました; 部長に = từ trưởng phòng.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/1/4": {
+    "type": "blanks",
+    "answer": {"1": "くださいました"},
+    "sentence": "せんぱいは（私に）ネクタイをくださいました。",
+    "explain": "Tiền bối (せんぱい) tặng tôi cà vạt → người trên tặng cho tôi dùng くださいました (kính ngữ của くれました).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2158/2/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD (2 パクさん, 3 シンさん, 4 やまださん): (1) món đồ được khen là gì, (2) có được vào dịp nào (いつ) và bằng cách nào (どう: chọn ア/イ/ウ, ア = もらいました). Xem dòng mẫu あべさん: ネックレス – たんじょうび – かれにもらいました.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2158/2/2": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Phải nghe CD: bà Ogawa Yone nhận (もらいました) hay tặng (あげました), với ai (せんせい/いしゃ, そふ/そぼ, こども/まご) và món gì trong tranh ①–⑤ (① túi, ② tiền lì xì お年玉, ③ bưu thiếp, ④ găng tay, ⑤ nhẫn).",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2158/2/3": {
+    "type": "blanks",
+    "answer": {"1": "a", "2": "d", "3": "c", "4": "b"},
+    "explain": "Theo tranh: けっこん (kết hôn) → a tranh treo, đồng hồ để bàn (đồ trang trí かざるもの cho nhà mới); しゅっさん (sinh con) → d đồ chơi, búp bê, quần áo em bé; しゅうしょく (đi làm) → c bút, đồng hồ đeo tay; ちちの日 (Ngày của Bố) → b cà vạt, sơ mi, áo len.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Đây là bài nghe; đáp án suy ra từ tranh và phong tục tặng quà – nên nghe CD để xác nhận."
+  },
+  "1922/0/1": {
+    "type": "dragtext",
+    "answer": ["もらいました", "くれました", "くれました", "くれました", "あげました", "あげました", "あげました"],
+    "sentence": "1. ベトナムに来るとき、わたしは、いろいろな人からプレゼントをもらいました。母は、バッグをくれました。父は、とけいをくれました。そして弟と妹は、セーターをくれました。2. 毎年、クリスマスには、子どもたちにいろいろなものをあげました。子どもたちが小さいときは、人形やおもちゃをあげました。上の子には、よく、本をあげました。",
+    "explain": "Đoạn 1: chủ ngữ わたし nhận từ nhiều người (人から) → もらいました; mẹ, bố, em tặng cho tôi → くれました. Đoạn 2: người nói (thầy Nishiyama) tặng các con → あげました.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bản dump không có danh sách thẻ; theo trang LMS có 3 thẻ dùng lại nhiều lần: もらいました, くれました, あげました – nên đáp án ghi bằng chữ thay vì chỉ số."
+  },
+  "1922/1/1": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "明日、私は母に、てがみをおくります。",
+    "explain": "Gửi thư/thiệp cho mẹ → てがみをおくります (送ります = gửi). おくれます = bị trễ, おしえます = dạy.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Hỏi về món quà (đồ vật) → nhận xét bằng すてき (đẹp, dễ thương): みんな、とてもすてきでした (mẫu どれも/みんな、すてきでした của bài). うれしい là cảm xúc của người; たのしい, にぎやか không dùng cho món quà.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Hỏi 'nhận gì từ thầy/cô' → trả lời bằng động từ nhận, với bề trên dùng いただきました: じしょをいただきました. Các phương án khác là động từ cho/tặng.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/4": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "イさんは私に料理をおしえます。",
+    "explain": "Lee nấu ăn giỏi nên dạy tôi nấu ăn → 料理をおしえます. あげます không dùng khi người nhận là 私; かります = mượn.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/5": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "さとうさんは私にコンサートのチケットをくれました。",
+    "explain": "Sato đưa vé cho 「私に」 → người khác cho tôi → くれました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/6": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "私は友だちにお金をかりました。",
+    "explain": "Quên ví nên mượn tiền bạn → Xに かりました (mượn của X). かしました = cho mượn (ngược nghĩa).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "もらいました cũng đúng ngữ pháp nhưng theo ngữ cảnh (quên ví) thì 'mượn' là tự nhiên nhất."
+  },
+  "1922/1/7": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "私は父にとけいをあげます。",
+    "explain": "Tôi tặng bố đồng hồ dịp Giáng sinh → tôi cho người khác dùng あげます; くれます chỉ dùng khi người nhận là tôi.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "おくります (贈ります – tặng) trong tiếng Nhật thực tế cũng dùng được, nhưng bài luyện あげます; trong đề này おくります dành cho thư/email."
+  },
+  "1922/1/8": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "私は毎日、国の友だちにメールをおくります。",
+    "explain": "Gửi email cho bạn ở quê nhà → メールをおくります (送ります = gửi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/9": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "わたしは高橋さんにくつしたをもらいました。",
+    "explain": "Tuần trước là sinh nhật tôi → tôi nhận tất (くつした) từ Takahashi: Xに もらいました. くれました không đi với chủ ngữ わたし.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/10": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Ở Việt Nam thường cho tiền (lì xì) vào dịp Tết → お正月にお金をあげます.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/11": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Hỏi 'Vào sinh nhật bạn làm gì?' → trả lời bằng hành động của mình: 家族と食事をします (ăn cơm cùng gia đình). Phương án [2] có chủ ngữ là bạn bè nên không trả lời đúng câu hỏi.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án [0] 「しつぎょう」 (thất nghiệp) có lẽ gõ nhầm từ 「そつぎょう」."
+  },
+  "1922/1/12": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "明日はエレナさんのたんじょうびです。すずきさんは（エレナさんに）本をあげます。",
+    "explain": "Suzuki tặng sách cho Elena (người nhận không phải tôi) → あげます. くれます chỉ dùng khi người nhận là tôi/gia đình tôi.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1922/1/13": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Câu hỏi 「だれが…くれましたか」 → trả lời cùng cấu trúc: 父がくれました (bố đã tặng tôi). 「父にもらいました」 cùng ý nhưng không khớp mẫu câu hỏi だれが.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án [2] 「母がいました」 có vẻ là lỗi gõ."
+  },
+  "1934/0/1": {
+    "type": "blanks",
+    "answer": {"1": "絵本", "2": "形", "3": "親", "4": "夜", "5": "彼"},
+    "sentence": "1.絵本を読みます。2.人形を買いたいです。3.親戚のうちに行きます。4.たんじょうびの夜に友だちとごはんをたべます。5.彼はとてもハンサムです。",
+    "explain": "絵本 (えほん – sách tranh), 人形 (にんぎょう), 親戚 (しんせき), 夜 (よる – buổi tối), 彼 (かれ – anh ấy). Phân biệt chữ gần giống: 本/木, 形/魚, 親/新, 夜/冬, 彼/波.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/1": {
+    "type": "single",
+    "answer": 0,
+    "explain": "かのじょ (cô ấy, bạn gái) = 彼女 (彼 BỈ + 女 NỮ). 皮, 波 là chữ gần giống, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "たんじょうび = 誕生日 (誕 ĐẢN = ra đời). 延, 短 là chữ gần giống, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/3": {
+    "type": "dragtext",
+    "answer": [6, 1, 2, 3, 7, 4, 8, 5, 0],
+    "sentence": "1.人形 2.毎年 3.食事 4.誕生日 5.彼女 6.絵本 7.親戚 8.時計 9.今夜",
+    "explain": "人形 (にんぎょう), 毎年 (まいとし), 食事 (しょくじ), 誕生日 (たんじょうび), 彼女 (かのじょ), 絵本 (えほん), 親戚 (しんせき), 時計 (とけい), 今夜 (こんや).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "よる (buổi tối, đêm) = 夜. 晩 đọc là ばん (今晩 こんばん); 衣 = y phục.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "とけい = 時計 (計 KẾ). 形, 経 sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/6": {
+    "type": "single",
+    "answer": 1,
+    "explain": "えほん = 絵本 (絵 HỘI = tranh vẽ). 係, 経 là chữ gần giống, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "しんせき = 親戚 (親 THÂN + 戚 THÍCH). 新, 信 cũng đọc しん nhưng sai chữ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "にんぎょう = 人形 (形 đọc âm On ギョウ). 行, 業 cũng đọc ぎょう nhưng sai chữ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/9": {
+    "type": "single",
+    "answer": 0,
+    "explain": "しょくじ = 食事 (食 THỰC + 事 SỰ). 自, 時 cũng đọc じ nhưng sai chữ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1934/1/10": {
+    "type": "dragtext",
+    "answer": [3, 6, 4, 1, 5, 0, 2],
+    "sentence": "誕生日のよるに、彼女といっしょに食事に行きました。毎年クリスマスには、子どもたちにいろいろな物をあげました。子どもたちが小さいときは、人形やおもちゃをあげました。小学校に入ってからは、セーターやマフラーや手ぶくろをあげました。日本に来るとき、いろいろな人からプレゼントをもらいました。父は時計をくれました。",
+    "explain": "Theo bài đọc: 誕生日のよる (tối sinh nhật), 彼女といっしょに (cùng bạn gái), 食事に行きました (đi ăn); 毎年クリスマス; 人形やおもちゃ; 小学校に入ってから (sau khi vào tiểu học); 父は時計をくれました.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/1": {
+    "type": "single",
+    "answer": 3,
+    "explain": "誕生日 đọc là たんじょうび (có trường âm う và び đục).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lời đề ghi 「漢字の正しい書き方を選んでください」 nhưng thực ra hỏi cách đọc. Bảng kanji của khóa ghi nhầm 「誕生日：たんじょび」 – đúng là たんじょうび."
+  },
+  "1809/0/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "こんや (tối nay) = 今夜 (夜 đọc ヤ). 今晩 đọc là こんばん; 会 (gặp) là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "しょくじ = 食事. 職 (chức) và 時 (thời) là chữ đồng âm, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "父親 đọc là ちちおや → 親 đọc âm Kun おや (cha mẹ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "彼 đọc là かれ (anh ấy).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/6": {
+    "type": "single",
+    "answer": 3,
+    "explain": "形 đứng một mình đọc âm Kun かたち (hình dạng).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu 「まるい形がします」 không tự nhiên; nên là 「まるい形をしています」."
+  },
+  "1809/0/7": {
+    "type": "single",
+    "answer": 3,
+    "explain": "よる = 夜. 晩 = ばん, 朝 = あさ, 昼 = ひる.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/8": {
+    "type": "single",
+    "answer": 2,
+    "explain": "人形 đọc là にんぎょう (búp bê): 人 = にん, 形 = ぎょう.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/9": {
+    "type": "single",
+    "answer": 2,
+    "explain": "えほん = 絵本 (絵 + 本). 経, 木 là chữ gần giống, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/10": {
+    "type": "single",
+    "answer": 1,
+    "explain": "とけい = 時計 (時 + 計). 寺, 形 là chữ sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/11": {
+    "type": "single",
+    "answer": 1,
+    "explain": "彼女 đọc là かのじょ (không có trường âm う).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/12": {
+    "type": "single",
+    "answer": 0,
+    "explain": "歌手 đọc là かしゅ (ca sĩ) – kanji N4 trong bài (歌 CA).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/13": {
+    "type": "single",
+    "answer": 3,
+    "explain": "親戚 đọc là しんせき (họ hàng). しんせつ (親切) = tử tế.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/14": {
+    "type": "single",
+    "answer": 0,
+    "explain": "りょうしん = 両親 (bố mẹ) → しん = 親. 新 cũng đọc しん nhưng nghĩa là 'mới'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1809/0/15": {
+    "type": "single",
+    "answer": 3,
+    "explain": "まいとし = 毎年 (毎 MỖI + 年 NIÊN). 母, 牛 là chữ gần giống, sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/1": {
+    "type": "short",
+    "answer": "小学校に入ってからは、セーターやマフラーや手ぶくろをあげました。",
+    "explain": "Câu trong bài đọc: 'Từ khi (các con) vào tiểu học, tôi tặng áo len, khăn choàng và găng tay' (Vてからは: từ sau khi…; AやBや: A, B…).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/2": {
+    "type": "short",
+    "answer": "上の子は、本を読むのが好きでした。",
+    "explain": "Câu trong bài đọc: 'Đứa lớn thích đọc sách' (Vるのが好き: thích làm V).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/3": {
+    "type": "short",
+    "answer": "日本に来るとき、わたしは、いろいろな人からプレゼントをもらいました。",
+    "explain": "Câu trong bài đọc: 'Khi sang Nhật, tôi đã nhận quà từ nhiều người' (Xから もらいました).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/4": {
+    "type": "short",
+    "answer": "はたちの誕生日のときに、わたしは、いろいろなプレゼントをもらいました。",
+    "explain": "Câu trong bài đọc: 'Vào sinh nhật 20 tuổi, tôi đã nhận được nhiều quà' (はたち = 20 tuổi).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana (たんじょうび) phía trên chữ Hán."
+  },
+  "997/0/5": {
+    "type": "short",
+    "answer": "どれも、とても好きでした。",
+    "explain": "Câu trong bài đọc: 'Món nào tôi cũng rất thích' (どれも: cái nào cũng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/6": {
+    "type": "short",
+    "answer": "下の子は、アニメが好きでした。",
+    "explain": "Câu trong bài đọc: 'Đứa nhỏ thích phim hoạt hình'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/7": {
+    "type": "short",
+    "answer": "とてもうれしかったです。",
+    "explain": "Câu trong bài đọc: 'Tôi đã rất vui' (quá khứ tính từ い: うれしい → うれしかったです).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/8": {
+    "type": "short",
+    "answer": "誕生日には、ほしいものをあげました。",
+    "explain": "Câu trong bài đọc: 'Vào sinh nhật, tôi tặng (các con) thứ chúng muốn' (ほしいもの: thứ muốn có).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/9": {
+    "type": "short",
+    "answer": "わたしは、サイフがほしかったので、とてもうれしかったです。",
+    "explain": "Câu trong bài đọc: 'Vì tôi đã muốn có cái ví nên rất vui' (〜ので: vì).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/10": {
+    "type": "short",
+    "answer": "母は、スカーフをくれました。",
+    "explain": "Câu trong bài đọc: 'Mẹ đã tặng tôi khăn quàng' (người khác cho tôi → くれました).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/11": {
+    "type": "short",
+    "answer": "そして、妹は、ハンカチをくれました。",
+    "explain": "Câu trong bài đọc: 'Và em gái tặng tôi khăn tay'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/12": {
+    "type": "short",
+    "answer": "彼女は、すてきなサイフをくれました。",
+    "explain": "Câu trong bài đọc: 'Bạn gái tặng tôi một chiếc ví đẹp'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/13": {
+    "type": "short",
+    "answer": "父は、ベルトをくれました。母は、ネクタイをくれました。",
+    "explain": "Câu trong bài đọc: 'Bố tặng tôi dây nịt. Mẹ tặng tôi cà vạt'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/14": {
+    "type": "short",
+    "answer": "子どもたちが小さいときは、人形やおもちゃをあげました。",
+    "explain": "Câu trong bài đọc: 'Khi các con còn nhỏ, tôi tặng búp bê và đồ chơi'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/15": {
+    "type": "short",
+    "answer": "毎年、クリスマスには、子どもたちにいろいろなものをあげました。",
+    "explain": "Câu trong bài đọc: 'Hằng năm vào Giáng sinh, tôi tặng các con nhiều thứ'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Trong ảnh viết 「もの」 bằng hiragana (bài đọc gốc viết 物)."
+  },
+  "997/0/16": {
+    "type": "short",
+    "answer": "ですから、４さいのときからは、よく絵本をあげました。",
+    "explain": "Câu trong bài đọc: 'Vì vậy, từ lúc (con) 4 tuổi, tôi thường tặng sách tranh' (ですから: vì vậy).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Số ４ toàn góc như văn bản gốc; nếu hệ thống không nhận thì thử số 4 nửa góc."
+  },
+  "997/0/17": {
+    "type": "short",
+    "answer": "誕生日の夜は、彼女といっしょに食事をしました。",
+    "explain": "Câu trong bài đọc: 'Tối sinh nhật, tôi đi ăn cùng bạn gái'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana (かのじょ) phía trên chữ Hán."
+  },
+  "997/0/18": {
+    "type": "short",
+    "answer": "そして、妹と弟は、セーターをくれました。",
+    "explain": "Câu trong bài đọc: 'Và em gái, em trai tặng tôi áo len'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/19": {
+    "type": "short",
+    "answer": "そして、親戚のおじさんは、おこづかいをくれました。",
+    "explain": "Câu trong bài đọc: 'Và chú/bác họ hàng cho tôi tiền tiêu vặt'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana (しんせき) phía trên chữ Hán."
+  },
+  "997/0/20": {
+    "type": "short",
+    "answer": "父は、時計をくれました。",
+    "explain": "Câu trong bài đọc: 'Bố tặng tôi đồng hồ'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/21": {
+    "type": "short",
+    "answer": "兄と姉は、バッグをくれました。",
+    "explain": "Câu trong bài đọc: 'Anh và chị tặng tôi túi xách'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "997/0/22": {
+    "type": "short",
+    "answer": "ですから、よくアニメのDVDをあげました。",
+    "explain": "Câu trong bài đọc: 'Vì vậy tôi thường tặng (con) đĩa DVD phim hoạt hình'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "DVD là chữ Latin nửa góc; khoảng trống nhìn thấy quanh DVD chỉ là giãn chữ tự động (văn bản gốc không có dấu cách)."
+  },
+  "997/0/23": {
+    "type": "short",
+    "answer": "兄と姉は、ポロシャツをくれました。",
+    "explain": "Câu trong bài đọc: 'Anh và chị tặng tôi áo polo'.",
+    "confidence": "high",
+    "needs_audio": false
+  }
+}

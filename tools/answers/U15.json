@@ -1,0 +1,1187 @@
+{
+  "1823/0/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc (phần あきおさん): 「子どもは、2人くらいほしいです」 → Akio muốn có khoảng 2 đứa con.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「相手の女性も、仕事をしている人がいいです。家事も、育児も、いっしょにしたいです」 → muốn vợ cũng là người đi làm, và cùng nhau làm việc nhà, nuôi con.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「大学院に進学するつもりです」 → Akio dự định học lên cao học (Vる＋つもりです = dự định).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「将来は、介護ロボットの開発の仕事をしたいです。大学の先生になるかもしれません」 → muốn làm công việc phát triển robot chăm sóc (介護ロボット), cũng có thể làm giảng viên đại học.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đáp án [3] sai vì nói 「大学院の先生」; đáp án [0] có lỗi gõ (コンピュター, 大学に先生) nhưng vốn là đáp án sai."
+  },
+  "1823/0/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「将来は、人間とコミュニケーションができるロボットを開発したいと思っています」 → muốn phát triển robot có thể giao tiếp với con người.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/6": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「今は、コンピュータによる言語理解の研究をしています」 → hiện đang nghiên cứu việc hiểu ngôn ngữ bằng máy tính (Nによる＋N). Nghiên cứu tương tác người–robot là việc muốn làm ở cao học.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/7": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「わたしは、システム工学を勉強しています」 → Akio học kỹ thuật hệ thống. (情報工学 là chuyên ngành của Li.)",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「30歳になるまでには、結婚するだろうと思います」 → chắc sẽ kết hôn trước 30 tuổi (Vるまでに = trước khi). Trong lúc học cao học thì không thể kết hôn.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/0/9": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「大学院では、人間とロボットのインターアクションの研究をしたいと思っています」 → ở cao học muốn nghiên cứu tương tác giữa người và robot.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc (phần リさん): 「将来は、情報通信の会社で仕事をしたいと思っています」 → muốn làm ở công ty công nghệ thông tin – viễn thông (情報通信).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「結婚後も、仕事を続けるつもりです」 → sau khi kết hôn vẫn định tiếp tục làm việc (Vる＋つもりです).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「専門は、情報工学です」 → chuyên ngành của Li là kỹ thuật thông tin. (システム工学 là của Akio.)",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「博士課程に進むかどうかまだ分かりません、行くかもしれません」 → chưa biết có học tiến sĩ hay không, có thể sẽ học (～かどうか / ～かもしれません).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「日本に関係がある仕事をしたいと思っています。エンターテインメント関係の仕事もおもしろいと思います」 → muốn làm việc liên quan đến Nhật; việc liên quan đến giải trí cũng thú vị.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/6": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「マレーシアに帰るか、日本で就職するか、まだ決めていません」 → chưa quyết định về Malaysia hay đi làm ở Nhật (Vか、Vか、まだ決めていません).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/7": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「いい人があらわれたら、結婚したいです」 → nếu gặp được người tốt thì muốn kết hôn (あらわれます = xuất hiện, gặp được ai đó).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1823/1/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「大学を卒業したら、大学院に進むと思います」 → tốt nghiệp đại học xong, Li nghĩ sẽ học lên cao học.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2005/0/1": {
+    "type": "matching",
+    "answer": {
+      "①": "コミュニケーション",
+      "②": "いくじ",
+      "③": "しゅうしょく",
+      "④": "相手",
+      "⑤": "人間"
+    },
+    "explain": "① ba người đang trò chuyện → コミュニケーション (giao tiếp); ② mẹ cho em bé bú → いくじ (育児, nuôi con); ③ phỏng vấn xin việc → しゅうしょく (就職); ④ mũi tên chỉ đối thủ trong trận đấu → 相手 (あいて, đối phương); ⑤ mũi tên chỉ con người (đối lập với động vật) → 人間 (にんげん).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2005/1/1": {
+    "type": "dragtext",
+    "answer": null,
+    "explain": "Bài nghe: nghe 4 người (のりさん, よしださん, かわのさん, キムさん) kể chuyện gì đã xảy ra với họ rồi chọn tranh: a = có em bé, b = kết hôn, c = chuyển công tác (てんきん), d = chia tay người yêu (わかれる), e = bị thương phải nằm (けが). Có 5 tranh cho 4 người nên thừa 1 tranh.",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2005/1/2": {
+    "type": "dragtext",
+    "answer": null,
+    "explain": "Bài nghe: nghe ước mơ của 4 người (ソムチャインさん, テットさん, ヌェーニさん, アンジェラさん) rồi chọn: a làm thợ thủ công (しょくにん), b giáo viên tiếng Nhật, c có cửa hàng riêng, d lập công ty, e hướng dẫn viên, f làm việc ở nước khác, g phiên dịch. 7 lựa chọn cho 4 người.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Tên 「ヌェー二さん」 trong đề dùng chữ Hán 二 (số 2) thay cho katakana ニ (lỗi gõ)."
+  },
+  "2005/1/3": {
+    "type": "dragtext",
+    "answer": null,
+    "explain": "Bài nghe: nghe kế hoạch tương lai của かわいさん, アリさん, やまださん, ホセさん rồi chọn tranh: a làm đồ họa/thiết kế trên máy tính, b dịch thuật (ほんやく, có từ điển Thái–Nhật), c làm đầu bếp (nấu ăn), d nhảy flamenco (フラメンコ).",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2005/2/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "はかせかてい",
+      "2": "かんけい",
+      "3": "あらわれます",
+      "4": "げんごりかい",
+      "5": "じょうほうこうがく"
+    },
+    "explain": "Ghép các chữ gợi ý thành từ của bài: ① はかせかてい (博士課程, khóa tiến sĩ), ② かんけい (関係, liên quan), ③ あらわれます (xuất hiện/gặp được), ④ げんごりかい (言語理解, hiểu ngôn ngữ), ⑤ じょうほうこうがく (情報工学, kỹ thuật thông tin).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Viết cả từ hoàn chỉnh (gồm chữ đã cho sẵn) bằng hiragana, đúng như yêu cầu của đề."
+  },
+  "2005/3/1": {
+    "type": "dragtext",
+    "answer": [5, 2, 6, 4, 0],
+    "sentence": "大学院にすすみます／医者になります／雨がつづけます／大学をそつぎょうします／場所をきめます",
+    "explain": "Kết hợp từ: 大学院に進みます (học lên cao học), 医者になります (trở thành bác sĩ), 雨が続く (mưa kéo dài), 大学を卒業します (tốt nghiệp đại học), 場所を決めます (quyết định địa điểm). のぼります, およぎます là đáp án nhiễu.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu 「雨が＿」 đúng ngữ pháp phải là 雨が続きます (tự động từ); đề chỉ có thẻ つづけます (tha động từ) nên chọn theo cách loại trừ."
+  },
+  "2153/0/1": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh sinh viên mặc áo tốt nghiệp, cầm bằng → そつぎょう (卒業, tốt nghiệp). にゅうがく = nhập học, しんがく = học lên, はっぴょう = phát biểu.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/0/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh các cô gái → じょせい (女性, phụ nữ). Chú ý: じょ ngắn, せい dài.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/0/3": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh rô-bốt → ロボット (có âm ngắt ッ, ボ có dấu ゛ chứ không phải ポ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/0/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh phơi đồ, nấu ăn, đổ rác, đi chợ, lau nhà → かじ (家事, việc nhà). いくじ = nuôi con, そうじ = chỉ việc dọn dẹp.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/0/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Biểu tượng trò chơi, âm nhạc, phim, bỏng ngô → エンターテインメント (giải trí).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đáp án [1] 「コミュニカーション」 viết sai (đúng là コミュニケーション) – chỉ là đáp án nhiễu."
+  },
+  "2153/1/1": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "たぶん明日雨がふるだろうと思います。",
+    "explain": "たぶん (có lẽ) thường đi với ～だろうと思います: 'Tôi nghĩ có lẽ ngày mai trời sẽ mưa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "最近は家事といくじをする男性が増えます。",
+    "explain": "家事と育児 (いくじ: nuôi dạy con) là cặp từ trong bài: 'Gần đây số đàn ông làm việc nhà và nuôi con tăng lên.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu gốc dùng 増えます; tự nhiên hơn là 増えています."
+  },
+  "2153/1/3": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "わたしのせんもんは言語学です。",
+    "explain": "せんもん (専門) = chuyên môn, chuyên ngành: 'Chuyên ngành của tôi là ngôn ngữ học.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/4": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "かれは注文をきめるのが遅いです。",
+    "explain": "注文をきめる (決める) = quyết định món gọi: 'Anh ấy quyết định món gọi rất chậm.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/5": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "しょうらい、有名な歌手になりたいです。",
+    "explain": "Nになります → bỏ ます thêm たい: なりたい (muốn trở thành). 'Tương lai tôi muốn trở thành ca sĩ nổi tiếng.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/6": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "彼女はその事故にはまったくかんけいがないと思います。",
+    "explain": "～にはかんけい (関係) がない = không liên quan: 'Tôi nghĩ cô ấy hoàn toàn không liên quan đến vụ tai nạn đó.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lỗi chính tả trong đề: 「またく」 → đúng là 「まったく」."
+  },
+  "2153/1/7": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "私たちは好きなバンドが舞台にあらわれるのを待っていました。",
+    "explain": "あらわれる = xuất hiện: 'Chúng tôi chờ ban nhạc yêu thích xuất hiện trên sân khấu.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/8": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "今度の試合のあいてはつよいです。",
+    "explain": "試合のあいて (相手) = đối thủ trong trận đấu: 'Đối thủ trận tới rất mạnh.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/9": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "大きな会社にしゅうしょくしました。",
+    "explain": "会社にしゅうしょくする (就職する) = vào làm ở công ty: 'Tôi đã vào làm ở một công ty lớn.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2153/1/10": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "しょうらいどんな仕事をしたいですか。",
+    "explain": "しょうらい (将来) = tương lai: 'Tương lai bạn muốn làm công việc gì?'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": ["彼女にあげるケーキ", "かのじょにあげるケーキ"]
+    },
+    "sentence": "これは彼女にあげるケーキです。",
+    "explain": "Mệnh đề bổ nghĩa danh từ: động từ thể thường (あげます→あげる) đứng trước danh từ ケーキ. 'Đây là chiếc bánh (tôi) sẽ tặng bạn gái.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/0/2": {
+    "type": "blanks",
+    "answer": {
+      "1": ["本を読むじかんが", "本を読む時間が", "ほんをよむじかんが"]
+    },
+    "sentence": "本を読むじかんがほしいです。",
+    "explain": "読みます→読む (thể từ điển) bổ nghĩa cho じかん, giữ trợ từ が trước ほしいです. 'Tôi muốn có thời gian để đọc sách.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/0/3": {
+    "type": "blanks",
+    "answer": {
+      "1": ["母がつくったりょうりを食べたい", "母が作った料理を食べたい", "母がつくった料理を食べたい", "ははがつくったりょうりをたべたい"]
+    },
+    "sentence": "母がつくったりょうりを食べたいです。",
+    "explain": "つくりました→つくった (thể た) bổ nghĩa cho りょうり; chủ ngữ trong mệnh đề bổ nghĩa đổi は thành が (母が). 'Tôi muốn ăn món mẹ đã nấu.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "母のつくった… cũng đúng ngữ pháp, nhưng bài học dạy chủ ngữ mệnh đề bổ nghĩa dùng が."
+  },
+  "2232/0/4": {
+    "type": "blanks",
+    "answer": {
+      "1": ["パソコンをおくつくえが", "パソコンを置く机が", "パソコンをおく机が"]
+    },
+    "sentence": "パソコンをおくつくえがほしいです。",
+    "explain": "おきます→おく bổ nghĩa cho つくえ, giữ が trước ほしいです. 'Tôi muốn có cái bàn để đặt máy tính.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/0/5": {
+    "type": "blanks",
+    "answer": {
+      "1": ["しんぶんを読んでいる", "新聞を読んでいる", "しんぶんをよんでいる"],
+      "2": ["コーヒーを飲んでいる", "コーヒーをのんでいる", "お茶を飲んでいる"],
+      "3": ["電話をかけている", "でんわをかけている", "電話をしている"],
+      "4": ["女の人と話している", "おんなのひとと話している", "話している"]
+    },
+    "sentence": "1. まつもとさんはしんぶんを読んでいる人です。2. やまださんはコーヒーを飲んでいる人です。3. ミラーさんは電話をかけている人です。4. グプタさんは女の人と話している人です。",
+    "explain": "Mẫu Vている＋人 (người đang làm gì): まつもと đang đọc báo, やまだ đang uống cà phê, ミラー đang gọi điện thoại, グプタ đang nói chuyện với một phụ nữ.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Câu trả lời tự viết theo tranh nên có nhiều cách diễn đạt; đồ uống của やまださん có thể là コーヒー hoặc お茶."
+  },
+  "2232/0/6": {
+    "type": "blanks",
+    "answer": {
+      "1": ["会社の人がつかう日本語が", "会社の人が使う日本語が", "かいしゃのひとがつかうにほんごが"]
+    },
+    "sentence": "会社の人がつかう日本語がわかりません。",
+    "explain": "つかいます→つかう bổ nghĩa cho 日本語, chủ ngữ mệnh đề dùng が. 'Tôi không hiểu tiếng Nhật mà người ở công ty dùng.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/1/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Bài nghe: điền thông tin về ước mơ của やまもとくん (muốn làm đầu bếp) và さがぐちさん (học 動物学 – động vật học): (1) loại trường sẽ vào, (2) nơi làm việc ở châu Âu, (3) thứ sẽ có ở Nhật (～をもつ), (4) thứ muốn mọi người ăn, (5) さがぐちさん có học đại học không, (6) loại bác sĩ muốn trở thành, (7) điều muốn nghiên cứu về động vật.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Lỗi đề: ô (6) xuất hiện 2 lần (「(6)の医者」 và 「(6)と研究所をつくる」) trong khi chỉ có 7 ô; hai chỗ này khó có cùng một đáp án."
+  },
+  "2232/1/2": {
+    "type": "blanks",
+    "answer": {
+      "1": ["かぶらないで", "被らないで"]
+    },
+    "sentence": "ヘルメットをかぶらないで、運転しています。",
+    "explain": "V1ないでV2 (làm V2 mà không làm V1): かぶります→かぶらない→かぶらないで. 'Đang lái xe mà không đội mũ bảo hiểm.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/1/3": {
+    "type": "blanks",
+    "answer": {
+      "1": ["かわなく", "買わなく"]
+    },
+    "sentence": "ものを買わなくてもいいです。",
+    "explain": "Vない→～なくてもいいです (không cần… cũng được): 買います→買わない→買わなくてもいいです. Tranh: chàng trai phải xách quá nhiều đồ → 'Không cần mua đồ (nữa) cũng được.'",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Đáp án suy từ tranh; nếu hiểu tranh là 'không cần cầm đồ' thì sẽ là もたなく (持たなく)."
+  },
+  "2232/1/4": {
+    "type": "blanks",
+    "answer": {
+      "1": ["けっこんする", "結婚する"]
+    },
+    "sentence": "25さいになったら、けっこんするだろうと思います。",
+    "explain": "普通形＋だろうと思います: けっこんします→けっこんする. 'Tôi nghĩ chắc khi 25 tuổi tôi sẽ kết hôn.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/1/5": {
+    "type": "blanks",
+    "answer": {
+      "1": ["外国で先生になる", "外国へ行って、先生になる", "外国で日本語を教える"]
+    },
+    "sentence": "卒業したら、外国で先生になるつもりです。",
+    "explain": "Vる＋つもりです (dự định). Tranh: tốt nghiệp → bay ra nước ngoài → đứng lớp dạy học, nên viết một dự định bằng động từ thể từ điển, ví dụ 外国で先生になるつもりです.",
+    "confidence": "low",
+    "needs_audio": false,
+    "note": "Câu trả lời mở dựa vào tranh, đáp án hệ thống chấp nhận có thể khác; điều bắt buộc là động từ ở thể từ điển (Vる) trước つもりです."
+  },
+  "2232/1/6": {
+    "type": "blanks",
+    "answer": {
+      "1": ["けした", "消した"]
+    },
+    "sentence": "でんきをけしたかどうか、忘れました。",
+    "explain": "普通形＋かどうか: けします→けした (thể た vì việc tắt đèn đã xảy ra trước). 'Tôi quên mất là đã tắt đèn hay chưa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/1/7": {
+    "type": "blanks",
+    "answer": {
+      "1": ["雨が降る", "あめがふる", "雨がふる"]
+    },
+    "sentence": "雨が降るかもしれません。",
+    "explain": "普通形＋かもしれません: 降ります→降る. Tranh gió thổi, nghĩ đến mây mưa → 'Không chừng trời sẽ mưa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/1/8": {
+    "type": "blanks",
+    "answer": {
+      "1": "おやゆび",
+      "2": "ひとさしゆび",
+      "3": "なかゆび",
+      "4": "くすりゆび",
+      "5": "こゆび"
+    },
+    "explain": "Theo bài đọc: ① ngón cái (to nhất) = おやゆび, ② ngón trỏ (dùng để chỉ người) = ひとさしゆび, ③ ngón giữa = なかゆび, ④ ngón áp út (giữa ngón giữa và ngón út, dùng bôi thuốc) = くすりゆび, ⑤ ngón út (nhỏ nhất) = こゆび.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2232/2/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Bài nghe 'ăn bằng cách nào': nghe 4 đoạn rồi chọn tranh: a chấm vào bát nước chấm, b ăn không chấm xì dầu, c gắp từ nồi lẩu ra đĩa, d nhúng vào trứng sống (kiểu sukiyaki). Chú ý mẫu V1ないでV2 (ví dụ: しょうゆをつけないで食べます).",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2232/2/2": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Bài nghe: nghe miêu tả bằng mệnh đề bổ nghĩa (Vている人) để tìm とよだ, こやま, やまだ, まつもと trong tranh bữa tiệc (chọn a–g; ví dụ さとう = h). Chú ý các động từ như 着物を着ている, 花を持っている, めがねをかけている, 歌っている, 帰る/来る…",
+    "confidence": "low",
+    "needs_audio": true
+  },
+  "2183/0/1": {
+    "type": "order",
+    "answer": [3, 2, 0, 1],
+    "sentence": "日曜日はどこも行かないで、うちでゆっくり休みます。",
+    "explain": "どこも＋phủ định = không đi đâu cả; V1ないでV2: 'Chủ nhật tôi không đi đâu cả mà ở nhà nghỉ ngơi thong thả.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2183/0/2": {
+    "type": "order",
+    "answer": [0, 3, 1, 2],
+    "sentence": "このメッセージをおくったかどうかチェックしてください。",
+    "explain": "普通形＋かどうか (có… hay không): 'Hãy kiểm tra xem đã gửi tin nhắn này hay chưa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2183/1/1": {
+    "type": "matching",
+    "answer": {
+      "V1ないでV2": "Làm V2 trong trạng thái, điều kiện không làm V1. (...mà không…)",
+      "Vな い くてもいいです": "Biểu thị không cần phải làm việc gì đó cũng được."
+    },
+    "explain": "V1ないでV2 = làm V2 mà không làm V1; Vない→～なくてもいいです = không cần làm… cũng được.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Nhãn 「Vな い くてもいいです」 bị tách chữ (đúng là Vない＋くてもいいです)."
+  },
+  "1950/0/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "N＋じゃありません → thể thường N＋じゃない: 銀行員じゃない.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Vます → thể từ điển Vる: 食べます → 食べる.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/3": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Vませんでした → Vなかった: 食べませんでした → 食べなかった.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Vました → Vた: 食べました → 食べた.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Adjな＋でした → Adjな＋だった: 静かでした → 静かだった.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/6": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Vません → Vない: 食べません → 食べない.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/7": {
+    "type": "single",
+    "answer": 2,
+    "explain": "N＋です → N＋だ: 先生です → 先生だ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/0/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "N＋じゃありませんでした → N＋じゃなかった: 学生じゃなかった.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1950/1/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "だ",
+      "2": "じゃない",
+      "3": "だった",
+      "4": "じゃなかった",
+      "5": "x",
+      "6": "くない",
+      "7": "かった",
+      "8": "くなかった",
+      "9": "る",
+      "10": "ない",
+      "11": "た",
+      "12": "なかった"
+    },
+    "explain": "Chuyển thể lịch sự → thể thường: N/Adjな: だ・じゃない・だった・じゃなかった; tính từ い chỉ bỏ です (ô 5 không cần điền → ghi x), くない・かった・くなかった; động từ: る・ない・た・なかった.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bảng ngữ pháp trong tài liệu khóa học ghi nhầm thể thường của tính từ い vẫn giữ です; thực tế chỉ bỏ です (高いです→高い), nên ô 5 ghi x theo hướng dẫn của đề."
+  },
+  "1951/0/1": {
+    "type": "matching",
+    "answer": {
+      "Vる・Vない ＋ つもりです": "Dùng để diễn đạt ý định làm hoặc không làm việc gì đó.",
+      "～と思います": "Tôi nghĩ là …. Dùng để biểu thị sự phỏng đoán hoặc bày tỏ ý kiến."
+    },
+    "explain": "Vる/Vない＋つもりです = dự định làm/không làm; ～と思います = tôi nghĩ là… (phỏng đoán, ý kiến).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1951/1/1": {
+    "type": "order",
+    "answer": [1, 2, 3, 0],
+    "sentence": "明日からタバコを吸わないつもりだ。",
+    "explain": "Vない＋つもりだ (thể thường của つもりです): 'Từ mai tôi định không hút thuốc nữa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1951/1/2": {
+    "type": "order",
+    "answer": [0, 2, 1, 3],
+    "sentence": "明日、友達といっしょにとしょかんへ行くと思う。",
+    "explain": "～といっしょに (cùng với) + 普通形＋と思う: 'Tôi nghĩ ngày mai sẽ cùng bạn đi thư viện.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Thứ tự としょかんへ→いっしょに→行く cũng đúng ngữ pháp, nhưng 「友達といっしょに」 là cụm cố định nên đây là thứ tự chuẩn."
+  },
+  "1952/0/1": {
+    "type": "order",
+    "answer": [2, 0, 3, 1],
+    "sentence": "彼は博士課程にすすむんじゃないかと思います。",
+    "explain": "Nに進む (học lên) + 普通形＋んじゃないかと思います: 'Tôi nghĩ chắc anh ấy sẽ học lên tiến sĩ.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1952/0/2": {
+    "type": "order",
+    "answer": [3, 2, 1, 0],
+    "sentence": "明日、あめが降るかもしれない。",
+    "explain": "普通形＋かもしれない: 'Ngày mai không chừng trời mưa.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1952/0/3": {
+    "type": "order",
+    "answer": [3, 2, 0, 1],
+    "sentence": "レナさんは日本で就職するだろうと思う。",
+    "explain": "Nơi chốn＋で＋就職する + だろうと思う: 'Tôi nghĩ chắc Lena sẽ đi làm ở Nhật.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1952/1/1": {
+    "type": "matching",
+    "answer": {
+      "～だろうと思います": "Tôi nghĩ là chắc… Dùng khi truyền đạt với người khác một điều bạn nghĩ có lẽ là như thế nhưng không chắc lắm.",
+      "～んじゃないかと思います": "Tôi nghĩ chắc là …. Cách nói nêu lên suy nghĩ, phán đoán của mình một cách khách quan thường dùng trong hội thoại hàng ngày.",
+      "～かもしれません": "Không chừng là… Dùng khi muốn nói một sự việc hay một tình huống nào đó dù ít khả năng nhưng vẫn có thể sẽ xảy ra."
+    },
+    "explain": "だろうと思います = tôi nghĩ là chắc… (không chắc lắm); んじゃないかと思います = tôi nghĩ chắc là… (văn nói hằng ngày); かもしれません = không chừng… (khả năng thấp nhưng có thể xảy ra).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1953/0/1": {
+    "type": "matching",
+    "answer": {
+      "～かどうか、〜": "Dùng để lồng 1 câu nghi vấn dạng Yes/No vào trong câu văn.",
+      "普通形＋N": "Mệnh đề bổ nghĩa cho danh từ. Thành phần bổ nghĩa luôn đứng trước danh từ."
+    },
+    "explain": "～かどうか = lồng câu hỏi Có/Không vào câu; 普通形＋N = mệnh đề bổ nghĩa đứng trước danh từ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1953/1/1": {
+    "type": "order",
+    "answer": [2, 0, 3, 1],
+    "sentence": "大学に行くかどうかまよったが、進学を決めた。",
+    "explain": "普通形＋かどうか＋まよう (phân vân có… hay không), が = nhưng: 'Tôi đã phân vân có học đại học hay không, nhưng đã quyết định học lên.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1953/1/2": {
+    "type": "order",
+    "answer": [2, 3, 0, 1],
+    "sentence": "きのう、家事ができるロボットを買った。",
+    "explain": "Mệnh đề bổ nghĩa 家事ができる (N＋が＋できる) đứng trước danh từ ロボット: 'Hôm qua tôi đã mua robot có thể làm việc nhà.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Thẻ từ ghi sai 「ロポット」 (đúng: ロボット)."
+  },
+  "2164/0/1": {
+    "type": "matching",
+    "answer": {
+      "N1でも N2でも いいです": "Thể hiện ý dù là N đó thì cũng được.",
+      "Nの・Vている ＋ 間（あいだ）、〜": "Diễn tả hành động gì đó diễn ra liên tục trong suốt khoảng thời gian nào đó."
+    },
+    "explain": "N1でもN2でもいいです = N nào cũng được; Nの/Vている＋間 = trong suốt khoảng thời gian….",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2164/1/1": {
+    "type": "order",
+    "answer": [0, 2, 3, 1],
+    "sentence": "昼ご飯は、すしでもうどんでもなんでもいいです。",
+    "explain": "N1でもN2でも＋なんでもいいです: 'Bữa trưa sushi hay udon, gì cũng được.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2164/1/2": {
+    "type": "order",
+    "answer": [2, 0, 3, 1],
+    "sentence": "電車に乗っている間、ゲームをしていた。",
+    "explain": "Vている＋間 (trong lúc): 'Trong lúc đi tàu điện, tôi đã chơi game.' (乗る đi với trợ từ に).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1955/0/1": {
+    "type": "order",
+    "answer": [0, 1, 3, 2],
+    "sentence": "私は将来、エンジニアになりたいです。",
+    "explain": "Nになります → bỏ ます thêm たい: エンジニアになりたい. 'Tương lai tôi muốn trở thành kỹ sư.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1955/0/2": {
+    "type": "order",
+    "answer": [2, 1, 0, 3],
+    "sentence": "将来、エンジニアになるか医者になるか、まだ決めていません。",
+    "explain": "普通形＋か、普通形＋か、まだ決めていません: 'Tương lai làm kỹ sư hay bác sĩ, tôi vẫn chưa quyết định.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1955/1/1": {
+    "type": "matching",
+    "answer": {
+      "ふつう形＋か、ふつう形＋か、Vます": "Diễn tả ý “hành động 1 hay là hành động 2”.",
+      "N＋になります": "Biểu thị ý “trở thành N\", thể hiện sự thay đổi."
+    },
+    "explain": "ふつう形＋か、ふつう形＋か = làm A hay làm B; N＋になります = trở thành N (sự thay đổi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1957/0/1": {
+    "type": "matching",
+    "answer": {
+      "Nによって、〜": "Biển thị phương tiện, cách thức thực hiện hành động.",
+      "Vるまでに": "Thể hiện ý sẽ thực hiện hành động phía sau trước khi hành động trước xảy ra."
+    },
+    "explain": "Nによって = bằng (phương tiện, cách thức); Vるまでに = trước khi… (làm xong việc sau trước thời điểm đó).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Nhãn tiếng Việt có lỗi chính tả 「Biển thị」 (đúng: Biểu thị)."
+  },
+  "1957/1/1": {
+    "type": "order",
+    "answer": [2, 1, 0, 3],
+    "sentence": "インターネットによってげんごりかいの研究をしている。",
+    "explain": "N＋によって (bằng phương tiện) + げんごりかいの研究 (nghiên cứu về hiểu ngôn ngữ): 'Đang nghiên cứu về hiểu ngôn ngữ bằng Internet.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1957/1/2": {
+    "type": "order",
+    "answer": [2, 1, 3, 0],
+    "sentence": "大学をそつぎょうするまでに、日本へ行きたいです。",
+    "explain": "Vる＋までに (trước khi): 'Tôi muốn đi Nhật trước khi tốt nghiệp đại học.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/1": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "あの赤いコートをきている人はだれですか。",
+    "explain": "Mệnh đề bổ nghĩa danh từ dùng thể thường: 着ています → 着ている + 人. 'Người đang mặc áo khoác đỏ kia là ai?'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/2": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "今年の秋にけっこんするつもりです。",
+    "explain": "Vる＋つもりです: 結婚します → 結婚する. 'Tôi định kết hôn vào mùa thu năm nay.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/3": {
+    "type": "dragtext",
+    "answer": [1, 0, 2, 3],
+    "sentence": "医者が話す日本語がよくわかりませんでした。",
+    "explain": "Thứ tự D-A-B-C: mệnh đề 医者が話す bổ nghĩa cho 日本語. 'Tôi đã không hiểu rõ tiếng Nhật mà bác sĩ nói.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/4": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "あのレストランは入ったことがないので、おいしいかどうか、わかりません。",
+    "explain": "普通形＋かどうか: おいしいです → おいしい. 'Vì chưa vào nhà hàng đó bao giờ nên không biết có ngon hay không.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Hỏi 'Người đang mặc kimono kia là ai?' (だれ) → trả lời tên người: リさんです.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/6": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "7時の電車に間に合わないかもしれませんから、走りましょう。",
+    "explain": "普通形＋かもしれません, ngữ cảnh 'hãy chạy đi' nên dùng phủ định: 間に合わない. 'Có thể không kịp chuyến tàu 7 giờ nên hãy chạy thôi.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/7": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "お金をもたないで出かけましたから、何も買うことができませんでした。",
+    "explain": "V1ないでV2: 持ちます → 持たないで. 'Vì ra ngoài mà không mang tiền nên không mua được gì.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/8": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "兄はおいしい水をつくる研究をしています。",
+    "explain": "Mệnh đề bổ nghĩa danh từ: 作ります → 作る + 研究. 'Anh trai tôi đang nghiên cứu (cách) tạo ra nước ngon.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/9": {
+    "type": "dragtext",
+    "answer": [2, 3, 1, 0],
+    "sentence": "先生はテストによって学生が理解したかどうかをチェックします。",
+    "explain": "Thứ tự D-C-B-A: テストによって (bằng bài kiểm tra) + 学生が理解したかどうか (học sinh đã hiểu hay chưa). 'Giáo viên kiểm tra xem học sinh đã hiểu chưa bằng bài kiểm tra.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/10": {
+    "type": "dragtext",
+    "answer": [3, 0, 1, 2],
+    "sentence": "しずかで、ゆっくり食事ができる店が好きです。",
+    "explain": "Thứ tự B-A-D-C: mệnh đề ゆっくり食事ができる bổ nghĩa cho 店. 'Tôi thích quán yên tĩnh, có thể thong thả dùng bữa.'",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Thứ tự 食事がゆっくりできる店 cũng đúng ngữ pháp; đáp án chuẩn thường là ゆっくり食事ができる店."
+  },
+  "1920/0/11": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Hỏi 'Buổi hòa nhạc đã đi cùng anh Nakata thế nào?' (どうでしたか hỏi cảm nhận) → とてもよかったです (rất hay).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/12": {
+    "type": "single",
+    "answer": 2,
+    "sentence": "図書館は今日やすむと思います。",
+    "explain": "普通形＋と思います: 休みます → 休む (thể từ điển). 'Tôi nghĩ hôm nay thư viện nghỉ.' (やすみ là danh từ, phải thêm だ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/13": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Vる＋つもりです: 'Dù về nước vẫn định tiếp tục học tiếng Nhật' → はい、つづけるつもりです. Các câu khác sai dạng (つづけて) hoặc mâu thuẫn với はい.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/14": {
+    "type": "single",
+    "answer": 0,
+    "sentence": "バスにのっている間、ずっと寝ていました。",
+    "explain": "Vている＋間: 乗ります → 乗っている間. 'Trong suốt lúc đi xe buýt, tôi ngủ suốt.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/15": {
+    "type": "dragtext",
+    "answer": [2, 1, 0, 3],
+    "sentence": "りょうりを作るロボットがほしいです。",
+    "explain": "Thứ tự A-C-D-B: mệnh đề りょうりを作る bổ nghĩa cho ロボット, sau đó ～がほしいです. 'Tôi muốn có robot nấu ăn.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/16": {
+    "type": "dragtext",
+    "answer": [3, 2, 1, 0],
+    "sentence": "冬休みが終わるまでに、このえを書き終えたいです。",
+    "explain": "Thứ tự B-A-D-C: Vる＋までに (trước khi): 冬休みが終わるまでに. 'Tôi muốn vẽ xong bức tranh này trước khi kỳ nghỉ đông kết thúc.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/17": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Hỏi địa điểm (ところはどこですか): 'Nơi thầy gặp vợ lần đầu là ở đâu?' → 大学の図書館です.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/18": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Hỏi どれ (cái nào): 'Bức tranh mà Li vẽ là bức nào?' → あの海の絵です (bức tranh biển kia).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/19": {
+    "type": "single",
+    "answer": 1,
+    "sentence": "習った言葉をすぐつかうことによって、その言葉を覚えることができます。",
+    "explain": "Nによって cần danh từ, nên động từ phải danh từ hóa: 使う＋こと＋によって. 'Nhờ dùng ngay từ vừa học mà có thể nhớ được từ đó.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1920/0/20": {
+    "type": "single",
+    "answer": 3,
+    "sentence": "土曜日は休みですから、会社へ行かなくてもいいです。",
+    "explain": "Vない→～なくてもいいです: 'Thứ Bảy được nghỉ nên không cần đến công ty cũng được.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "性",
+      "2": "決",
+      "3": "考",
+      "4": "解",
+      "5": "進"
+    },
+    "explain": "性別 (せいべつ, giới tính), 決心 (けっしん, quyết tâm), 参考 (さんこう, tham khảo), 理解 (りかい, hiểu), 進学 (しんがく, học lên) – đều có trong danh sách kanji Unit 15.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/0/2": {
+    "type": "blanks",
+    "answer": {
+      "1": "病院",
+      "2": "言い",
+      "3": "解き",
+      "4": "進み",
+      "5": "決め",
+      "6": "続き",
+      "7": "建て",
+      "8": "考え",
+      "9": "合い",
+      "10": "試し"
+    },
+    "explain": "Chọn kanji + okurigana đúng: 病院 (びょういん), 言います, 解きます (とく), 進みます (すすむ), 決めます (きめる), 続きます (つづく), 建てます (たてる), 考えます (かんがえる), 合います (あう, 'hợp với'), 試します (ためす).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/1/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "せんもんか",
+      "2": "こうがくぶ",
+      "3": "てつづき",
+      "4": "だいがくいん",
+      "5": "げんご"
+    },
+    "explain": "専門家 = せんもんか (chuyên gia), 工学部 = こうがくぶ (khoa kỹ thuật), 手続き = てつづき (thủ tục, つ đục thành づ), 大学院 = だいがくいん (cao học), 言語 = げんご (ngôn ngữ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/2/1": {
+    "type": "single",
+    "answer": 3,
+    "explain": "じょせい = 女性 (性: TÍNH – giới tính). 女生, 女姓, 女怪 đều sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/2/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "テニス部 (ぶ) = câu lạc bộ tennis. 部 = BỘ (bộ phận, câu lạc bộ); 都, 郡, 陪 là chữ nhìn giống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/2/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "りょうり = 料理 (理: LÝ). 埋, 星, 野 là chữ nhìn giống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/2/4": {
+    "type": "single",
+    "answer": 0,
+    "explain": "しけん = 試験 (THÍ NGHIỆM – kỳ thi). 誠, 騒 là chữ nhìn giống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1932/2/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "もん = 門 (cổng). 聞 (nghe), 問 (hỏi), 開 (mở) đều chứa bộ 門 nhưng là chữ khác.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/1": {
+    "type": "single",
+    "answer": 2,
+    "explain": "びょういん = 病院 (BỆNH VIỆN): 'Bố tôi làm việc ở bệnh viện.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/2": {
+    "type": "single",
+    "answer": 0,
+    "explain": "建物 đọc âm kun: たてもの (tòa nhà) = 建 (た.てる) + 物 (もの).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/3": {
+    "type": "single",
+    "answer": 2,
+    "explain": "きめます = 決めます (QUYẾT): 'Đã quyết định giờ của bữa tiệc.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "参考 = さんこう (tham khảo); 考 đọc on là こう, có trường âm.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "工業 = こうぎょう (công nghiệp): cả hai âm đều dài こう・ぎょう.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Câu đề có khoảng trắng thừa trong 「勉強 しました」."
+  },
+  "1806/0/6": {
+    "type": "single",
+    "answer": 1,
+    "explain": "しけん = 試験 (kỳ thi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/7": {
+    "type": "single",
+    "answer": 1,
+    "explain": "集合 = しゅうごう (tập hợp); 合 đọc là ごう (âm đục).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/8": {
+    "type": "single",
+    "answer": 2,
+    "explain": "だんせい = 男性 (nam giới); 性 là TÍNH (giới tính).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/9": {
+    "type": "single",
+    "answer": 2,
+    "explain": "せんもんか = 専門家 (chuyên gia): 専 (CHUYÊN, không phải 尊) + 門 (cổng, không phải 問 'hỏi') + 家.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/10": {
+    "type": "single",
+    "answer": 2,
+    "explain": "つづけ = 続け (TIẾP, bộ 糸): 'Hôm qua tôi đã nói chuyện điện thoại liên tục 2 tiếng.' 読, 統, 績 là chữ nhìn giống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/11": {
+    "type": "single",
+    "answer": 3,
+    "explain": "卒業 = そつぎょう (tốt nghiệp); ぎょう có trường âm.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/12": {
+    "type": "single",
+    "answer": 1,
+    "explain": "言葉 = ことば (từ ngữ, lời nói) – âm kun, ば là âm đục.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/13": {
+    "type": "single",
+    "answer": 1,
+    "explain": "かんがえ = 考え (KHẢO): 'Đã suy nghĩ nhiều về tương lai.' 老 (lão), 孝 (hiếu), 拷 là chữ nhìn giống.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/14": {
+    "type": "single",
+    "answer": 1,
+    "explain": "進学 = しんがく (học lên): 'Vì không có tiền nên đã không thể học lên đại học.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1806/0/15": {
+    "type": "single",
+    "answer": 3,
+    "explain": "理解 = りかい (hiểu, lý giải): 'Tôi hiểu cảm xúc của cô ấy.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/1": {
+    "type": "short",
+    "answer": "大学を卒業したら、大学院に進むと思います。",
+    "explain": "Câu trong bài đọc (リさん): 'Tốt nghiệp đại học xong, tôi nghĩ sẽ học lên cao học.' 卒業 = そつぎょう, 大学院 = だいがくいん, 進む = すすむ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/2": {
+    "type": "short",
+    "answer": "エンターテインメント関係の仕事もおもしろいと思います。",
+    "explain": "'Tôi nghĩ công việc liên quan đến giải trí cũng thú vị.' 関係 = かんけい.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/3": {
+    "type": "short",
+    "answer": "いい人があらわれたら、結婚したいです。",
+    "explain": "'Nếu gặp được người tốt thì tôi muốn kết hôn.' 結婚 = けっこん.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/4": {
+    "type": "short",
+    "answer": "博士課程に進むかどうかまだ分かりません、行くかもしれません。",
+    "explain": "'Tôi chưa biết có học lên tiến sĩ hay không, có thể sẽ học.' 博士課程 = はかせかてい.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/5": {
+    "type": "short",
+    "answer": "結婚後も、仕事を続けるつもりです。",
+    "explain": "'Sau khi kết hôn tôi vẫn định tiếp tục làm việc.' 結婚後 = けっこんご, 続ける = つづける.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/6": {
+    "type": "short",
+    "answer": "博士号をとって、大学の先生になるのもいいと思います。",
+    "explain": "'Lấy bằng tiến sĩ rồi trở thành giảng viên đại học cũng hay.' 博士号 = はかせごう.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/7": {
+    "type": "short",
+    "answer": "でも、いい人があらわれなかったら、結婚しなくてもいいです。",
+    "explain": "'Nhưng nếu không gặp được người tốt thì không kết hôn cũng được.' (Vなくてもいいです)",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/8": {
+    "type": "short",
+    "answer": "たぶん、28歳くらいには結婚するんじゃないかと思います。",
+    "explain": "'Có lẽ khoảng 28 tuổi tôi sẽ kết hôn.' 歳 = さい.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Số 28 trong ảnh là chữ số nửa độ rộng (half-width)."
+  },
+  "173/0/9": {
+    "type": "short",
+    "answer": "マレーシア人でも、日本人でも、中国人でも、いいです。",
+    "explain": "'Người Malaysia, người Nhật hay người Trung Quốc đều được.' (N1でもN2でもいいです)",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/10": {
+    "type": "short",
+    "answer": "将来は、情報通信の会社で仕事をしたいと思っています。",
+    "explain": "'Tương lai tôi muốn làm việc ở công ty công nghệ thông tin – viễn thông.' 情報通信 = じょうほうつうしん.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/11": {
+    "type": "short",
+    "answer": "専門は、情報工学です。",
+    "explain": "'Chuyên ngành của tôi là kỹ thuật thông tin.' 情報工学 = じょうほうこうがく.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/12": {
+    "type": "short",
+    "answer": "でも、結婚しないかもしれません。",
+    "explain": "'Nhưng cũng có thể tôi sẽ không kết hôn.' (普通形＋かもしれません)",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/13": {
+    "type": "short",
+    "answer": "日本に関係がある仕事をしたいと思っています。",
+    "explain": "'Tôi muốn làm công việc có liên quan đến Nhật Bản.' 関係 = かんけい.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/14": {
+    "type": "short",
+    "answer": "結婚は、したいと思っています。",
+    "explain": "'Kết hôn thì tôi muốn.'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/15": {
+    "type": "short",
+    "answer": "わたしは、今、大京大学工学部の一年生です。",
+    "explain": "'Tôi hiện là sinh viên năm nhất khoa Kỹ thuật, Đại học Daikyo.' 大京 = だいきょう, 工学部 = こうがくぶ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "173/0/16": {
+    "type": "short",
+    "answer": "将来、マレーシアに帰るか、日本で就職するか、まだ決めていません。",
+    "explain": "'Tương lai về Malaysia hay đi làm ở Nhật, tôi vẫn chưa quyết định.' 就職 = しゅうしょく.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Trong ảnh 「就 職」 có khoảng cách do furigana; khi gõ viết liền 就職."
+  }
+}

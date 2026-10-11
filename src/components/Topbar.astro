@@ -1,0 +1,27 @@
+---
+/* Floating top bar over the content column: wordmark, page title, search, unit filter and toggles.
+   On phones it is the app's navigation bar: back button (below a section's first page), title, tools. */
+import Icon from './Icon.astro';
+import UnitFilter from './UnitFilter.astro';
+
+interface Props { title: string; jp?: string; back?: string }
+const { title, jp, back } = Astro.props;
+---
+<header id="topbar">
+  {back && <a class="icon-btn only-mobile" id="btn-back" href={back} aria-label="Quay lại"><Icon name="left" /></a>}
+  <a class="top-brand" href="/" title="Renix · Ôn tập N4 · Unit 13–17"><span class="wordmark">Renix</span></a>
+  <div class="top-title"><b id="tt-main">{title}</b><span id="tt-sub" lang="ja">{jp}</span></div>
+  <div class="search">
+    <input id="search" type="search" placeholder="Tìm từ, kanji, ngữ pháp…" autocomplete="off" aria-label="Tìm kiếm" />
+    <kbd class="search-kbd">/</kbd>
+    <div id="search-results" class="search-results" hidden></div>
+  </div>
+  <div class="top-tools">
+    <button class="icon-btn only-mobile" id="btn-search" aria-label="Tìm kiếm"><Icon name="search" /></button>
+    <UnitFilter id="unit-filter" />
+    <button class="icon-btn" id="btn-furi" lang="ja" title="Furigana: bật / tắt">ふ</button>
+    <button class="icon-btn" id="btn-theme" title="Đổi giao diện sáng / tối"><Icon name="moon" class="th-dark" /><Icon name="sun" class="th-light" /></button>
+    <button class="icon-btn" id="btn-install" title="Cài Renix thành ứng dụng" hidden><Icon name="download" /></button>
+    <button class="icon-btn" id="btn-voice" title="Giọng đọc"><Icon name="volume" /></button>
+  </div>
+</header>

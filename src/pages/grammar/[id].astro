@@ -1,0 +1,15 @@
+---
+/* /grammar/13-1/ — the grammar list, scrolled to (and opening) one pattern */
+import Base from '../../layouts/Base.astro';
+import { UNITS } from '../../lib/course';
+
+export function getStaticPaths() {
+  return UNITS.flatMap((u) => u.grammar.map((g) => ({ params: { id: g.id } })));
+}
+const { id } = Astro.params;
+---
+<Base nav="grammar" args={[id]}>
+  <script>
+    import '../../scripts/pages/grammar';
+  </script>
+</Base>

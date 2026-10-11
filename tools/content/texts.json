@@ -1,0 +1,282 @@
+{
+  "speakers": {
+    "li": {"name": "リさん", "vi": "Li – du học sinh người Malaysia gốc Hoa, sinh viên năm nhất khoa Kỹ thuật"},
+    "akio": {"name": "あきおさん", "vi": "Akio – sinh viên người Nhật, học Kỹ thuật hệ thống"},
+    "nishiyama": {"name": "西山先生", "vi": "Thầy Nishiyama – giảng viên"}
+  },
+  "units": {
+    "13": {
+      "title": "{毎日|まいにち}の{生活|せいかつ}",
+      "titleVi": "Cuộc sống hằng ngày",
+      "sections": [
+        {"speaker": "li", "paragraphs": [
+          [
+            {"jp": "わたしは、{毎朝|まいあさ}、{7時半|しちじはん}に{起|お}きます。", "vi": "Mỗi sáng, tôi thức dậy lúc 7 giờ rưỡi.", "sh": true},
+            {"jp": "{起|お}きたら、すぐに{歯|は}をみがきます。", "vi": "Dậy xong là tôi đánh răng ngay.", "sh": true},
+            {"jp": "{夏|なつ}には、シャワーをします。", "vi": "Vào mùa hè thì tôi tắm vòi sen.", "sh": true},
+            {"jp": "そして、{朝|あさ}ごはんを{食|た}べます。", "vi": "Rồi tôi ăn sáng.", "sh": true},
+            {"jp": "{新聞|しんぶん}を{読|よ}みながら、{朝|あさ}ごはんを{食|た}べます。", "vi": "Tôi vừa đọc báo vừa ăn sáng.", "sh": true},
+            {"jp": "ごはんを{食|た}べてから、もう{一度|いちど}{歯|は}をみがきます。", "vi": "Ăn xong, tôi đánh răng thêm một lần nữa.", "sh": true},
+            {"jp": "{8時半|はちじはん}に{家|いえ}を{出|で}ます。", "vi": "8 giờ rưỡi tôi ra khỏi nhà."},
+            {"jp": "そして、{自転車|じてんしゃ}で{学校|がっこう}に{行|い}きます。", "vi": "Rồi tôi đi đến trường bằng xe đạp."},
+            {"jp": "{学校|がっこう}まで、{10分|じゅっぷん}くらいです。", "vi": "Đến trường mất khoảng 10 phút."},
+            {"jp": "{近|ちか}いです。", "vi": "Gần lắm."}
+          ],
+          [
+            {"jp": "{学校|がっこう}は、{8時50分|はちじごじゅっぷん}に{始|はじ}まります。", "vi": "Trường bắt đầu lúc 8 giờ 50."},
+            {"jp": "そして、たいてい{4時10分|よじじゅっぷん}に{終|お}わります。", "vi": "Và thường kết thúc lúc 4 giờ 10."},
+            {"jp": "たいてい、{図書館|としょかん}に{行|い}って、{少|すこ}し{勉強|べんきょう}してから、うちに{帰|かえ}ります。", "vi": "Thường thì tôi đến thư viện, học một chút rồi mới về nhà."},
+            {"jp": "{時々|ときどき}、{5時間目|ごじかんめ}の{授業|じゅぎょう}があります。", "vi": "Thỉnh thoảng có tiết học thứ 5."},
+            {"jp": "{5時間目|ごじかんめ}があるときは、{図書館|としょかん}に{行|い}きません。", "vi": "Những hôm có tiết thứ 5 thì tôi không đến thư viện."}
+          ],
+          [
+            {"jp": "{夏|なつ}は、{6時|ろくじ}ごろでも、まだ{明|あか}るいですが、{冬|ふゆ}は、{6時|ろくじ}には、もう{暗|くら}いです。", "vi": "Mùa hè, dù khoảng 6 giờ trời vẫn còn sáng, nhưng mùa đông thì 6 giờ trời đã tối rồi."},
+            {"jp": "{暗|くら}い{夜|よる}の{道|みち}は、ちょっとこわいです。", "vi": "Đi đường tối buổi đêm thì hơi sợ."}
+          ],
+          [
+            {"jp": "うちに{帰|かえ}ったら、すぐに{手|て}を{洗|あら}って、うがいをします。", "vi": "Về đến nhà là tôi rửa tay ngay rồi súc miệng."},
+            {"jp": "そして、{晩|ばん}ごはんを{作|つく}って、{食|た}べます。", "vi": "Rồi tôi nấu bữa tối và ăn."},
+            {"jp": "{晩|ばん}ごはんが{終|お}わったら、メールをチェックします。", "vi": "Ăn tối xong, tôi kiểm tra email."},
+            {"jp": "それから、お{風呂|ふろ}に{入|はい}ります。", "vi": "Sau đó, tôi đi tắm bồn."},
+            {"jp": "お{風呂|ふろ}の{後|あと}、{2時間|にじかん}くらい{勉強|べんきょう}します。", "vi": "Tắm xong, tôi học khoảng 2 tiếng."},
+            {"jp": "そして、{12時|じゅうにじ}ごろに{寝|ね}ます。", "vi": "Rồi khoảng 12 giờ tôi đi ngủ."}
+          ]
+        ]},
+        {"speaker": "akio", "paragraphs": [
+          [
+            {"jp": "{朝|あさ}は、たいてい{7時|しちじ}に{起|お}きます。", "vi": "Buổi sáng, tôi thường dậy lúc 7 giờ."},
+            {"jp": "そして、テレビでニュースを{見|み}ながら、{朝|あさ}ごはんを{食|た}べます。", "vi": "Rồi tôi vừa xem tin tức trên tivi vừa ăn sáng."},
+            {"jp": "{朝|あさ}ごはんが{終|お}わったら、{歯|は}をみがきます。", "vi": "Ăn sáng xong, tôi đánh răng."},
+            {"jp": "そして、{8時|はちじ}に{学校|がっこう}に{行|い}きます。", "vi": "Rồi 8 giờ tôi đến trường."},
+            {"jp": "{1時間目|いちじかんめ}の{授業|じゅぎょう}がないときは、{8時|はちじ}に{起|お}きます。", "vi": "Những hôm không có tiết 1 thì tôi dậy lúc 8 giờ."},
+            {"jp": "そして、{9時|くじ}ごろ、うちを{出|で}ます。", "vi": "Rồi khoảng 9 giờ tôi ra khỏi nhà."},
+            {"jp": "{学校|がっこう}まで、{電車|でんしゃ}で{行|い}きます。", "vi": "Tôi đi tàu điện đến trường."},
+            {"jp": "{40分|よんじゅっぷん}くらいです。", "vi": "Mất khoảng 40 phút."}
+          ],
+          [
+            {"jp": "{授業|じゅぎょう}は、たいてい、{午前中|ごぜんちゅう}だけです。", "vi": "Giờ học thường chỉ có buổi sáng."},
+            {"jp": "{午後|ごご}は、{研究室|けんきゅうしつ}に{行|い}って、{実験|じっけん}をしたり、{発表|はっぴょう}の{準備|じゅんび}をしたりします。", "vi": "Buổi chiều, tôi đến phòng nghiên cứu làm thí nghiệm, chuẩn bị bài phát biểu, v.v."},
+            {"jp": "{時々|ときどき}、{10時|じゅうじ}ごろまで、{実験|じっけん}をします。", "vi": "Thỉnh thoảng tôi làm thí nghiệm đến khoảng 10 giờ."},
+            {"jp": "{徹夜|てつや}することも、あります。", "vi": "Cũng có khi tôi thức trắng đêm."},
+            {"jp": "{10時|じゅうじ}に{学校|がっこう}を{出|で}たら、{12時|じゅうにじ}ごろにうちに{着|つ}きます。", "vi": "Nếu 10 giờ rời trường thì khoảng 12 giờ mới về đến nhà."},
+            {"jp": "そんなときは、{1時|いちじ}か{2時|にじ}に、{寝|ね}ます。", "vi": "Những lúc như thế, 1 hoặc 2 giờ sáng tôi mới ngủ."},
+            {"jp": "ちょっと、{遅|おそ}いです。", "vi": "Hơi muộn một chút."}
+          ]
+        ]}
+      ]
+    },
+    "14": {
+      "title": "{趣味|しゅみ}",
+      "titleVi": "Sở thích",
+      "titleNote": "Tài liệu gốc không ghi tiêu đề; đặt theo chủ đề bài.",
+      "sections": [
+        {"speaker": "li", "paragraphs": [
+          [
+            {"jp": "わたしは、{本|ほん}を{読|よ}むのが{大好|だいす}きです。", "vi": "Tôi rất thích đọc sách.", "sh": true},
+            {"jp": "{子|こ}どものときは、いつも{家|いえ}で{本|ほん}を{読|よ}んでいました。", "vi": "Hồi nhỏ, lúc nào tôi cũng đọc sách ở nhà.", "sh": true},
+            {"jp": "{弟|おとうと}は、{本|ほん}を{読|よ}むのはあまり{好|す}きではありません。", "vi": "Em trai tôi thì không thích đọc sách lắm.", "sh": true},
+            {"jp": "マンガを{読|よ}むのは{大好|だいす}きです。", "vi": "(Nhưng) rất thích đọc truyện tranh.", "sh": true},
+            {"jp": "{弟|おとうと}の{趣味|しゅみ}は、マンガを{読|よ}むことと、サッカーをすることです。", "vi": "Sở thích của em trai tôi là đọc truyện tranh và chơi bóng đá.", "sh": true}
+          ],
+          [
+            {"jp": "わたしは、{音楽|おんがく}を{聞|き}くのも{好|す}きです。", "vi": "Tôi cũng thích nghe nhạc."},
+            {"jp": "{姉|あね}も、{音楽|おんがく}を{聞|き}くのが{大好|だいす}きです。", "vi": "Chị gái tôi cũng rất thích nghe nhạc."},
+            {"jp": "{姉|あね}もわたしも、Ｊポップが{好|す}きです。", "vi": "Cả chị tôi và tôi đều thích J-pop."}
+          ],
+          [
+            {"jp": "{子|こ}どもの{時|とき}は、{日本|にほん}のアニメを{見|み}るのが{大好|だいす}きでした。", "vi": "Hồi nhỏ, tôi rất thích xem anime Nhật."},
+            {"jp": "{姉|あね}といっしょによくアニメ{映画|えいが}を{見|み}に{行|い}きました。", "vi": "Tôi hay cùng chị đi xem phim hoạt hình ở rạp."},
+            {"jp": "うちで、アニメのＤＶＤもよく{見|み}ました。", "vi": "Ở nhà tôi cũng hay xem DVD anime."},
+            {"jp": "テレビで、{日本|にほん}のドラマも{見|み}ました。", "vi": "Tôi cũng xem phim truyền hình Nhật trên tivi."}
+          ]
+        ]},
+        {"speaker": "akio", "paragraphs": [
+          [
+            {"jp": "わたしの{趣味|しゅみ}は、{山|やま}に{登|のぼ}ることと、{写真|しゃしん}をとることです。", "vi": "Sở thích của tôi là leo núi và chụp ảnh."},
+            {"jp": "{父|ちち}も{母|はは}も、{山登|やまのぼ}りが{大好|だいす}きです。", "vi": "Cả bố và mẹ tôi đều rất thích leo núi."},
+            {"jp": "{父|ちち}と{母|はは}も、{大学|だいがく}の{山|やま}の{会|かい}で{会|あ}いました。", "vi": "Bố mẹ tôi gặp nhau ở câu lạc bộ leo núi của trường đại học."},
+            {"jp": "そして、{結婚|けっこん}しました。", "vi": "Rồi họ kết hôn."}
+          ],
+          [
+            {"jp": "{子|こ}どもの{時|とき}は、{家族|かぞく}でよく{山|やま}に{行|い}きました。", "vi": "Hồi nhỏ, cả nhà tôi hay đi leo núi."},
+            {"jp": "{父|ちち}は、{写真|しゃしん}をとるのが{好|す}きでした。", "vi": "Bố tôi thích chụp ảnh."},
+            {"jp": "{山|やま}で、{山|やま}や{花|はな}のしゃしんをとりました。", "vi": "Ở trên núi, bố chụp ảnh núi non và hoa."},
+            {"jp": "{父|ちち}の{写真|しゃしん}は、とてもきれいでした。", "vi": "Ảnh bố chụp rất đẹp."},
+            {"jp": "それで、わたしも、{写真|しゃしん}を{始|はじ}めました。", "vi": "Vì thế tôi cũng bắt đầu chụp ảnh."},
+            {"jp": "{父|ちち}は、{風景|ふうけい}をとるのが{好|す}きです。", "vi": "Bố tôi thích chụp phong cảnh."},
+            {"jp": "わたしは、{風景|ふうけい}をとるのも、{人|ひと}をとるのも、{好|す}きです。", "vi": "Tôi thì thích cả chụp phong cảnh lẫn chụp người."},
+            {"jp": "もう{10年|じゅうねん}{写真|しゃしん}を{撮|と}っていますが、いい{写真|しゃしん}をとるのは、なかなかむずかしいです。", "vi": "Tôi đã chụp ảnh được 10 năm rồi, nhưng chụp được ảnh đẹp thật không dễ chút nào."}
+          ]
+        ]},
+        {"speaker": "nishiyama", "paragraphs": [
+          [
+            {"jp": "わたしの{趣味|しゅみ}は、{音楽|おんがく}を{聞|き}くことです。", "vi": "Sở thích của tôi là nghe nhạc."},
+            {"jp": "ジャズとクラシックが{好|す}きです。", "vi": "Tôi thích nhạc jazz và nhạc cổ điển."},
+            {"jp": "{妻|つま}も、ジャズが{好|す}きです。", "vi": "Vợ tôi cũng thích jazz."},
+            {"jp": "{金曜日|きんようび}の{夜|よる}は、{妻|つま}と{二人|ふたり}でジャズを{聞|き}きながら、ワインを{飲|の}みます。", "vi": "Tối thứ Sáu, hai vợ chồng tôi vừa nghe jazz vừa uống rượu vang."},
+            {"jp": "おいしいワインを{飲|の}みながら、いろいろな{話|はなし}をします。", "vi": "Vừa uống rượu vang ngon vừa trò chuyện đủ điều."},
+            {"jp": "{時々|ときどき}、ライブハウスにも{行|い}きます。", "vi": "Thỉnh thoảng chúng tôi còn đến các quán nhạc sống (live house)."},
+            {"jp": "{生|なま}のジャズを{聞|き}くのは、{本当|ほんとう}にたのしいです。", "vi": "Nghe nhạc jazz trực tiếp thật sự rất vui."},
+            {"jp": "クラシックを{聞|き}くのは、{好|す}きです。", "vi": "Nghe nhạc cổ điển thì tôi (cũng) thích."},
+            {"jp": "わたしは、モーツァルトが{好|す}きです。", "vi": "Tôi thích Mozart."}
+          ],
+          [
+            {"jp": "{子|こ}どもの{時|とき}は、ピアノを{習|なら}っていました。", "vi": "Hồi nhỏ, tôi từng học piano."},
+            {"jp": "{大学生|だいがくせい}の{時|とき}は、{友|とも}だちといっしょにジャズのバンドをしていました。", "vi": "Hồi sinh viên, tôi chơi trong một ban nhạc jazz cùng bạn bè."},
+            {"jp": "わたしは、ベースをひいていました。", "vi": "Tôi chơi đàn bass."},
+            {"jp": "{友|とも}だちといっしょに{好|す}きな{曲|きょく}を{演奏|えんそう}するのは、とても{楽|たの}しかったです。", "vi": "Cùng bạn bè biểu diễn những bản nhạc mình thích thật sự rất vui."},
+            {"jp": "{妻|つま}も、ピアノをひくことができます。", "vi": "Vợ tôi cũng biết chơi piano."},
+            {"jp": "{時々|ときどき}、いっしょにピアノをひきます。", "vi": "Thỉnh thoảng chúng tôi cùng chơi piano."}
+          ]
+        ]}
+      ]
+    },
+    "15": {
+      "title": "わたしの{将来|しょうらい}",
+      "titleVi": "Tương lai của tôi",
+      "sections": [
+        {"speaker": "li", "paragraphs": [
+          [
+            {"jp": "わたしは、{今|いま}、{大京大学|だいきょうだいがく}{工学部|こうがくぶ}の{一年生|いちねんせい}です。", "vi": "Hiện tôi là sinh viên năm nhất khoa Kỹ thuật, Đại học Daikyo."},
+            {"jp": "{専門|せんもん}は、{情報工学|じょうほうこうがく}です。", "vi": "Chuyên ngành của tôi là Kỹ thuật thông tin."},
+            {"jp": "{大学|だいがく}を{卒業|そつぎょう}したら、{大学院|だいがくいん}に{進|すす}むと{思|おも}います。", "vi": "Tôi nghĩ sau khi tốt nghiệp đại học, tôi sẽ học lên cao học.", "sh": true},
+            {"jp": "{将来|しょうらい}は、{情報通信|じょうほうつうしん}の{会社|かいしゃ}で{仕事|しごと}をしたいと{思|おも}っています。", "vi": "Trong tương lai, tôi muốn làm việc ở một công ty công nghệ thông tin – viễn thông.", "sh": true},
+            {"jp": "{博士課程|はくしかてい}に{進|すす}むかどうかまだ{分|わ}かりません、{行|い}くかもしれません。", "vi": "Tôi chưa biết có học lên tiến sĩ hay không, có thể là sẽ học.", "sh": true},
+            {"jp": "{博士号|はくしごう}をとって、{大学|だいがく}の{先生|せんせい}になるのもいいと{思|おも}います。", "vi": "Tôi nghĩ lấy bằng tiến sĩ rồi trở thành giảng viên đại học cũng hay.", "sh": true}
+          ],
+          [
+            {"jp": "{将来|しょうらい}、マレーシアに{帰|かえ}るか、{日本|にほん}で{就職|しゅうしょく}するか、まだ{決|き}めていません。", "vi": "Sau này sẽ về Malaysia hay đi làm ở Nhật, tôi vẫn chưa quyết định."},
+            {"jp": "{日本|にほん}に{関係|かんけい}がある{仕事|しごと}をしたいと{思|おも}っています。", "vi": "Tôi muốn làm công việc có liên quan đến Nhật Bản."},
+            {"jp": "エンターテインメント{関係|かんけい}の{仕事|しごと}もおもしろいと{思|おも}います。", "vi": "Tôi nghĩ công việc trong ngành giải trí cũng thú vị."}
+          ],
+          [
+            {"jp": "{結婚|けっこん}は、したいと{思|おも}っています。", "vi": "Tôi muốn kết hôn."},
+            {"jp": "でも、{結婚|けっこん}しないかもしれません。", "vi": "Nhưng cũng có thể tôi sẽ không kết hôn."},
+            {"jp": "いい{人|ひと}があらわれたら、{結婚|けっこん}したいです。", "vi": "Nếu gặp được người phù hợp, tôi muốn kết hôn."},
+            {"jp": "マレーシア{人|じん}でも、{日本人|にほんじん}でも、{中国人|ちゅうごくじん}でも、いいです。", "vi": "Người Malaysia, người Nhật hay người Trung Quốc đều được."},
+            {"jp": "でも、いい{人|ひと}があらわれなかったら、{結婚|けっこん}しなくてもいいです。", "vi": "Nhưng nếu không gặp được người phù hợp thì không kết hôn cũng được."},
+            {"jp": "が、たぶん、{28歳|にじゅうはっさい}くらいには{結婚|けっこん}するんじゃないかと{思|おも}います。", "vi": "Nhưng tôi nghĩ có lẽ khoảng 28 tuổi tôi sẽ kết hôn."},
+            {"jp": "{結婚後|けっこんご}も、{仕事|しごと}を{続|つづ}けるつもりです。", "vi": "Sau khi kết hôn, tôi vẫn định tiếp tục đi làm."}
+          ]
+        ]},
+        {"speaker": "akio", "paragraphs": [
+          [
+            {"jp": "わたしは、システム{工学|こうがく}を{勉強|べんきょう}しています。", "vi": "Tôi đang học Kỹ thuật hệ thống."},
+            {"jp": "{今|いま}は、コンピュータによる{言語理解|げんごりかい}の{研究|けんきゅう}をしています。", "vi": "Hiện tôi đang nghiên cứu về việc hiểu ngôn ngữ bằng máy tính."},
+            {"jp": "{将来|しょうらい}は、{人間|にんげん}とコミュニケーションができるロボットを{開発|かいはつ}したいと{思|おも}っています。", "vi": "Trong tương lai, tôi muốn phát triển robot có thể giao tiếp với con người."}
+          ],
+          [
+            {"jp": "{大学院|だいがくいん}に{進学|しんがく}するつもりです。", "vi": "Tôi định học lên cao học."},
+            {"jp": "{大学院|だいがくいん}では、{人間|にんげん}とロボットのインターアクションの{研究|けんきゅう}をしたいと{思|おも}っています。", "vi": "Ở cao học, tôi muốn nghiên cứu về tương tác giữa người và robot."},
+            {"jp": "{博士課程|はくしかてい}にも{行|い}くと{思|おも}いますが、{進学|しんがく}しないで、{就職|しゅうしょく}するかもしれません。", "vi": "Tôi nghĩ mình cũng sẽ học lên tiến sĩ, nhưng cũng có thể không học tiếp mà đi làm."},
+            {"jp": "{将来|しょうらい}は、{介護|かいご}ロボットの{開発|かいはつ}の{仕事|しごと}をしたいです。", "vi": "Sau này, tôi muốn làm công việc phát triển robot chăm sóc (người già, người bệnh)."},
+            {"jp": "{大学|だいがく}の{先生|せんせい}になるかもしれません。", "vi": "Cũng có thể tôi sẽ trở thành giảng viên đại học."}
+          ],
+          [
+            {"jp": "{結婚|けっこん}は、したいです。", "vi": "Tôi muốn kết hôn."},
+            {"jp": "でも、{大学院|だいがくいん}で{勉強|べんきょう}している{間|あいだ}は、{結婚|けっこん}できないと{思|おも}います。", "vi": "Nhưng tôi nghĩ trong thời gian đang học cao học thì không thể kết hôn được."},
+            {"jp": "{30歳|さんじゅっさい}になるまでには、{結婚|けっこん}するだろうと{思|おも}います。", "vi": "Tôi nghĩ chắc trước 30 tuổi tôi sẽ kết hôn."},
+            {"jp": "{子|こ}どもは、{2人|ふたり}くらいほしいです。", "vi": "Tôi muốn có khoảng 2 đứa con."},
+            {"jp": "{相手|あいて}の{女性|じょせい}も、{仕事|しごと}をしている{人|ひと}がいいです。", "vi": "Người bạn đời (nữ) thì tôi muốn cũng là người đi làm."},
+            {"jp": "{家事|かじ}も、{育児|いくじ}も、いっしょにしたいです。", "vi": "Tôi muốn cùng nhau làm cả việc nhà lẫn nuôi dạy con."}
+          ]
+        ]}
+      ]
+    },
+    "16": {
+      "title": "できること・できないこと",
+      "titleVi": "Những điều có thể và không thể làm",
+      "sections": [
+        {"speaker": "li", "heading": "A. できる{言語|げんご}", "headingVi": "Ngôn ngữ tôi sử dụng được", "paragraphs": [
+          [
+            {"jp": "わたしは、{中国系|ちゅうごくけい}のマレーシア{人|じん}です。", "vi": "Tôi là người Malaysia gốc Hoa.", "sh": true},
+            {"jp": "だから、マレーシア{語|ご}と{中国語|ちゅうごくご}が{話|はな}せます。", "vi": "Vì vậy, tôi nói được tiếng Malaysia và tiếng Trung.", "sh": true},
+            {"jp": "{私立|しりつ}の{学校|がっこう}に{行|い}ったので、{英語|えいご}も{話|はな}せます。", "vi": "Vì tôi học trường tư nên cũng nói được tiếng Anh.", "sh": true},
+            {"jp": "マレーシア{語|ご}と{英語|えいご}は、{読|よ}むことも{書|か}くこともできます。", "vi": "Tiếng Malaysia và tiếng Anh thì tôi đọc được và viết được.", "sh": true},
+            {"jp": "{中国語|ちゅうごくご}は{話|はな}せます。", "vi": "Tiếng Trung thì tôi nói được.", "sh": true},
+            {"jp": "そして、{読|よ}むこともできます。", "vi": "Và cũng đọc được.", "sh": true},
+            {"jp": "でも、いい{文章|ぶんしょう}を{書|か}くことはできません。", "vi": "Nhưng tôi không viết được những đoạn văn hay.", "sh": true}
+          ],
+          [
+            {"jp": "{高校|こうこう}を{卒業|そつぎょう}してから、{日本語|にほんご}の{勉強|べんきょう}を{始|はじ}めました。", "vi": "Sau khi tốt nghiệp cấp 3, tôi bắt đầu học tiếng Nhật."},
+            {"jp": "わたしは{中国系|ちゅうごくけい}なので、{漢字|かんじ}の{意味|いみ}はだいたい{分|わ}かります。", "vi": "Vì là người gốc Hoa nên tôi hiểu hầu hết nghĩa của chữ Hán."},
+            {"jp": "{漢字|かんじ}の{書|か}き{方|かた}も、{分|わ}かります。", "vi": "Tôi cũng biết cách viết chữ Hán."},
+            {"jp": "ですから、{日本語|にほんご}の{勉強|べんきょう}は、あまり{大変|たいへん}ではありませんでした。", "vi": "Vì thế việc học tiếng Nhật không vất vả lắm."},
+            {"jp": "{今|いま}は、{日本語|にほんご}が{話|はな}せますし、{学校|がっこう}の{本|ほん}も{読|よ}めます。", "vi": "Giờ tôi nói được tiếng Nhật, lại đọc được cả sách ở trường."},
+            {"jp": "でも、レポートなどは、まだうまく{書|か}けません。", "vi": "Nhưng những thứ như báo cáo thì tôi vẫn chưa viết tốt được."},
+            {"jp": "{漢字|かんじ}の{読|よ}み{方|かた}も、{時々|ときどき}{分|わ}かりません。", "vi": "Cách đọc chữ Hán thì thỉnh thoảng tôi cũng không biết."}
+          ]
+        ]},
+        {"speaker": "li", "heading": "B. {食|た}べられるもの", "headingVi": "Những món tôi ăn được", "paragraphs": [
+          [
+            {"jp": "わたしは、{食|た}べることが{好|す}きです。", "vi": "Tôi thích ăn uống."},
+            {"jp": "{日本|にほん}の{食|た}べ{物|もの}は、とても、おいしいと{思|おも}います。", "vi": "Tôi nghĩ đồ ăn Nhật rất ngon."},
+            {"jp": "そして、ヘルシーだと{思|おも}います。", "vi": "Và tôi nghĩ nó tốt cho sức khỏe."},
+            {"jp": "お{寿司|すし}や、さしみが、{大好|だいす}きです。", "vi": "Tôi rất thích sushi và sashimi."},
+            {"jp": "{天|てん}ぷらも、{大好|だいす}きです。", "vi": "Tempura tôi cũng rất thích."},
+            {"jp": "お{好|この}み{焼|や}きやたこ{焼|や}きも、{好|す}きです。", "vi": "Tôi cũng thích okonomiyaki và takoyaki."},
+            {"jp": "{日本|にほん}の{食|た}べ{物|もの}は、{何|なん}でも{食|た}べられます。", "vi": "Đồ ăn Nhật thì món gì tôi cũng ăn được."},
+            {"jp": "でも、{納豆|なっとう}だけは、{食|た}べられません。", "vi": "Nhưng riêng natto thì tôi không ăn được."},
+            {"jp": "{納豆|なっとう}はにおいがひどいと{思|おも}います。", "vi": "Tôi thấy natto có mùi kinh khủng."}
+          ]
+        ]},
+        {"speaker": "nishiyama", "heading": "C. できる{料理|りょうり}", "headingVi": "Những món tôi nấu được", "paragraphs": [
+          [
+            {"jp": "{結婚|けっこん}する{前|まえ}は、わたしは{料理|りょうり}ができませんでした。", "vi": "Trước khi kết hôn, tôi không biết nấu ăn."},
+            {"jp": "{結婚|けっこん}してから、{料理|りょうり}をするようになりました。", "vi": "Sau khi kết hôn, tôi bắt đầu nấu ăn."},
+            {"jp": "{今|いま}は、{少|すこ}し{料理|りょうり}ができます。", "vi": "Bây giờ tôi nấu ăn được một chút."},
+            {"jp": "{得意|とくい}な{料理|りょうり}は、カレーとパスタです。", "vi": "Món tủ của tôi là cà ri và mì Ý."},
+            {"jp": "カレーは、{日本|にほん}のカレーと、インドのカレーと、タイのカレーが{作|つく}れます。", "vi": "Về cà ri, tôi nấu được cà ri Nhật, cà ri Ấn Độ và cà ri Thái."},
+            {"jp": "パスタは、シンプルなペペロンチーノ、シーフードとトマトソースのパスタや、バジルソースのパスタなどが{作|つく}れます。", "vi": "Về mì Ý, tôi làm được món peperoncino đơn giản, mì sốt cà chua hải sản, mì sốt húng quế, v.v."},
+            {"jp": "{最近|さいきん}は、バジルソースも、{自分|じぶん}で{作|つく}るようになりました。", "vi": "Gần đây tôi còn tự làm cả sốt húng quế."},
+            {"jp": "{簡単|かんたん}な{日本|にほん}の{料理|りょうり}も、{作|つく}れます。", "vi": "Tôi cũng nấu được những món Nhật đơn giản."}
+          ]
+        ]}
+      ]
+    },
+    "17": {
+      "title": "プレゼント",
+      "titleVi": "Quà tặng",
+      "sections": [
+        {"speaker": "li", "paragraphs": [
+          [
+            {"jp": "{日本|にほん}に{来|く}るとき、わたしは、いろいろな{人|ひと}からプレゼントをもらいました。", "vi": "Khi sang Nhật, tôi đã nhận được quà từ nhiều người."},
+            {"jp": "{父|ちち}は、{時計|とけい}をくれました。", "vi": "Bố tặng tôi đồng hồ."},
+            {"jp": "{母|はは}は、スカーフをくれました。", "vi": "Mẹ tặng tôi khăn quàng."},
+            {"jp": "{兄|あに}と{姉|あね}は、バッグをくれました。", "vi": "Anh trai và chị gái tặng tôi túi xách."},
+            {"jp": "そして、{妹|いもうと}と{弟|おとうと}は、セーターをくれました。", "vi": "Còn em gái và em trai tặng tôi áo len."},
+            {"jp": "どれも、とても{好|す}きでした。", "vi": "Món nào tôi cũng rất thích."},
+            {"jp": "とてもうれしかったです。", "vi": "Tôi đã rất vui."},
+            {"jp": "そして、{親戚|しんせき}のおじさんは、おこづかいをくれました。", "vi": "Ngoài ra, người chú trong họ hàng đã cho tôi tiền tiêu vặt."}
+          ]
+        ]},
+        {"speaker": "akio", "paragraphs": [
+          [
+            {"jp": "はたちの{誕生日|たんじょうび}のときに、わたしは、いろいろなプレゼントをもらいました。", "vi": "Vào sinh nhật 20 tuổi, tôi đã nhận được nhiều quà.", "sh": true},
+            {"jp": "{父|ちち}は、ベルトをくれました。", "vi": "Bố tặng tôi thắt lưng.", "sh": true},
+            {"jp": "{母|はは}は、ネクタイをくれました。", "vi": "Mẹ tặng tôi cà vạt.", "sh": true},
+            {"jp": "{兄|あに}と{姉|あね}は、ポロシャツをくれました。", "vi": "Anh trai và chị gái tặng tôi áo polo.", "sh": true},
+            {"jp": "そして、{妹|いもうと}は、ハンカチをくれました。", "vi": "Còn em gái tặng tôi khăn tay.", "sh": true}
+          ],
+          [
+            {"jp": "{誕生日|たんじょうび}の{夜|よる}は、{彼女|かのじょ}といっしょに{食事|しょくじ}をしました。", "vi": "Tối sinh nhật, tôi đi ăn cùng bạn gái."},
+            {"jp": "{彼女|かのじょ}は、すてきなサイフをくれました。", "vi": "Bạn gái tặng tôi một chiếc ví rất đẹp."},
+            {"jp": "わたしは、サイフがほしかったので、とてもうれしかったです。", "vi": "Vì đang muốn có ví nên tôi rất vui."}
+          ]
+        ]},
+        {"speaker": "nishiyama", "paragraphs": [
+          [
+            {"jp": "{毎年|まいとし}、クリスマスには、{子|こ}どもたちにいろいろな{物|もの}をあげました。", "vi": "Mỗi năm vào dịp Giáng sinh, tôi đã tặng các con nhiều thứ."},
+            {"jp": "{子|こ}どもたちが{小|ちい}さいときは、{人形|にんぎょう}やおもちゃをあげました。", "vi": "Khi các con còn nhỏ, tôi tặng búp bê và đồ chơi."},
+            {"jp": "{上|うえ}の{子|こ}は、{本|ほん}を{読|よ}むのが{好|す}きでした。", "vi": "Đứa lớn thích đọc sách."},
+            {"jp": "ですから、{4|よん}さいのときからは、よく{絵本|えほん}をあげました。", "vi": "Vì vậy, từ khi con lên 4 tuổi, tôi hay tặng sách tranh."},
+            {"jp": "{下|した}の{子|こ}は、アニメが{好|す}きでした。", "vi": "Đứa nhỏ thì thích phim hoạt hình."},
+            {"jp": "ですから、よくアニメのＤＶＤをあげました。", "vi": "Vì vậy, tôi hay tặng DVD hoạt hình."},
+            {"jp": "{小学校|しょうがっこう}に{入|はい}ってからは、セーターやマフラーや{手|て}ぶくろをあげました。", "vi": "Từ khi các con vào tiểu học, tôi tặng áo len, khăn quàng cổ và găng tay."},
+            {"jp": "{誕生日|たんじょうび}には、ほしいものをあげました。", "vi": "Vào ngày sinh nhật, tôi tặng những thứ các con muốn."}
+          ]
+        ]}
+      ]
+    }
+  }
+}

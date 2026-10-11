@@ -1,0 +1,13 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export function getStaticPaths() {
+  return ['flash', 'quiz', 'match'].map((mode) => ({ params: { mode } }));
+}
+const { mode } = Astro.params;
+---
+<Base nav="vocab" title="Từ vựng" jp="ことば" args={[mode]}>
+  <script>
+    import '../../scripts/pages/vocab';
+  </script>
+</Base>

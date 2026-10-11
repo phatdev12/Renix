@@ -1,0 +1,40 @@
+---
+/* Floating navigation rail. Desktop: icon-only capsule (names appear in #nav-tip on hover).
+   Mobile: a drawer with labels and the unit filter. The active pill is placed by CSS from --i,
+   so it is already in position on first paint and glides between pages (view transition). */
+import { NAV, href } from '../lib/routes';
+import Icon from './Icon.astro';
+import UnitFilter from './UnitFilter.astro';
+
+interface Props { active: string }
+const { active } = Astro.props;
+const idx = NAV.findIndex((n) => n.key === active);
+---
+<aside id="sidebar" aria-label="Điều hướng">
+  <a class="brand" href="/" title="Ôn tập tiếng Nhật · Unit 13–17">
+    <span class="brand-text"><b class="wordmark">Renix</b><small>Ôn tập N4 · Unit 13–17</small></span>
+  </a>
+  <nav id="nav">
+    <span class={'nav-ind' + (idx >= 0 ? ' on' : '')} style={`--i: ${Math.max(0, idx)}`} aria-hidden="true"></span>
+    <span class="nav-hov" aria-hidden="true"></span>
+    {NAV.map((n, i) => (
+      <a
+        href={href(n.key)}
+        class={n.key === active ? 'active' : undefined}
+        aria-current={n.key === active ? 'page' : undefined}
+        aria-label={n.label}
+        data-k={n.key}
+        data-label={n.label}
+        data-jp={n.jp}
+      >
+        <span class="ni" style={`--vt: nav-i${i}`}><Icon name={n.icon} /></span>
+        <span class="nl">{n.label}</span>
+        <span class="nj" lang="ja">{n.jp}</span>
+      </a>
+    ))}
+  </nav>
+  <div class="drawer-extra">
+    <div class="side-label">Phạm vi ôn</div>
+    <UnitFilter id="unit-filter-m" wrap />
+  </div>
+</aside>

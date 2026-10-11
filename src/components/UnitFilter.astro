@@ -1,0 +1,13 @@
+---
+/* "Tất cả / 13 / 14 …" pills. The selection lives in localStorage, so shell.ts marks the active ones. */
+import { UNITS } from '../lib/course';
+
+interface Props { id: string; wrap?: boolean }
+const { id, wrap } = Astro.props;
+---
+<div id={id} class={'unit-pills' + (wrap ? ' wrap' : '')} data-unit-filter>
+  <button type="button" class="all on" data-u="all" title="Ôn tất cả Unit">Tất cả</button>
+  {UNITS.map((u) => (
+    <button type="button" data-u={u.id} title={`Unit ${u.id} — ${u.titleVi}`}>{u.id}</button>
+  ))}
+</div>

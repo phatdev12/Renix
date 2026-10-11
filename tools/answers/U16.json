@@ -1,0 +1,1136 @@
+{
+  "1824/0/1": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「高校を卒業してから、日本語の勉強を始めました」 – sau khi tốt nghiệp cấp 3, Li bắt đầu học tiếng Nhật (Vてから: sau khi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「わたしは、食べることが好きです」 – Li thích ăn uống (Vる＋ことが好きです: thích làm V).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「今は、日本語が話せますし、…」 – bây giờ Li nói được tiếng Nhật (話せます: thể khả năng của 話します).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/4": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「でも、納豆だけは、食べられません」 – riêng natto thì Li không ăn được.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「中国系のマレーシア人です。だから、マレーシア語と中国語が話せます」 – Li nói được tiếng Mã Lai và tiếng Trung.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/6": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「でも、いい文章を書くことはできません」 – Li đọc được tiếng Trung nhưng không viết được câu văn hay.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/7": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「日本の食べ物は、何でも食べられます。でも、納豆だけは、食べられません」 – có ngoại lệ là natto, nên câu trả lời chính xác là 「いいえ、納豆だけは食べられません」.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Câu hỏi hơi mơ hồ: bài đọc có câu 「何でも食べられます」 nên 「はい」 cũng có vẻ hợp; nhưng phương án [0] được viết riêng theo chi tiết 「納豆だけは」 nên nhiều khả năng là đáp án của đề."
+  },
+  "1824/0/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「お寿司や、さしみが、大好きです」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/9": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「わたしは中国系なので、漢字の意味はだいたい分かります」 – vì Li là người gốc Hoa (中国系), không phải người Trung Quốc (中国人).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/10": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「ですから、日本語の勉強は、あまり大変ではありませんでした」 – học tiếng Nhật không vất vả lắm (あまり＋phủ định: không … lắm).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/11": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「日本の食べ物は、とても、おいしいと思います」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/12": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「わたしは、中国系のマレーシア人です」 – Li là người Malaysia gốc Hoa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/13": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「納豆はにおいがひどいと思います」 – natto có mùi kinh khủng (におい: mùi; ひどい: kinh khủng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/14": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「漢字の書き方も、分かります」 – Li cũng biết cách viết chữ Hán (書き方: cách viết).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/15": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「マレーシア語と英語は、読むことも書くこともできます」 – cả đọc lẫn viết đều được.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án [0] có lỗi đánh máy: kết thúc bằng 「できますか。」 thay vì 「できます。」."
+  },
+  "1824/0/16": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「お好み焼きやたこ焼きも、好きです」 – Li cũng thích okonomiyaki và takoyaki.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Bài đọc chỉ nói 「好きです」 (không có とても), nhưng [1] là phương án khẳng định duy nhất."
+  },
+  "1824/0/17": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「天ぷらも、大好きです」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/18": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「私立の学校に行ったので、英語も話せます」 – Li học trường tư thục (私立: しりつ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/19": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「今は、日本語が話せますし、学校の本も読めます」 – đề lấy vế 「日本語が話せます」 làm lý do cho việc đọc được sách ở trường.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Bài đọc dùng 〜し (liệt kê) chứ không nêu lý do trực tiếp; [0] là phương án duy nhất bám theo câu này trong bài."
+  },
+  "1824/0/20": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「そして、ヘルシーだと思います」 – Li nghĩ đồ ăn Nhật tốt cho sức khỏe.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/0/21": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「でも、レポートなどは、まだうまく書けません」 – vẫn chưa viết giỏi được báo cáo (まだ＋phủ định: vẫn chưa; 書けません: thể khả năng phủ định).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「カレーは、日本のカレーと、インドのカレーと、タイのカレーが作れます」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「得意な料理は、カレーとパスタです」 (得意な料理: món sở trường).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「結婚する前は、わたしは料理ができませんでした。結婚してから、料理をするようになりました」 – thầy biết nấu ăn từ sau khi kết hôn.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án [0] có lỗi đánh máy (「前に前から」)."
+  },
+  "1824/1/4": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「結婚する前は、わたしは料理ができませんでした」. Với câu hỏi phủ định, 「はい」 nghĩa là xác nhận nội dung phủ định (đúng vậy, đã không nấu được).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「パスタは、シンプルなペペロンチーノ、シーフードとトマトソースのパスタや、バジルソースのパスタなどが作れます」.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/6": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Bài đọc: 「簡単な日本の料理も、作れます」 – thầy nấu được món Nhật đơn giản (簡単な).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/7": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「最近は、バジルソースも、自分で作るようになりました」 – gần đây thầy tự làm được cả sốt basil.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1824/1/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Bài đọc: 「今は、少し料理ができます」 – bây giờ thầy nấu ăn được một chút (少し), không phải nhiều.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2182/0/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Cần nghe CD: ① lời B đáp khi được hỏi bánh thế nào, ②③ động từ diễn tả 'bên trong có…' (mẫu 〜が…ています), ④ từ đứng trước 「少しどうですか」 trong lời mời ăn thêm.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Lỗi đề: 「おいしです」 (đúng: おいしいです). Ví dụ 「b どうですか」 cho thấy đề gốc có danh sách lựa chọn a, b, c… nhưng bản LMS không hiển thị danh sách này, nên không rõ có phải gõ kèm chữ cái hay không."
+  },
+  "2182/0/2": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Cần nghe CD để biết từ cụ thể; mỗi chỗ trống là thể て của tính từ/động từ để nêu lý do (い-adj: 〜くて, な-adj: 〜で, phủ định: 〜なくて), giống ví dụ 「からくなくて」.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Lỗi đề: ký tự thừa 「の」 ở đầu dòng ví dụ (「のこのスープは…」)."
+  },
+  "2182/0/3": {
+    "type": "blanks",
+    "answer": {
+      "1": "しんせんで",
+      "2": "よくて",
+      "3": "おおくなくて"
+    },
+    "explain": "Nối câu bằng thể て để nêu lý do: な-adj しんせんです → しんせんで; いいです là ngoại lệ → よくて; おおくないです → bỏ い thêm くて → おおくなくて.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Đề ghi 'nghe CD' nhưng đáp án xác định hoàn toàn bằng ngữ pháp. Câu ④ thiếu dấu 「）」 sau ô trống."
+  },
+  "2182/1/1": {
+    "type": "dragtext",
+    "answer": [5, 0, 4, 6, 1, 7, 3, 2],
+    "sentence": "りょうりをつくります／はをみがきます／えきにつきます／けっこんをします／ピアノをひきます／先生になります／日本語をならいます／でんしゃにのります",
+    "explain": "Cụm cố định: 料理を作ります (nấu món ăn), 歯を磨きます (đánh răng), 駅に着きます (đến ga), 結婚をします (kết hôn), ピアノを弾きます (chơi piano), 先生になります (trở thành giáo viên), 日本語を習います (học tiếng Nhật), 電車に乗ります (lên tàu).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "りょうりをします cũng đúng, nhưng mỗi thẻ chỉ dùng một lần nên します phải dành cho けっこん; tương tự ならいます phải dành cho 日本語を, nên 先生に đi với なります."
+  },
+  "2182/2/1": {
+    "type": "matching",
+    "answer": {
+      "①": "おこのみやき",
+      "②": "カレー",
+      "③": "トマトソース",
+      "④": "たこやき",
+      "⑤": "てんぷら",
+      "⑥": "シーフード",
+      "⑦": "なっとう"
+    },
+    "explain": "① okonomiyaki (bánh xèo Nhật), ② cơm cà ri, ③ hộp cà chua → sốt cà chua, ④ takoyaki (bánh bạch tuộc viên), ⑤ tempura (đồ chiên tẩm bột), ⑥ hải sản (cua, tôm, sò…), ⑦ natto (đậu nành lên men kéo sợi).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2182/2/2": {
+    "type": "blanks",
+    "answer": {
+      "1": "b キムチ",
+      "2": "i からい",
+      "3": "a レモン",
+      "4": "h すっぱい",
+      "5": "d つけもの",
+      "6": "g しょっぱい"
+    },
+    "explain": "② kim chi (キムチ) – cay (からい); ③ chanh (レモン) – chua (すっぱい); ④ dưa muối Nhật (つけもの) – mặn (しょっぱい). チリ (ớt) là phương án nhiễu.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/0/1": {
+    "type": "single",
+    "answer": 2,
+    "explain": "中国系 (ちゅうごくけい) = gốc Hoa; ～系 (けい): gốc ~. 'Tôi là người Malaysia gốc Hoa'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/0/2": {
+    "type": "single",
+    "answer": 2,
+    "explain": "あまい食べ物がすきです – 'Tôi thích đồ ăn ngọt'. きらい là な-adj (phải là きらいな) và trái nghĩa với すき; いみ là danh từ.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "あかい (màu đỏ) ghép được về ngữ pháp nhưng không hợp nghĩa bằng; đáp án dự kiến là あまい (từ chỉ vị)."
+  },
+  "1857/0/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "日本りょうりをする = nấu món Nhật (りょうりをします: nấu ăn); Vることができます: có thể làm V.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/0/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "なっとうを食べることができません – 'Tôi không ăn được natto'. おさけ (rượu) đi với のみます; ヘルシー, とくい là tính từ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/0/5": {
+    "type": "single",
+    "answer": 1,
+    "explain": "てんぷらをたべたことがあります – 'Tôi đã từng ăn tempura' (Vたことがあります: đã từng). ヘルシ viết sai (đúng: ヘルシー) và cũng không ăn được.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Tranh cua, tôm, nhím biển, sò… → シーフード (hải sản).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/2": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh bánh tròn phủ sốt nâu, mayonnaise, cá bào → おこのみやき (okonomiyaki).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/3": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh hộp đồ hộp cà chua → トマトソース (sốt cà chua), từ vựng của Unit 16. トマート viết sai; ボタン là cái nút.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Nếu chỉ nhìn hình quả cà chua thì トマト cũng có vẻ hợp, nhưng hình là hộp đồ hộp và bài ドリル (2182) cũng dùng hình hộp cà chua cho トマトソース."
+  },
+  "1857/1/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Tranh bịt mũi vì mùi khó chịu → ひどいにおい (mùi kinh khủng). びどい, ひとい viết sai.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Tranh người đàn ông đang thái rau → 男の人はりょうりをします (nấu ăn). Hai phương án kia sai động từ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/6": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Tranh cơm cà ri → カレー. カラー là màu sắc, インド là Ấn Độ, バンド là ban nhạc.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/7": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Tranh salad rau → ヘルシーな食べ物 (đồ ăn tốt cho sức khỏe); viết đúng là ヘルシー có trường âm ー.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Tranh bánh bạch tuộc viên → たこやき. なっと viết sai (đúng: なっとう).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1857/1/9": {
+    "type": "single",
+    "answer": 1,
+    "explain": "きめます (quyết định) là tha động từ: Nをきめます → 時間をきめました (đã quyết định giờ).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2181/0/1": {
+    "type": "matching",
+    "answer": {
+      "V ます ＋方（かた）": "Dùng để diễn tả phương pháp, biện pháp, cách thức của hành động, hành vi nào đó. có nghĩa là : Cách…",
+      "なんでも＋Vます": "Diễn tả ý nghĩa “bất cứ điều gì”, “bất cứ vật gì”, “tất cả”.."
+    },
+    "explain": "V(bỏ ます)＋方 = cách làm V (読み方: cách đọc); なんでも＋V = cái gì cũng V (なんでも食べられます).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2181/1/1": {
+    "type": "order",
+    "answer": [2, 1, 3, 0],
+    "sentence": "漢字の読みかたを教えてください。",
+    "explain": "N の V(bỏ ます)＋かた: 漢字の読みかた = cách đọc chữ Hán. 'Hãy chỉ cho tôi cách đọc chữ Hán'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2181/1/2": {
+    "type": "order",
+    "answer": [2, 3, 0, 1],
+    "sentence": "日本料理はとてもヘルシーです。そしてなんでもおいしいです。",
+    "explain": "そして (và, hơn nữa) đứng đầu câu; なん＋でも = なんでも (cái gì cũng). 'Món Nhật rất tốt cho sức khỏe. Hơn nữa, món nào cũng ngon'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1958/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "あえます",
+      "2": "いけます",
+      "3": "とれます",
+      "4": "かせます",
+      "5": "ねられます",
+      "6": "たべられます",
+      "7": "こられます",
+      "8": "できます",
+      "9": "せつめいできます"
+    },
+    "explain": "Nhóm I: đổi âm cuối từ hàng い sang hàng え (あい→あえ, いき→いけ, とり→とれ, かし→かせ); nhóm II: bỏ ます thêm られます; nhóm III: きます→こられます, します→できます (せつめいします→せつめいできます).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lỗi đánh máy trong đề: 「IIぐグループ」 (thừa ぐ). Dạng ら抜き như たべれます, これます là văn nói, không đúng theo giáo trình."
+  },
+  "1959/0/1": {
+    "type": "order",
+    "answer": [0, 1, 2, 3],
+    "sentence": "ごはんを食べるまえに手を洗いましょう。",
+    "explain": "V辞書形＋まえに: trước khi V. 'Trước khi ăn cơm, hãy rửa tay'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1959/0/2": {
+    "type": "order",
+    "answer": [2, 1, 3, 0],
+    "sentence": "今日は用事があるので、早く帰ります。",
+    "explain": "普通形＋ので: vì… nên; 用事がある (có việc bận) là thể thường của あります. 'Hôm nay vì có việc nên tôi về sớm'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1959/1/1": {
+    "type": "matching",
+    "answer": {
+      "Nの・V1る ＋まえに 、V2": "“Trước khi làm…thì làm …”",
+      "ふつう形＋ので、〜": "Dùng để biểu hiện biểu thị một cách khách quan quan hệ nhân quả"
+    },
+    "explain": "〜まえに = trước khi làm… thì làm…; 普通形＋ので = vì… nên (nêu quan hệ nguyên nhân – kết quả một cách khách quan).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1959/2/1": {
+    "type": "single",
+    "answer": 2,
+    "explain": "来ます (nhóm III) → thể khả năng こられます: 'Ngày mai tôi có thể đến bữa tiệc'. できます là khả năng của します; きました là quá khứ, không hợp với 明日.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1959/2/2": {
+    "type": "single",
+    "answer": 3,
+    "explain": "N が＋thể khả năng: たこやきが食べられます ('Tôi ăn được takoyaki'). Các dạng 食べる/食べます/食べない phải đi với を, không đi với が.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1959/2/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "なんでも＋できます: 'Anh ấy việc gì cũng làm được' (できます là thể khả năng của します). されます là bị động/kính ngữ, しられます sai.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "「なんでもします」 về ngữ pháp vẫn đúng (việc gì cũng làm), nhưng bài luyện thể khả năng nên đáp án là できます."
+  },
+  "1960/0/1": {
+    "type": "matching",
+    "answer": {
+      "Vるようになりました。": "Biểu thị sự thay đổi từ trạng thái không thể làm được một việc gì đó sang trạng thái có thể làm được.",
+      "Aですから／だからB": "Dùng để nêu kết quả, hệ quả của câu trước, câu đi liền trước thường là lý do, phán đoán, kết quả đương nhiên.."
+    },
+    "explain": "〜ようになりました: diễn tả sự thay đổi (từ không làm được → làm được); ですから／だから: 'vì vậy', câu trước là lý do, câu sau là kết quả.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1960/1/1": {
+    "type": "order",
+    "answer": [0, 3, 2, 1],
+    "sentence": "新しいシステムを使えるようになりました。",
+    "explain": "Thể khả năng (使える)＋ようになりました: đã trở nên làm được. 'Tôi đã sử dụng được hệ thống mới'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Giáo trình dạy を → が trước thể khả năng, nhưng thẻ cho sẵn là を (cách nói này cũng được dùng)."
+  },
+  "1960/1/2": {
+    "type": "order",
+    "answer": [1, 3, 0, 2],
+    "sentence": "今日はとても忙しいですからパーティーに行けません。",
+    "explain": "〜ですから: vì… nên; 行けません là thể khả năng phủ định của 行きます. 'Hôm nay rất bận nên không đi dự tiệc được'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/0/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "たべられます",
+      "2": "できます",
+      "3": "ぬげます",
+      "4": "いえます",
+      "5": "かえます",
+      "6": "しらべられます",
+      "7": "かぶれます",
+      "8": "まてます",
+      "9": "とれます",
+      "10": "おしえられます",
+      "11": "もっていけます",
+      "12": "けせます",
+      "13": "もってこられます",
+      "14": "こられます"
+    },
+    "explain": "Nhóm I: hàng い → hàng え (ぬぎ→ぬげ, いい→いえ, かい→かえ, かぶり→かぶれ, まち→まて, とり→とれ, けし→けせ, もっていき→もっていけ); nhóm II: ＋られます; nhóm III: します→できます, きます→こられます (もってきます→もってこられます).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "さしみが食べられます。"
+    },
+    "explain": "Thể khả năng của 食べます (nhóm II) là 食べられます, trợ từ を đổi thành が. 'Tôi ăn được sashimi'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "「さしみを食べられます。」 cũng gặp trong văn nói nhưng giáo trình yêu cầu dùng が."
+  },
+  "2157/1/2": {
+    "type": "blanks",
+    "answer": {
+      "1": "ごはんをたべるまえに、手を洗います。"
+    },
+    "explain": "V辞書形＋まえに: たべます → たべる. 'Trước khi ăn cơm, tôi rửa tay'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/3": {
+    "type": "blanks",
+    "answer": {
+      "1": "あたまがいたいので、はやく帰ってもいいですか。"
+    },
+    "explain": "普通形＋ので: い-adj bỏ です → いたいので. 'Vì đau đầu nên tôi về sớm có được không?'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/4": {
+    "type": "blanks",
+    "answer": {
+      "1": "毎日、じてんしゃにのるようになりました。"
+    },
+    "explain": "V辞書形＋ようになりました (thay đổi thói quen): のります → のる. 'Bây giờ ngày nào tôi cũng đi xe đạp'.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Nếu giáo viên muốn dùng thể khả năng như ví dụ trong bài (じてんしゃにのれるようになりました) thì đáp án là 「毎日、じてんしゃにのれるようになりました。」; nhưng có 毎日 nên dạng のる (thói quen) tự nhiên hơn."
+  },
+  "2157/1/5": {
+    "type": "blanks",
+    "answer": {
+      "1": "わたしは中国系なので、漢字の意味はだいたい分かります。"
+    },
+    "explain": "Danh từ＋な＋ので: 中国系です → 中国系なので. 'Vì tôi là người gốc Hoa nên tôi hiểu đại khái nghĩa chữ Hán' (câu trong bài đọc).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/6": {
+    "type": "blanks",
+    "answer": {
+      "1": "漢字の書き方もわかります。ですから、日本語の勉強はたいへんじゃありません。"
+    },
+    "explain": "わかります tự nó đã mang nghĩa 'hiểu được' nên không có thể khả năng (không nói わかれます) → giữ nguyên; ですから nối lý do với kết quả: 'Tôi cũng biết cách viết chữ Hán. Vì vậy học tiếng Nhật không vất vả'.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Đề đặt 【わかります】 như cần biến đổi nhưng không có dạng biến đổi hợp lý; đáp án dự kiến là viết lại nguyên câu (bài đọc viết 分かります bằng kanji, nhưng đề yêu cầu giữ chữ như câu mẫu)."
+  },
+  "2157/1/7": {
+    "type": "blanks",
+    "answer": {
+      "1": "寝るまえに、宿題をします。"
+    },
+    "explain": "V辞書形＋まえに: 寝ます → 寝る. Tranh: làm bài tập buổi tối rồi đi ngủ → 'Trước khi ngủ, tôi làm bài tập'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/8": {
+    "type": "blanks",
+    "answer": {
+      "1": "結婚してから、料理をするようになりました。"
+    },
+    "explain": "V辞書形＋ようになりました: します → する. 'Sau khi kết hôn, tôi bắt đầu nấu ăn' (câu trong bài đọc của thầy Nishiyama).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/9": {
+    "type": "blanks",
+    "answer": {
+      "1": "英語がはなせます。"
+    },
+    "explain": "Thể khả năng nhóm I: はなします → はなせます (し → せ). 'Tôi nói được tiếng Anh'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "2157/1/10": {
+    "type": "blanks",
+    "answer": {
+      "1": "電車がこなかったので、ちこくしました。"
+    },
+    "explain": "普通形＋ので; tranh người đàn ông lo lắng xem đồng hồ chờ tàu và vế sau ở quá khứ → 'Vì tàu không đến nên tôi bị trễ': きます → thể thường phủ định quá khứ こなかった.",
+    "confidence": "medium",
+    "needs_audio": false,
+    "note": "Đề không ghi rõ phải chia phủ định quá khứ; suy ra từ tranh và nghĩa câu. Viết kanji 「来なかった」 có thể cũng được chấp nhận."
+  },
+  "2157/2/1": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Cần nghe CD: xác định Li muốn làm gì ở mỗi mục 1)–3) (tranh ②–⑤: ② học nghe với CD/tai nghe, ③ học kanji bằng sách, ④ đi nha sĩ, ⑤ viết giấy tờ có ảnh, phong bì) và Kawasaki sẽ giúp bằng cách a hay b.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Lỗi đề: ví dụ ghi (số tranh)・・・(a/b) nhưng ô (1),(3),(5) lại cho chọn a/b còn ô (2),(4) cho chọn số tranh (thứ tự bị đảo). Ô thứ 6 bị lỗi hiển thị thành [[6]] – là một chỗ trống thật (số tranh cho mục 3) nhưng không có trong danh sách slot và không có lựa chọn. Bản dịch tiếng Việt của đề cũng sai ('Lee đã làm gì giúo Kawasaki' → đúng ra: Kawasaki giúp Li việc gì)."
+  },
+  "2157/2/2": {
+    "type": "blanks",
+    "answer": {
+      "1": "X",
+      "2": "O",
+      "3": "X",
+      "4": "O"
+    },
+    "explain": "① X: Doraemon là robot hình con mèo (ねこの形のロボット), không phải động vật. ② O: lấy được nhiều đồ từ túi thần kỳ. ③ X: タケコプター gắn lên đầu (頭につける) để bay, không phải 'cưỡi/đi' (乗ります). ④ O: mở どこでもドア là đến được bất cứ đâu.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Lỗi đánh máy ở câu ③: 「｛タケコプター」」 (｛ thay cho 「)."
+  },
+  "2157/2/3": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Cần nghe CD để biết bạn nào (タワポン, キム, カリナ, ジャン, エド) nhận việc nào: (1) quay phim, (2) vai samurai, (3) vai công chúa, (4) vai ninja, (5) trang điểm, và lý do (b–f là các cụm thể khả năng: ビデオが撮れる, 高い声で話せる, 速く走れる, 絵がかける, 剣道ができる).",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Ví dụ: ③ミゲル viết truyện/kịch bản vì お話が書ける (a). Gợi ý theo logic (chưa kiểm chứng bằng audio): quay phim–b, samurai–f, công chúa–c, ninja–d, trang điểm–e; còn tên người bắt buộc phải nghe. Lựa chọn trong LMS dùng ký tự ➀–➅ (khác với ①–⑥ trong hình)."
+  },
+  "2157/2/4": {
+    "type": "blanks",
+    "answer": null,
+    "explain": "Cần nghe CD: với mỗi việc (tiệc trong phòng, nấu ăn trong phòng, bạn ngủ lại ký túc xá) nghe xem có được phép không (Ｏ/Ｘ) và cách xử lý: làm ở nhà ăn, nấu ở bếp nhỏ cạnh nhà ăn, hoặc ngủ ở phòng trống.",
+    "confidence": "low",
+    "needs_audio": true,
+    "note": "Phương án 「食堂の隣に小さい台所でする」 sai trợ từ (đúng: 食堂の隣の小さい台所でする). Lựa chọn Ｏ/Ｘ là ký tự toàn góc."
+  },
+  "1921/0/1": {
+    "type": "single",
+    "answer": 3,
+    "explain": "Trước と思います dùng thể thường; い-adj giữ nguyên: おいしいと思います ('Tôi nghĩ đồ ăn Nhật ngon'). い-adj không thêm だ.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "な-adj＋だ＋と思います: ヘルシーだと思います ('Tôi nghĩ đồ ăn Nhật tốt cho sức khỏe'), đúng như câu trong bài đọc.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "よみます (đọc) → しょうせつ (tiểu thuyết). テレビ, しゃしん thì 'xem', パソコン thì 'dùng'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "何でも＋thể khả năng: 日本料理は何でも食べられます – 'Món Nhật thì món gì tôi cũng ăn được'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "だから đứng đầu câu, nối với câu lý do phía trước: 'Tôi là người Malaysia gốc Hoa. Vì vậy, tôi nói được tiếng Mã Lai và tiếng Trung'. から/ので phải gắn sau vế câu, không đứng đầu câu.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/6": {
+    "type": "single",
+    "answer": 3,
+    "explain": "V辞書形＋のが好きです: thích làm V ('Tôi thích nấu món Nhật'); の danh từ hóa động từ, が đi với 好き.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/7": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Sau の phải là danh từ: 日本語の勉強 (việc học tiếng Nhật). 'Việc học tiếng Nhật không vất vả lắm'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/8": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Vてから: sau khi. 'Sau khi kết hôn, tôi bắt đầu nấu ăn' (けっこんしてから料理をするようになりました).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/9": {
+    "type": "single",
+    "answer": 1,
+    "explain": "自分で = tự mình. 'Tôi cũng đã tự làm được sốt basil'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/10": {
+    "type": "single",
+    "answer": 0,
+    "explain": "簡単 là な-adj, bổ nghĩa cho danh từ thì thêm な: 簡単な日本の料理 (món Nhật đơn giản).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/11": {
+    "type": "single",
+    "answer": 0,
+    "explain": "V辞書形＋まえに: 寝ます → 寝る. 'Mỗi tối trước khi ngủ bạn làm gì?'",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/12": {
+    "type": "single",
+    "answer": 0,
+    "explain": "Bài đọc: 「わたしは中国系なので、漢字の意味はだいたい分かります」 → vì Li là người gốc Hoa (ちゅうごくけい).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/13": {
+    "type": "single",
+    "answer": 3,
+    "explain": "V辞書形＋ようになりました: 毎朝、歩くようになりました – 'Mỗi sáng tôi đã bắt đầu đi bộ' (thay đổi thói quen).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/14": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Với động từ thể khả năng (書けます), tân ngữ dùng が thay cho を: 日本語のレポートが書けます.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/15": {
+    "type": "single",
+    "answer": 2,
+    "explain": "な-adj＋な＋ので: すきなので ('Vì thích thịt nên ngày nào cũng ăn').",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/16": {
+    "type": "single",
+    "answer": 3,
+    "explain": "N＋の＋まえに: しょくじのまえに ('Trước bữa ăn thì rửa tay').",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/17": {
+    "type": "single",
+    "answer": 2,
+    "explain": "Bài đọc: 「納豆はにおいがひどいと思います」 → không ăn được natto là vì mùi; các phương án ngọt/ngon/cay đều sai.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Phương án đúng viết thiếu; đầy đủ phải là 「においがひどいですから」."
+  },
+  "1921/0/18": {
+    "type": "single",
+    "answer": 1,
+    "explain": "普通形＋ので: い-adj bỏ です → あたまがいたいので ('Vì đau đầu nên tôi về sớm').",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1921/0/19": {
+    "type": "single",
+    "answer": 1,
+    "explain": "Thể khả năng nhóm I: よみます → よめます (み → め). 'Bạn đọc được báo tiếng Nhật không? – Vâng, đọc được'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/1": {
+    "type": "short",
+    "answer": "でも、納豆だけは、食べられません。",
+    "explain": "Câu trong bài đọc: 'Nhưng riêng natto thì tôi không ăn được' (だけは: riêng…; 食べられません: thể khả năng phủ định).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana (chữ nhỏ phía trên chữ Hán)."
+  },
+  "993/0/2": {
+    "type": "short",
+    "answer": "マレーシア語と英語は、読むことも書くこともできます。",
+    "explain": "'Tiếng Mã Lai và tiếng Anh thì tôi đọc lẫn viết đều được' (Vることができます; 〜も〜も: cả… lẫn…).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/3": {
+    "type": "short",
+    "answer": "日本の食べ物は、何でも食べられます。",
+    "explain": "'Đồ ăn Nhật thì món gì tôi cũng ăn được' (何でも＋thể khả năng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/4": {
+    "type": "short",
+    "answer": "わたしは中国系なので、漢字の意味はだいたい分かります。",
+    "explain": "'Vì tôi là người gốc Hoa nên tôi hiểu đại khái nghĩa của chữ Hán' (N＋なので).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/5": {
+    "type": "short",
+    "answer": "わたしは、食べることが好きです。",
+    "explain": "'Tôi thích ăn uống' (Vることが好きです).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/6": {
+    "type": "short",
+    "answer": "中国語は話せます。",
+    "explain": "'Tiếng Trung thì tôi nói được' (話します → 話せます).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/7": {
+    "type": "short",
+    "answer": "今は、日本語が話せますし、学校の本も読めます。",
+    "explain": "'Bây giờ tôi nói được tiếng Nhật, và cũng đọc được sách ở trường' (〜し: liệt kê; 読めます: thể khả năng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/8": {
+    "type": "short",
+    "answer": "天ぷらも、大好きです。",
+    "explain": "'Tôi cũng rất thích tempura'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/9": {
+    "type": "short",
+    "answer": "日本の食べ物は、とても、おいしいと思います。",
+    "explain": "'Tôi nghĩ đồ ăn Nhật rất ngon' (普通形＋と思います).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/10": {
+    "type": "short",
+    "answer": "お好み焼きやたこ焼きも、好きです。",
+    "explain": "'Tôi cũng thích okonomiyaki, takoyaki…' (〜や〜: liệt kê).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/11": {
+    "type": "short",
+    "answer": "私立の学校に行ったので、英語も話せます。",
+    "explain": "'Vì đã học trường tư thục nên tôi cũng nói được tiếng Anh' (た形＋ので).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/12": {
+    "type": "short",
+    "answer": "わたしは、中国系のマレーシア人です。",
+    "explain": "'Tôi là người Malaysia gốc Hoa' (〜系: gốc ~).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ furigana; trong ảnh 中 国 系 bị giãn chữ do furigana nhưng phải gõ liền 中国系."
+  },
+  "993/0/13": {
+    "type": "short",
+    "answer": "お寿司や、さしみが、大好きです。",
+    "explain": "'Tôi rất thích sushi, sashimi…'.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/14": {
+    "type": "short",
+    "answer": "漢字の書き方も、分かります。",
+    "explain": "'Tôi cũng biết cách viết chữ Hán' (Vます＋方: cách làm).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/15": {
+    "type": "short",
+    "answer": "だから、マレーシア語と中国語が話せます。",
+    "explain": "'Vì vậy, tôi nói được tiếng Mã Lai và tiếng Trung' (だから: vì vậy).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ phần furigana."
+  },
+  "993/0/16": {
+    "type": "short",
+    "answer": "でも、いい文章を書くことはできません。",
+    "explain": "'Nhưng tôi không viết được câu văn hay' (Vることはできません).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ furigana; trong ảnh 文 章 bị giãn chữ nhưng phải gõ liền 文章."
+  },
+  "993/0/17": {
+    "type": "short",
+    "answer": "でも、レポートなどは、まだうまく書けません。",
+    "explain": "'Nhưng những thứ như báo cáo thì tôi vẫn chưa viết giỏi được' (まだ＋phủ định: vẫn chưa).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/18": {
+    "type": "short",
+    "answer": "そして、読むこともできます。",
+    "explain": "'Và tôi cũng đọc được' (そして: và, thêm nữa).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/19": {
+    "type": "short",
+    "answer": "高校を卒業してから、日本語の勉強を始めました。",
+    "explain": "'Sau khi tốt nghiệp cấp 3, tôi bắt đầu học tiếng Nhật' (Vてから: sau khi).",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Không gõ furigana; trong ảnh 勉 強 bị giãn chữ nhưng phải gõ liền 勉強."
+  },
+  "993/0/20": {
+    "type": "short",
+    "answer": "ですから、日本語の勉強は、あまり大変ではありませんでした。",
+    "explain": "'Vì vậy, việc học tiếng Nhật đã không vất vả lắm' (ですから: vì vậy; あまり＋phủ định).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/21": {
+    "type": "short",
+    "answer": "納豆はにおいがひどいと思います。",
+    "explain": "'Tôi nghĩ natto có mùi kinh khủng' (ひどい: kinh khủng; 〜と思います).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/22": {
+    "type": "short",
+    "answer": "そして、ヘルシーだと思います。",
+    "explain": "'Và tôi nghĩ (đồ ăn Nhật) tốt cho sức khỏe' (な-adj＋だ＋と思います).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "993/0/23": {
+    "type": "short",
+    "answer": "漢字の読み方も、時々分かりません。",
+    "explain": "'Cách đọc chữ Hán thì đôi khi tôi cũng không biết' (読み方: cách đọc; 時々: thỉnh thoảng).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/0/1": {
+    "type": "single",
+    "answer": 1,
+    "explain": "いけん = 意見 (ý kiến). 意味 là いみ (ý nghĩa); 県 (tỉnh) là chữ khác.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/0/2": {
+    "type": "single",
+    "answer": 0,
+    "explain": "さいきん = 最近 (gần đây). 最初 là さいしょ (đầu tiên); 近最 bị đảo.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/0/3": {
+    "type": "single",
+    "answer": 2,
+    "explain": "とくい = 得意 (sở trường, giỏi). 徳 là chữ khác; 意得 bị đảo.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/0/4": {
+    "type": "single",
+    "answer": 2,
+    "explain": "ふべん = 不便 (bất tiện). 'Nếu không có điện thoại thì chắc bất tiện lắm'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/0/5": {
+    "type": "single",
+    "answer": 0,
+    "explain": "にっけい = 日系 (gốc Nhật); 日系企業: doanh nghiệp Nhật. 日計, 日経 là chữ khác.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/1/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "意味",
+      "2": "土曜日",
+      "3": "読み方",
+      "4": "何人",
+      "5": "中国系",
+      "6": "問題",
+      "7": "話題",
+      "8": "不便",
+      "9": "料理",
+      "10": "意見"
+    },
+    "explain": "Chọn chữ Hán viết đúng: 意味 (ý nghĩa), 土曜日 (thứ Bảy – 土 nét dưới dài), 読み方 (cách đọc), 何人 (mấy người), 中国系 (gốc Hoa), 問題 (vấn đề), 話題 (đề tài), 不便 (bất tiện), 料理 (món ăn), 意見 (ý kiến).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1933/2/1": {
+    "type": "blanks",
+    "answer": {
+      "1": "にほんけい",
+      "2": "しりつ",
+      "3": "じ",
+      "4": "いみ",
+      "5": "いけん",
+      "6": "しりょう",
+      "7": "ほうほう",
+      "8": "まえ",
+      "9": "さいしょ",
+      "10": ["なに", "なん"],
+      "11": "ふべん",
+      "12": "ただしい",
+      "13": "もんだい",
+      "14": "とくい",
+      "15": "ふあん",
+      "16": "にっけいきぎょう"
+    },
+    "explain": "系 đọc けい (日系 biến âm thành にっけい); 私立 しりつ; 資料 しりょう; 方法 ほうほう; 最初 さいしょ; 不 đọc ふ trong 不便/不安; 正しい ただしい.",
+    "confidence": "high",
+    "needs_audio": false,
+    "note": "Ô 10 (何) có hai cách đọc なに/なん (bảng kanji của bài: 何：なに・なん); nếu hệ thống chỉ nhận một đáp án thì thường là なに."
+  },
+  "1808/0/1": {
+    "type": "single",
+    "answer": 0,
+    "explain": "正しい đọc là ただしい (đúng, chính xác).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/2": {
+    "type": "single",
+    "answer": 1,
+    "explain": "系 đọc âm On là けい: 中国系 (ちゅうごくけい) = gốc Hoa.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/3": {
+    "type": "single",
+    "answer": 1,
+    "explain": "しょうご = 正午 (chính ngọ, 12 giờ trưa); 午 là chữ 'ngọ', khác 牛 (bò).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/4": {
+    "type": "single",
+    "answer": 3,
+    "explain": "わたし = 私 (TƯ). 立 (đứng), 和 (hòa), 払 (trả tiền) là chữ khác.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/5": {
+    "type": "single",
+    "answer": 2,
+    "explain": "さいしょ = 最初 (đầu tiên). 最近 là さいきん, 最後 là さいご.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/6": {
+    "type": "single",
+    "answer": 3,
+    "explain": "前 đọc là まえ (phía trước): 'Trước nhà có bưu điện'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/7": {
+    "type": "single",
+    "answer": 3,
+    "explain": "不安 đọc là ふあん (bất an): 'Vì lo lắng nên không ngủ được'.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/8": {
+    "type": "single",
+    "answer": 1,
+    "explain": "得意 đọc là とくい (giỏi, sở trường). じょうず là cách đọc của 上手.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/9": {
+    "type": "single",
+    "answer": 1,
+    "explain": "話題 đọc là わだい (đề tài câu chuyện).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/10": {
+    "type": "single",
+    "answer": 2,
+    "explain": "午前 đọc là ごぜん (buổi sáng, a.m.); ごご là 午後.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/11": {
+    "type": "single",
+    "answer": 0,
+    "explain": "最近 đọc là さいきん (dạo gần đây).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/12": {
+    "type": "single",
+    "answer": 2,
+    "explain": "読み方 đọc là よみかた (cách đọc); 方 trong mẫu Vます＋方 đọc là かた.",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/13": {
+    "type": "single",
+    "answer": 0,
+    "explain": "かんわじてん = 漢和辞典 (từ điển Hán–Nhật): 漢 (Hán), 和 (Nhật), 辞典 (từ điển).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/14": {
+    "type": "single",
+    "answer": 0,
+    "explain": "しりつだいがく = 私立大学 (đại học tư thục): 私 (tư) + 立 (lập).",
+    "confidence": "high",
+    "needs_audio": false
+  },
+  "1808/0/15": {
+    "type": "single",
+    "answer": 0,
+    "explain": "料理 đọc là りょうり (món ăn), có trường âm りょう.",
+    "confidence": "high",
+    "needs_audio": false
+  }
+}

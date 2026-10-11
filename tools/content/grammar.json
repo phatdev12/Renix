@@ -1,0 +1,345 @@
+{
+  "13": [
+    {"no": "1", "group": "A", "video": 242, "title": "～たら ①", "sub": "（～あと～）", "meaning": "Sau khi … thì …",
+     "usage": ["Diễn tả ý: sau khi V₁ xảy ra (trong tương lai) thì sẽ làm V₂."],
+     "formulas": ["Vた ＋ ら、～"],
+     "examples": [
+       {"jp": "うちに{帰|かえ}ったら、すぐに{手|て}を{洗|あら}ってうがいをします。", "vi": "Sau khi về nhà thì tôi rửa tay rồi súc miệng ngay."},
+       {"jp": "ご{飯|はん}が{終|お}わったら、メールをチェックします。", "vi": "Sau khi ăn xong thì tôi kiểm tra mail."},
+       {"jp": "{起|お}きたら、すぐに{歯|は}をみがきます。", "vi": "Dậy xong là tôi đánh răng ngay.", "src": "text"}
+     ],
+     "extra": ["Thể た tạo giống hệt thể て, chỉ đổi て→た, で→だ: {帰|かえ}って→{帰|かえ}った, {読|よ}んで→{読|よ}んだ, {食|た}べて→{食|た}べた."],
+     "table": "te"},
+    {"no": "2", "group": "A", "video": 243, "title": "～たら ②", "sub": "（～条件文～）", "meaning": "Nếu … thì …",
+     "usage": ["Dùng để diễn đạt: với một điều kiện nhất định nào đó thì việc gì sẽ xảy ra — “Nếu A thì B”."],
+     "formulas": ["Vた ＋ ら、～", "N ＋ だった ＋ ら、～", "Adjな ＋ だった ＋ ら、～", "Adjい（bỏ い）＋ かった ＋ ら、～"],
+     "notes": ["Chia vế điều kiện ở thể quá khứ（過去形）rồi thêm ら."],
+     "examples": [
+       {"jp": "{男|おとこ}の{人|ひと}だったら、{一人|ひとり}で{旅行|りょこう}に{行|い}きます。", "vi": "Nếu là con trai thì tôi sẽ đi du lịch một mình."},
+       {"jp": "{暇|ひま}だったら、{遊|あそ}びに{行|い}きたいです。", "vi": "Nếu rảnh, tôi muốn đi chơi."},
+       {"jp": "いい{人|ひと}があらわれたら、{結婚|けっこん}したいです。", "vi": "Nếu gặp được người phù hợp, tôi muốn kết hôn.", "src": "text"}
+     ],
+     "extra": ["Phủ định: Vない → Vなかったら（{行|い}かなかったら: nếu không đi）; tính từ い: {安|やす}い → {安|やす}かったら.", "Phân biệt: ～たら① nói về thứ tự (chắc chắn sẽ xảy ra), ～たら② nói về giả định (có thể xảy ra hoặc không)."]},
+    {"no": "3", "group": "A", "video": 244, "title": "V₁て、V₂", "meaning": "Làm V₁ rồi làm V₂",
+     "usage": ["Dùng để liệt kê các động từ theo thứ tự thời gian: làm V₁ rồi làm V₂ rồi làm V₃."],
+     "formulas": ["V₁て、V₂て、V₃ます"],
+     "examples": [
+       {"jp": "うちに{帰|かえ}ったら、すぐに{手|て}を{洗|あら}ってうがいをします。", "vi": "Sau khi về nhà thì tôi rửa tay rồi súc miệng ngay."},
+       {"jp": "{晩|ばん}ご{飯|はん}を{作|つく}って、{食|た}べます。", "vi": "Nấu bữa tối rồi ăn."}
+     ],
+     "extra": ["Thì của cả câu do động từ cuối quyết định: {朝|あさ}{起|お}きて、{顔|かお}を{洗|あら}いました（Sáng dậy rồi rửa mặt — đã làm）."],
+     "table": "te"},
+    {"no": "4", "group": "A", "video": 245, "title": "V₁てから、V₂", "meaning": "Sau khi làm V₁ (xong) rồi mới làm V₂",
+     "usage": ["Diễn tả một hành động, sự việc diễn ra trước một hành động hay sự việc khác: sau khi làm V₁ rồi mới làm V₂."],
+     "formulas": ["V₁て ＋ から、V₂ます"],
+     "examples": [
+       {"jp": "{毎日|まいにち}{宿題|しゅくだい}をしてから、テレビをみます。", "vi": "Mỗi ngày tôi làm xong bài tập rồi mới xem tivi."},
+       {"jp": "メールをおくってから、かえります。", "vi": "Gửi mail xong rồi tôi mới về."},
+       {"jp": "ごはんを{食|た}べてから、もう{一度|いちど}{歯|は}をみがきます。", "vi": "Ăn xong rồi tôi đánh răng thêm một lần nữa.", "src": "text"}
+     ],
+     "extra": ["So với V₁て、V₂: ～てから nhấn mạnh thứ tự trước – sau (phải xong V₁ rồi mới V₂)."]},
+    {"no": "5", "group": "A", "video": 246, "title": "V₁ながら、V₂", "meaning": "Vừa V₁ vừa V₂",
+     "usage": ["Diễn tả hai hành động thực hiện đồng thời: vừa làm V₁ vừa làm V₂."],
+     "formulas": ["V₁ます（bỏ ます）＋ ながら、V₂"],
+     "examples": [
+       {"jp": "リさんは{新聞|しんぶん}を{読|よ}みながら、{朝|あさ}ごはんを{食|た}べます。", "vi": "Li vừa đọc báo vừa ăn sáng."},
+       {"jp": "あきおさんはテレビでニュースを{見|み}ながら、{朝|あさ}ごはんを{食|た}べます。", "vi": "Akio vừa xem tin tức trên tivi vừa ăn sáng."}
+     ],
+     "extra": ["Hành động chính là V₂ (đứng cuối câu); V₁ là hành động phụ đi kèm.", "Cách chia: {読|よ}みます→{読|よ}みながら, {見|み}ます→{見|み}ながら, {聞|き}きます→{聞|き}きながら."]},
+    {"no": "6", "group": "B", "video": 247, "title": "N だけ", "meaning": "Chỉ N (thôi)",
+     "usage": ["Chỉ có N thôi (ngoài N ra không có cái nào khác; N đó là ít)."],
+     "formulas": ["N ＋ だけ"],
+     "examples": [
+       {"jp": "リさんは{毎日|まいにち}{肉|にく}だけ{食|た}べます。", "vi": "Hằng ngày Li chỉ ăn thịt."},
+       {"jp": "{30分|さんじゅっぷん}だけ{休|やす}みます。", "vi": "Chỉ nghỉ có 30 phút."},
+       {"jp": "{授業|じゅぎょう}は、たいてい、{午前中|ごぜんちゅう}だけです。", "vi": "Giờ học thường chỉ có buổi sáng.", "src": "text"}
+     ]}
+  ],
+  "14": [
+    {"no": "1", "group": "A", "video": 254, "title": "辞書形（Vる）", "meaning": "Thể từ điển (thể nguyên dạng)",
+     "usage": ["Thể nguyên dạng (thể từ điển). Đây là thể cơ bản của động từ và là thể được viết trong từ điển."],
+     "table": "jisho",
+     "extra": ["Lưu ý: một số động từ nhóm II có âm trước ます thuộc hàng い — phải học thuộc: {見|み}ます→{見|み}る, {起|お}きます→{起|お}きる, {着|き}ます→{着|き}る, {浴|あ}びます→{浴|あ}びる, {借|か}ります→{借|か}りる, できます→できる."]},
+    {"no": "2.1", "group": "A", "video": 255, "title": "趣味は Vること です", "meaning": "Sở thích là (việc) V",
+     "usage": ["Sở thích là …"],
+     "formulas": ["しゅみ は ＋ 辞書形（Vる）＋ ことです"],
+     "examples": [
+       {"jp": "{弟|おとうと}の{趣味|しゅみ}は、マンガを{読|よ}むことと、サッカーをすることです。", "vi": "Sở thích của em trai tôi là đọc truyện tranh và chơi bóng đá."},
+       {"jp": "わたしの{趣味|しゅみ}は、{山|やま}に{登|のぼ}ることと、{写真|しゃしん}をとることです。", "vi": "Sở thích của tôi là leo núi và chụp ảnh.", "src": "text"}
+     ],
+     "extra": ["Nối hai sở thích bằng と: Vることと、Vることです."]},
+    {"no": "2.2", "group": "A", "video": 255, "title": "Vる のが Adj", "meaning": "Việc V thì (thích / giỏi / nhanh …)",
+     "usage": ["Biến động từ V thành danh từ: “Việc V thì A”.", "A là tính từ chỉ sở thích, kỹ năng, năng lực như: すき、きらい、じょうず、へた、はやい、おそい、…"],
+     "formulas": ["辞書形（Vる）＋ の ＋ が ＋ Adjです"],
+     "examples": [
+       {"jp": "リさんは{本|ほん}をよむのが{好|す}きです。", "vi": "Li thích đọc sách."},
+       {"jp": "かのじょは{話|はな}すのがはやいです。", "vi": "Cô ấy nói nhanh."}
+     ]},
+    {"no": "2.3", "group": "A", "video": 255, "title": "Vる のは Adj", "meaning": "Việc V thì (khó / vui / vất vả …)",
+     "usage": ["Biến động từ V thành danh từ: “Việc V thì A”.", "A là tính từ chỉ tính chất như: むずかしい、やさしい、おもしろい、たのしい、たいへん、…"],
+     "formulas": ["辞書形（Vる）＋ の ＋ は ＋ Adjです"],
+     "examples": [
+       {"jp": "{一人|ひとり}で{住|す}むのはさびしいです。", "vi": "Sống một mình thì buồn."},
+       {"jp": "かんじを{覚|おぼ}えるのはたいへんです。", "vi": "Nhớ chữ kanji thật vất vả."},
+       {"jp": "いい{写真|しゃしん}をとるのは、なかなかむずかしいです。", "vi": "Chụp được ảnh đẹp thật không dễ chút nào.", "src": "text"}
+     ],
+     "extra": ["Mẹo: のが ＋ 好き・嫌い・上手・下手・速い・遅い (nói về sở thích/khả năng của người); のは ＋ 難しい・楽しい・大変… (đánh giá bản thân việc đó)."]},
+    {"no": "3", "group": "A", "video": 256, "title": "Vること が できます", "meaning": "Có thể / Không thể V",
+     "usage": ["Biểu thị một việc có thể (hoặc không thể) làm được do năng lực của người đó, hoặc do hoàn cảnh cho phép (hoặc không cho phép)."],
+     "formulas": ["N ＋ が ＋ できます／できません", "辞書形（Vる）＋ ことが ＋ できます／できません"],
+     "examples": [
+       {"jp": "ピアノをひくことができます。", "vi": "Tôi có thể chơi piano."},
+       {"jp": "ビールを{飲|の}むことができません。", "vi": "Tôi không thể uống bia."},
+       {"jp": "{妻|つま}も、ピアノをひくことができます。", "vi": "Vợ tôi cũng biết chơi piano.", "src": "text"}
+     ],
+     "extra": ["Ở Unit 16 sẽ học cách nói ngắn hơn bằng thể khả năng: ピアノがひけます."]},
+    {"no": "4", "group": "B", "video": 257, "title": "それで", "meaning": "Vì thế, cho nên",
+     "usage": ["Vì thế: từ nguyên nhân, lý do dẫn đến một việc xảy ra trong thực tế."],
+     "formulas": ["A（nguyên nhân）。それで、B（kết quả）。"],
+     "examples": [
+       {"jp": "バスが{来|き}ませんでした。それで、{歩|ある}きました。", "vi": "Xe buýt không đến. Vì thế tôi đã đi bộ.", "fix": "Tài liệu gốc ghi 来ません; đã sửa thành 来ませんでした cho khớp thì."},
+       {"jp": "{雨|あめ}がふっています。それで、{家|いえ}にいます。", "vi": "Trời đang mưa. Vì thế tôi ở nhà."},
+       {"jp": "{父|ちち}の{写真|しゃしん}は、とてもきれいでした。それで、わたしも、{写真|しゃしん}を{始|はじ}めました。", "vi": "Ảnh bố chụp rất đẹp. Vì thế tôi cũng bắt đầu chụp ảnh.", "src": "text"}
+     ],
+     "extra": ["Vế B sau それで là sự việc đã/đang xảy ra; không dùng それで trước câu mệnh lệnh, rủ rê hay ý chí (khi đó dùng だから／ですから – Unit 16)."]}
+  ],
+  "15": [
+    {"no": "1", "group": "A", "video": 267, "title": "Vる／Vない つもりです", "meaning": "Định (không) làm V",
+     "usage": ["Định là…, dự định sẽ…", "Dùng để diễn đạt ý định làm hoặc không làm việc gì đó."],
+     "formulas": ["辞書形（Vる）＋ つもりです", "Vない ＋ つもりです"],
+     "examples": [
+       {"jp": "{国|くに}へ{帰|かえ}っても、{日本語|にほんご}の{勉強|べんきょう}をつづけるつもりです。", "vi": "Dù về nước, tôi vẫn định tiếp tục học tiếng Nhật."},
+       {"jp": "{明日|あした}からはタバコを{吸|す}わないつもりです。", "vi": "Tôi định từ mai sẽ không hút thuốc lá nữa."},
+       {"jp": "{結婚後|けっこんご}も、{仕事|しごと}を{続|つづ}けるつもりです。", "vi": "Sau khi kết hôn, tôi vẫn định tiếp tục đi làm.", "src": "text"}
+     ]},
+    {"no": "2", "group": "A", "video": 268, "title": "普通形（ふつうけい）", "meaning": "Thể thông thường",
+     "usage": ["Câu văn tiếng Nhật có 2 thể: thể lịch sự (です・ます) và thể thông thường (普通形).", "Trong hội thoại, thể thông thường được dùng với bạn thân, đồng nghiệp, gia đình.", "Trong văn viết, thể thông thường được dùng để viết luận văn, báo cáo, nhật ký,…"],
+     "table": "futsuu",
+     "notes": ["Câu nghi vấn ở thể thông thường không có “か”, thay vào đó dùng dấu “？” và lên giọng ở cuối câu. Danh từ và tính từ đuôi な bỏ luôn “だ”.", "Ví dụ: コーヒーを{飲|の}む？（Uống cà phê không?）／ こんばん、ひま？（Tối nay rảnh không?）"],
+     "fix": "Bảng trên LMS ghi nhầm cột thể thông thường của tính từ い (vẫn còn です). Bảng ở đây đã sửa: tính từ い ở thể thông thường chỉ cần bỏ です."},
+    {"no": "3.1", "group": "A", "video": 269, "title": "～と思います", "meaning": "Tôi nghĩ là …",
+     "usage": ["Tôi nghĩ là …", "Dùng để biểu thị sự phỏng đoán hoặc bày tỏ ý kiến."],
+     "formulas": ["普通形 ＋ と思います"],
+     "examples": [
+       {"jp": "{明日|あした}{雨|あめ}がふると{思|おも}います。", "vi": "Tôi nghĩ ngày mai trời sẽ mưa."},
+       {"jp": "{日本|にほん}は{物価|ぶっか}が{高|たか}いと{思|おも}います。", "vi": "Tôi nghĩ giá cả ở Nhật đắt đỏ."},
+       {"jp": "{大学|だいがく}を{卒業|そつぎょう}したら、{大学院|だいがくいん}に{進|すす}むと{思|おも}います。", "vi": "Tôi nghĩ sau khi tốt nghiệp đại học, tôi sẽ học lên cao học.", "src": "text"}
+     ],
+     "extra": ["N・Adjな thì giữ だ: {学生|がくせい}だと{思|おも}います, ひまだと{思|おも}います.", "～と思っています: suy nghĩ/dự định đã có từ trước và kéo dài (hay gặp: ～したいと思っています)."]},
+    {"no": "3.2", "group": "A", "video": 269, "title": "～だろうと思います", "meaning": "Tôi nghĩ chắc là …",
+     "usage": ["Tôi nghĩ là chắc…", "Dùng khi truyền đạt với người khác một điều bạn nghĩ có lẽ là như thế nhưng không chắc lắm."],
+     "formulas": ["普通形 ＋ だろうと思います", "N／Adjな（bỏ だ）＋ だろうと思います"],
+     "examples": [
+       {"jp": "たぶんこの{雨|あめ}は{1時間|いちじかん}ぐらいでやむだろうと{思|おも}います。", "vi": "Tôi nghĩ chắc khoảng 1 tiếng nữa mưa sẽ tạnh."},
+       {"jp": "{外国|がいこく}で{一人|ひとり}で{暮|く}らすのはさびしいだろうと{思|おも}います。", "vi": "Tôi nghĩ sống một mình ở nước ngoài chắc là cô đơn lắm.", "fix": "Câu gốc trên LMS bị lỗi đánh máy (一人暮らしのは…); đã sửa lại cho đúng ngữ pháp."},
+       {"jp": "{30歳|さんじゅっさい}になるまでには、{結婚|けっこん}するだろうと{思|おも}います。", "vi": "Tôi nghĩ chắc trước 30 tuổi tôi sẽ kết hôn.", "src": "text"}
+     ]},
+    {"no": "3.3", "group": "A", "video": 269, "title": "～んじゃないかと思います", "meaning": "Tôi nghĩ có lẽ là …",
+     "usage": ["Tôi nghĩ chắc là…", "Cách nói nêu lên suy nghĩ, phán đoán của mình một cách khách quan, nhẹ nhàng; thường dùng trong hội thoại hằng ngày."],
+     "formulas": ["普通形 ＋ んじゃないかと思います", "N／Adjな ＋ な ＋ んじゃないかと思います"],
+     "examples": [
+       {"jp": "{28歳|にじゅうはっさい}くらいには{結婚|けっこん}するんじゃないかと{思|おも}います。", "vi": "Tôi nghĩ có lẽ khoảng 28 tuổi tôi sẽ kết hôn."}
+     ],
+     "extra": ["Ví dụ với danh từ: あの{人|ひと}は{先生|せんせい}なんじゃないかと{思|おも}います（Tôi nghĩ người kia có lẽ là giáo viên）."]},
+    {"no": "4", "group": "A", "video": 270, "title": "～かもしれません", "meaning": "Có lẽ … / không chừng …",
+     "usage": ["Không chừng là…, có lẽ là…", "Dùng khi muốn nói một sự việc hay một tình huống nào đó dù ít khả năng nhưng vẫn có thể xảy ra."],
+     "formulas": ["普通形 ＋ かもしれません", "N／Adjな（bỏ だ）＋ かもしれません"],
+     "examples": [
+       {"jp": "かれはパーティーにこないかもしれません。", "vi": "Không chừng anh ấy sẽ không đến bữa tiệc."},
+       {"jp": "{彼|かれ}は{明日|あした}いそがしいかもしれません。", "vi": "Không chừng ngày mai anh ấy bận."},
+       {"jp": "{大学|だいがく}の{先生|せんせい}になるかもしれません。", "vi": "Cũng có thể tôi sẽ trở thành giảng viên đại học.", "src": "text"}
+     ],
+     "extra": ["Mức độ chắc chắn giảm dần: ～と思います ＞ ～だろうと思います ＞ ～かもしれません."]},
+    {"no": "5", "group": "A", "video": 271, "title": "～かどうか、～", "meaning": "… hay không",
+     "usage": ["Có … hay không.", "Dùng để lồng một câu nghi vấn dạng Có/Không (Yes/No) vào trong câu văn."],
+     "formulas": ["普通形 ＋ かどうか、～", "N／Adjな（bỏ だ）＋ かどうか、～"],
+     "notes": ["Aな và N đứng trước かどうか thì bỏ だ."],
+     "examples": [
+       {"jp": "その{話|はなし}は{本当|ほんとう}かどうか、わかりません。", "vi": "Không biết chuyện đó có thật hay không."},
+       {"jp": "{間違|まちが}いがないかどうか、チェックしてください。", "vi": "Hãy kiểm tra xem có sai sót gì không.", "fix": "Tài liệu gốc ghi nhầm 違（まち）い; đúng là 間違（まちが）い."},
+       {"jp": "{博士課程|はくしかてい}に{進|すす}むかどうかまだ{分|わ}かりません。", "vi": "Tôi chưa biết có học lên tiến sĩ hay không.", "src": "text"}
+     ],
+     "extra": ["Câu hỏi có từ để hỏi (なに・どこ・いつ…) thì dùng か, không dùng かどうか: {何|なに}を{買|か}うか、まだ{決|き}めていません."]},
+    {"no": "6", "group": "A", "video": 272, "title": "名詞修飾（めいししゅうしょく）", "meaning": "Mệnh đề bổ nghĩa cho danh từ",
+     "usage": ["Mệnh đề bổ nghĩa cho danh từ.", "Thành phần bổ nghĩa luôn đứng trước danh từ.", "Danh từ có mệnh đề bổ nghĩa có thể làm chủ ngữ, vị ngữ hoặc tân ngữ trong câu."],
+     "formulas": ["普通形 ＋ N", "N ＋ の ＋ N", "Adjな ＋ な ＋ N"],
+     "notes": ["Chủ ngữ của mệnh đề bổ nghĩa cho danh từ đi với trợ từ が."],
+     "examples": [
+       {"jp": "これはリさんが{住|す}んでいた{家|いえ}です。", "vi": "Đây là ngôi nhà mà Li đã ở."},
+       {"jp": "リさんが{住|す}んでいた{家|いえ}は{古|ふる}いです。", "vi": "Ngôi nhà mà Li đã ở thì cũ."},
+       {"jp": "わたしはリさんが{住|す}んでいた{家|いえ}を{買|か}いました。", "vi": "Tôi đã mua căn nhà mà Li từng ở."},
+       {"jp": "{人間|にんげん}とコミュニケーションができるロボットを{開発|かいはつ}したいと{思|おも}っています。", "vi": "Tôi muốn phát triển robot có thể giao tiếp với con người.", "src": "text"}
+     ],
+     "diagram": "meishi"},
+    {"no": "7", "group": "A", "video": 273, "title": "V₁ないで、V₂", "meaning": "Làm V₂ mà không V₁",
+     "usage": ["…mà không…", "Làm V₂ trong trạng thái, điều kiện không làm V₁."],
+     "formulas": ["V₁ない ＋ で、V₂"],
+     "examples": [
+       {"jp": "ちちはさとうを{入|い}れないでコーヒーを{飲|の}みます。", "vi": "Bố tôi uống cà phê mà không bỏ đường."},
+       {"jp": "{日曜日|にちようび}はどこも{行|い}かないで、うちでゆっくり{休|やす}みます。", "vi": "Chủ nhật tôi không đi đâu cả mà ở nhà nghỉ ngơi thong thả."},
+       {"jp": "{進学|しんがく}しないで、{就職|しゅうしょく}するかもしれません。", "vi": "Có thể tôi sẽ không học tiếp mà đi làm.", "src": "text"}
+     ]},
+    {"no": "8", "group": "A", "video": 274, "title": "Vなくても いいです", "meaning": "Không V cũng được",
+     "usage": ["…không… cũng được.", "Biểu thị không cần phải làm việc gì đó cũng được."],
+     "formulas": ["Vない（bỏ い）＋ くても ＋ いいです"],
+     "examples": [
+       {"jp": "{明日|あした}こなくてもいいです。", "vi": "Ngày mai không cần đến cũng được."},
+       {"jp": "{名前|なまえ}を{書|か}かなくてもいいです。", "vi": "Không cần viết tên cũng được."},
+       {"jp": "いい{人|ひと}があらわれなかったら、{結婚|けっこん}しなくてもいいです。", "vi": "Nếu không gặp được người phù hợp thì không kết hôn cũng được.", "src": "text"}
+     ]},
+    {"no": "9", "group": "A", "video": 275, "title": "N でも いいです", "meaning": "N cũng được",
+     "usage": ["A hay B đều được.", "Thể hiện ý: dù là N đó thì cũng được."],
+     "formulas": ["N₁ でも、N₂ でも ＋ いいです"],
+     "examples": [
+       {"jp": "ビールでも、{水|みず}でも、ジュースでもいいです。", "vi": "Bia, nước lọc hay nước trái cây đều được."},
+       {"jp": "マレーシア{人|じん}でも、{日本人|にほんじん}でも、{中国人|ちゅうごくじん}でも、いいです。", "vi": "Người Malaysia, người Nhật hay người Trung Quốc đều được.", "src": "text"}
+     ]},
+    {"no": "10", "group": "A", "video": 276, "title": "～間（あいだ）、～", "meaning": "Trong khi / trong suốt …",
+     "usage": ["Trong khi…", "Diễn tả hành động gì đó diễn ra liên tục trong suốt khoảng thời gian nào đó."],
+     "formulas": ["N ＋ の ＋ 間、～", "Vている ＋ 間、～"],
+     "examples": [
+       {"jp": "{夏休|なつやす}みの{間|あいだ}、{旅行|りょこう}するつもりです。", "vi": "Tôi dự định đi du lịch trong kỳ nghỉ hè."},
+       {"jp": "お{母|かあ}さんが{寝|ね}ている{間|あいだ}、{子供|こども}たちはテレビを{見|み}ています。", "vi": "Trong lúc mẹ ngủ, bọn trẻ xem tivi."},
+       {"jp": "{大学院|だいがくいん}で{勉強|べんきょう}している{間|あいだ}は、{結婚|けっこん}できないと{思|おも}います。", "vi": "Tôi nghĩ trong thời gian học cao học thì không thể kết hôn.", "src": "text"}
+     ]},
+    {"no": "11", "group": "B", "video": 277, "title": "V₁か、V₂か、まだ決めていません", "meaning": "V₁ hay V₂ (vẫn chưa quyết định)",
+     "usage": ["Làm A hay làm B.", "Diễn tả ý “hành động 1 hay là hành động 2”."],
+     "formulas": ["普通形 ＋ か、普通形 ＋ か、Vます"],
+     "examples": [
+       {"jp": "すしをたべるか、さしみをたべるか、まだ{決|き}めていません。", "vi": "Tôi vẫn chưa quyết định sẽ ăn sushi hay ăn sashimi."},
+       {"jp": "マレーシアに{帰|かえ}るか、{日本|にほん}で{就職|しゅうしょく}するか、まだ{決|き}めていません。", "vi": "Vẫn chưa quyết định sẽ về Malaysia hay tìm việc ở Nhật."}
+     ]},
+    {"no": "12", "group": "B", "video": 278, "title": "N に なります", "meaning": "Trở thành N / trở nên N",
+     "usage": ["Trở thành N, trở nên N.", "Biểu thị ý “trở thành N”, thể hiện sự thay đổi."],
+     "formulas": ["N ＋ に ＋ なります"],
+     "examples": [
+       {"jp": "{来月|らいげつ}{30歳|さんじゅっさい}になります。", "vi": "Tháng sau tôi tròn 30 tuổi."},
+       {"jp": "しょうらいエンジニアになりたいです。", "vi": "Tương lai tôi muốn trở thành kỹ sư."},
+       {"jp": "{大学|だいがく}の{先生|せんせい}になるのもいいと{思|おも}います。", "vi": "Tôi nghĩ trở thành giảng viên đại học cũng hay.", "src": "text"}
+     ],
+     "extra": ["Với tính từ: Adjな → に なります（きれいになります）; Adjい（bỏ い）→ く なります（{高|たか}くなります）."]},
+    {"no": "13", "group": "B", "video": 279, "title": "N による／N によって", "meaning": "Bằng (phương tiện, cách thức) N",
+     "usage": ["Bằng cách…", "Biểu thị phương tiện, cách thức thực hiện hành động."],
+     "formulas": ["N ＋ によって、～", "N₁ ＋ による ＋ N₂"],
+     "examples": [
+       {"jp": "インターネットによってホテルを{予約|よやく}することができます。", "vi": "Có thể đặt phòng khách sạn bằng Internet."},
+       {"jp": "コンピュータによる{言語理解|げんごりかい}の{研究|けんきゅう}をしています。", "vi": "Tôi đang nghiên cứu về việc hiểu ngôn ngữ bằng máy tính."}
+     ]},
+    {"no": "14", "group": "B", "video": 280, "title": "Vる までに、～", "meaning": "Trước khi V (hạn chót)",
+     "usage": ["Trước khi…", "Thể hiện ý sẽ thực hiện hành động phía sau trước khi hành động phía trước xảy ra."],
+     "formulas": ["辞書形（Vる）＋ までに、～", "N ＋ までに、～"],
+     "examples": [
+       {"jp": "{大学|だいがく}を{卒業|そつぎょう}するまでに、タイへ{行|い}きたいです。", "vi": "Tôi muốn đi Thái Lan trước khi tốt nghiệp đại học."},
+       {"jp": "{授業|じゅぎょう}が{始|はじ}まるまでに、これをコピーしてください。", "vi": "Hãy photo cái này trước khi buổi học bắt đầu."}
+     ],
+     "extra": ["Phân biệt: まで = liên tục cho đến lúc đó（{5時|ごじ}まで{働|はたら}きます）; までに = hạn chót, xong trước lúc đó（{5時|ごじ}までに{帰|かえ}ります）."]}
+  ],
+  "16": [
+    {"no": "1", "group": "A", "video": 287, "title": "可能形（かのうけい）", "meaning": "Thể khả năng",
+     "usage": ["Mẫu ngữ pháp biểu hiện tính khả năng: có thể làm gì đó, việc gì đó có thể xảy ra."],
+     "table": "kanou",
+     "formulas": ["N ＋ が ＋ V可能形"],
+     "notes": ["Trợ từ を đứng trước động từ sẽ chuyển thành が; các trợ từ khác như に、で… vẫn giữ nguyên.", "Danh từ ＋ が（thay cho を）＋ động từ thể khả năng: có thể làm gì đó."],
+     "examples": [
+       {"jp": "さしみがたべられます。", "vi": "Tôi có thể ăn sashimi."},
+       {"jp": "{日本語|にほんご}が{話|はな}せます。", "vi": "Tôi có thể nói tiếng Nhật."},
+       {"jp": "でも、{納豆|なっとう}だけは、{食|た}べられません。", "vi": "Nhưng riêng natto thì tôi không ăn được.", "src": "text"}
+     ],
+     "extra": ["Thể khả năng chia tiếp như động từ nhóm II: {話|はな}せる → {話|はな}せない／{話|はな}せた／{話|はな}せなかった."]},
+    {"no": "2", "group": "A", "video": 288, "title": "Vる まえに／N の まえに", "meaning": "Trước khi …",
+     "usage": ["“Trước khi làm … thì làm …”: động tác ở V₂ xảy ra trước V₁.", "V₁ luôn ở thể nguyên dạng (thể từ điển) cho dù V₂ ở thì quá khứ hay tương lai."],
+     "formulas": ["V₁る ＋ まえに、V₂", "N ＋ の ＋ まえに、V₂"],
+     "notes": ["Nếu đứng trước まえに là động từ thì chia ở thể Vる; nếu là danh từ thì là Nの."],
+     "examples": [
+       {"jp": "{寝|ね}るまえに、はをみがきます。", "vi": "Trước khi đi ngủ, tôi đánh răng."},
+       {"jp": "しょくじのまえに、{手|て}をあらいます。", "vi": "Trước khi dùng bữa, tôi rửa tay."},
+       {"jp": "{結婚|けっこん}する{前|まえ}は、わたしは{料理|りょうり}ができませんでした。", "vi": "Trước khi kết hôn, tôi không biết nấu ăn.", "src": "text"}
+     ]},
+    {"no": "3", "group": "A", "video": 289, "title": "～ので、～", "meaning": "Vì … nên …",
+     "usage": ["Biểu thị một cách khách quan quan hệ nhân quả như một diễn biến tự nhiên.", "Vì ので làm giảm mức độ chủ quan, tạo ấn tượng nhẹ nhàng cho người nghe nên thường được dùng để nêu lý do khi xin phép, hoặc khi lập luận."],
+     "formulas": ["普通形 ＋ ので、～", "Adjな ＋ な ＋ ので、～", "N ＋ な ＋ ので、～"],
+     "examples": [
+       {"jp": "{今日|きょう}はようじがあるので、はやく{帰|かえ}ります。", "vi": "Hôm nay có việc bận nên tôi về sớm."},
+       {"jp": "{分|わ}からないので、{教|おし}えてください。", "vi": "Vì tôi không hiểu nên xin hãy chỉ cho tôi."},
+       {"jp": "{私立|しりつ}の{学校|がっこう}に{行|い}ったので、{英語|えいご}も{話|はな}せます。", "vi": "Vì học trường tư nên tôi cũng nói được tiếng Anh.", "src": "text"}
+     ],
+     "extra": ["So với から: ので nhẹ nhàng, lịch sự hơn — hợp khi xin phép, giải thích; から nhấn mạnh lý do chủ quan của người nói."]},
+    {"no": "4.1", "group": "A", "video": 290, "title": "Vる ようになりました", "meaning": "(Đã) bắt đầu có thói quen V",
+     "usage": ["Biểu thị sự thay đổi thói quen: trước đó không làm nhưng sau một thời điểm nào đó thì bắt đầu có thói quen hoặc bắt đầu thực hiện hành động."],
+     "formulas": ["辞書形（Vる）＋ ようになりました"],
+     "examples": [
+       {"jp": "{日本|にほん}に{来|き}てから、テレビを{見|み}るようになりました。", "vi": "Sau khi sang Nhật, tôi bắt đầu có thói quen xem tivi."},
+       {"jp": "{結婚|けっこん}してから、{料理|りょうり}を{作|つく}るようになりました。", "vi": "Sau khi kết hôn, tôi bắt đầu nấu ăn."},
+       {"jp": "{最近|さいきん}は、バジルソースも、{自分|じぶん}で{作|つく}るようになりました。", "vi": "Gần đây tôi còn tự làm cả sốt húng quế.", "src": "text"}
+     ]},
+    {"no": "4.2", "group": "A", "video": 290, "title": "V可能形 ようになりました", "meaning": "(Đã) có thể V (trước đây thì không)",
+     "usage": ["Biểu thị sự thay đổi từ trạng thái không thể làm được một việc gì đó sang trạng thái có thể làm được."],
+     "formulas": ["V可能形（dạng từ điển）＋ ようになりました"],
+     "notes": ["Động từ thể khả năng ở dạng từ điển: {読|よ}める、{乗|の}れる、{話|はな}せる…"],
+     "examples": [
+       {"jp": "{漢字|かんじ}が{読|よ}めるようになりました。", "vi": "Giờ tôi đã đọc được chữ Hán rồi."},
+       {"jp": "じてんしゃにのれるようになりました。", "vi": "Giờ tôi đã đi được xe đạp rồi."}
+     ]},
+    {"no": "5", "group": "B", "video": 291, "title": "だから／ですから", "meaning": "Vì vậy, do đó",
+     "usage": ["Dùng để nêu kết quả, hệ quả của câu trước; câu đi liền trước thường là lý do, phán đoán, kết quả đương nhiên…"],
+     "formulas": ["A。ですから／だから、B。"],
+     "examples": [
+       {"jp": "{今日|きょう}は{子|こ}どものたんじょうびです。ですから、はやく{帰|かえ}ります。", "vi": "Hôm nay là sinh nhật con tôi. Vì vậy, tôi về sớm."},
+       {"jp": "{時間|じかん}がありません。だから、いそいでください。", "vi": "Không còn thời gian nữa. Vì vậy, hãy nhanh lên."},
+       {"jp": "わたしは{中国系|ちゅうごくけい}のマレーシア{人|じん}です。だから、マレーシア{語|ご}と{中国語|ちゅうごくご}が{話|はな}せます。", "vi": "Tôi là người Malaysia gốc Hoa. Vì vậy, tôi nói được tiếng Malaysia và tiếng Trung.", "src": "text"}
+     ],
+     "extra": ["ですから lịch sự hơn だから.", "Khác với それで (Unit 14): sau だから／ですから có thể là mệnh lệnh, lời khuyên, ý chí (いそいでください)."]},
+    {"no": "6", "group": "B", "video": 292, "title": "Vます ＋ 方（かた）", "meaning": "Cách V",
+     "usage": ["Diễn tả phương pháp, biện pháp, cách thức của hành động, hành vi nào đó. Nghĩa là: Cách…"],
+     "formulas": ["Vます（bỏ ます）＋ 方（かた）"],
+     "notes": ["Động từ bỏ ます rồi kết hợp với 方（かた）."],
+     "examples": [
+       {"jp": "{漢字|かんじ}の{読|よ}み{方|かた}を{教|おし}えてください。", "vi": "Hãy chỉ cho tôi cách đọc chữ Hán."},
+       {"jp": "このきかいのつかい{方|かた}はむずかしいです。", "vi": "Cách sử dụng cái máy này khó."},
+       {"jp": "{漢字|かんじ}の{書|か}き{方|かた}も、{分|わ}かります。", "vi": "Tôi cũng biết cách viết chữ Hán.", "src": "text"}
+     ],
+     "extra": ["Trợ từ を đổi thành の: {漢字|かんじ}を{読|よ}む → {漢字|かんじ}の{読|よ}み{方|かた}."]},
+    {"no": "7", "group": "B", "video": 293, "title": "なんでも", "meaning": "Bất cứ cái gì / cái gì cũng",
+     "usage": ["Diễn tả ý nghĩa “bất cứ điều gì”, “bất cứ vật gì”, “tất cả”."],
+     "formulas": ["なんでも ＋ V"],
+     "examples": [
+       {"jp": "なんでも{飲|の}めます。", "vi": "Thứ gì tôi cũng uống được."},
+       {"jp": "なんでも{食|た}べられます。", "vi": "Món gì tôi cũng ăn được."},
+       {"jp": "{日本|にほん}の{食|た}べ{物|もの}は、{何|なん}でも{食|た}べられます。", "vi": "Đồ ăn Nhật thì món gì tôi cũng ăn được.", "src": "text"}
+     ]}
+  ],
+  "17": [
+    {"no": "1", "group": "A", "video": 303, "title": "あげます・さしあげます", "meaning": "Cho, tặng (người khác)",
+     "usage": ["Diễn đạt nghĩa: ai đó tặng gì đó cho người nào đó.", "Khi người nhận là cấp trên, tiền bối, người có vị trí trên mình thì dùng さしあげます.", "Không dùng khi người khác tặng cho mình."],
+     "formulas": ["N₁（người cho）は N₂（người nhận）に N₃（vật）を ＋ あげます／さしあげます"],
+     "examples": [
+       {"jp": "{毎年|まいとし}、クリスマスには、{子|こ}どもにいろいろなものをあげました。", "vi": "Hằng năm, cứ đến Giáng sinh tôi lại tặng bọn trẻ đủ thứ."},
+       {"jp": "リさんはせんぱいに、かばんをさしあげました。", "vi": "Li đã tặng đàn anh (tiền bối) một cái cặp."}
+     ],
+     "diagram": "give", "focus": "ageru"},
+    {"no": "2", "group": "A", "video": 304, "title": "もらいます・いただきます", "meaning": "Nhận (từ ai đó)",
+     "usage": ["Diễn đạt nghĩa: ai đó đã nhận gì đó từ người nào đó.", "Khi người cho/tặng là cấp trên, tiền bối, người có vị trí trên mình thì dùng いただきます."],
+     "formulas": ["N₁（người nhận）は N₂（người cho）に／から N₃（vật）を ＋ もらいます／いただきます"],
+     "examples": [
+       {"jp": "{私|わたし}は、{日本|にほん}に{来|く}るとき、いろいろな{人|ひと}からプレゼントをもらいました。", "vi": "Khi sang Nhật, tôi đã nhận được quà từ nhiều người."},
+       {"jp": "リさんのたんじょうびに、{先生|せんせい}に{本|ほん}をいただきました。", "vi": "Vào sinh nhật, Li đã nhận được sách từ thầy giáo."}
+     ],
+     "diagram": "give", "focus": "morau"},
+    {"no": "3", "group": "A", "video": 305, "title": "くれます・くださいます", "meaning": "(Ai đó) cho, tặng tôi",
+     "usage": ["Diễn đạt nghĩa: ai đó tặng gì đó cho TÔI / GIA ĐÌNH TÔI.", "Nếu người trong gia đình tặng quà cho nhau (không phải tặng cho mình) thì không dùng くれます／くださいます mà dùng あげます／さしあげます.", "Khi người tặng là cấp trên, tiền bối, người có vị trí trên mình thì dùng くださいます.", "Có thể lược bỏ「わたしに」 ➡ N₁が N₃を くれます。"],
+     "formulas": ["N₁（người cho）は 私・私の家族 に N₃（vật）を ＋ くれます／くださいます"],
+     "examples": [
+       {"jp": "{日本|にほん}に{来|く}るとき、{父|ちち}は{私|わたし}にとけいをくれました。", "vi": "Khi tôi sang Nhật, bố đã tặng tôi đồng hồ."},
+       {"jp": "{日本|にほん}に{来|く}るとき、{高校|こうこう}の{先生|せんせい}は{私|わたし}に{本|ほん}をくださいました。", "vi": "Khi tôi sang Nhật, thầy giáo cấp 3 đã tặng tôi sách."},
+       {"jp": "{母|はは}は、スカーフをくれました。", "vi": "Mẹ tặng tôi khăn quàng.", "src": "text"}
+     ],
+     "diagram": "give", "focus": "kureru"},
+    {"no": "4", "group": "B", "video": 306, "title": "どれも・みんな", "meaning": "Cái nào cũng / tất cả",
+     "usage": ["Diễn đạt nghĩa: mọi thứ, tất cả…", "どれも: chỉ được sử dụng cho vật.", "みんな: được sử dụng cho cả người và vật."],
+     "formulas": ["どれも／みんな ＋ Adj／V"],
+     "examples": [
+       {"jp": "{父|ちち}のプレゼントはすてきでした。{母|はは}のプレゼントもすてきでした。{兄|あに}、{姉|あね}、{妹|いもうと}、{弟|おとうと}のプレゼントもすてきでした。➡ どれも／みんな、すてきでした。", "vi": "Món quà nào cũng rất tuyệt."},
+       {"jp": "どれも、とても{好|す}きでした。", "vi": "Món nào tôi cũng rất thích.", "src": "text"}
+     ]}
+  ]
+}

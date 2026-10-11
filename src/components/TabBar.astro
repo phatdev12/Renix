@@ -1,0 +1,27 @@
+---
+/* Phone / tablet tab bar (≤900px, hidden on desktop): the four most used sections plus "Thêm", which
+   opens the full menu (#sidebar shown as a sheet above the bar). Like the rail, the active pill is
+   placed by CSS from --i and glides between pages with the view transition. */
+import { href, navItem } from '../lib/routes';
+import Icon from './Icon.astro';
+
+const TABS = ['', 'text', 'vocab', 'kanji'];
+
+interface Props { active: string }
+const { active } = Astro.props;
+const idx = TABS.indexOf(active);
+---
+<nav id="tabbar" aria-label="Điều hướng chính">
+  <span class="tab-ind" style={`--i: ${idx >= 0 ? idx : TABS.length}`} aria-hidden="true"></span>
+  {TABS.map((k, i) => {
+    const n = navItem(k);
+    return (
+      <a href={href(k)} class={'tab' + (k === active ? ' active' : '')} aria-current={k === active ? 'page' : undefined} style={`--vt: tab-i${i}`}>
+        <Icon name={n.icon} /><span>{n.label}</span>
+      </a>
+    );
+  })}
+  <button class={'tab' + (idx < 0 ? ' active' : '')} id="tab-more" aria-expanded="false" aria-controls="sidebar" style={`--vt: tab-i${TABS.length}`}>
+    <Icon name="grid" /><span>Thêm</span>
+  </button>
+</nav>

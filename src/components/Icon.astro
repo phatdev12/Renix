@@ -1,0 +1,8 @@
+---
+/* Server-rendered line icon (same set as ic() on the client). */
+import { iconSvg } from '../lib/icons';
+
+interface Props { name: string; class?: string }
+const { name, class: cls } = Astro.props;
+---
+<Fragment set:html={iconSvg(name, cls)} />

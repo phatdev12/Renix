@@ -1,0 +1,2780 @@
+{
+ "13": {
+  "vocab_p1": [
+   {
+    "kana": "は",
+    "kanji": "歯",
+    "vi": "răng"
+   },
+   {
+    "kana": "みがきます",
+    "kanji": "磨きます",
+    "vi": "đánh (răng), chà"
+   },
+   {
+    "kana": "シャワーをあびます",
+    "kanji": "シャワーを浴びます",
+    "vi": "tắm (vòi hoa sen)"
+   },
+   {
+    "kana": "もういちど",
+    "kanji": "もう一度",
+    "vi": "một lần nữa"
+   },
+   {
+    "kana": "～じかんめ",
+    "kanji": "～時間目",
+    "vi": "tiết thứ ~"
+   },
+   {
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "vi": "sáng"
+   },
+   {
+    "kana": "もう",
+    "kanji": "",
+    "vi": "đã…rồi"
+   },
+   {
+    "kana": "くらい",
+    "kanji": "暗い",
+    "vi": "tối"
+   },
+   {
+    "kana": "こわい",
+    "kanji": "",
+    "vi": "sợ"
+   },
+   {
+    "kana": "うがいをします",
+    "kanji": "",
+    "vi": "súc miệng"
+   },
+   {
+    "kana": "じっけんをします",
+    "kanji": "実験をします",
+    "vi": "làm thí nghiệm"
+   },
+   {
+    "kana": "はっぴょう",
+    "kanji": "発表",
+    "vi": "phát biểu"
+   },
+   {
+    "kana": "じゅんびをします",
+    "kanji": "準備をします",
+    "vi": "chuẩn bị"
+   },
+   {
+    "kana": "てつやします",
+    "kanji": "徹夜します",
+    "vi": "thức đêm"
+   },
+   {
+    "kana": "つきます",
+    "kanji": "着きます",
+    "vi": "đến"
+   },
+   {
+    "kana": "そんなとき",
+    "kanji": "",
+    "vi": "những lúc như thế"
+   }
+  ],
+  "vocab_p2": [
+   {
+    "kana": "は",
+    "kanji": "歯",
+    "vi": "răng"
+   },
+   {
+    "kana": "みがきます",
+    "kanji": "磨きます",
+    "vi": "đánh (răng), chà"
+   },
+   {
+    "kana": "シャワーをあびます",
+    "kanji": "シャワーを浴びます",
+    "vi": "tắm (vòi hoa sen)"
+   },
+   {
+    "kana": "もういちど",
+    "kanji": "もう一度",
+    "vi": "một lần nữa"
+   },
+   {
+    "kana": "～じかんめ",
+    "kanji": "～時間目",
+    "vi": "tiết thứ ~"
+   },
+   {
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "vi": "sáng"
+   },
+   {
+    "kana": "もう",
+    "kanji": "",
+    "vi": "đã…rồi"
+   },
+   {
+    "kana": "くらい",
+    "kanji": "暗い",
+    "vi": "tối"
+   },
+   {
+    "kana": "こわい",
+    "kanji": "",
+    "vi": "sợ"
+   },
+   {
+    "kana": "うがいをします",
+    "kanji": "",
+    "vi": "súc miệng"
+   },
+   {
+    "kana": "じっけんをします",
+    "kanji": "実験をします",
+    "vi": "làm thí nghiệm"
+   },
+   {
+    "kana": "はっぴょう",
+    "kanji": "発表",
+    "vi": "phát biểu"
+   },
+   {
+    "kana": "じゅんびをします",
+    "kanji": "準備をします",
+    "vi": "chuẩn bị"
+   },
+   {
+    "kana": "てつやします",
+    "kanji": "徹夜します",
+    "vi": "thức đêm"
+   },
+   {
+    "kana": "つきます",
+    "kanji": "着きます",
+    "vi": "đến"
+   },
+   {
+    "kana": "そんなとき",
+    "kanji": "",
+    "vi": "những lúc như thế"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "半",
+      "hv": [
+       "BÁN"
+      ],
+      "on": [
+       "ハン"
+      ],
+      "kun": [
+       "* なか"
+      ],
+      "meaning": [
+       "Một nửa"
+      ],
+      "examples": [
+       "①　3時半：さんじはん (ba giờ rưỡi)",
+       "②　半分：はんぶん (một nửa, 1/2)"
+      ]
+     },
+     {
+      "char": "授",
+      "hv": [
+       "THỤ"
+      ],
+      "on": [
+       "ジュ"
+      ],
+      "kun": [
+       "* さず （さず.ける、さず.かる）"
+      ],
+      "meaning": [
+       "Truyền thụ"
+      ],
+      "examples": [
+       "①　授業：じゅぎょう (tiết học, giờ học)",
+       "②　* 教授：きょうじゅ (giáo sư)"
+      ]
+     },
+     {
+      "char": "業",
+      "hv": [
+       "NGHIỆP"
+      ],
+      "on": [
+       "ギョウ",
+       "ゴウ"
+      ],
+      "kun": [
+       "* わざ"
+      ],
+      "meaning": [
+       "Nghề nghiệp"
+      ],
+      "examples": [
+       "①　授業：じゅぎょう (tiết học, giờ học)",
+       "②　卒業：そつぎょう (tốt nghiệp)"
+      ]
+     },
+     {
+      "char": "図",
+      "hv": [
+       "ĐỒ"
+      ],
+      "on": [
+       "ト",
+       "ズ"
+      ],
+      "kun": [
+       "* え",
+       "* はか （はか.る）"
+      ],
+      "meaning": [
+       "Bản đồ"
+      ],
+      "examples": [
+       "①　地図：ちず (bản đồ)",
+       "②　図書館：としょかん (thư viện)"
+      ]
+     },
+     {
+      "char": "研",
+      "hv": [
+       "NGHIÊN"
+      ],
+      "on": [
+       "ケン",
+       "ク"
+      ],
+      "kun": [
+       "* と （と.ぐ）"
+      ],
+      "meaning": [
+       "Mài giũa"
+      ],
+      "examples": [
+       "①　研究：けんきゅう (nghiên cứu)",
+       "②　研究室：けんきゅうしつ (phòng nghiên cứu)"
+      ]
+     },
+     {
+      "char": "究",
+      "hv": [
+       "CỨU"
+      ],
+      "on": [
+       "キュウ"
+      ],
+      "kun": [
+       "* きわ （きわ.める）"
+      ],
+      "meaning": [
+       "Nghiên cứu"
+      ],
+      "examples": [
+       "①　研究：けんきゅう (nghiên cứu))",
+       "②　* 究める：きわめる (đào sâu, đi sâu tìm hiểu)"
+      ]
+     },
+     {
+      "char": "室",
+      "hv": [
+       "THẤT"
+      ],
+      "on": [
+       "シツ"
+      ],
+      "kun": [
+       "* むろ"
+      ],
+      "meaning": [
+       "Căn phòng"
+      ],
+      "examples": [
+       "①　教室：きょうしつ (phòng học)",
+       "②　研究室：けんきゅうしつ (phòng nghiên cứu)"
+      ]
+     },
+     {
+      "char": "実",
+      "hv": [
+       "THỰC"
+      ],
+      "on": [
+       "ジツ",
+       "シツ"
+      ],
+      "kun": [
+       "み",
+       "* みの （みのり、みの.る）",
+       "まこと"
+      ],
+      "meaning": [
+       "Sự thực"
+      ],
+      "examples": [
+       "①　実は：じつは (thực ra thì)",
+       "②　実：み (quả)"
+      ]
+     },
+     {
+      "char": "験",
+      "hv": [
+       "NGHIỆM"
+      ],
+      "on": [
+       "ケン",
+       "ゲン"
+      ],
+      "kun": [
+       "* しるし"
+      ],
+      "meaning": [
+       "Thí nghiệm",
+       "Kinh nghiệm"
+      ],
+      "examples": [
+       "①　試験：しけん (kỳ thi)",
+       "②　経験：けいけん (kinh nghiệm)"
+      ]
+     },
+     {
+      "char": "発",
+      "hv": [
+       "PHÁT"
+      ],
+      "on": [
+       "ハツ",
+       "パツ",
+       "ハッ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Xuất phát",
+       "Phát triển"
+      ],
+      "examples": [
+       "①　出発：しゅっぱつ (xuất phát)",
+       "②　* 発展：はってん (phát triển)"
+      ]
+     },
+     {
+      "char": "表",
+      "hv": [
+       "BIỂU"
+      ],
+      "on": [
+       "ヒョウ",
+       "ビョウ"
+      ],
+      "kun": [
+       "おもて",
+       "あらわ （あらわ.す、あらわ.れる）"
+      ],
+      "meaning": [
+       "Phát biểu",
+       "Bảng biểu"
+      ],
+      "examples": [
+       "①　発表：はっぴょう (phát biểu)",
+       "②　表：ひょう (bảng biểu)／*おもて (mặt trước)"
+      ]
+     },
+     {
+      "char": "準",
+      "hv": [
+       "CHUẨN"
+      ],
+      "on": [
+       "ジュン"
+      ],
+      "kun": [
+       "* じゅん （じゅん.じる、じゅん.ずる）",
+       "* なぞら （なぞら.える）"
+      ],
+      "meaning": [
+       "Quy chuẩn"
+      ],
+      "examples": [
+       "①　準備：じゅんび (chuẩn bị)",
+       "②　*標準：ひょうじゅん (tiêu chuẩn)"
+      ]
+     },
+     {
+      "char": "備",
+      "hv": [
+       "BỊ"
+      ],
+      "on": [
+       "ビ"
+      ],
+      "kun": [
+       "* そな 　(そな.える、そな.わる）",
+       "* つぶさ （つぶさ.に）"
+      ],
+      "meaning": [
+       "Dự sẵn"
+      ],
+      "examples": [
+       "①　* 予備：よび (dự bị)",
+       "②　* 備えます：そなえます (chuẩn bị)"
+      ]
+     },
+     {
+      "char": "始",
+      "hv": [
+       "THỦY",
+       "* THÍ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "はじ （はじ.める、はじ.まる）"
+      ],
+      "meaning": [
+       "Mới, trước"
+      ],
+      "examples": [
+       "①　始めます：はじめます (bắt đầu~)",
+       "②　始まります：はじまります (~ được bắt đầu)"
+      ]
+     },
+     {
+      "char": "終",
+      "hv": [
+       "CHUNG"
+      ],
+      "on": [
+       "シュウ"
+      ],
+      "kun": [
+       "お （お.わる、お.える）"
+      ],
+      "meaning": [
+       "Hết",
+       "Kết cục"
+      ],
+      "examples": [
+       "①　* 始終：ししゅう (từ đầu tới cuối)",
+       "②　終わります：おわります (kết thúc, hết)"
+      ]
+     },
+     {
+      "char": "暗",
+      "hv": [
+       "ÁM"
+      ],
+      "on": [
+       "アン"
+      ],
+      "kun": [
+       "くら （くら.い）"
+      ],
+      "meaning": [
+       "Tối"
+      ],
+      "examples": [
+       "①　暗い：くらい (tối)",
+       "②　暗証番号：あんしょうばんごう (mật khẩu, password)"
+      ]
+     },
+     {
+      "char": "遅",
+      "hv": [
+       "TRÌ"
+      ],
+      "on": [
+       "チ"
+      ],
+      "kun": [
+       "おく （おく.れる）",
+       "おそ （おそ.い）"
+      ],
+      "meaning": [
+       "Chậm trễ"
+      ],
+      "examples": [
+       "①　遅い：おそい (chậm)",
+       "②　遅れます：おくれます (trễ, muộn)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "開",
+      "hv": [
+       "KHAI"
+      ],
+      "on": [
+       "カイ"
+      ],
+      "kun": [
+       "ひら （ひら.く、ひら.ける）",
+       "あ （あ.く、あ.ける）"
+      ],
+      "meaning": [
+       "Mở"
+      ],
+      "examples": [
+       "①　開きます：ひらきます (mở, tổ chức)",
+       "②　* 開始します：かいしします (bắt đầu)"
+      ]
+     },
+     {
+      "char": "集",
+      "hv": [
+       "TẬP"
+      ],
+      "on": [
+       "シュウ"
+      ],
+      "kun": [
+       "あつ （あつ.まる、あつ.める）"
+      ],
+      "meaning": [
+       "Tập trung",
+       "Tập hợp"
+      ],
+      "examples": [
+       "①　集めます：あつめます (tập trung, gom, thu thập)",
+       "②　* 集合：しゅうごう (tập hợp)"
+      ]
+     },
+     {
+      "char": "夕",
+      "hv": [
+       "TỊCH"
+      ],
+      "on": [
+       "セキ"
+      ],
+      "kun": [
+       "ゆう"
+      ],
+      "meaning": [
+       "Chiều tà"
+      ],
+      "examples": [
+       "①　夕方：ゆうがた (hoàng hôn)",
+       "②　夕食：ゆうしょく (bữa tối)"
+      ]
+     },
+     {
+      "char": "昼",
+      "hv": [
+       "NOÃN"
+      ],
+      "on": [
+       "チュウ"
+      ],
+      "kun": [
+       "ひる"
+      ],
+      "meaning": [
+       "Buổi trưa"
+      ],
+      "examples": [
+       "①　昼ごはん：ひるごはん (bữa trưa)",
+       "②　昼休み：ひるやすみ (nghỉ trưa)"
+      ]
+     },
+     {
+      "char": "飯",
+      "hv": [
+       "PHẠN"
+      ],
+      "on": [
+       "ハン"
+      ],
+      "kun": [
+       "めし"
+      ],
+      "meaning": [
+       "Cơm"
+      ],
+      "examples": [
+       "①　ご飯：ごはん (cơm)",
+       "②　朝ご飯：あさごはん (bữa sáng)"
+      ]
+     },
+     {
+      "char": "堂",
+      "hv": [
+       "ĐƯỜNG"
+      ],
+      "on": [
+       "トウ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Gian nhà chính giữa"
+      ],
+      "examples": [
+       "①　食堂：しょくどう (nhà ăn)",
+       "②　 *講堂：こうどう (giảng đường)"
+      ]
+     },
+     {
+      "char": "肉",
+      "hv": [
+       "NHỤC"
+      ],
+      "on": [
+       "ニク"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Thịt"
+      ],
+      "examples": [
+       "①　肉：にく (thịt)",
+       "②　牛肉：ぎゅうにく (thịt bò)"
+      ]
+     },
+     {
+      "char": "服",
+      "hv": [
+       "PHỤC"
+      ],
+      "on": [
+       "フク"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Trang phục"
+      ],
+      "examples": [
+       "①　服：ふく (quần áo)",
+       "②　*洋服：ようふく(đồ tây âu)"
+      ]
+     },
+     {
+      "char": "薬",
+      "hv": [
+       "DƯỢC"
+      ],
+      "on": [
+       "ヤク"
+      ],
+      "kun": [
+       "くすり"
+      ],
+      "meaning": [
+       "Thuốc"
+      ],
+      "examples": [
+       "①　薬：くすり (thuốc)",
+       "②　薬局：やっきょく (nhà thuốc)"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "14": {
+  "vocab_p1": [
+   {
+    "kana": "しゅみ",
+    "kanji": "趣味",
+    "vi": "sở thích"
+   },
+   {
+    "kana": "Jポップ",
+    "kanji": "",
+    "vi": "J-pop"
+   },
+   {
+    "kana": "はじめます",
+    "kanji": "始めます",
+    "vi": "bắt đầu"
+   },
+   {
+    "kana": "なまのN",
+    "kanji": "生のN",
+    "vi": "N tươi, sống"
+   },
+   {
+    "kana": "モーツァルト",
+    "kanji": "",
+    "vi": "Mozart"
+   },
+   {
+    "kana": "ならっています",
+    "kanji": "習っています",
+    "vi": "học"
+   },
+   {
+    "kana": "バンド",
+    "kanji": "",
+    "vi": "ban nhạc"
+   },
+   {
+    "kana": "ベース",
+    "kanji": "",
+    "vi": "bass"
+   },
+   {
+    "kana": "（ピアノを）ひきます",
+    "kanji": "",
+    "vi": "chơi (piano)"
+   },
+   {
+    "kana": "きょく",
+    "kanji": "曲",
+    "vi": "bản nhạc"
+   },
+   {
+    "kana": "えんそうします",
+    "kanji": "演奏します",
+    "vi": "diễn"
+   }
+  ],
+  "vocab_p2": [
+   {
+    "kana": "しゅみ",
+    "kanji": "趣味",
+    "vi": "sở thích"
+   },
+   {
+    "kana": "Jポップ",
+    "kanji": "",
+    "vi": "J-pop"
+   },
+   {
+    "kana": "はじめます",
+    "kanji": "始めます",
+    "vi": "bắt đầu"
+   },
+   {
+    "kana": "なまのN",
+    "kanji": "生のN",
+    "vi": "N tươi, sống"
+   },
+   {
+    "kana": "モーツァルト",
+    "kanji": "",
+    "vi": "Mozart"
+   },
+   {
+    "kana": "ならっています",
+    "kanji": "習っています",
+    "vi": "học"
+   },
+   {
+    "kana": "バンド",
+    "kanji": "",
+    "vi": "ban nhạc"
+   },
+   {
+    "kana": "ベース",
+    "kanji": "",
+    "vi": "bass"
+   },
+   {
+    "kana": "（ピアノを）ひきます",
+    "kanji": "",
+    "vi": "chơi (piano)"
+   },
+   {
+    "kana": "きょく",
+    "kanji": "曲",
+    "vi": "bản nhạc"
+   },
+   {
+    "kana": "えんそうします",
+    "kanji": "演奏します",
+    "vi": "diễn"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "音",
+      "hv": [
+       "ÂM"
+      ],
+      "on": [
+       "オン",
+       "イン"
+      ],
+      "kun": [
+       "おと",
+       "* ね"
+      ],
+      "meaning": [
+       "Âm thanh"
+      ],
+      "examples": [
+       "①　音楽：おんがく (âm nhạc)",
+       "②　発音：はつおん (phát âm)"
+      ]
+     },
+     {
+      "char": "映",
+      "hv": [
+       "ÁNH"
+      ],
+      "on": [
+       "エイ"
+      ],
+      "kun": [
+       "うつ （うつ.る、うつ.す）",
+       "* は （は.える）"
+      ],
+      "meaning": [
+       "Hình ảnh"
+      ],
+      "examples": [
+       "①　映画：えいが (phim ảnh)",
+       "②　*映ります：うつります (phản chiếu)"
+      ]
+     },
+     {
+      "char": "画",
+      "hv": [
+       "HOẠ",
+       "HOẠCH"
+      ],
+      "on": [
+       "ガ",
+       "ガク",
+       "エ",
+       "カイ"
+      ],
+      "kun": [
+       "えが （えが.く）",
+       "* かく （かく.する）",
+       "* はか （はか.る）"
+      ],
+      "meaning": [
+       "Vẽ"
+      ],
+      "examples": [
+       "①　画像：がぞう (hình ảnh)",
+       "②　画面：がめん (màn hình)"
+      ]
+     },
+     {
+      "char": "趣",
+      "hv": [
+       "THÚ",
+       "* XÚC"
+      ],
+      "on": [
+       "シュ"
+      ],
+      "kun": [
+       "* おもむ （おもむ.き、おもむ.く）"
+      ],
+      "meaning": [
+       "Hứng thú"
+      ],
+      "examples": [
+       "①　趣味：しゅみ (sở thích)",
+       "②　* 趣：おもむき (sắc thái)"
+      ]
+     },
+     {
+      "char": "味",
+      "hv": [
+       "VỊ"
+      ],
+      "on": [
+       "ミ"
+      ],
+      "kun": [
+       "あじ （あじ.わう）"
+      ],
+      "meaning": [
+       "Vị"
+      ],
+      "examples": [
+       "①　味：あじ (vị)",
+       "②　意味：いみ (ý nghĩa)"
+      ]
+     },
+     {
+      "char": "写",
+      "hv": [
+       "TẢ"
+      ],
+      "on": [
+       "シャ",
+       "ジャ"
+      ],
+      "kun": [
+       "うつ （* うつ.す、* うつ.る、* うつ.し）"
+      ],
+      "meaning": [
+       "Miêu tả"
+      ],
+      "examples": [
+       "➀ 写真：しゃしん (bức ảnh)",
+       "➁ *写ります：うつります　(được chiếu, phản chiếu)"
+      ]
+     },
+     {
+      "char": "真",
+      "hv": [
+       "CHÂN"
+      ],
+      "on": [
+       "シン"
+      ],
+      "kun": [
+       "ま",
+       "まこと"
+      ],
+      "meaning": [
+       "Chân thực"
+      ],
+      "examples": [
+       "➀ * 真実：しんじつ (chân thực)",
+       "➁ * 真っ白：まっしろ (trắng xóa)"
+      ]
+     },
+     {
+      "char": "結",
+      "hv": [
+       "KẾT"
+      ],
+      "on": [
+       "ケツ",
+       "ケチ"
+      ],
+      "kun": [
+       "むす （むす.ぶ）"
+      ],
+      "meaning": [
+       "Buộc",
+       "Kết nối"
+      ],
+      "examples": [
+       "➀　結婚：けっこん (kết hôn)",
+       "➁　* 結びます：むすびます (kết nối)"
+      ]
+     },
+     {
+      "char": "婚",
+      "hv": [
+       "HÔN"
+      ],
+      "on": [
+       "コン"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Hôn ước"
+      ],
+      "examples": [
+       "➀　離婚：りこん (li hôn)",
+       "➁　*婚約：こんやく (hôn ước)"
+      ]
+     },
+     {
+      "char": "旅",
+      "hv": [
+       "LỮ"
+      ],
+      "on": [
+       "リョ"
+      ],
+      "kun": [
+       "たび"
+      ],
+      "meaning": [
+       "Lữ hành"
+      ],
+      "examples": [
+       "➀　旅行：りょこう (lữ hành)",
+       "➁　旅：たび (chuyến đi)"
+      ]
+     },
+     {
+      "char": "妻",
+      "hv": [
+       "THÊ",
+       "* THẾ"
+      ],
+      "on": [
+       "サイ"
+      ],
+      "kun": [
+       "つま"
+      ],
+      "meaning": [
+       "Vợ"
+      ],
+      "examples": [
+       "➀　妻：つま (vợ tôi)",
+       "➁　*夫妻：ふさい (vợ chồng)"
+      ]
+     },
+     {
+      "char": "曲",
+      "hv": [
+       "KHÚC"
+      ],
+      "on": [
+       "キョク"
+      ],
+      "kun": [
+       "ま （ま.がる、ま.げる）"
+      ],
+      "meaning": [
+       "Cong",
+       "Khúc nhạc"
+      ],
+      "examples": [
+       "➀　曲：きょく (ca khúc)",
+       "➁　曲がります：まがります (uốn cong, rẽ)"
+      ]
+     },
+     {
+      "char": "当",
+      "hv": [
+       "ĐƯƠNG",
+       "ĐANG",
+       "* ĐÁNG"
+      ],
+      "on": [
+       "トウ"
+      ],
+      "kun": [
+       "あ （あ.たる、あ.たり、あ.てる）"
+      ],
+      "meaning": [
+       "Đương nhiên"
+      ],
+      "examples": [
+       "➀　当たります：あたります (trúng)",
+       "➁　*当然：とうぜん (đương nhiên)"
+      ]
+     },
+     {
+      "char": "飲",
+      "hv": [
+       "ẨM"
+      ],
+      "on": [
+       "イン",
+       "オン"
+      ],
+      "kun": [
+       "の （の.む、の.み）"
+      ],
+      "meaning": [
+       "Uống"
+      ],
+      "examples": [
+       "➀　飲みます：のみます (uống)",
+       "➁　飲食：いんしょく (ăn uống)"
+      ]
+     },
+     {
+      "char": "習",
+      "hv": [
+       "TẬP"
+      ],
+      "on": [
+       "シュウ",
+       "ジュ"
+      ],
+      "kun": [
+       "なら （なら.う、なら.い）"
+      ],
+      "meaning": [
+       "Học đi học lại"
+      ],
+      "examples": [
+       "➀　習います：ならいます (học)",
+       "➁　自習：じしゅう (tự học)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "員",
+      "hv": [
+       "VIÊN",
+       "* VÂN"
+      ],
+      "on": [
+       "いん"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Nhân viên",
+       "Thành viên"
+      ],
+      "examples": [
+       "➀　会社員：かいしゃいん (nhân viên công ty)",
+       "➁　銀行員：ぎんこういん (nhân viên ngân hàng)"
+      ]
+     },
+     {
+      "char": "心",
+      "hv": [
+       "TÂM"
+      ],
+      "on": [
+       "シン"
+      ],
+      "kun": [
+       "こころ"
+      ],
+      "meaning": [
+       "Trái tim"
+      ],
+      "examples": [
+       "➀　心：こころ (trái tim)",
+       "➁　*心臓：しんぞう (quả tim)"
+      ]
+     },
+     {
+      "char": "働",
+      "hv": [
+       "ĐỘNG"
+      ],
+      "on": [
+       "ドウ"
+      ],
+      "kun": [
+       "はたら（はたら.く）"
+      ],
+      "meaning": [
+       "Lao động",
+       "Làm việc"
+      ],
+      "examples": [
+       "➀　働きます：はたらきます (làm việc)",
+       "➁　*労働：ろうどう (lao động)"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "15": {
+  "vocab_p1": [
+   {
+    "kana": "せんもん",
+    "kanji": "専門",
+    "vi": "chuyên môn"
+   },
+   {
+    "kana": "じょうほうこうがく",
+    "kanji": "情報工学",
+    "vi": "kỹ thuật thông tin"
+   },
+   {
+    "kana": "そつぎょうします",
+    "kanji": "卒業します",
+    "vi": "tốt nghiệp"
+   },
+   {
+    "kana": "すすみます",
+    "kanji": "進みます",
+    "vi": "học lên"
+   },
+   {
+    "kana": "しょうらい",
+    "kanji": "将来",
+    "vi": "tương lai"
+   },
+   {
+    "kana": "じょうほうつうしん",
+    "kanji": "情報通信",
+    "vi": "công nghệ thông tin"
+   },
+   {
+    "kana": "はかせかてい",
+    "kanji": "博士課程",
+    "vi": "khóa học tiến sĩ"
+   },
+   {
+    "kana": "はかせごう",
+    "kanji": "博士号",
+    "vi": "bằng tiến sĩ"
+   },
+   {
+    "kana": "なります",
+    "kanji": "",
+    "vi": "trở thành, trở nên"
+   },
+   {
+    "kana": "しゅうしょくします",
+    "kanji": "就職します",
+    "vi": "xin việc"
+   },
+   {
+    "kana": "きめます",
+    "kanji": "決めます",
+    "vi": "quyết định"
+   },
+   {
+    "kana": "かんけい",
+    "kanji": "関係",
+    "vi": "quan hệ, liên quan"
+   },
+   {
+    "kana": "エンターテインメント",
+    "kanji": "",
+    "vi": "giải trí"
+   },
+   {
+    "kana": "あらわれます",
+    "kanji": "",
+    "vi": "gặp được ai đó"
+   },
+   {
+    "kana": "たぶん",
+    "kanji": "",
+    "vi": "có lẽ"
+   },
+   {
+    "kana": "つづけます",
+    "kanji": "続けます",
+    "vi": "tiếp tục"
+   },
+   {
+    "kana": "システムこうがく",
+    "kanji": "システム工学",
+    "vi": "kỹ thuật hệ thống"
+   },
+   {
+    "kana": "げんごりかい",
+    "kanji": "言語理解",
+    "vi": "hiểu ngôn ngữ"
+   },
+   {
+    "kana": "にんげん",
+    "kanji": "人間",
+    "vi": "con người"
+   },
+   {
+    "kana": "コミュニケーション",
+    "kanji": "",
+    "vi": "giao tiếp"
+   },
+   {
+    "kana": "ロボット",
+    "kanji": "",
+    "vi": "rô bốt"
+   },
+   {
+    "kana": "しんがくします",
+    "kanji": "進学します",
+    "vi": "học lên cao"
+   },
+   {
+    "kana": "あいて",
+    "kanji": "相手",
+    "vi": "đối phương, đối tượng"
+   },
+   {
+    "kana": "じょせい",
+    "kanji": "女性",
+    "vi": "phụ nữ"
+   },
+   {
+    "kana": "かじ",
+    "kanji": "家事",
+    "vi": "việc nhà"
+   },
+   {
+    "kana": "いくじ",
+    "kanji": "育児",
+    "vi": "nuôi dạy con"
+   }
+  ],
+  "vocab_p2": [
+   {
+    "kana": "せんもん",
+    "kanji": "専門",
+    "vi": "chuyên môn"
+   },
+   {
+    "kana": "じょうほうこうがく",
+    "kanji": "情報工学",
+    "vi": "kỹ thuật thông tin"
+   },
+   {
+    "kana": "そつぎょうします",
+    "kanji": "卒業します",
+    "vi": "tốt nghiệp"
+   },
+   {
+    "kana": "すすみます",
+    "kanji": "進みます",
+    "vi": "học lên"
+   },
+   {
+    "kana": "しょうらい",
+    "kanji": "将来",
+    "vi": "tương lai"
+   },
+   {
+    "kana": "じょうほうつうしん",
+    "kanji": "情報通信",
+    "vi": "công nghệ thông tin"
+   },
+   {
+    "kana": "はかせかてい",
+    "kanji": "博士課程",
+    "vi": "khóa học tiến sĩ"
+   },
+   {
+    "kana": "はかせごう",
+    "kanji": "博士号",
+    "vi": "bằng tiến sĩ"
+   },
+   {
+    "kana": "なります",
+    "kanji": "",
+    "vi": "trở thành, trở nên"
+   },
+   {
+    "kana": "しゅうしょくします",
+    "kanji": "就職します",
+    "vi": "xin việc"
+   },
+   {
+    "kana": "きめます",
+    "kanji": "決めます",
+    "vi": "quyết định"
+   },
+   {
+    "kana": "かんけい",
+    "kanji": "関係",
+    "vi": "quan hệ, liên quan"
+   },
+   {
+    "kana": "エンターテインメント",
+    "kanji": "",
+    "vi": "giải trí"
+   },
+   {
+    "kana": "あらわれます",
+    "kanji": "",
+    "vi": "gặp được ai đó"
+   },
+   {
+    "kana": "たぶん",
+    "kanji": "",
+    "vi": "có lẽ"
+   },
+   {
+    "kana": "つづけます",
+    "kanji": "続けます",
+    "vi": "tiếp tục"
+   },
+   {
+    "kana": "システムこうがく",
+    "kanji": "システム工学",
+    "vi": "kỹ thuật hệ thống"
+   },
+   {
+    "kana": "げんごりかい",
+    "kanji": "言語理解",
+    "vi": "hiểu ngôn ngữ"
+   },
+   {
+    "kana": "にんげん",
+    "kanji": "人間",
+    "vi": "con người"
+   },
+   {
+    "kana": "コミュニケーション",
+    "kanji": "",
+    "vi": "giao tiếp"
+   },
+   {
+    "kana": "ロボット",
+    "kanji": "",
+    "vi": "rô bốt"
+   },
+   {
+    "kana": "しんがくします",
+    "kanji": "進学します",
+    "vi": "học lên cao"
+   },
+   {
+    "kana": "あいて",
+    "kanji": "相手",
+    "vi": "đối phương, đối tượng"
+   },
+   {
+    "kana": "じょせい",
+    "kanji": "女性",
+    "vi": "phụ nữ"
+   },
+   {
+    "kana": "かじ",
+    "kanji": "家事",
+    "vi": "việc nhà"
+   },
+   {
+    "kana": "いくじ",
+    "kanji": "育児",
+    "vi": "nuôi dạy con"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "ユニット１５・漢字リスト",
+    "items": [
+     {
+      "char": "専",
+      "hv": [
+       "CHUYÊN"
+      ],
+      "on": [
+       "セン"
+      ],
+      "kun": [
+       "* もっぱ （もっぱ.ら）"
+      ],
+      "meaning": [
+       "Chuyên môn, chuyên gia"
+      ],
+      "examples": [
+       "➀　専門：せんもん (chuyên môn)",
+       "➁　専門家：せんもんか (chuyên gia)"
+      ]
+     },
+     {
+      "char": "門",
+      "hv": [
+       "MÔN"
+      ],
+      "on": [
+       "モン"
+      ],
+      "kun": [
+       "かど",
+       "* と"
+      ],
+      "meaning": [
+       "Cổng"
+      ],
+      "examples": [
+       "➀　門：もん (cổng)",
+       "➁　専門：せんもん (chuyên môn)"
+      ]
+     },
+     {
+      "char": "工",
+      "hv": [
+       "CÔNG"
+      ],
+      "on": [
+       "コウ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Công nghiệp"
+      ],
+      "examples": [
+       "➀　工業：こうぎょう (công nghiệp)",
+       "➁　工学部：こうがくぶ (khoa kỹ thuật)"
+      ]
+     },
+     {
+      "char": "部",
+      "hv": [
+       "BỘ"
+      ],
+      "on": [
+       "ブ"
+      ],
+      "kun": [
+       "* べ"
+      ],
+      "meaning": [
+       "Phòng ban",
+       "Câu lạc bộ"
+      ],
+      "examples": [
+       "➀　工学部：こうがくぶ (khoa kỹ thuật)",
+       "➁　テニス部：テニスぶ (câu lạc bộ tennis)"
+      ]
+     },
+     {
+      "char": "卒",
+      "hv": [
+       "TỐT"
+      ],
+      "on": [
+       "ソツ"
+      ],
+      "kun": [
+       "そっ （そっ.する）"
+      ],
+      "meaning": [
+       "Tốt nghiệp"
+      ],
+      "examples": [
+       "➀　卒業：そつぎょう (tốt nghiệp)",
+       "➁　卒業生：そつぎょうせい (sinh viên tốt nghiệp)"
+      ]
+     },
+     {
+      "char": "院",
+      "hv": [
+       "VIỆN"
+      ],
+      "on": [
+       "イン"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Khu nhà có tường bao quanh"
+      ],
+      "examples": [
+       "➀　病院：びょういん (bệnh viện)",
+       "➁　大学院：だいがくいん (cao học)"
+      ]
+     },
+     {
+      "char": "言",
+      "hv": [
+       "NGÔN"
+      ],
+      "on": [
+       "ゴン",
+       "ゲン"
+      ],
+      "kun": [
+       "い （い.う）",
+       "こと"
+      ],
+      "meaning": [
+       "Nói"
+      ],
+      "examples": [
+       "➀　言語：げんご (ngôn ngữ)",
+       "➁　言います：いいます (nói)"
+      ]
+     },
+     {
+      "char": "理",
+      "hv": [
+       "LÝ"
+      ],
+      "on": [
+       "リ"
+      ],
+      "kun": [
+       "* ことわり"
+      ],
+      "meaning": [
+       "Lý do",
+       "Lý giải"
+      ],
+      "examples": [
+       "➀　理由：りゆう (lý do)",
+       "➁　理解：りかい (lý giải/hiểu được)"
+      ]
+     },
+     {
+      "char": "解",
+      "hv": [
+       "GIẢI"
+      ],
+      "on": [
+       "カイ"
+      ],
+      "kun": [
+       "と （と.く、と.かす、と.ける）"
+      ],
+      "meaning": [
+       "Cởi, gỡ ra"
+      ],
+      "examples": [
+       "➀　* 解きます：ときます (tháo gỡ/giải quyết)",
+       "➁　理解：りかい (lý giải/hiểu)"
+      ]
+     },
+     {
+      "char": "進",
+      "hv": [
+       "TIẾN"
+      ],
+      "on": [
+       "シン"
+      ],
+      "kun": [
+       "すす （すす.む、すす.める）"
+      ],
+      "meaning": [
+       "Tiến lên"
+      ],
+      "examples": [
+       "➀　進みます：すすみます (tiến lên/tiến triển)",
+       "➁　進学：しんがく (học lên, học tiếp)"
+      ]
+     },
+     {
+      "char": "性",
+      "hv": [
+       "TÍNH"
+      ],
+      "on": [
+       "セイ",
+       "ショウ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Tính cách",
+       "Giới tính"
+      ],
+      "examples": [
+       "➀　* 性格：せいかく (tính cách)",
+       "➁　* 性別：せいべつ (giới tính)"
+      ]
+     },
+     {
+      "char": "決",
+      "hv": [
+       "QUYẾT"
+      ],
+      "on": [
+       "ケッ",
+       "ケツ"
+      ],
+      "kun": [
+       "き （き.める、き.まる）"
+      ],
+      "meaning": [
+       "Nhất quyết",
+       "Quyết liệt"
+      ],
+      "examples": [
+       "➀　決めます：きめます (quyết định)",
+       "➁　決心：けっしん (quyết tâm)"
+      ]
+     },
+     {
+      "char": "続",
+      "hv": [
+       "TIẾP"
+      ],
+      "on": [
+       "ゾク"
+      ],
+      "kun": [
+       "つづ （つづ.く、",
+       "つづ.ける）"
+      ],
+      "meaning": [
+       "Tiếp tục"
+      ],
+      "examples": [
+       "➀　続けます：つづけます (tiếp diễn, tiếp tục)",
+       "➁　* 手続き ：てつづき (thủ tục)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "JLPTN4・漢字リスト",
+    "items": [
+     {
+      "char": "建",
+      "hv": [
+       "KIẾN"
+      ],
+      "on": [
+       "ケン"
+      ],
+      "kun": [
+       "た（た.てる、た.つ）"
+      ],
+      "meaning": [
+       "Dựng lên"
+      ],
+      "examples": [
+       "➀　建てます：たてます (xây dựng)",
+       "➁　建物：たてもの (tòa nhà)"
+      ]
+     },
+     {
+      "char": "考",
+      "hv": [
+       "KHẢO"
+      ],
+      "on": [
+       "コウ"
+      ],
+      "kun": [
+       "かんが（かんが.える",
+       "かんが.え）"
+      ],
+      "meaning": [
+       "Khảo xét"
+      ],
+      "examples": [
+       "➀　考えます：かんがえます (suy nghĩ)",
+       "➁　*参考：さんこう (tham khảo)"
+      ]
+     },
+     {
+      "char": "合",
+      "hv": [
+       "HỢP"
+      ],
+      "on": [
+       "ゴウ"
+      ],
+      "kun": [
+       "あ（あ.う、あ.わせる）"
+      ],
+      "meaning": [
+       "Góp lại"
+      ],
+      "examples": [
+       "➀　合います：あいます (hợp)",
+       "➁　* 集合：しゅうごう (tập hợp/thu thập)"
+      ]
+     },
+     {
+      "char": "試",
+      "hv": [
+       "THÍ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "* こころ（こころ.みる）",
+       "* ため（ため.す）"
+      ],
+      "meaning": [
+       "Thử"
+      ],
+      "examples": [
+       "➀　試験：しけん (kiểm tra)",
+       "➁　* 試します：ためします (thử)"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "16": {
+  "vocab_p1": [
+   {
+    "kana": "～けい",
+    "kanji": "～系",
+    "vi": "gốc ~"
+   },
+   {
+    "kana": "かんじ",
+    "kanji": "漢字",
+    "vi": "Hán tự"
+   },
+   {
+    "kana": "いみ",
+    "kanji": "意味",
+    "vi": "ý nghĩa"
+   },
+   {
+    "kana": "だいたい",
+    "kanji": "",
+    "vi": "hầu hết"
+   },
+   {
+    "kana": "うまい",
+    "kanji": "",
+    "vi": "ngon (đồ ăn), giỏi (làm gì đó)"
+   },
+   {
+    "kana": "ヘルシーな",
+    "kanji": "",
+    "vi": "tốt cho sức khoẻ"
+   },
+   {
+    "kana": "てんぷら",
+    "kanji": "天ぷら",
+    "vi": "Tempura"
+   },
+   {
+    "kana": "おこのみやき",
+    "kanji": "お好み焼き",
+    "vi": "Okonomiyaki"
+   },
+   {
+    "kana": "たこやき",
+    "kanji": "たこ焼き",
+    "vi": "Takoyaki"
+   },
+   {
+    "kana": "なんでも",
+    "kanji": "何でも",
+    "vi": "cái gì cũng"
+   },
+   {
+    "kana": "なっとう",
+    "kanji": "納豆",
+    "vi": "đậu len men, natto"
+   },
+   {
+    "kana": "におい",
+    "kanji": "",
+    "vi": "mùi"
+   },
+   {
+    "kana": "ひどい（におい）",
+    "kanji": "",
+    "vi": "ghê, kinh khủng"
+   },
+   {
+    "kana": "りょうりをします",
+    "kanji": "料理をします",
+    "vi": "nấu ăn"
+   },
+   {
+    "kana": "とくいな",
+    "kanji": "得意な",
+    "vi": "tâm đắc"
+   },
+   {
+    "kana": "カレー",
+    "kanji": "",
+    "vi": "cà ri"
+   },
+   {
+    "kana": "インド",
+    "kanji": "",
+    "vi": "Ấn Độ"
+   },
+   {
+    "kana": "タイ",
+    "kanji": "",
+    "vi": "Thái Lan"
+   },
+   {
+    "kana": "シンプルな",
+    "kanji": "",
+    "vi": "đơn giản"
+   },
+   {
+    "kana": "シーフード",
+    "kanji": "",
+    "vi": "hải sản"
+   },
+   {
+    "kana": "トマトソース",
+    "kanji": "",
+    "vi": "sốt cà chua"
+   }
+  ],
+  "vocab_p2": [
+   {
+    "kana": "～けい",
+    "kanji": "～系",
+    "vi": "gốc ~"
+   },
+   {
+    "kana": "かんじ",
+    "kanji": "漢字",
+    "vi": "Hán tự"
+   },
+   {
+    "kana": "いみ",
+    "kanji": "意味",
+    "vi": "ý nghĩa"
+   },
+   {
+    "kana": "だいたい",
+    "kanji": "だいたい",
+    "vi": "hầu hết"
+   },
+   {
+    "kana": "うまい",
+    "kanji": "",
+    "vi": "làm gì tốt"
+   },
+   {
+    "kana": "ヘルシーな",
+    "kanji": "",
+    "vi": "tốt cho sức khoẻ"
+   },
+   {
+    "kana": "てんぷら",
+    "kanji": "天ぷら",
+    "vi": "Tempura"
+   },
+   {
+    "kana": "おこのみやき",
+    "kanji": "お好み焼き",
+    "vi": "Okonomiyaki"
+   },
+   {
+    "kana": "たこやき",
+    "kanji": "たこ焼き",
+    "vi": "Takoyaki"
+   },
+   {
+    "kana": "なんでも",
+    "kanji": "何でも",
+    "vi": "cái gì cũng"
+   },
+   {
+    "kana": "なっとう",
+    "kanji": "納豆",
+    "vi": "đậu len men, natto"
+   },
+   {
+    "kana": "におい",
+    "kanji": "",
+    "vi": "mùi"
+   },
+   {
+    "kana": "ひどい（におい）",
+    "kanji": "",
+    "vi": "ghê"
+   },
+   {
+    "kana": "りょうりをします",
+    "kanji": "料理をします",
+    "vi": "nấu ăn"
+   },
+   {
+    "kana": "とくいな",
+    "kanji": "得意な",
+    "vi": "ưa thích"
+   },
+   {
+    "kana": "カレー",
+    "kanji": "",
+    "vi": "cà ri"
+   },
+   {
+    "kana": "インド",
+    "kanji": "",
+    "vi": "Ấn Độ"
+   },
+   {
+    "kana": "タイ",
+    "kanji": "",
+    "vi": "Thái Lan"
+   },
+   {
+    "kana": "シンプルな",
+    "kanji": "",
+    "vi": "đơn giản"
+   },
+   {
+    "kana": "シーフード",
+    "kanji": "",
+    "vi": "hải sản"
+   },
+   {
+    "kana": "トマトソース",
+    "kanji": "",
+    "vi": "sốt cà chua"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "ユニット１６・漢字リスト",
+    "items": [
+     {
+      "char": "系",
+      "hv": [
+       "HỆ"
+      ],
+      "on": [
+       "ケイ",
+       "ゲイ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Hệ thống"
+      ],
+      "examples": [
+       "➀　中国系：ちゅうごくけい (gốc Hoa)",
+       "➁　日系企業：にっけいきぎょう (doanh nghiệp Nhật Bản)"
+      ]
+     },
+     {
+      "char": "私",
+      "hv": [
+       "TƯ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "わたくし",
+       "わたし"
+      ],
+      "meaning": [
+       "Riêng tư"
+      ],
+      "examples": [
+       "➀　私：わたし・わたくし (tôi)",
+       "➁　私立：しりつ (tư lập)"
+      ]
+     },
+     {
+      "char": "立",
+      "hv": [
+       "LẬP"
+      ],
+      "on": [
+       "リツ"
+      ],
+      "kun": [
+       "た （た.つ、た.てる）"
+      ],
+      "meaning": [
+       "Đứng",
+       "Thành lập"
+      ],
+      "examples": [
+       "➀　私立：しりつ (tư lập)",
+       "➁　立ちます：たちます (đứng)"
+      ]
+     },
+     {
+      "char": "漢",
+      "hv": [
+       "HÁN"
+      ],
+      "on": [
+       "カン"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Chữ Hán"
+      ],
+      "examples": [
+       "➀　漢字：かんじ (Hán tự)",
+       "➁　漢和辞典：かんわじてん (từ điển Hán Nhật)"
+      ]
+     },
+     {
+      "char": "字",
+      "hv": [
+       "TỰ"
+      ],
+      "on": [
+       "ジ"
+      ],
+      "kun": [
+       "あざ"
+      ],
+      "meaning": [
+       "Chữ"
+      ],
+      "examples": [
+       "➀　文字：もじ (chữ)",
+       "➁　* 字幕：じまく (phụ đề/ sub)"
+      ]
+     },
+     {
+      "char": "意",
+      "hv": [
+       "Ý"
+      ],
+      "on": [
+       "イ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "ý chí"
+      ],
+      "examples": [
+       "➀　意味：いみ (ý nghĩa)",
+       "➁　意見：いけん (ý kiến)"
+      ]
+     },
+     {
+      "char": "料",
+      "hv": [
+       "LIÊU"
+      ],
+      "on": [
+       "リョウ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Đo lường",
+       "Nguyên liệu"
+      ],
+      "examples": [
+       "➀　料理：りょうり (món ăn)",
+       "➁　材料：ざいりょう (nguyên liệu)"
+      ]
+     },
+     {
+      "char": "最",
+      "hv": [
+       "TỐI"
+      ],
+      "on": [
+       "サイ"
+      ],
+      "kun": [
+       "もっと （もっと.も）"
+      ],
+      "meaning": [
+       "Nhất"
+      ],
+      "examples": [
+       "➀　最初：さいしょ (đầu tiên)",
+       "➁　最近：さいきん (dạo gần đây)"
+      ]
+     },
+     {
+      "char": "方",
+      "hv": [
+       "PHƯƠNG"
+      ],
+      "on": [
+       "ホウ"
+      ],
+      "kun": [
+       "かた",
+       "がた"
+      ],
+      "meaning": [
+       "Phương pháp",
+       "Phương hướng"
+      ],
+      "examples": [
+       "➀　読み方：よみかた (cách đọc)",
+       "➁　方法：ほうほう (phương pháp)"
+      ]
+     },
+     {
+      "char": "何",
+      "hv": [
+       "HÀ"
+      ],
+      "on": [
+       "カ"
+      ],
+      "kun": [
+       "なに",
+       "なん"
+      ],
+      "meaning": [
+       "Sao, gì"
+      ],
+      "examples": [
+       "➀　何：なに・なん (cái gì)",
+       "➁　何人：なんにん (mấy người)"
+      ]
+     },
+     {
+      "char": "前",
+      "hv": [
+       "TIỀN"
+      ],
+      "on": [
+       "ゼン"
+      ],
+      "kun": [
+       "まえ"
+      ],
+      "meaning": [
+       "Trước"
+      ],
+      "examples": [
+       "➀　前：まえ (trước)",
+       "➁　午前：ごぜん (buổi sáng)"
+      ]
+     },
+     {
+      "char": "得",
+      "hv": [
+       "ĐẮC"
+      ],
+      "on": [
+       "トク"
+      ],
+      "kun": [
+       "え （え.る）",
+       "う （う.る）"
+      ],
+      "meaning": [
+       "Được"
+      ],
+      "examples": [
+       "➀　得意：とくい (tâm đắc)",
+       "➁　*得ます：えます (đạt được, có được)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "JLPTN4・漢字リスト",
+    "items": [
+     {
+      "char": "正",
+      "hv": [
+       "CHÁNH",
+       "CHÍNH"
+      ],
+      "on": [
+       "セイ",
+       "ショウ"
+      ],
+      "kun": [
+       "ただ （ただ.しい、",
+       "ただ.す）"
+      ],
+      "meaning": [
+       "Ngay, giữa",
+       "Chính đáng"
+      ],
+      "examples": [
+       "➀　正しい：ただしい (chính xác)",
+       "➁　* 正午：しょうご (chính ngọ, 12h trưa)"
+      ]
+     },
+     {
+      "char": "題",
+      "hv": [
+       "ĐỀ"
+      ],
+      "on": [
+       "ダイ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Đầu đề",
+       "Đề mục"
+      ],
+      "examples": [
+       "➀　問題：もんだい (vấn đề)",
+       "➁　話題：わだい (đề tài)"
+      ]
+     },
+     {
+      "char": "不",
+      "hv": [
+       "BẤT"
+      ],
+      "on": [
+       "フ",
+       "ブ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Không"
+      ],
+      "examples": [
+       "➀　不便：ふべん (bất tiện)",
+       "➁　不安：ふあん (bất an)"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "17": {
+  "vocab_p1": [
+   {
+    "kana": "プレゼント",
+    "kanji": "",
+    "vi": "món quà"
+   },
+   {
+    "kana": "もらいます",
+    "kanji": "",
+    "vi": "nhận"
+   },
+   {
+    "kana": "くれます",
+    "kanji": "",
+    "vi": "cho tôi/gia đình tôi/bạn thân tôi,..."
+   },
+   {
+    "kana": "スカーフ",
+    "kanji": "",
+    "vi": "khăn quàng cổ"
+   },
+   {
+    "kana": "バッグ",
+    "kanji": "",
+    "vi": "túi xách"
+   },
+   {
+    "kana": "どれも",
+    "kanji": "",
+    "vi": "mọi thứ, cái nào cũng"
+   },
+   {
+    "kana": "うれしい",
+    "kanji": "",
+    "vi": "vui"
+   },
+   {
+    "kana": "しんせき",
+    "kanji": "親戚",
+    "vi": "họ hàng"
+   },
+   {
+    "kana": "おじさん",
+    "kanji": "",
+    "vi": "chú, bác"
+   },
+   {
+    "kana": "おこづかい",
+    "kanji": "",
+    "vi": "tiền tiêu vặt"
+   },
+   {
+    "kana": "たんじょうび",
+    "kanji": "誕生日",
+    "vi": "sinh nhật"
+   },
+   {
+    "kana": "ベルト",
+    "kanji": "",
+    "vi": "dây nịt"
+   },
+   {
+    "kana": "ネクタイ",
+    "kanji": "",
+    "vi": "cà vạt"
+   },
+   {
+    "kana": "ハンカチ",
+    "kanji": "",
+    "vi": "khăn mùi xoa, khăn bỏ túi"
+   },
+   {
+    "kana": "サイフ",
+    "kanji": "",
+    "vi": "bóp"
+   },
+   {
+    "kana": "あげます",
+    "kanji": "",
+    "vi": "cho"
+   },
+   {
+    "kana": "にんぎょう",
+    "kanji": "人形",
+    "vi": "búp bê"
+   },
+   {
+    "kana": "おもちゃ",
+    "kanji": "",
+    "vi": "đồ chơi"
+   },
+   {
+    "kana": "えほん",
+    "kanji": "絵本",
+    "vi": "sách có tranh vẽ"
+   },
+   {
+    "kana": "はいります（しょうがっこうに）",
+    "kanji": "入ります",
+    "vi": "vào (tiểu học)"
+   }
+  ],
+  "vocab_p2": [
+   {
+    "kana": "プレゼント",
+    "kanji": "",
+    "vi": "món quà"
+   },
+   {
+    "kana": "もらいます",
+    "kanji": "",
+    "vi": "nhận"
+   },
+   {
+    "kana": "くれます",
+    "kanji": "",
+    "vi": "cho tôi/gia đình tôi/bạn thân tôi,..."
+   },
+   {
+    "kana": "スカーフ",
+    "kanji": "",
+    "vi": "khăn quàng"
+   },
+   {
+    "kana": "バッグ",
+    "kanji": "",
+    "vi": "túi xách"
+   },
+   {
+    "kana": "どれも",
+    "kanji": "",
+    "vi": "mọi thứ"
+   },
+   {
+    "kana": "うれしい",
+    "kanji": "",
+    "vi": "vui"
+   },
+   {
+    "kana": "しんせき",
+    "kanji": "親戚",
+    "vi": "họ hàng"
+   },
+   {
+    "kana": "おじさん",
+    "kanji": "",
+    "vi": "chú, bác"
+   },
+   {
+    "kana": "おこづかい",
+    "kanji": "",
+    "vi": "tiền tiêu vặt"
+   },
+   {
+    "kana": "たんじょうび",
+    "kanji": "誕生日",
+    "vi": "sinh nhật"
+   },
+   {
+    "kana": "ベルト",
+    "kanji": "",
+    "vi": "dây nịt"
+   },
+   {
+    "kana": "ネクタイ",
+    "kanji": "",
+    "vi": "cà vạt"
+   },
+   {
+    "kana": "ハンカチ",
+    "kanji": "",
+    "vi": "khăn mùi xoa, khăn bỏ túi"
+   },
+   {
+    "kana": "サイフ",
+    "kanji": "",
+    "vi": "bóp"
+   },
+   {
+    "kana": "あげます",
+    "kanji": "",
+    "vi": "cho"
+   },
+   {
+    "kana": "にんぎょう",
+    "kanji": "人形",
+    "vi": "búp bê"
+   },
+   {
+    "kana": "おもちゃ",
+    "kanji": "",
+    "vi": "đồ chơi"
+   },
+   {
+    "kana": "えほん",
+    "kanji": "絵本",
+    "vi": "sách có tranh vẽ"
+   },
+   {
+    "kana": "はいります ( しょうがっこうに )",
+    "kanji": "入ります",
+    "vi": "vào (tiểu học)"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "計",
+      "hv": [
+       "KẾ"
+      ],
+      "on": [
+       "ケイ"
+      ],
+      "kun": [
+       "はか （はか.る、はか.らう）"
+      ],
+      "meaning": [
+       "Kế hoạch"
+      ],
+      "examples": [
+       "➀　時計：とけい (đồng hồ)",
+       "➁　計画：けいかく (kế hoạch)"
+      ]
+     },
+     {
+      "char": "親",
+      "hv": [
+       "THÂN"
+      ],
+      "on": [
+       "シン"
+      ],
+      "kun": [
+       "おや",
+       "した （した.しい、した.しむ）"
+      ],
+      "meaning": [
+       "Thân thiết"
+      ],
+      "examples": [
+       "➀　親：おや (cha mẹ)",
+       "➁　両親：りょうしん (cha mẹ)"
+      ]
+     },
+     {
+      "char": "戚",
+      "hv": [
+       "THÍCH"
+      ],
+      "on": [
+       "ソク",
+       "セキ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Thân thích"
+      ],
+      "examples": [
+       "➀　親戚：しんせき (họ hàng, thân thích)"
+      ]
+     },
+     {
+      "char": "誕",
+      "hv": [
+       "ĐẢN"
+      ],
+      "on": [
+       "タン"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Sinh nhật"
+      ],
+      "examples": [
+       "➀　誕生日：たんじょび (sinh nhật)"
+      ]
+     },
+     {
+      "char": "夜",
+      "hv": [
+       "DẠ"
+      ],
+      "on": [
+       "ヤ"
+      ],
+      "kun": [
+       "よ",
+       "よる"
+      ],
+      "meaning": [
+       "Tối, đêm"
+      ],
+      "examples": [
+       "➀　夜：よる (buổi tối)",
+       "➁　今夜：こんや (tối nay)"
+      ]
+     },
+     {
+      "char": "彼",
+      "hv": [
+       "BỈ"
+      ],
+      "on": [
+       "ヒ"
+      ],
+      "kun": [
+       "かれ",
+       "かの"
+      ],
+      "meaning": [
+       "Người khác"
+      ],
+      "examples": [
+       "➀　彼女：かのじょ (cô ấy)",
+       "➁　彼：かれ (anh ấy)"
+      ]
+     },
+     {
+      "char": "形",
+      "hv": [
+       "HÌNH"
+      ],
+      "on": [
+       "ケイ",
+       "ギョウ"
+      ],
+      "kun": [
+       "かたち"
+      ],
+      "meaning": [
+       "Hình dạng"
+      ],
+      "examples": [
+       "➀　形：かたち (hình dạng)",
+       "➁　人形：にんぎょう (búp bê)"
+      ]
+     },
+     {
+      "char": "絵",
+      "hv": [
+       "HỘI"
+      ],
+      "on": [
+       "カイ",
+       "エ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Hội hoạ"
+      ],
+      "examples": [
+       "➀　絵：え (bức tranh)",
+       "➁　絵はがき：えはがき (bưu thiếp có tranh)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "歌",
+      "hv": [
+       "CA"
+      ],
+      "on": [
+       "カ"
+      ],
+      "kun": [
+       "うた （うた・うた.う）"
+      ],
+      "meaning": [
+       "Ca hát"
+      ],
+      "examples": [
+       "➀　歌：うた (bài hát)",
+       "➁　歌手：かしゅ (ca sĩ)"
+      ]
+     },
+     {
+      "char": "茶",
+      "hv": [
+       "TRÀ"
+      ],
+      "on": [
+       "チャ",
+       "サ"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Trà"
+      ],
+      "examples": [
+       "➀　お茶：おちゃ (trà)",
+       "➁　茶道：さどう (trà đạo)"
+      ]
+     },
+     {
+      "char": "特",
+      "hv": [
+       "ĐẶC"
+      ],
+      "on": [
+       "トク"
+      ],
+      "kun": [
+       "X"
+      ],
+      "meaning": [
+       "Đặc biệt"
+      ],
+      "examples": [
+       "➀　特に：とくに (đặc biệt là)",
+       "➁　特別：とくべつ (đặc biệt)"
+      ]
+     },
+     {
+      "char": "用",
+      "hv": [
+       "DỤNG"
+      ],
+      "on": [
+       "ヨウ"
+      ],
+      "kun": [
+       "もち （もち.いる）"
+      ],
+      "meaning": [
+       "Sử dụng"
+      ],
+      "examples": [
+       "➀　使用：しよう (sử dụng)",
+       "➁　* 用います：もちいます (sử dụng)"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

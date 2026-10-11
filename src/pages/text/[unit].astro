@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import { UNITS } from '../../lib/course';
+
+export function getStaticPaths() {
+  return UNITS.map((u) => ({ params: { unit: String(u.id) } }));
+}
+const { unit } = Astro.params;
+---
+<Base nav="text" title={`Bài khóa · Unit ${unit}`} jp="マスターテクスト" args={[unit]}>
+  <script>
+    import '../../scripts/pages/text';
+  </script>
+</Base>

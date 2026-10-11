@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="vi" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Renix · Ôn tập N4</title>
+<link rel="icon" href="assets/img/icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/app.css">
+<script>
+  // apply saved theme/furigana before first paint (default: dark)
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('nix.settings') || '{}');
+      document.documentElement.setAttribute('data-theme', s.theme === 'light' ? 'light' : 'dark');
+      if (s.furi === false) document.documentElement.classList.add('furi-off');
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<div id="bg" aria-hidden="true"></div>
+<div id="app">
+  <aside id="sidebar" aria-label="Điều hướng">
+    <a class="brand" href="#/" title="Ôn tập tiếng Nhật · Unit 13–17">
+      <span class="brand-text"><b class="wordmark">Renix</b><small>Ôn tập N4 · Unit 13–17</small></span>
+    </a>
+    <nav id="nav"></nav>
+    <div class="drawer-extra">
+      <div class="side-label">Phạm vi ôn</div>
+      <div id="unit-filter-m" class="unit-pills wrap"></div>
+    </div>
+  </aside>
+  <div id="scrim"></div>
+  <div id="content">
+    <header id="topbar">
+      <button class="icon-btn only-mobile" id="btn-menu" aria-label="Mở menu"></button>
+      <a class="top-brand" href="#/" title="Renix · Ôn tập N4 · Unit 13–17"><span class="wordmark">Renix</span></a>
+      <div class="top-title"><b id="tt-main">Tổng quan</b><span id="tt-sub" lang="ja">ホーム</span></div>
+      <div class="search">
+        <input id="search" type="search" placeholder="Tìm từ, kanji, ngữ pháp…" autocomplete="off" aria-label="Tìm kiếm">
+        <kbd class="search-kbd">/</kbd>
+        <div id="search-results" class="search-results" hidden></div>
+      </div>
+      <div class="top-tools">
+        <button class="icon-btn only-mobile" id="btn-search" aria-label="Tìm kiếm"></button>
+        <div id="unit-filter" class="unit-pills"></div>
+        <button class="icon-btn" id="btn-furi" lang="ja">ふ</button>
+        <button class="icon-btn" id="btn-theme"></button>
+        <button class="icon-btn" id="btn-voice" title="Giọng đọc"></button>
+      </div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+  </div>
+</div>
+<div id="nav-tip" aria-hidden="true"></div>
+<div id="overlay-root"></div>
+<div id="toast-root" aria-live="polite"></div>
+
+<script src="data/units.js"></script>
+<script src="data/kanjivg.js"></script>
+<script src="data/verbs.js"></script>
+<script src="data/bank.js"></script>
+<script src="data/local-media.js"></script>
+<script src="data/voice.js"></script>
+<script src="assets/js/icons.js"></script>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/conjugate.js"></script>
+<script src="assets/js/kanjiwriter.js"></script>
+<script src="assets/js/widgets.js"></script>
+<script src="assets/js/pages/home.js"></script>
+<script src="assets/js/pages/text.js"></script>
+<script src="assets/js/pages/vocab.js"></script>
+<script src="assets/js/pages/grammar.js"></script>
+<script src="assets/js/pages/kanji.js"></script>
+<script src="assets/js/pages/write.js"></script>
+<script src="assets/js/pages/conj.js"></script>
+<script src="assets/js/pages/bank.js"></script>
+<script src="assets/js/pages/exam.js"></script>
+<script src="assets/js/pages/essay.js"></script>
+<script src="assets/js/pages/progress.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

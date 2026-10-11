@@ -1,0 +1,76 @@
+---
+/* Page shell shared by every route: floating rail + top bar, overlay roots, global styles and
+   the client shell script. The page's own content is client-rendered into #main by its script
+   (it depends on progress kept in localStorage); `args` are the static route params. */
+import '../styles/app.css';
+import Sidebar from '../components/Sidebar.astro';
+import TabBar from '../components/TabBar.astro';
+import Topbar from '../components/Topbar.astro';
+import { href, navItem } from '../lib/routes';
+
+interface Props {
+  /** rail key of the section ('' = home) */
+  nav: string;
+  /** top-bar / document title; defaults to the section name */
+  title?: string;
+  jp?: string;
+  args?: (string | number)[];
+}
+const { nav, args = [] } = Astro.props;
+const item = navItem(nav);
+const title = Astro.props.title ?? item.label;
+const jp = Astro.props.jp ?? item.jp;
+// below a section's first page the phone top bar gets a back button (to that section)
+const root = href(item.key);
+const back = Astro.url.pathname.replace(/\/?$/, '/') !== root ? root : undefined;
+---
+<!doctype html>
+<html lang="vi" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title} · Renix</title>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="theme-color" content="#0b0b0d" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <script is:inline>
+      // apply saved theme/furigana before first paint (default: dark)
+      (function () {
+        try {
+          var s = JSON.parse(localStorage.getItem('nix.settings') || '{}');
+          document.documentElement.setAttribute('data-theme', s.theme === 'light' ? 'light' : 'dark');
+          if (s.theme === 'light') document.querySelector('meta[name=theme-color]').setAttribute('content', '#ececef');
+          if (s.furi === false) document.documentElement.classList.add('furi-off');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <script>
+      // module scripts run in document order after parsing: the shell first, then the page's own script
+      import '../scripts/shell';
+    </script>
+    <div id="bg" aria-hidden="true"></div>
+    <div id="app">
+      <Sidebar active={item.key} />
+      <div id="scrim"></div>
+      <div id="content">
+        <Topbar title={title} jp={jp} back={back} />
+        <main id="main" tabindex="-1" data-args={JSON.stringify(args.map(String))}>
+          <slot />
+        </main>
+      </div>
+    </div>
+    <TabBar active={item.key} />
+    <div id="nav-tip" aria-hidden="true"></div>
+    <div id="overlay-root"></div>
+    <div id="toast-root" aria-live="polite"></div>
+  </body>
+</html>
