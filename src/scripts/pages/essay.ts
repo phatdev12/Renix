@@ -1,5 +1,4 @@
 /* Viết luận — essay helper */
-import { COURSE } from '../../lib/course';
 import { D } from '../../lib/data';
 import { A, B, h, ic } from '../../lib/dom';
 import { definePage } from '../../lib/page';
@@ -20,11 +19,21 @@ const CHECKS: Record<number, [string, RegExp][]> = {
   17: [['あげます／さしあげます', /あげ/], ['もらいます／いただきます', /もらい|いただき/], ['くれます／くださいます', /くれ|くださ(い|っ)/], ['どれも／みんな', /どれも|みんな/]],
 };
 
+/** a loose regex for a grammar title such as "～は～です", "Nがすきです。", "V１てからV２" */
+function grammarRe(title: string): RegExp | null {
+  const core = title.replace(/[～〜~…・。、\s()（）「」①-⑳\d]/g, '').replace(/[NVA][1-2１２]?/g, '').replace(/Adj|い-|な-|‐|-/g, '');
+  const kana = core.match(/[ぁ-んァ-ン一-鿿ー]{2,}/g);
+  if (!kana) return null;
+  return new RegExp(kana.map((k) => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|'));
+}
+
 function render(main: HTMLElement, args: string[]) {
   const sel = D.sel();
   const uid = parseInt(args[0], 10) || sel[0];
   const unit = D.unit(uid) || D.units[0];
   const e = unit.essay;
+  // units without hand-written patterns: look for the grammar point's own form in the draft
+  const checks: [string, RegExp][] = CHECKS[unit.id] || unit.grammar.map((g) => [g.title, grammarRe(g.title)] as [string, RegExp]).filter((x) => x[1]);
   main.appendChild(W.pageHead('Viết luận', 'さくぶん'));
   main.appendChild(W.unitSwitch(unit.id, 'essay'));
   const layout = h('div', { class: 'essay-layout' });
@@ -46,7 +55,7 @@ function render(main: HTMLElement, args: string[]) {
     const chars = txt.replace(/\s/g, '').length;
     counter.textContent = chars + ' ký tự';
     checklist.innerHTML = '';
-    (CHECKS[unit.id] || []).forEach(([label, re]) => {
+    checks.forEach(([label, re]) => {
       const on = re.test(txt);
       checklist.appendChild(h('div', { class: 'check-item' + (on ? ' on' : '') }, h('span', { class: 'box' }, on ? ic('check') : null), h('span', { lang: 'ja' }, label)));
     });
@@ -68,8 +77,8 @@ function render(main: HTMLElement, args: string[]) {
       h('li', null, h('span', null, h('b', null, 'Một thể'), ': toàn bài です・ます (hoặc toàn bài thể thường)')),
       h('li', null, h('span', null, h('b', null, 'Từ nối'), ': そして、それから、でも、だから、それで…')),
       h('li', null, h('span', null, h('b', null, 'Nộp bài'), ': viết tay → gõ lại & nhờ góp ý → bản hoàn chỉnh → phiếu phản tư → nộp 3 file ở Part 5'))))));
-  const m = COURSE.model;
-  right.appendChild(h('details', { class: 'box', style: { margin: 0 }, open: unit.id === 13 }, h('summary', null, ic('file'), 'Bài mẫu · ', h('span', { lang: 'ja', html: ruby(m.title) })),
+  const m = unit.model;
+  if (m) right.appendChild(h('details', { class: 'box', style: { margin: 0 }, open: true }, h('summary', null, ic('file'), 'Bài mẫu · ', h('span', { lang: 'ja', html: ruby(m.title) })),
     h('div', { class: 'box-body model' }, h('p', { class: 'small muted', style: { fontFamily: 'var(--font-ui)' } }, m.label),
       m.paragraphs.map((p) => h('p', { lang: 'ja', html: ruby(p) })),
       B('sm', 'volume', 'Nghe bài mẫu', () => TTS.speak(m.paragraphs.map(speechText).join(''))))));

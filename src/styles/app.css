@@ -30,7 +30,7 @@
   --ok: #f5f5f7; --ok-soft: rgba(255, 255, 255, .11);
   --bad: #ff7b72; --bad-soft: rgba(255, 123, 114, .11);
   --warn: #a1a1a6; --warn-soft: rgba(255, 255, 255, .06);
-  --u13: #e5e5ea; --u14: #e5e5ea; --u15: #e5e5ea; --u16: #e5e5ea; --u17: #e5e5ea;
+  --unit: #e5e5ea;
   --t-v: #d1d1d6; --t-n: #d1d1d6; --t-a: #d1d1d6; --t-f: #d1d1d6; --t-g: #f5f5f7;
   /* grey ramp for charts / levels (light → dark on the dark theme) */
   --g0: rgba(255, 255, 255, .09); --g1: #f5f5f7; --g2: #b9b9be; --g3: #7d7d83; --g4: #55555a; --g5: #3a3a3e;
@@ -84,7 +84,7 @@
   --ok: #1c1c1e; --ok-soft: rgba(0, 0, 0, .07);
   --bad: #d23b32; --bad-soft: rgba(210, 59, 50, .09);
   --warn: #6e6e73; --warn-soft: rgba(0, 0, 0, .04);
-  --u13: #2c2c2e; --u14: #2c2c2e; --u15: #2c2c2e; --u16: #2c2c2e; --u17: #2c2c2e;
+  --unit: #2c2c2e;
   --t-v: #3a3a3c; --t-n: #3a3a3c; --t-a: #3a3a3c; --t-f: #3a3a3c; --t-g: #1c1c1e;
   --g0: rgba(0, 0, 0, .07); --g1: #1c1c1e; --g2: #55555a; --g3: #8e8e93; --g4: #b9b9be; --g5: #d8d8dc;
   --kw-ink: #1c1c1e;
@@ -1179,3 +1179,49 @@ details.box > .box-body { padding: 0 16px 16px; }
 }
 ::view-transition-group(tab-ind) { animation-duration: .45s; animation-timing-function: cubic-bezier(.3, 1.3, .4, 1); }
 @media (prefers-reduced-motion: reduce) { @view-transition { navigation: none; } }
+
+/* ---------------------------------------------------------------- unit picker (top bar) + course groups */
+.unit-pick { position: relative; display: inline-flex; }
+.unit-btn {
+  height: 34px; padding: 0 12px 0 10px; border: 0; border-radius: 999px; background: transparent; cursor: pointer;
+  display: inline-flex; align-items: center; gap: 7px; color: var(--muted); font: 600 13px/1 var(--font-ui); transition: background .15s, color .15s;
+}
+.unit-btn svg { width: 16px; height: 16px; }
+.unit-btn b { font-family: var(--font-num); font-weight: 600; white-space: nowrap; max-width: 140px; overflow: hidden; text-overflow: ellipsis; }
+.unit-btn:hover, .unit-btn.on { color: var(--ink); background: var(--surface-3); }
+.unit-btn[aria-expanded="true"] { background: var(--raised); box-shadow: var(--raised-shadow); color: var(--ink); }
+.unit-pop { --glass-tint: rgba(18, 18, 20, .97); position: absolute; top: calc(100% + 10px); right: 0; z-index: 40; min-width: 340px; max-width: min(92vw, 520px); padding: 12px 12px 10px; border-radius: 18px; }
+.unit-pop .unit-pills.wrap { background: transparent; padding: 0; gap: 4px 2px; }
+.pill-group { display: inline-flex; align-items: center; gap: 2px; padding: 2px; border-radius: 999px; background: var(--surface-3); }
+.unit-pills.wrap .pill-group { flex-wrap: wrap; border-radius: 14px; }
+.unit-pills button.grp { font-family: var(--font-ui); font-size: 11.5px; letter-spacing: .02em; text-transform: uppercase; padding: 0 9px; min-width: 0; color: var(--muted); }
+.unit-pills button.grp.on { color: var(--ink); }
+@media (max-width: 900px) {
+  .unit-pick { display: none; }
+  .unit-pills.wrap { justify-content: flex-start; gap: 6px; }
+  .unit-pills.wrap .pill-group { width: 100%; justify-content: flex-start; }
+}
+
+/* ---------------------------------------------------------------- bài đọc chuyên ngành (SE) */
+.se-vocab { width: 100%; border-collapse: collapse; font-size: 14px; }
+.se-vocab th { text-align: left; font-size: 11.5px; color: var(--muted); font-weight: 600; padding: 4px 8px; border-bottom: 1px solid var(--line-2); }
+.se-vocab td { padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.se-vocab td.w { font: 500 17px/1.5 var(--font-jp); white-space: nowrap; }
+.se-vocab td.hv { color: var(--muted); font-size: 12.5px; white-space: nowrap; }
+.se-vocab tr:hover td { background: var(--surface-3); }
+.se-vocab.hide-vi td.vi { color: transparent; text-shadow: 0 0 10px var(--muted); cursor: pointer; }
+.se-vocab.hide-vi td.vi.show { color: inherit; text-shadow: none; }
+.se-intro { font: 400 15px/1.9 var(--font-jp); color: var(--ink-2); margin: 0 0 6px; }
+.se-intro .vi { display: block; font: 400 13px/1.6 var(--font-ui); color: var(--muted); }
+.para.dialog { display: flex; gap: 12px; line-height: 2.1; margin-bottom: 2px; }
+.para.dialog .who { flex: none; min-width: 5.5em; font-weight: 600; color: var(--muted); font-size: 15px; }
+.para.dialog .who:empty { display: none; }
+.text-side { min-width: 0; }
+@media (max-width: 900px) {
+  .se-vocab td.w, .se-vocab td.hv { white-space: normal; }
+  .se-vocab td.w { font-size: 16px; }
+  .para.dialog { flex-wrap: wrap; gap: 4px 10px; }
+  .para.dialog .who { min-width: 0; width: 100%; }
+}
+
+:root[data-theme="light"] .unit-pop { --glass-tint: rgba(250, 250, 252, .97); }

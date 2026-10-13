@@ -1,0 +1,798 @@
+{
+ "1597/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「白いポロシャツと、チェックのスカートと、ジーンズを買いました」→ Li mua áo polo trắng và váy ca rô.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「モールの中に庭があります」→ trong mall có vườn (にわ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「それで、わたしたちは、ごはんを食べに行きました」→ sau khi mua sắm thì đi ăn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「味がうすくてあまりおいしくなかったです」→ vị nhạt, không ngon.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「土曜日に、友だちといっしょに、買い物に行きました」→ đi mua sắm với bạn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「映画は、7時ごろ、終わりました」→ phim kết thúc lúc 7 giờ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「先週の土曜日は、彼女と二人で、映画を見に行きました」→ đi xem phim với bạn gái.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「清の時代の中国の映画を見ました」→ phim Trung Quốc.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「主人公の女の人は、とてもきれいで…」→ nhân vật chính là nữ, nên trả lời いいえ、女の人です.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1597/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「中国の歴史はあまり知りません」→ Akio không biết rõ lịch sử Trung Quốc.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: mọi người đang bước lên xe buýt → バスに のります (lên xe).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: cô gái đang nghĩ đến món ăn → おなかが すきました (đói bụng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/0/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: cô gái xách túi mua đồ, quần áo xung quanh → かいもの (mua sắm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: tách, bát, đĩa → しょっき (chén bát, bát đĩa).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người lái xe vẫy tay chào người vừa được đưa về đến nhà → おくります (đưa, tiễn về).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/1/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「買い物はとても楽しかったです。(また)行きたいです」= muốn đi nữa; また = lại, nữa (từ vựng bài).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「味がうすくてあまりおいしくなかったです」→ あじが うすくて.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Đi xem phim thì đến rạp chiếu phim: えいがかん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài đọc: 「友だちは、ストライプのシャツと、くつと、食器を買いました」→ ストライプ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/1/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 7 知っています: 「日本の歴史をよく知っています」; phủ định là 知りません, không dùng 知っていません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/2/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "スニーカー・ブーツ・くつ đều là giày dép; リング (nhẫn) là trang sức → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/2/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "コート・ジャンパー・ジャケット là áo khoác mặc ngoài; スーツ (bộ vest) là bộ đồ, không phải áo khoác.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Các đáp án 0,2,3 đều là áo khoác; スーツ là lựa chọn hợp lý nhất."
+ },
+ "1654/2/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "グラス・カップ・フォーク là đồ dùng ăn uống (食器); ボールペン là văn phòng phẩm → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1654/2/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "マフラー・てぶくろ・ワンピース là đồ mặc (quần áo, khăn, bao tay); とけい (đồng hồ) không phải đồ mặc.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Có thể người ra đề coi ワンピース (quần áo) khác với 3 phụ kiện; nhưng theo bảng từ vựng mở rộng, とけい xếp cùng nhóm trang sức/phụ kiện với リング, còn マフラー・てぶくろ xếp với đồ mặc."
+ },
+ "1654/2/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "ジャケット・セーター・シャツ là áo (mặc nửa trên); スカート (váy) mặc nửa dưới → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2063/0/1": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Phải nghe CD để biết vị trí đồ vật (a hay b). Tranh: ② sách trên bàn (a) / dưới ngăn bàn (b); ③ đồng hồ trên kệ sách (a) / trên bàn (b); ④ búp bê cạnh ảnh (a) / cạnh đồng hồ (b).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio. Đoán theo mẫu ví dụ ①=b (cốc trong hộp, 中): nếu audio dùng 下/となり... thì ② b (テーブルの下), ③ a (たなの上), ④ b (とけいのとなり) — chỉ là phỏng đoán."
+ },
+ "2063/1/1": {
+  "type": "matching",
+  "answer": {
+   "a": "1",
+   "b": "9",
+   "c": "3",
+   "d": "10",
+   "e": "7",
+   "f": "11",
+   "g": "2",
+   "h": "6",
+   "i": "5",
+   "j": "8",
+   "k": "13",
+   "l": "4",
+   "m": "12"
+  },
+  "explain": "Nhìn tranh: (1) giày=くつ a, (2) tất=くつした g, (3) áo khoác dài=コート c, (4) túi=バッグ l, (5) quần=パンツ i, (6) đầm=ワンピース h, (7) áo khoác ngắn=ジャケット e, (8) quần jean=ジーンズ j, (9) váy=スカート b, (10) bộ vest=スーツ d, (11) áo sơ mi=シャツ f, (12) cà vạt=ネクタイ m, (13) khăn quàng=スカーフ k.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2063/1/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "c",
+   "2": "b",
+   "3": "b",
+   "4": "c",
+   "5": "a"
+  },
+  "explain": "Chọn cách viết katakana đúng: 1) スカート (c), 2) パンツ (b), 3) ワンピース (b), 4) コート (c), 5) ジャケット (a).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2063/2/1": {
+  "type": "order",
+  "answer": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "explain": "Bài đọc lần lượt nêu: フランスのとけい (…しゃしんのよこ) → ちゅうごくのしゃしん (にんぎょうのうえ) → マレーシアのカップ (にんぎょうのした) → エジプトのしゃしん (ロシアのにんぎょうがその下).",
+  "confidence": "low",
+  "needs_audio": false,
+  "sentence": "フランスのとけい → ちゅうごくのしゃしん → マレーシアのカップ → エジプトのしゃしん",
+  "note": "Ảnh câu hỏi chỉ có bài đọc, không có sơ đồ kệ để biết các ô thả nằm ở đâu; xếp theo thứ tự xuất hiện trong bài đọc. Vị trí thật: とけい bên cạnh ảnh Mỹ; ảnh Trung Quốc trên búp bê Nhật; cốc Malaysia dưới búp bê Hàn; ảnh Ai Cập phía trên búp bê Nga."
+ },
+ "2080/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "へ",
+   "2": "かいにいきます"
+  },
+  "explain": "Ngữ pháp 4 Vますに行きます, theo mẫu 「スーパーへ ミルクを かいにいきます」→ デパートへ おみやげを かいにいきます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2080/0/2": {
+  "type": "short",
+  "answer": "たかくて",
+  "explain": "Tranh: ラーメン 950円 → たかいです + おいしくないです; nối tính từ い bằng くて (ngữ pháp 3): たかくて、おいしくないです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2080/0/3": {
+  "type": "dragtext",
+  "answer": [
+   "おおさか",
+   2,
+   1,
+   0,
+   "おおさか"
+  ],
+  "explain": "Bài đọc: 大阪は…おもしろい人が多くて、食べ物がおいしい (1,5 → おおさか); 神戸は前に海、うしろに山 (2 → こうべ); 奈良と京都は古いお寺や神社が多い (3 → ならときょうと); 奈良がいちばん古い (4 → なら).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "1 おおさか / 2 こうべ / 3 ならときょうと / 4 なら / 5 おおさか",
+  "note": "おおさか (chip 3) được dùng cho 2 ô nên ghi bằng chữ; nếu hệ thống chỉ nhận chỉ số thì cả hai ô đều là chip 3."
+ },
+ "2080/0/4": {
+  "type": "short",
+  "answer": "ひくくて",
+  "explain": "Tranh: núi ひくいです + ちかいです; nối bằng くて: ひくくて、ちかいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2080/0/5": {
+  "type": "short",
+  "answer": "はやくて",
+  "explain": "Tranh: nấu 5 phút はやいです + かんたんです; nối bằng くて: はやくて、かんたんです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2080/1/1": {
+  "type": "matching",
+  "answer": {
+   "①": "d",
+   "②": "b",
+   "③": "a",
+   "④": "c"
+  },
+  "explain": "① khu nhiều nhà hàng, cửa hàng, デパート, にぎやか → ảnh phố mua sắm (d); ② やきとりやさん → ảnh xiên nướng (b); ③ こうえん rộng, có どうぶつえん → ảnh công viên/sở thú (a); ④ アニメのびじゅつかん → ảnh bảo tàng Ghibli (c).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2080/2/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Phải nghe audio để biết nhà của mỗi người: (a) to và mới, (b) to và cũ, (c) nhỏ và mới, (d) nhỏ và cũ (ngữ pháp Aくて・Aで nối tính từ).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio; đáp án phụ thuộc hoàn toàn vào câu nghe (大きくて新しい=a, 大きくて古い=b, 小さくて新しい=c, 小さくて古い=d)."
+ },
+ "1777/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tính từ い nối bằng くて (không dùng で) nên loại 0; いい phải đổi thành よかった nên loại 1; đáp án đề nhắm tới là かわいくて やすいでした (áo polo hôm qua dễ thương và rẻ).",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Về mặt ngữ pháp chuẩn, quá khứ phải là やすかったです (Aかったです); cả 3 lựa chọn đều có lỗi, chọn 2 vì 0 sai cách nối, 1 sai ngoại lệ いい→よかった."
+ },
+ "1777/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 2 ナ-Aではありません: このスカート không có mốc thời gian quá khứ → きれいではありません (hiện tại).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "きれいでした cũng đúng ngữ pháp, nhưng drill này luyện dạng phủ định của tính từ な."
+ },
+ "1777/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 3: tính từ い bỏ い + くて → ひろくて きれいです (ひろいくて, ひろいで đều sai).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1777/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "きのう → quá khứ; phủ định quá khứ tính từ い: おもしろくなかったです (ngữ pháp 1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1777/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "きのうのひと → quá khứ; しんせつ là tính từ な nên しんせつくない sai, ではありません là hiện tại; しんせつでした đúng.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1777/1/1": {
+  "type": "matching",
+  "answer": {
+   "イ- Aくないです": "Dạng thức phủ định ở thì HT của tinh từ đuôi い",
+   "イ- Aくなかったです": "Dạng thức phủ định ở thì QK của tinh từ đuôi い",
+   "ナ - Aではありません": "Dạng thức phủ định ở thì HT của tính từ đuôi な",
+   "ナ - Aではありませんでした": "Dạng thức phủ định ở thì QK của tính từ đuôi な",
+   "イ- Aくて・ナ - Aで": "Dùng để nối 2 hay nhiều tính từ lại với nhau trong 1 câu."
+  },
+  "explain": "Ngữ pháp 1–3: Aくないです/Aくなかったです là phủ định hiện tại/quá khứ của tính từ い; Aではありません/Aではありませんでした là của tính từ な; Aくて・Aで dùng để nối tính từ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1778/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 4 Nに行きます: trước に là danh từ chỉ hoạt động → かいものに行きました (bài đọc: 友だちといっしょに、買い物に行きました).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1778/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 5 それで: câu trước nêu lý do (つかれました), câu sau là kết quả (やすみました) → それで.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1778/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Vます bỏ ます + に行きます; えきまで おくりに行きます = đi tiễn (ai) ra ga (từ vựng おくります).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "あいに行きます cũng là dạng đúng nhưng với えきまで thì おくります (tiễn tới ga) hợp nghĩa hơn."
+ },
+ "1778/1/1": {
+  "type": "matching",
+  "answer": {
+   "Nへ V「 ます 」に 行きます。": "Đi đâu để làm gì",
+   "それで": "Do đó mà..., vì vậy mà..."
+  },
+  "explain": "Ngữ pháp 4: Nへ Vますに行きます = đi (đến đâu) để làm gì; ngữ pháp 5: それで = vì vậy, do đó.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1779/0/1": {
+  "type": "matching",
+  "answer": {
+   "～はどうでしたか？": "～thì như thế nào?",
+   "～を知っています・知りません": "Biết/không viết về một lĩnh vực nào đó"
+  },
+  "explain": "Ngữ pháp 6 どうでしたか = hỏi cảm nhận (… như thế nào?); ngữ pháp 7 知っています・知りません = biết / không biết.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1779/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Hỏi どうでしたか (quá khứ) thì trả lời bằng tính từ quá khứ: おいしかったです (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1779/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 7: phủ định của 知っています là 知りません, không nói 知っていません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1779/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "どうでしたか → trả lời ở quá khứ: とても おもしろかった (bài đọc: とても面白くていい映画でした); とても không đi với phủ định (phải là あまり…なかった).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đáp án thiếu です nhưng là lựa chọn duy nhất vừa ở quá khứ vừa hợp với とても."
+ },
+ "1780/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 8 danh từ chỉ vị trí: テーブルは ソファーの 前に あります (bàn ở phía trước ghế sofa).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "よこ cũng có thể đúng về nghĩa; 前 là cách nói thông thường về bàn trước sofa."
+ },
+ "1780/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 8: 本は たなの 中に あります (sách ở trong kệ), giống mẫu モールの中に庭があります.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "した/うえ không thuộc nhóm từ vị trí của bài (前、中、となり、よこ、おく)."
+ },
+ "1780/1/1": {
+  "type": "matching",
+  "answer": {
+   "前": "Phía trước",
+   "中": "Bên trong",
+   "となり": "Bên cạnh",
+   "よこ": "Bên cạnh (theo chiều ngang)",
+   "おく": "Trong góc"
+  },
+  "explain": "Ngữ pháp 8: 前 (đằng trước), 中 (bên trong), となり (bên cạnh), よこ (bên cạnh/phía ngang), おく (trong góc, phía trong).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "あまり + phủ định, きのう → quá khứ: おもしろくなかったです (ngữ pháp 1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「映画館のビルには、パスタの店がありました」→ ビル + に(は) + があります.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 6: えいがは どうでしたか (hỏi cảm nhận về việc đã qua).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tính từ な nối bằng で (ngữ pháp 3): 「とてもきれいですてきでした」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 4: Place へ + N に + 来ました → 日本へ けいざいのべんきょうに 来ました.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Ngữ pháp 5: おなかがすきました (lý do) → それで、ごはんを食べに行きました (kết quả).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài đọc: 「味がうすくてあまりおいしくなかったです」→ うすい + くて = うすくて.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「中華の店に入りました」→ はいります đi với に.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/9": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Nối tính từ い: いい → よくて (ngoại lệ, không nói いくて) → あたまがよくて しんせつです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「にわには、木がありました」; 木 là vật nên dùng あります.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/11": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「本屋の前で会いました」→ nơi diễn ra hành động dùng で.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/12": {
+  "type": "single",
+  "answer": 2,
+  "explain": "兄 là người, hiện tại → います (わたしは兄が二人います).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/13": {
+  "type": "single",
+  "answer": 1,
+  "explain": "まじめ là tính từ な → nối bằng で: まじめで、しんせつな人です (ngữ pháp 3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/14": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「10時に店を出ました」→ でます (ra khỏi) đi với を.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1667/0/15": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Ngữ pháp 4: Vます bỏ ます + に行きます → のみに行きます (bài đọc: コーヒーを飲みに行きました).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/1": {
+  "type": "short",
+  "answer": "まいにち",
+  "explain": "Cách đọc của 毎日 là まいにち (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/2": {
+  "type": "short",
+  "answer": "がくせい",
+  "explain": "Cách đọc của 学生 là がくせい (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/3": {
+  "type": "short",
+  "answer": "せんせい",
+  "explain": "Cách đọc của 先生 là せんせい (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/4": {
+  "type": "short",
+  "answer": "みます",
+  "explain": "Cách đọc của 見ます là みます (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/5": {
+  "type": "short",
+  "answer": "ななまん",
+  "explain": "Cách đọc của 七万 là ななまん (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/6": {
+  "type": "short",
+  "answer": "ごまん",
+  "explain": "Cách đọc của 五万 là ごまん (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/7": {
+  "type": "short",
+  "answer": "おんなのこ",
+  "explain": "Cách đọc của 女の子 là おんなのこ (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/8": {
+  "type": "short",
+  "answer": "きゅうまん",
+  "explain": "Cách đọc của 九万 là きゅうまん (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/9": {
+  "type": "short",
+  "answer": "こども",
+  "explain": "Cách đọc của 子ども là こども (bảng kanji bài 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1966/0/10": {
+  "type": "short",
+  "answer": "ねん",
+  "explain": "年 đọc âm on là ネン: ～年 = ～ねん (ví dụ 毎年 まいねん, 2022年 にせんにじゅうにねん).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Có thể hệ thống mong 「～ねん」 kèm dấu ～."
+ },
+ "1723/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "せんせい viết là 先生 (先 TIÊN + 生 SINH).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "子ども đọc là こども.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "年 trong ２０２２年 đọc là ねん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "九時 đọc là くじ (9 giờ đọc く, không đọc きゅう).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "みます viết là 見ます (見 KIẾN).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "友だち đọc là ともだち.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "いちまんえん viết là 一万円.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "いちねんせい viết là 一年生.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/9": {
+  "type": "single",
+  "answer": 1,
+  "explain": "六人 đọc là ろくにん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1723/0/10": {
+  "type": "single",
+  "answer": 3,
+  "explain": "まいにち viết là 毎日 (毎 MỖI + 日).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/1": {
+  "type": "short",
+  "answer": "とてもおもしろくていいえいがでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): とてもおもしろくていいえいがでした。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/2": {
+  "type": "short",
+  "answer": "しゅじんこうのおんなの人は、とてもきれいですてきでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): しゅじんこうのおんなの人は、とてもきれいですてきでした。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/3": {
+  "type": "short",
+  "answer": "わたしたちは、１０じにみせをでました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): わたしたちは、１０じにみせをでました。",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh là số full-width (１０/４); nếu hệ thống so khớp số half-width thì gõ 10/4."
+ },
+ "2368/0/4": {
+  "type": "short",
+  "answer": "でも、中ごくのれきしはあまりしりません。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): でも、中ごくのれきしはあまりしりません。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/5": {
+  "type": "short",
+  "answer": "わたしたちは、しんのじだいの中ごくのえいがを見ました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): わたしたちは、しんのじだいの中ごくのえいがを見ました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/6": {
+  "type": "short",
+  "answer": "わたしは、日本のれきしをよくしっています。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): わたしは、日本のれきしをよくしっています。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/7": {
+  "type": "short",
+  "answer": "えいがは、４じはんからでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): えいがは、４じはんからでした。",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh là số full-width (１０/４); nếu hệ thống so khớp số half-width thì gõ 10/4."
+ },
+ "2368/0/8": {
+  "type": "short",
+  "answer": "そして、えいがかんにいきました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): そして、えいがかんにいきました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/9": {
+  "type": "short",
+  "answer": "そして、少しかなしかったです。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): そして、少しかなしかったです。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/10": {
+  "type": "short",
+  "answer": "そして、コーヒーをのみにいきました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): そして、コーヒーをのみにいきました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/11": {
+  "type": "short",
+  "answer": "そして、えいがのはなしをしました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): そして、えいがのはなしをしました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/12": {
+  "type": "short",
+  "answer": "４じに、まちの大きい本やまえであいました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): ４じに、まちの大きい本やまえであいました。",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh là số full-width (１０/４); nếu hệ thống so khớp số half-width thì gõ 10/4. Ảnh viết 「本やまえで」 (thiếu の so với bài đọc 本屋の前で); gõ đúng như ảnh."
+ },
+ "2368/0/13": {
+  "type": "short",
+  "answer": "先しゅうの土よう日は、かのじょと二人で、えいがを見にいきました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): 先しゅうの土よう日は、かのじょと二人で、えいがを見にいきました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/14": {
+  "type": "short",
+  "answer": "えいがかんのビルには、パスタのみせがありました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): えいがかんのビルには、パスタのみせがありました。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2368/0/15": {
+  "type": "short",
+  "answer": "わたしたちは、パスタとピザをたべました。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu lấy từ bài đọc của Akio): わたしたちは、パスタとピザをたべました。",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

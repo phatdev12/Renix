@@ -1,0 +1,234 @@
+{
+ "text": {
+  "title": "{金曜日|きんようび}の{夜|よる}",
+  "titleVi": "Tối thứ Sáu",
+  "titleNote": "Hai video (A, B): mỗi video gồm bài của Li và bài của Akio.",
+  "sections": [
+   {"speaker": "li", "heading": "A", "headingVi": "Tối thứ Sáu ở ký túc xá",
+    "paragraphs": [
+     [
+      {"jp": "{金曜日|きんようび}の{夜|よる}は、たいてい、りょうの{友|とも}だちといっしょに{晩|ばん}ごはんをたべます。", "vi": "Tối thứ Sáu, tôi thường ăn tối cùng các bạn ở ký túc xá."},
+      {"jp": "りょうには、いろいろな{国|くに}の{人|ひと}がいます。", "vi": "Ở ký túc xá có người đến từ nhiều nước khác nhau."},
+      {"jp": "ですから、いろいろな{料理|りょうり}を{作|つく}ります。", "vi": "Vì vậy, chúng tôi nấu đủ loại món ăn."},
+      {"jp": "みんな、{料理|りょうり}が{上手|じょうず}です。", "vi": "Ai cũng nấu ăn giỏi."}
+     ],
+     [
+      {"jp": "わたしたちは、いろいろな{国|くに}の{料理|りょうり}を{食|た}べます。", "vi": "Chúng tôi ăn món ăn của nhiều nước."},
+      {"jp": "そして、{少|すこ}しお{酒|さけ}を{飲|の}みます。", "vi": "Rồi uống một chút rượu."},
+      {"jp": "そして、たくさん{話|はなし}をします。", "vi": "Và trò chuyện rất nhiều."},
+      {"jp": "たいてい{日本語|にほんご}で{話|はな}します。", "vi": "Chúng tôi thường nói chuyện bằng tiếng Nhật."},
+      {"jp": "ときどき、{英語|えいご}で{話|はな}します。", "vi": "Thỉnh thoảng thì nói bằng tiếng Anh."},
+      {"jp": "みんな、{英語|えいご}が{上手|じょうず}です。", "vi": "Ai cũng giỏi tiếng Anh."},
+      {"jp": "とても{楽|たの}しい{時間|じかん}です。", "vi": "Đó là khoảng thời gian rất vui."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": "A", "headingVi": "Đi uống với bạn cùng phòng nghiên cứu",
+    "paragraphs": [
+     [
+      {"jp": "{金曜日|きんようび}の{夜|よる}は、ときどき、{研究室|けんきゅうしつ}の{友|とも}だちといっしょに、{飲|の}みに{行|い}きます。", "vi": "Tối thứ Sáu, thỉnh thoảng tôi đi uống cùng các bạn ở phòng nghiên cứu."},
+      {"jp": "{学校|がっこう}の{近|ちか}くには、{安|やす}い{店|みせ}がたくさんあります。", "vi": "Gần trường có rất nhiều quán rẻ."},
+      {"jp": "わたしたちは、いつも、{駅|えき}の{近|ちか}くのやきにくやに{行|い}きます。", "vi": "Chúng tôi lúc nào cũng đến quán thịt nướng gần ga."},
+      {"jp": "その{店|みせ}は、とてもおいしいです。", "vi": "Quán đó rất ngon."},
+      {"jp": "そして、{安|やす}いです。", "vi": "Và lại rẻ nữa."},
+      {"jp": "わたしたちは、いつも、たくさん{食|た}べます。", "vi": "Chúng tôi lúc nào cũng ăn rất nhiều."},
+      {"jp": "そして、たくさん{飲|の}みます。", "vi": "Và uống rất nhiều."}
+     ]
+    ]},
+   {"speaker": "li", "heading": "B", "headingVi": "Đi ăn nhà hàng Malaysia với đàn anh",
+    "paragraphs": [
+     [
+      {"jp": "{先週|せんしゅう}の{金曜日|きんようび}のよるは、マレーシアの{先輩|せんぱい}といっしょに、レストランに{行|い}きました。", "vi": "Tối thứ Sáu tuần trước, tôi đã đi nhà hàng cùng một đàn anh người Malaysia."},
+      {"jp": "{大学|だいがく}の{近|ちか}くのマレーシア{料理|りょうり}の{店|みせ}に{行|い}きました。", "vi": "Chúng tôi đến một quán món Malaysia gần trường đại học."},
+      {"jp": "わたしたちは、ナシゴレンと、エビのニンニク{炒|いた}めと、マレーシアの{焼|や}きそばと、マレーシアの{焼|や}き{鳥|とり}などを{注文|ちゅうもん}しました。", "vi": "Chúng tôi gọi nasi goreng, tôm xào tỏi, mì xào kiểu Malaysia, gà nướng kiểu Malaysia, v.v."},
+      {"jp": "わたしたちは、おいしいマレーシア{料理|りょうり}を{楽|たの}しみました。", "vi": "Chúng tôi đã thưởng thức những món Malaysia ngon."},
+      {"jp": "そして、{最後|さいご}にタピオカミルクを{食|た}べました。", "vi": "Và cuối cùng, chúng tôi ăn trà sữa trân châu."}
+     ],
+     [
+      {"jp": "わたしは、ときどき、{料理|りょうり}をします。", "vi": "Thỉnh thoảng tôi cũng nấu ăn."},
+      {"jp": "でも、{料理|りょうり}は{下手|へた}です。", "vi": "Nhưng tôi nấu ăn dở."},
+      {"jp": "その{店|みせ}の{料理|りょうり}は、{本当|ほんとう}においしかったです。", "vi": "Món ăn của quán đó thật sự rất ngon."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": "B", "headingVi": "Ăn tối với bạn gái ở quán Ý",
+    "paragraphs": [
+     [
+      {"jp": "{金曜日|きんようび}のよるは、{彼女|かのじょ}と{二人|ふたり}で、{晩|ばん}ごはんを{食|た}べました。", "vi": "Tối thứ Sáu, tôi đã ăn tối riêng với bạn gái."},
+      {"jp": "{大学|だいがく}の{近|ちか}くに{小|ちい}さいイタリアンの{店|みせ}があります。", "vi": "Gần trường đại học có một quán Ý nhỏ."},
+      {"jp": "わたしたちは、その{店|みせ}に{行|い}きました。", "vi": "Chúng tôi đã đến quán đó."},
+      {"jp": "{5時半|ごじはん}に{店|みせ}に{入|はい}りました。", "vi": "Chúng tôi vào quán lúc 5 giờ rưỡi."},
+      {"jp": "その{店|みせ}は、ちょっと{古|ふる}いです。", "vi": "Quán đó hơi cũ."},
+      {"jp": "でも、とてもすてきな{店|みせ}です。", "vi": "Nhưng là một quán rất đẹp."},
+      {"jp": "わたしたちは、{奥|おく}のテーブルに{座|すわ}りました。", "vi": "Chúng tôi ngồi ở chiếc bàn phía trong cùng."}
+     ],
+     [
+      {"jp": "{最初|さいしょ}に、{前菜|ぜんさい}とワインを{注文|ちゅうもん}しました。", "vi": "Đầu tiên, chúng tôi gọi món khai vị và rượu vang."},
+      {"jp": "そして、{魚料理|さかなりょうり}とパスタとリゾットを{食|た}べました。", "vi": "Rồi chúng tôi ăn món cá, mì Ý và risotto."},
+      {"jp": "サラダも{食|た}べました。", "vi": "Chúng tôi cũng ăn cả salad."},
+      {"jp": "そして、{最後|さいご}に、ティラミスを{食|た}べました。", "vi": "Và cuối cùng, chúng tôi ăn tiramisu."}
+     ],
+     [
+      {"jp": "{料理|りょうり}は、みんな、とてもおいしかったです。", "vi": "Các món ăn, món nào cũng rất ngon."},
+      {"jp": "{特|とく}に、{魚料理|さかなりょうり}は、{最高|さいこう}でした。", "vi": "Đặc biệt, món cá thì tuyệt nhất."},
+      {"jp": "{黒|くろ}いソースがとてもおいしかったです。", "vi": "Nước sốt màu đen rất ngon."},
+      {"jp": "{最後|さいご}のあまいティラミスも、とてもおいしかったです。", "vi": "Món tiramisu ngọt ngào cuối bữa cũng rất ngon."},
+      {"jp": "そして、{店|みせ}の{人|ひと}も、とても{親切|しんせつ}でした。", "vi": "Và nhân viên của quán cũng rất thân thiện."},
+      {"jp": "{私|わたし}たちはいろいろな{話|はなし}をしました。", "vi": "Chúng tôi đã nói đủ thứ chuyện."},
+      {"jp": "とてもいい{時間|じかん}でした。", "vi": "Đó là một khoảng thời gian rất đẹp."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1289,
+   "title": "イけいようし・ナけいようし (A)（現在形）", "sub": "Aい ＋ N / Aな ＋ N",
+   "meaning": "Tính từ bổ nghĩa cho danh từ (cửa hàng to, cửa hàng đẹp…)",
+   "usage": ["Tính từ đứng trước N và bổ nghĩa cho N đó.", "Diễn tả N mang tính chất đó."],
+   "formulas": ["Aい ＋ N", "Aな ＋ N"],
+   "examples": [
+    {"jp": "{大|おお}きいみせ", "vi": "Cửa hàng to"},
+    {"jp": "{小|ちい}さいみせ", "vi": "Cửa hàng nhỏ"},
+    {"jp": "すてきなみせ", "vi": "Cửa hàng tuyệt vời"},
+    {"jp": "{学校|がっこう}の{近|ちか}くには、{安|やす}い{店|みせ}がたくさんあります。", "vi": "Gần trường có rất nhiều quán rẻ.", "src": "text"},
+    {"jp": "でも、とてもすてきな{店|みせ}です。", "vi": "Nhưng là một quán rất đẹp.", "src": "text"}
+   ],
+   "extra": ["Tính từ đuôi い giữ nguyên い khi đứng trước N: {安|やす}い{店|みせ}、{楽|たの}しい{時間|じかん}、{黒|くろ}いソース.", "Tính từ đuôi な phải có な khi đứng trước N: すてきな{店|みせ}、いろいろな{国|くに}、{親切|しんせつ}な{人|ひと}."],
+   "notes": [],
+   "table": null},
+  {"no": "2", "group": "A", "video": 1290,
+   "title": "動詞文 (V)（～ました、～ませんでした）", "sub": "Vました・Vませんでした",
+   "meaning": "Đã làm ～ / đã không làm ～ (thì quá khứ của động từ)",
+   "usage": ["Dùng để diễn tả những hành động đã xảy ra hoặc không xảy ra trong quá khứ."],
+   "formulas": ["（＋）Vます (hiện tại) ⇒ Vました (quá khứ)", "（－）Vません (hiện tại) ⇒ Vませんでした (quá khứ)"],
+   "examples": [
+    {"jp": "せんしゅうの{金|きん}よう{日|び}は、レストランに{行|い}きました。", "vi": "Thứ Sáu tuần trước tôi đã đến nhà hàng."},
+    {"jp": "せんしゅうの{金|きん}よう{日|び}は、レストランに{行|い}きませんでした。", "vi": "Thứ Sáu tuần trước tôi đã không đi đến nhà hàng."},
+    {"jp": "{先週|せんしゅう}の{金曜日|きんようび}のよるは、マレーシアの{先輩|せんぱい}といっしょに、レストランに{行|い}きました。", "vi": "Tối thứ Sáu tuần trước, tôi đã đi nhà hàng cùng một đàn anh người Malaysia.", "src": "text"},
+    {"jp": "わたしたちは、{奥|おく}のテーブルに{座|すわ}りました。", "vi": "Chúng tôi ngồi ở chiếc bàn phía trong cùng.", "src": "text"}
+   ],
+   "extra": ["Các từ chỉ thời gian quá khứ hay đi kèm: きのう (hôm qua), せんしゅう (tuần trước), きょねん (năm ngoái)."],
+   "notes": [],
+   "table": null},
+  {"no": "3", "group": "A", "video": 1291,
+   "title": "名詞 (N)（～でした、～ではありませんでした）", "sub": "Nでした・Nではありませんでした",
+   "meaning": "Đã là N / đã không phải là N (thì quá khứ của danh từ)",
+   "usage": ["Dùng để diễn đạt thể quá khứ và quá khứ phủ định của N."],
+   "formulas": ["（＋）Nです (hiện tại) ⇒ Nでした (quá khứ)", "（－）Nではありません (hiện tại) ⇒ Nではありませんでした (quá khứ)"],
+   "examples": [
+    {"jp": "リさんは {学生|がくせい}です。", "vi": "Li là sinh viên."},
+    {"jp": "{西山先生|にしやませんせい}は {学生|がくせい}ではありません。", "vi": "Thầy Nishiyama thì không phải sinh viên."},
+    {"jp": "きょねん、リさんは こうこうせいでした。", "vi": "Năm ngoái Li là học sinh THPT."},
+    {"jp": "きょねん、リさんは だいがくせいではありませんでした。", "vi": "Năm ngoái Li không phải sinh viên đại học."},
+    {"jp": "{特|とく}に、{魚料理|さかなりょうり}は、{最高|さいこう}でした。", "vi": "Đặc biệt, món cá thì tuyệt nhất.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "4", "group": "A", "video": 1292,
+   "title": "い-Aでした（いけいようしの過去形）", "sub": "Aかったです",
+   "meaning": "Đã ～ (thì quá khứ của tính từ đuôi い)",
+   "usage": ["Dùng để diễn đạt thì quá khứ của tính từ đuôi い.", "Bỏ い rồi thêm かったです; riêng いい đổi thành よかったです."],
+   "formulas": ["Aいです (hiện tại / tương lai) ⇒ Aかったです (quá khứ)", "※ いいです ⇒ よかったです"],
+   "examples": [
+    {"jp": "このりょうりは おいしいです。", "vi": "Món ăn này ngon."},
+    {"jp": "きのうのりょうりは おいしかったです。", "vi": "Món ăn hôm qua ngon."},
+    {"jp": "その{店|みせ}の{料理|りょうり}は、{本当|ほんとう}においしかったです。", "vi": "Món ăn của quán đó thật sự rất ngon.", "src": "text"},
+    {"jp": "{黒|くろ}いソースがとてもおいしかったです。", "vi": "Nước sốt màu đen rất ngon.", "src": "text"}
+   ],
+   "extra": ["Bảng: Hiện tại / Tương lai (KĐ): Aいです ※いいです — Quá khứ (KĐ): Aかったです ※よかったです."],
+   "notes": [],
+   "table": null},
+  {"no": "5", "group": "A", "video": 1293,
+   "title": "な-Aでした（なけいようしの過去形）", "sub": "Aでした",
+   "meaning": "Đã ～ (thì quá khứ của tính từ đuôi な)",
+   "usage": ["Dùng để diễn đạt thì quá khứ của tính từ đuôi な.", "Bỏ な, đổi です thành でした (giống danh từ)."],
+   "formulas": ["Aな ＋ です (hiện tại / tương lai) ⇒ Aな ＋ でした (quá khứ)　※ bỏ な: すてきです ⇒ すてきでした"],
+   "examples": [
+    {"jp": "このみせは すてきです。", "vi": "Cửa hàng này thật tuyệt vời."},
+    {"jp": "むかし このまちは しずかでした。", "vi": "Ngày xưa thị trấn này rất yên tĩnh."},
+    {"jp": "そして、{店|みせ}の{人|ひと}も、とても{親切|しんせつ}でした。", "vi": "Và nhân viên của quán cũng rất thân thiện.", "src": "text"}
+   ],
+   "extra": ["Bảng: Hiện tại / Tương lai (KĐ): Aです — Quá khứ (KĐ): Aでした."],
+   "notes": [],
+   "table": null},
+  {"no": "6", "group": "A", "video": 1294,
+   "title": "ばしょに Nが います", "sub": null,
+   "meaning": "Ở (đâu đó) có N (người, động vật)",
+   "usage": ["Dùng để diễn đạt sự tồn tại của người, động vật (sinh vật sống) ở một địa điểm nào đó."],
+   "formulas": ["N (địa điểm) ＋ に ＋ N (ひと、いぬ…) ＋ が ＋ います"],
+   "examples": [
+    {"jp": "りょうには、いろいろな{国|くに}の{人|ひと}がいます。", "vi": "Ở ký túc xá có rất nhiều bạn đến từ nhiều đất nước."},
+    {"jp": "りょうに、いぬがいます。", "vi": "Ở ký túc xá có nuôi chó."},
+    {"jp": "りょうには、いろいろな{国|くに}の{人|ひと}がいます。", "vi": "Ở ký túc xá có người đến từ nhiều nước khác nhau.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "7", "group": "A", "video": 1295,
+   "title": "ばしょに Nが あります", "sub": null,
+   "meaning": "Ở (đâu đó) có N (đồ vật)",
+   "usage": ["Dùng để diễn đạt sự tồn tại của đồ vật, vật không có sự sống ở một địa điểm nào đó."],
+   "formulas": ["N (địa điểm) ＋ に ＋ N (もの) ＋ が ＋ あります"],
+   "examples": [
+    {"jp": "{学校|がっこう}のちかくに みせが たくさん あります。", "vi": "Ở gần trường có rất nhiều cửa hàng."},
+    {"jp": "へやに テレビが あります。", "vi": "Ở trong phòng có tivi."},
+    {"jp": "{大学|だいがく}の{近|ちか}くに{小|ちい}さいイタリアンの{店|みせ}があります。", "vi": "Gần trường đại học có một quán Ý nhỏ.", "src": "text"}
+   ],
+   "extra": ["Phân biệt: người / động vật → います; đồ vật / cây cối / cửa hàng → あります."],
+   "notes": [],
+   "table": null},
+  {"no": "8", "group": "A", "video": 1296,
+   "title": "ですから", "sub": null,
+   "meaning": "Vì vậy / do đó, …",
+   "usage": ["Dùng nối 2 vế câu mang tính nguyên nhân – kết quả.", "Vế trước nêu lý do, vế sau (bắt đầu bằng ですから) nêu kết quả."],
+   "formulas": ["～ (lý do)。ですから、～ (kết quả)。"],
+   "examples": [
+    {"jp": "りょうには、いろいろな{国|くに}の{人|ひと}がいます。ですから、いろいろな{料理|りょうり}をつくります。", "vi": "Ở ký túc xá có các bạn ở nhiều quốc gia. Vì vậy, mọi người nấu rất nhiều món ăn."},
+    {"jp": "ですから、いろいろな{料理|りょうり}を{作|つく}ります。", "vi": "Vì vậy, chúng tôi nấu đủ loại món ăn.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "9", "group": "A", "video": 1297,
+   "title": "日・月のかぞえかた", "sub": "Cách đếm ngày, tháng",
+   "meaning": "Cách nói ngày và tháng trong lịch",
+   "usage": ["Tháng: số ＋ がつ (lưu ý 4 = しがつ, 7 = しちがつ, 9 = くがつ).", "Ngày: từ 1 đến 10, 14, 20, 24 có cách đọc riêng; các ngày khác là số ＋ にち.", "Tham khảo sách giáo khoa trang 81."],
+   "formulas": ["Số ＋ 月（がつ）", "Số ＋ 日（にち）　※ ngoại lệ: ついたち、ふつか、みっか、よっか、いつか、むいか、なのか、ようか、ここのか、とおか、じゅうよっか、はつか、にじゅうよっか"],
+   "examples": [
+    {"jp": "{一月|いちがつ}、{二月|にがつ}、{三月|さんがつ}、{四月|しがつ}、{五月|ごがつ}、{六月|ろくがつ}", "vi": "tháng 1, 2, 3, 4, 5, 6"},
+    {"jp": "{七月|しちがつ}、{八月|はちがつ}、{九月|くがつ}、{十月|じゅうがつ}、{十一月|じゅういちがつ}、{十二月|じゅうにがつ}", "vi": "tháng 7, 8, 9, 10, 11, 12"},
+    {"jp": "{一日|ついたち}、{二日|ふつか}、{三日|みっか}、{四日|よっか}、{五日|いつか}、{六日|むいか}、{七日|なのか}、{八日|ようか}、{九日|ここのか}、{十日|とおか}", "vi": "ngày 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"},
+    {"jp": "{十一日|じゅういちにち}、{十四日|じゅうよっか}、{二十日|はつか}、{二十四日|にじゅうよっか}、{三十一日|さんじゅういちにち}", "vi": "ngày 11, 14, 20, 24, 31"},
+    {"jp": "{先週|せんしゅう}の{金曜日|きんようび}のよるは、マレーシアの{先輩|せんぱい}といっしょに、レストランに{行|い}きました。", "vi": "Tối thứ Sáu tuần trước, tôi đã đi nhà hàng cùng một đàn anh người Malaysia.", "src": "text"}
+   ],
+   "extra": ["Thứ trong tuần: {月曜日|げつようび}、{火曜日|かようび}、{水曜日|すいようび}、{木曜日|もくようび}、{金曜日|きんようび}、{土曜日|どようび}、{日曜日|にちようび}.", "Tuần / năm: {先週|せんしゅう}・{今週|こんしゅう}・{来週|らいしゅう}、{去年|きょねん}・{今年|ことし}・{来年|らいねん}、{昨日|きのう}・{今日|きょう}."],
+   "notes": [],
+   "table": null},
+  {"no": "10", "group": "A", "video": 1298,
+   "title": "期間の言い方", "sub": "Cách nói khoảng thời gian",
+   "meaning": "Nói độ dài thời gian: mấy ngày, mấy tuần, mấy tháng, mấy năm",
+   "usage": ["Khoảng thời gian = số ＋ đơn vị (にち／しゅうかん／かげつ／ねん); có thể thêm 間（かん） với ngày và năm.", "Tham khảo sách giáo khoa trang 81."],
+   "formulas": ["Số ＋ 日（にち）／日間（にちかん）　※ ついたち không dùng; 1 ngày = いちにち", "Số ＋ 週間（しゅうかん）", "Số ＋ か月（かげつ）", "Số ＋ 年（ねん）／年間（ねんかん）"],
+   "examples": [
+    {"jp": "{一日|いちにち}、{二日|ふつか}、{三日|みっか}、{一週間|いっしゅうかん}、{二週間|にしゅうかん}", "vi": "1 ngày, 2 ngày, 3 ngày, 1 tuần, 2 tuần"},
+    {"jp": "{一か月|いっかげつ}、{二か月|にかげつ}、{三か月|さんかげつ}、{一年|いちねん}、{二年|にねん}", "vi": "1 tháng, 2 tháng, 3 tháng, 1 năm, 2 năm"}
+   ],
+   "extra": ["Hỏi khoảng thời gian: どのくらい／どれくらい (bao lâu)."],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "{金曜日|きんようび}の{夜|よる}",
+  "vi": "Tối thứ Sáu",
+  "use": ["Vました・Vませんでした", "Aかったです・Aでした・Nでした", "Aい ＋ N / Aな ＋ N", "ばしょに Nが あります・います", "ですから"],
+  "ideas": ["Tối thứ Sáu bạn thường làm gì, với ai (bạn cùng ký túc xá, bạn cùng lớp…)", "Gần trường / gần nhà có quán gì (ばしょに Nが あります)", "Tuần trước bạn đã đi đâu, ăn gì, gọi món gì (Vました)", "Nhận xét về quán, món ăn, nhân viên (おいしかったです、しんせつでした)", "Cảm nghĩ: とてもいい時間でした"]
+ },
+ "verbs": [
+  {"m": "あります", "k": "あります", "g": 1, "vi": "có (đồ vật, cửa hàng)"},
+  {"m": "はなします", "k": "話します", "g": 1, "vi": "nói chuyện"},
+  {"m": "ちゅうもんします", "k": "注文します", "g": 3, "vi": "gọi món, đặt hàng"},
+  {"m": "たのしみます", "k": "楽しみます", "g": 1, "vi": "thưởng thức"},
+  {"m": "はいります", "k": "入ります", "g": 1, "vi": "vào (cửa hàng)"},
+  {"m": "すわります", "k": "座ります", "g": 1, "vi": "ngồi"}
+ ]
+}

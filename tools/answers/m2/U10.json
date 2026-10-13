@@ -1,0 +1,884 @@
+{
+ "1601/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「授業中は、ジュースやコーヒーを飲んではいけません」→ いいえ、のんではいけません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「お弁当やおかしも、食べてはいけません」→ không được ăn trong phòng học.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「休むときは、連絡をしてください」→ はい、れんらくしてください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「分からないときは、手をあげてください」→ giơ tay.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「先生の指示も、よく聞いてください」→ nghe kỹ chỉ thị của thầy.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「山の花や木は、とってはいけません」→ không được hái.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「ゴミは、自分のゴミ袋に入れてください」→ bỏ vào túi rác.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「雨具を必ず持って行ってください」→ nhất định mang theo áo mưa.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「動きやすいズボンをはいてください」→ quần dễ cử động.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1601/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「山では、走ってはいけません。危ないです」→ không được chạy.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2044/0/1": {
+  "type": "dragtext",
+  "answer": [
+   7,
+   6,
+   3,
+   9,
+   8,
+   4,
+   11,
+   1
+  ],
+  "explain": "Ghép từ vựng U10: カバンを持っていきます, 水を止めます, 辞書を調べます, ぼうしをとります, ズボンをぬぎます, ページをあけます, ブラインドをおろします, 日本語を話します.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô ② みずを: chọn とめます (từ mới U10 「とめます（水を）」); nếu đề nhắm nghĩa thông thường thì có thể là のみます (chip 5)."
+ },
+ "2044/0/2": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe (Marugoto): nghe xem mỗi người mua gì (a–e) và giá bao nhiêu (f–i); ① đã cho sẵn e / 8,000えん. Không có file audio nên không xác định được thứ tự chip.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Phỏng đoán theo mẫu: ② c – 1,000 / ③ b – 12,500 / ④ a – 2,500 → thứ tự chip có thể là [0,1,2,3,5,4,6,7] (c,1,000,b,12,500,a,2,500,e,d). Cần nghe audio để xác nhận."
+ },
+ "2044/1/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   2,
+   1,
+   4,
+   3
+  ],
+  "explain": "Tranh: mũ vàng → ぼうし, giày thể thao đỏ → スニーカー, quần dài → ズボン, áo tay dài → ながそで, người mặc áo mưa đi xe đạp → あまぐ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2044/2/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "きます",
+   "2": "はきます",
+   "3": "はきます",
+   "4": "かぶります"
+  },
+  "explain": "Động từ mặc: ながそで（áo）を着ます, くつ・ズボンをはきます, ぼうしをかぶります (thẻ b, d, d, c trong tranh).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Nếu hệ thống chấm theo chữ cái trong tranh thì 1=b, 2=d, 3=d, 4=c."
+ },
+ "2044/2/2": {
+  "type": "matching",
+  "answer": {
+   "2": "g (くつした)",
+   "3": "c (コート)",
+   "4": "l (バッグ)",
+   "5": "i (パンツ)",
+   "6": "h (ワンピース)",
+   "7": "e (ジャケット)",
+   "8": "j (ジーンズ)",
+   "9": "b (スカート)",
+   "10": "d (スーツ)",
+   "11": "f (シャツ)",
+   "12": "m (ネクタイ)",
+   "13": "k (スカーフ)"
+  },
+  "explain": "Nhìn ảnh: 2 tất → くつした, 3 áo khoác dài → コート, 4 túi → バッグ, 5 quần → パンツ, 6 váy liền → ワンピース, 7 áo khoác ngắn → ジャケット, 8 quần bò → ジーンズ, 9 chân váy → スカート, 10 bộ vest → スーツ, 11 áo sơ mi → シャツ, 12 cà vạt → ネクタイ, 13 khăn quàng → スカーフ.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Có file audio đi kèm nhưng đáp án suy ra được từ ảnh và bảng từ a–m."
+ },
+ "2044/2/3": {
+  "type": "matching",
+  "answer": {
+   "⑤": "h",
+   "⑥": "e",
+   "⑦": "f",
+   "⑧": "g"
+  },
+  "explain": "Tranh ⑤ người ôm thùng mở cửa → あけます(h), ⑥ cửa sổ mở → đóng → しめます(e), ⑦ kéo rèm xuống → おろします(f), ⑧ bấm công tắc OFF → けします(g).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1679/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ảnh trong đề bị trống (file rỗng), không xem được; đoán theo từ vựng U10 (ぼうし).",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee… là file 0 byte. Các lựa chọn: キャンディー/ペース/ぼうし/スニーカー — cần xem lại trên LMS."
+ },
+ "1679/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cậu bé cầm điều khiển, chữ OFF → エアコンを消します (けします).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ảnh trong đề bị trống; đoán theo cặp từ U10 「水を出します／止めます」, chọn だします.",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee… là file 0 byte; đáp án có thể là とめます hoặc のみます tùy tranh gốc."
+ },
+ "1679/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: cô bé đang đội mũ lên đầu → ぼうしをかぶります (mũ dùng かぶります, không dùng きます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: bấm công tắc đèn, chữ OFF → でんきを消します (けします).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/6": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: 「ゴミは持ち帰りましょう」, cậu bé cầm túi rác → ごみをうちに持って帰ります (もってかえります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/7": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: rèm cuốn ngang (mành) → ブラインド.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ảnh (SVG) là cái mũ có vành → ぼうし.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: cô gái kéo dây, rèm đang được kéo lên → ブラインドをあげます (từ vựng U10 「あげます（ブラインド）」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1679/0/10": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ảnh trong đề bị trống; câu 4 đã dùng かぶります (đội mũ) nên câu này nhiều khả năng là tranh bỏ mũ → ぼうしをとります.",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee… là file 0 byte; cần xem lại trên LMS."
+ },
+ "2371/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "つけてください",
+   "2": "しめてください",
+   "3": "はなしてください",
+   "4": "とってください"
+  },
+  "explain": "Mẫu Vて＋ください (ví dụ trong ảnh: 手伝います→手伝ってください): つけます→つけて, しめます→しめて, はなします→はなして, とります→とって.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2371/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "すわっても",
+   "2": "いいです",
+   "3": "にもつをおいても",
+   "4": "おいてはいけません"
+  },
+  "explain": "Tranh 1: người đứng cạnh ghế, mặt cười → 「すわってもいいですか」「はい、いいです」; tranh 2: vali, mặt buồn → 「ここに荷物を置いてもいいですか」「いいえ、すみません。置いてはいけません」(mẫu てもいいですか／てはいけません).",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Câu 2 có thể chấp nhận 「どうぞ」; câu 4 có thể là 「おかないでください」. Dạng điền tự do nên cách viết có thể khác."
+ },
+ "2371/0/3": {
+  "type": "blanks",
+  "answer": {
+   "1": "すわって",
+   "2": "たって"
+  },
+  "explain": "Tranh 1: cô gái ngồi trên ghế băng → すわってください; tranh 2: cô giáo chỉ cậu bé từ ngồi → đứng → たってください (Vて＋ください).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Tranh 1 cũng có thể hiểu là まって (đợi) nhưng cặp すわる／たつ hợp hơn."
+ },
+ "2371/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "あけて",
+   "2": "もって"
+  },
+  "explain": "Tranh 1: nha sĩ, bệnh nhân há miệng → くちをあけてください; tranh 2: cậu bé bê thùng → にもつをもってください.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2371/2/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "きてください",
+   "2": "ぬいでください",
+   "3": "はいてください",
+   "4": "かぶってください",
+   "5": "とってください",
+   "6": "もっていってください",
+   "7": "かえってください",
+   "8": "きいてください",
+   "9": "いってください",
+   "10": "しらべてください",
+   "11": "まってください",
+   "12": "おしえてください",
+   "13": "けしてください"
+  },
+  "explain": "Chia Vます→Vて＋ください: nhóm 1 き→いて (ききます→きいて), ぎ→いで (ぬぎます→ぬいで), り/い/ち→って (はきます→はいて là き→いて; かぶります→かぶって, とります→とって, かえります→かえって, いいます→いって, まちます→まって), し→して (けします→けして); nhóm 2 bỏ ます＋て (きます→きて, しらべます→しらべて, おしえます→おしえて).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Nếu hệ thống chỉ chấm phần thể て (không có ください) thì bỏ ください ở mỗi ô."
+ },
+ "2371/3/1": {
+  "type": "order",
+  "answer": [
+   4,
+   2,
+   1,
+   3,
+   1,
+   0,
+   0
+  ],
+  "explain": "Điền trợ từ theo tranh: 雨(が)降っています, 部長(と)話しています, パソコン(を)持っています, ファクス(の)使い方(を)教えてください, 神戸(に)住んでいます, ここ(に)車を止めてもいいですか.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "が／と／を／の・を／に／に",
+  "note": "Đề có 7 chỗ trống nhưng chỉ 5 chip (を và に dùng 2 lần) → chip を, に được dùng lại."
+ },
+ "2371/4/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "あけて",
+   "2": "して",
+   "3": "とめて",
+   "4": "だして"
+  },
+  "explain": "Tranh: 1) hải quan yêu cầu mở hành lý → にもつをあけてください, 2) máy photo → コピーしてください, 3) chỉ chỗ đỗ xe → あそこに車をとめてください, 4) đòi nộp báo cáo → レポートをだしてください.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô 4 cũng có thể là かいて tùy ý đồ tranh; ô 3 có thể viết 止めて."
+ },
+ "2371/4/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "いいえ、けっこんしていません。",
+   "2": "12月24日にしごとをします",
+   "3": "はい、しっています",
+   "4": "はい、もらいました"
+  },
+  "explain": "Bài đọc về ông già Noel: 「わたしは独身ですから」→ chưa kết hôn; 「1年に1日だけ働きます。それは12月24日です」→ làm việc ngày 24/12; 「世界の子どもはみんなわたしを知っています」→ biết tên; câu 4 hỏi bản thân người học, chọn はい、もらいました.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô 4 là câu hỏi cá nhân nên đáp án có thể là いいえ、もらいませんでした."
+ },
+ "1792/0/1": {
+  "type": "matching",
+  "answer": {
+   "vてください": "Hãy làm V",
+   "Vてはいけません": "Không được làm V"
+  },
+  "explain": "Ngữ pháp 1: てください = Hãy làm V; ngữ pháp 2: てはいけません = Không được làm V.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1792/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trong giờ học không được uống nước ngọt → 飲んではいけません (bài khóa: ジュースやコーヒーを飲んではいけません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1792/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Yêu cầu mặc áo dài tay → きてください (ví dụ: 長そでのシャツを着てください).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1792/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Không được hái hoa trong công viên → とってはいけません (giống 山の花や木は、とってはいけません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1792/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Yêu cầu mang mũ → ぼうしをもってください (ví dụ ngữ pháp 1: ぼうしをもってください).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1793/0/1": {
+  "type": "matching",
+  "answer": {
+   "Vてもいいです": "Làm V cũng được/ được phép làm V",
+   "～とき": "Khi/lúc"
+  },
+  "explain": "Ngữ pháp 3: てもいいです = được phép làm V; ngữ pháp 4: とき = khi, lúc.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1793/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trong phòng này được chụp ảnh → とってもいいです (ví dụ: 写真は、とってもいいです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1793/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「休むときは、連絡をしてください」→ れんらくしてください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1793/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「分からないときは、手をあげてください」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1793/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「授業中に、電子辞書を使ってもいいです」→ つかってもいいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1794/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Không vứt rác ngoài đường → ゴミをすてないでください (ないでください: xin đừng làm).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1794/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Lý do ～から + nhờ vả: 荷物が重いですから、手伝ってくれませんか (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1794/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trong lớp xin đừng nói chuyện → 話をしないでください.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ngữ cảnh lớp học: cấm nói chuyện riêng là hợp lý nhất trong 3 lựa chọn."
+ },
+ "1794/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ví dụ ngữ pháp 6: 「さむいですから、エアコンをけしてくださいませんか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1794/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Nóng nên nhờ mở cửa sổ → まどをあけてください (ví dụ: まどをあけてくれませんか).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1794/1/1": {
+  "type": "matching",
+  "answer": {
+   "Vないでください": "Đừng làm V",
+   "Vてください・Vてくれませんか・Vてくださいませんか": "Giúp tôi làm V có được không?"
+  },
+  "explain": "Ngữ pháp 5: ないでください = Xin đừng làm V; ngữ pháp 6: てくれませんか／てくださいませんか = Làm V giúp tôi được không?",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Yêu cầu + B trả lời 「はい、わかりました」→ 着てください (bài khóa: 長そでのシャツを着てください).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thỉnh thoảng nấu ăn (nhưng) nấu dở → でも (nhưng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「同じペースで歩いてください」; 同じ đứng trước danh từ không thêm な.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「うちに持って帰ってください」→ trợ từ に (đích đến).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「分からないときは、手をあげてください」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「遅れるときは、メールか電話をしてください」→ は／を.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "ゆっくり là phó từ, đứng trực tiếp trước động từ: ゆっくり言ってください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「自分のゴミ袋に入れてください」→ に (nơi bỏ vào).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/9": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「お弁当やおかしも、食べてはいけません」→ や (liệt kê).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/10": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「好きなおかしを持って行ってください」; tính từ な + danh từ → 好きな.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/11": {
+  "type": "single",
+  "answer": 1,
+  "explain": "会います đi với trợ từ に: ともだちに会います.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/12": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「少し大きい声で話してください」→ で (phương tiện/cách thức).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/13": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「先生の指示も、よく聞いてください。そして、できるだけ、日本語で話してください」→ そして.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/14": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「安全で楽しい山登りをしましょう」; tính từ な nối với tính từ khác bằng で.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1708/0/15": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「授業中に、電子辞書を使ってもいいです」→ つかってもいいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/1": {
+  "type": "short",
+  "answer": "もっています",
+  "explain": "Cách đọc của 「持っています」 là もっています (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/2": {
+  "type": "short",
+  "answer": "すきな",
+  "explain": "Cách đọc của 「好きな」 là すきな (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/3": {
+  "type": "short",
+  "answer": "つかいます",
+  "explain": "Cách đọc của 「使います」 là つかいます (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/4": {
+  "type": "short",
+  "answer": "きます",
+  "explain": "Cách đọc của 「着ます」 là きます (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/5": {
+  "type": "short",
+  "answer": "でんわ",
+  "explain": "Cách đọc của 「電話」 là でんわ (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/6": {
+  "type": "short",
+  "answer": "おなじ",
+  "explain": "Cách đọc của 「同じ」 là おなじ (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/7": {
+  "type": "short",
+  "answer": "ながそで",
+  "explain": "Cách đọc của 「長そで」 là ながそで (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/8": {
+  "type": "short",
+  "answer": "て",
+  "explain": "Cách đọc của 「手」 là て (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/9": {
+  "type": "short",
+  "answer": "たのしい",
+  "explain": "Cách đọc của 「楽しい」 là たのしい (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/0/10": {
+  "type": "short",
+  "answer": "じぶん",
+  "explain": "Cách đọc của 「自分」 là じぶん (bảng Hán tự U10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "英語 (えいご) = tiếng Anh; 映 là chữ sai (映画).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "安い (やすい) = rẻ; 全 không có cách đọc này.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "うちへ帰ります (về nhà); 寝ます không đi với へ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "自分 (じぶん) = tự mình; 白 (trắng) là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "好き (すき) = thích; 妹 (em gái) là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "本を持ちます (cầm sách); 待ちます = đợi.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "明るい (あかるい) = vui vẻ, sáng sủa; 月 là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "車が動きます (xe chuyển động) — chỉ có một lựa chọn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "電話 (でんわ); 雪 (tuyết) là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2017/1/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "楽しい (たのしい) = vui; 薬 (thuốc) là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "走ります đọc はしります → はしってはいけません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "持って帰ります (もってかえります); 寺/待 là chữ sai, 寝ます = ngủ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "長そで đọc ながそで (長 = なが.い).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "楽しい → 楽しかったです; 案/薬 là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "話します đọc はなします → はなしてください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "動きやすい (うごきやすい): 動 = うご.く (bài khóa: 動きやすいズボン).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "英語 (えいご); 映/話 là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "自分 đọc じぶん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "電話 (でんわ); 雨/雲/雪 là chữ sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1733/0/10": {
+  "type": "single",
+  "answer": 0,
+  "explain": "歩きやすい đọc あるきやすい (歩 = ある.く).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/1": {
+  "type": "short",
+  "answer": "おくれるときは、メールか電話をしてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): おくれるときは、メールか電話をしてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/2": {
+  "type": "short",
+  "answer": "ミネラルウォーターは、飲んでもいいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): ミネラルウォーターは、飲んでもいいです。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/3": {
+  "type": "short",
+  "answer": "じゅぎょうは、８時５０分にはじまります",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): じゅぎょうは、８時５０分にはじまります",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ảnh dùng số full-width 「８時５０分」 và không có dấu 。 ở cuối; nếu hệ thống chấm số half-width thì gõ 8時50分."
+ },
+ "1730/0/4": {
+  "type": "short",
+  "answer": "えい語は、だめです。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): えい語は、だめです。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/5": {
+  "type": "short",
+  "answer": "休むときは、れんらくをしてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): 休むときは、れんらくをしてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/6": {
+  "type": "short",
+  "answer": "先生のしじも、よく聞いてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): 先生のしじも、よく聞いてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/7": {
+  "type": "short",
+  "answer": "また、じゅぎょうは、けっせきしないでください",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): また、じゅぎょうは、けっせきしないでください",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh không có dấu 。 ở cuối câu."
+ },
+ "1730/0/8": {
+  "type": "short",
+  "answer": "じゅぎょうちゅうは、先生の話をよく聞いてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): じゅぎょうちゅうは、先生の話をよく聞いてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/9": {
+  "type": "short",
+  "answer": "分からないときは、手をあげてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): 分からないときは、手をあげてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/10": {
+  "type": "short",
+  "answer": "日本語の中でえい語のことばを使ってもいいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): 日本語の中でえい語のことばを使ってもいいです。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/11": {
+  "type": "short",
+  "answer": "ちこくしないでください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): ちこくしないでください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/12": {
+  "type": "short",
+  "answer": "そして、できるだけ、日本語で話してください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): そして、できるだけ、日本語で話してください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/13": {
+  "type": "short",
+  "answer": "じゅぎょうちゅうに、でんしじしょを使ってもいいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): じゅぎょうちゅうに、でんしじしょを使ってもいいです。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/14": {
+  "type": "short",
+  "answer": "ほかの学生の話も、よく聞いてください。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): ほかの学生の話も、よく聞いてください。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1730/0/15": {
+  "type": "short",
+  "answer": "おべんとうやおかしも、食べてはいけません。",
+  "explain": "Gõ lại đúng câu trong ảnh (câu trong bài khóa U10): おべんとうやおかしも、食べてはいけません。",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

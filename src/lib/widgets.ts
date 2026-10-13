@@ -226,7 +226,7 @@ export function kanjiPanel(c: string, o?: { close?: () => void }) {
       h('span', { class: 'w', lang: 'ja', html: ruby(e.ruby) }), h('span', { class: 'muted small' }, e.vi),
       e.rare ? h('span', { class: 'tag', title: 'Từ mở rộng (dấu * trong tài liệu)' }, 'mở rộng') : null)));
   } else {
-    right.appendChild(h('p', { class: 'muted' }, 'Chữ ngoài danh sách Kanji Unit 13–17.'));
+    right.appendChild(h('p', { class: 'muted' }, 'Chữ ngoài danh sách Kanji của các Unit.'));
     const vs = D.vocab(ALL_UNITS).filter((v) => v.kanji.includes(c));
     if (vs.length) {
       right.appendChild(h('div', { class: 'glabel' }, 'Trong từ vựng'));
@@ -588,7 +588,7 @@ export function pageHead(title: string, jp: string, actions?: Child[] | null, me
 export function unitBadges(units: number[]) { return h('span', { class: 'row', style: { gap: '4px' } }, units.map((u) => uTag(u))); }
 // unit switcher pills (used by text & essay pages); section = 'text' | 'essay'
 export function unitSwitch(active: number, section: string) {
-  return h('div', { class: 'unit-switch' }, D.units.map((u) => h('a', { class: 'chip u' + (u.id === active ? ' on' : ''), style: { '--c': `var(--u${u.id})` }, href: href(section, u.id) }, h('span', { class: 'dot' }), 'Unit ' + u.id)));
+  return h('div', { class: 'unit-switch' }, D.units.map((u) => h('a', { class: 'chip u' + (u.id === active ? ' on' : ''), style: { '--c': 'var(--unit)' }, href: href(section, u.id) }, h('span', { class: 'dot' }), 'Unit ' + u.id)));
 }
 export const infoTip = (text: string) => h('span', { class: 'info-tip', title: text, tabindex: '0' }, ic('info'));
 

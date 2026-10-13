@@ -1,0 +1,299 @@
+{
+ "text": {
+  "title": "{毎日|まいにち}の{生活|せいかつ}",
+  "titleVi": "Cuộc sống hằng ngày",
+  "titleNote": "Unit 4 có hai video bài khóa: video 1 (sáng → chiều, PDF 1–3) và video 2 (buổi tối, PDF 4–6). Các PDF 3 và 6 (tên file Yamada/Yamashita) là lời kể của 西山先生 theo giáo trình NEJ.",
+  "sections": [
+   {"speaker": "li", "heading": "{朝|あさ}から{夕方|ゆうがた}まで", "headingVi": "Từ sáng đến chiều",
+    "paragraphs": [
+     [
+      {"jp": "{朝|あさ}は、いつも、{7時半|しちじはん}に{起|お}きます。", "vi": "Buổi sáng, tôi luôn thức dậy lúc 7 giờ rưỡi."},
+      {"jp": "そして、{朝|あさ}ごはんを{食|た}べます。", "vi": "Rồi tôi ăn sáng."}
+     ],
+     [
+      {"jp": "{8時半|はちじはん}にがっこうに{行|い}きます。", "vi": "8 giờ rưỡi tôi đi đến trường."},
+      {"jp": "{自転車|じてんしゃ}で{学校|がっこう}に{行|い}きます。", "vi": "Tôi đi đến trường bằng xe đạp."}
+     ],
+     [
+      {"jp": "{学校|がっこう}は、{近|ちか}いです。", "vi": "Trường ở gần."},
+      {"jp": "{自転車|じてんしゃ}で、{10分|じゅっぷん}くらいです。", "vi": "Đi xe đạp mất khoảng 10 phút."}
+     ],
+     [
+      {"jp": "{授業|じゅぎょう}は、{8時50分|はちじごじゅっぷん}に{始|はじ}まります。", "vi": "Giờ học bắt đầu lúc 8 giờ 50."}
+     ],
+     [
+      {"jp": "{昼|ひる}ごはんは、{食堂|しょくどう}で{食|た}べます。", "vi": "Bữa trưa tôi ăn ở nhà ăn."},
+      {"jp": "{友|とも}だちといっしょに{食|た}べます。", "vi": "Tôi ăn cùng với bạn bè."}
+     ],
+     [
+      {"jp": "{授業|じゅぎょう}は、たいてい{4時10分|よじじゅっぷん}に{終|お}わります。", "vi": "Giờ học thường kết thúc lúc 4 giờ 10."}
+     ],
+     [
+      {"jp": "それから、{図書館|としょかん}に{行|い}きます。", "vi": "Sau đó, tôi đến thư viện."},
+      {"jp": "そして、{5時半|ごじはん}ごろにうちに{帰|かえ}ります。", "vi": "Rồi khoảng 5 giờ rưỡi tôi về nhà."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{朝|あさ}は、たいてい{7時|しちじ}に{起|お}きます。", "vi": "Buổi sáng, tôi thường thức dậy lúc 7 giờ."},
+      {"jp": "そして、{朝|あさ}ごはんを{食|た}べます。", "vi": "Rồi tôi ăn sáng."}
+     ],
+     [
+      {"jp": "テレビでニュースを{見|み}ます。", "vi": "Tôi xem tin tức trên ti vi."},
+      {"jp": "そして、{8時|はちじ}に{学校|がっこう}に{行|い}きます。", "vi": "Rồi 8 giờ tôi đi đến trường."}
+     ],
+     [
+      {"jp": "{電車|でんしゃ}で{行|い}きます。", "vi": "Tôi đi bằng tàu điện."},
+      {"jp": "うちから{学校|がっこう}まで、{40分|よんじゅっぷん}くらいです。", "vi": "Từ nhà đến trường mất khoảng 40 phút."}
+     ],
+     [
+      {"jp": "{授業|じゅぎょう}は、{8時50分|はちじごじゅっぷん}に{始|はじ}まります。", "vi": "Giờ học bắt đầu lúc 8 giờ 50."},
+      {"jp": "{昼|ひる}ごはんは、{食堂|しょくどう}で{食|た}べます。", "vi": "Bữa trưa tôi ăn ở nhà ăn."}
+     ],
+     [
+      {"jp": "ときどき、お{弁当|べんとう}を{買|か}います。", "vi": "Thỉnh thoảng tôi mua cơm hộp."},
+      {"jp": "{授業|じゅぎょう}は、たいてい、{4時10分|よじじゅっぷん}に{終|お}わります。", "vi": "Giờ học thường kết thúc lúc 4 giờ 10."},
+      {"jp": "それから、{研究室|けんきゅうしつ}に{行|い}きます。", "vi": "Sau đó, tôi đến phòng nghiên cứu."}
+     ],
+     [
+      {"jp": "{研究室|けんきゅうしつ}で{実験|じっけん}をします。", "vi": "Tôi làm thí nghiệm ở phòng nghiên cứu."},
+      {"jp": "ときどき、{勉強|べんきょう}をします。", "vi": "Thỉnh thoảng tôi học bài."}
+     ],
+     [
+      {"jp": "そして、{9時|くじ}ごろ、うちに{帰|かえ}ります。", "vi": "Rồi khoảng 9 giờ tôi về nhà."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしは、いつも、{7時|しちじ}ごろ、{起|お}きます。", "vi": "Tôi luôn thức dậy vào khoảng 7 giờ."},
+      {"jp": "そして、{30分|さんじゅっぷん}くらいジョギングをします。", "vi": "Rồi tôi chạy bộ khoảng 30 phút."},
+      {"jp": "それから、{朝|あさ}ごはんを{食|た}べます。", "vi": "Sau đó, tôi ăn sáng."}
+     ],
+     [
+      {"jp": "{少|すこ}し、{新聞|しんぶん}を{読|よ}みます。", "vi": "Tôi đọc báo một chút."},
+      {"jp": "そして、{8時半|はちじはん}ごろに{学校|がっこう}に{行|い}きます。", "vi": "Rồi khoảng 8 giờ rưỡi tôi đi đến trường."}
+     ],
+     [
+      {"jp": "うちから{学校|がっこう}まで、{1時間半|いちじかんはん}くらいです。", "vi": "Từ nhà đến trường mất khoảng 1 tiếng rưỡi."},
+      {"jp": "{少|すこ}し{遠|とお}いです。", "vi": "Hơi xa một chút."}
+     ],
+     [
+      {"jp": "{授業|じゅぎょう}は、たいてい、{10時半|じゅうじはん}に{始|はじ}まります。", "vi": "Giờ học thường bắt đầu lúc 10 giờ rưỡi."}
+     ],
+     [
+      {"jp": "{昼|ひる}ごはんは、{研究室|けんきゅうしつ}で、お{弁当|べんとう}を{食|た}べます。", "vi": "Bữa trưa tôi ăn cơm hộp ở phòng nghiên cứu."}
+     ],
+     [
+      {"jp": "{午後|ごご}は、{研究室|けんきゅうしつ}で{仕事|しごと}をします。", "vi": "Buổi chiều tôi làm việc ở phòng nghiên cứu."},
+      {"jp": "ときどき、{会議|かいぎ}があります。", "vi": "Thỉnh thoảng có họp."}
+     ],
+     [
+      {"jp": "たいてい、{6時|ろくじ}ごろに、うちに{帰|かえ}ります。", "vi": "Tôi thường về nhà vào khoảng 6 giờ."}
+     ]
+    ]},
+   {"speaker": "li", "heading": "{晩|ばん}", "headingVi": "Buổi tối",
+    "paragraphs": [
+     [
+      {"jp": "{晩|ばん}ごはんは、いつもうちで{食|た}べます。", "vi": "Bữa tối tôi luôn ăn ở nhà."},
+      {"jp": "{友|とも}だちといっしょに{晩|ばん}ごはんを{作|つく}ります。", "vi": "Tôi nấu bữa tối cùng với bạn bè."},
+      {"jp": "たいてい、{7時|しちじ}ごろに、{食|た}べます。", "vi": "Tôi thường ăn vào khoảng 7 giờ."}
+     ],
+     [
+      {"jp": "{晩|ばん}ごはんの{後|あと}は、{少|すこ}しテレビを{見|み}ます。", "vi": "Sau bữa tối, tôi xem ti vi một chút."},
+      {"jp": "それから、{部屋|へや}でメールをチェックします。", "vi": "Sau đó, tôi kiểm tra email trong phòng."}
+     ],
+     [
+      {"jp": "そして、{9時|くじ}ごろにお{風呂|ふろ}に{入|はい}ります。", "vi": "Rồi khoảng 9 giờ tôi đi tắm bồn."},
+      {"jp": "そして、{10時|じゅうじ}ごろから{12時|じゅうにじ}ごろまで、{勉強|べんきょう}します。", "vi": "Rồi tôi học từ khoảng 10 giờ đến khoảng 12 giờ."},
+      {"jp": "たいてい、{12時|じゅうにじ}ごろに{寝|ね}ます。", "vi": "Tôi thường đi ngủ vào khoảng 12 giờ."}
+     ],
+     [
+      {"jp": "ときどき、{1時|いちじ}か{2時|にじ}まで{勉強|べんきょう}します。", "vi": "Thỉnh thoảng tôi học đến 1 giờ hoặc 2 giờ."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{晩|ばん}ごはんは、ときどき、{研究室|けんきゅうしつ}で{食|た}べます。", "vi": "Bữa tối, thỉnh thoảng tôi ăn ở phòng nghiên cứu."}
+     ],
+     [
+      {"jp": "ハンバーガーやカップラーメンやお{弁当|べんとう}を{食|た}べます。", "vi": "Tôi ăn hamburger, mỳ ly hay cơm hộp."}
+     ],
+     [
+      {"jp": "でも、たいてい、うちで{食|た}べます。", "vi": "Nhưng tôi thường ăn ở nhà."},
+      {"jp": "{10時|じゅうじ}ごろに、{一人|ひとり}で{食|た}べます。", "vi": "Khoảng 10 giờ, tôi ăn một mình."}
+     ],
+     [
+      {"jp": "{晩|ばん}ごはんの{後|あと}、{11時|じゅういちじ}ごろに、お{風呂|ふろ}に{入|はい}ります。", "vi": "Sau bữa tối, khoảng 11 giờ tôi đi tắm bồn."}
+     ],
+     [
+      {"jp": "それから、メールやインターネットをします。", "vi": "Sau đó, tôi viết email hay lướt internet."},
+      {"jp": "そして、{1時|いちじ}か{2時|にじ}ごろに、{寝|ね}ます。", "vi": "Rồi khoảng 1 giờ hoặc 2 giờ tôi đi ngủ."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{晩|ばん}ごはんは、たいてい、うちで{食|た}べます。", "vi": "Bữa tối tôi thường ăn ở nhà."},
+      {"jp": "うちで、{家族|かぞく}といっしょに{食|た}べます。", "vi": "Ở nhà, tôi ăn cùng với gia đình."}
+     ],
+     [
+      {"jp": "{晩|ばん}ごはんの{後|あと}は、テレビを{見|み}ます。", "vi": "Sau bữa tối, tôi xem ti vi."},
+      {"jp": "テレビのドラマを{見|み}ます。", "vi": "Tôi xem phim truyền hình."}
+     ],
+     [
+      {"jp": "ときどき、{映画|えいが}を{見|み}ます。", "vi": "Thỉnh thoảng tôi xem phim điện ảnh."},
+      {"jp": "わたしも{妻|つま}も、{映画|えいが}やドラマが{大好|だいす}きです。", "vi": "Cả tôi và vợ đều rất thích phim điện ảnh và phim truyền hình."},
+      {"jp": "{子|こ}どもたちも、ときどき、いっしょに{見|み}ます。", "vi": "Các con tôi thỉnh thoảng cũng xem cùng."}
+     ],
+     [
+      {"jp": "{10時|じゅうじ}ごろに、お{風呂|ふろ}に{入|はい}ります。", "vi": "Khoảng 10 giờ, tôi đi tắm bồn."},
+      {"jp": "それから、{少|すこ}し{本|ほん}を{読|よ}みます。", "vi": "Sau đó, tôi đọc sách một chút."}
+     ],
+     [
+      {"jp": "そして、{11時半|じゅういちじはん}ごろに{寝|ね}ます。", "vi": "Rồi khoảng 11 giờ rưỡi tôi đi ngủ."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1271,
+   "title": "～じ、～ふん", "sub": "Cách đếm giờ và phút",
+   "meaning": "～ giờ, ～ phút (cách nói giờ giấc)",
+   "usage": ["Cách đếm giờ và phút (tham khảo sgk trang 64).", "Số ＋ じ (giờ), số ＋ ふん／ぷん (phút); ～はん = rưỡi; なんじ = mấy giờ, なんぷん = mấy phút."],
+   "formulas": ["Số ＋ {時|じ}（＋ Số ＋ {分|ふん}／ぷん）", "Số ＋ {時|じ} ＋ {半|はん}", "{何時|なんじ}／{何分|なんぷん}"],
+   "examples": [
+    {"jp": "{7時半|しちじはん}に おきます。", "vi": "Tôi thức dậy lúc 7 giờ rưỡi.", "src": "text"},
+    {"jp": "{授業|じゅぎょう}は、{8時50分|はちじごじゅっぷん}に {始|はじ}まります。", "vi": "Giờ học bắt đầu lúc 8 giờ 50.", "src": "text"},
+    {"jp": "{授業|じゅぎょう}は、たいてい {4時10分|よじじゅっぷん}に {終|お}わります。", "vi": "Giờ học thường kết thúc lúc 4 giờ 10.", "src": "text"}
+   ],
+   "extra": [
+    "Giờ đọc đặc biệt: {4時|よじ}, {7時|しちじ}, {9時|くじ}.",
+    "Phút đọc đặc biệt: {1分|いっぷん}, {3分|さんぷん}, {4分|よんぷん}, {6分|ろっぷん}, {8分|はっぷん}, {10分|じゅっぷん}; các số còn lại đọc ふん ({2分|にふん}, {5分|ごふん}, {7分|ななふん}, {9分|きゅうふん})."
+   ],
+   "notes": [], "table": null},
+  {"no": "2", "group": "A", "video": 1272,
+   "title": "～にVます", "sub": "(じかん)にVます",
+   "meaning": "Làm V vào lúc (thời điểm)",
+   "usage": ["Đi kèm với mốc thời gian, dùng để diễn tả thời điểm thực hiện một hành động nào đó."],
+   "formulas": ["なんじに ＋ Vますか", "N(thời gian) ＋ に ＋ Vます"],
+   "examples": [
+    {"jp": "なんじに おきますか。", "vi": "Bạn thức dậy lúc mấy giờ?"},
+    {"jp": "７じに おきます。", "vi": "Tôi thức dậy lúc 7 giờ."},
+    {"jp": "{8時半|はちじはん}に がっこうに {行|い}きます。", "vi": "8 giờ rưỡi tôi đi đến trường.", "src": "text"},
+    {"jp": "たいてい、{12時|じゅうにじ}ごろに {寝|ね}ます。", "vi": "Tôi thường đi ngủ vào khoảng 12 giờ.", "src": "text"}
+   ],
+   "extra": ["～ごろ (khoảng ～) đi sau mốc thời gian: {9時|くじ}ごろに／{9時|くじ}ごろ."],
+   "notes": [], "table": null},
+  {"no": "3", "group": "A", "video": 1273,
+   "title": "N1かN2", "sub": null,
+   "meaning": "N1 hoặc N2",
+   "usage": ["か nối hai danh từ, thể hiện ý nghĩa “N1 hoặc N2”."],
+   "formulas": ["N1 ＋ か ＋ N2"],
+   "examples": [
+    {"jp": "８じか８じはんに がっこうに{行|い}きます。", "vi": "Tôi đi đến trường lúc 8 giờ hoặc 8 giờ 30."},
+    {"jp": "ときどき、{1時|いちじ}か{2時|にじ}まで {勉強|べんきょう}します。", "vi": "Thỉnh thoảng tôi học đến 1 giờ hoặc 2 giờ.", "src": "text"}
+   ],
+   "extra": [], "notes": [], "table": null},
+  {"no": "4", "group": "A", "video": 1274,
+   "title": "～から～まで～Vます", "sub": null,
+   "meaning": "Làm V từ… đến…",
+   "usage": ["Mẫu câu thể hiện khoảng thời gian làm V từ thời điểm A đến thời điểm B."],
+   "formulas": ["～から ＋ ～まで ＋ Vます"],
+   "examples": [
+    {"jp": "リさんは、{何時|なんじ}から{何時|なんじ}まで べんきょうしますか。", "vi": "Li học từ mấy giờ đến mấy giờ?"},
+    {"jp": "{10時|じゅうじ}から{12時|じゅうにじ}まで、べんきょうします。", "vi": "Học từ 10 giờ đến 12 giờ."},
+    {"jp": "{10時|じゅうじ}ごろから{12時|じゅうにじ}ごろまで、{勉強|べんきょう}します。", "vi": "Tôi học từ khoảng 10 giờ đến khoảng 12 giờ.", "src": "text"}
+   ],
+   "extra": [], "notes": [], "table": null},
+  {"no": "5", "group": "A", "video": 1275,
+   "title": "（ばしょ）に Vます", "sub": null,
+   "meaning": "Đi／đến／về (địa điểm)",
+   "usage": ["Dùng để nhấn mạnh điểm đến của các động từ chỉ sự di chuyển (đi, đến, trở về)."],
+   "formulas": ["N(địa điểm) ＋ に ＋ いきます・きます・かえります"],
+   "examples": [
+    {"jp": "８じに がっこうに いきます。", "vi": "Tôi đi đến trường lúc 8 giờ."},
+    {"jp": "５じに うちに かえります。", "vi": "Tôi về nhà lúc 5 giờ."},
+    {"jp": "それから、{図書館|としょかん}に {行|い}きます。", "vi": "Sau đó, tôi đến thư viện.", "src": "text"},
+    {"jp": "{5時半|ごじはん}ごろに うちに {帰|かえ}ります。", "vi": "Khoảng 5 giờ rưỡi tôi về nhà.", "src": "text"}
+   ],
+   "extra": [], "notes": [], "table": null},
+  {"no": "6", "group": "A", "video": 1276,
+   "title": "それから・Nのあと", "sub": null,
+   "meaning": "Sau đó… / Sau N…",
+   "usage": ["Dùng để nối các câu (それから) hoặc mệnh đề trong câu (Nのあと) theo trình tự thời gian.", "それから: Sau đó,… — Nのあと: Sau N thì làm…"],
+   "formulas": ["(Câu 1)。それから、(Câu 2)", "N ＋ のあと、～"],
+   "examples": [
+    {"jp": "９じごろに、うちにかえります。", "vi": "Tôi về nhà lúc khoảng 9 giờ."},
+    {"jp": "それから、１０じごろに、ばんごはんをたべます。", "vi": "Sau đó, khoảng 10 giờ tôi ăn tối."},
+    {"jp": "ばんごはんのあと、１１じごろに、おふろにはいります。", "vi": "Sau bữa tối, khoảng 11 giờ tôi đi tắm bồn."},
+    {"jp": "{晩|ばん}ごはんの{後|あと}は、{少|すこ}しテレビを{見|み}ます。", "vi": "Sau bữa tối, tôi xem ti vi một chút.", "src": "text"},
+    {"jp": "それから、{部屋|へや}でメールをチェックします。", "vi": "Sau đó, tôi kiểm tra email trong phòng.", "src": "text"}
+   ],
+   "extra": ["そして cũng nối hai câu theo thứ tự (rồi, và), それから nhấn mạnh hơn ý “sau đó”."],
+   "notes": [], "table": null},
+  {"no": "7", "group": "A", "video": 1277,
+   "title": "（ばしょ）で Vます", "sub": null,
+   "meaning": "Làm V ở／tại (địa điểm)",
+   "usage": ["Dùng để nhấn mạnh địa điểm, nơi diễn ra hành động."],
+   "formulas": ["どこで ＋ Vますか", "N(địa điểm) ＋ で ＋ Vます"],
+   "examples": [
+    {"jp": "どこで ごはんを たべますか。", "vi": "Bạn ăn cơm ở đâu?"},
+    {"jp": "うちで ごはんを たべます。", "vi": "Tôi ăn ở nhà."},
+    {"jp": "{昼|ひる}ごはんは、{食堂|しょくどう}で {食|た}べます。", "vi": "Bữa trưa tôi ăn ở nhà ăn.", "src": "text"},
+    {"jp": "{研究室|けんきゅうしつ}で {実験|じっけん}をします。", "vi": "Tôi làm thí nghiệm ở phòng nghiên cứu.", "src": "text"}
+   ],
+   "extra": ["Phân biệt: に đi với động từ di chuyển (đến đâu), で đi với động từ hành động (làm ở đâu)."],
+   "notes": [], "table": null},
+  {"no": "8", "group": "A", "video": 1278,
+   "title": "（ばしょ）から （ばしょ）まで", "sub": null,
+   "meaning": "Từ (địa điểm A) đến (địa điểm B)",
+   "usage": ["Dùng để hỏi và đáp về khoảng thời gian di chuyển từ địa điểm A đến địa điểm B.", "から～まで ngoài diễn tả khoảng thời gian còn diễn tả khoảng không gian."],
+   "formulas": ["N(địa điểm) ＋ から ＋ N(địa điểm) ＋ まで ＋ ～", "～から～まで ＋ どのくらいですか", "～から～まで ＋ (thời gian) ＋ くらいです"],
+   "examples": [
+    {"jp": "うちから がっこうまで どのくらいですか。", "vi": "Từ nhà đến trường mất bao lâu?"},
+    {"jp": "うちから がっこうまで １じかんくらいです。", "vi": "Từ nhà đến trường mất khoảng 1 tiếng."},
+    {"jp": "うちから{学校|がっこう}まで、{40分|よんじゅっぷん}くらいです。", "vi": "Từ nhà đến trường mất khoảng 40 phút.", "src": "text"},
+    {"jp": "うちから{学校|がっこう}まで、{1時間半|いちじかんはん}くらいです。", "vi": "Từ nhà đến trường mất khoảng 1 tiếng rưỡi.", "src": "text"}
+   ],
+   "extra": ["～じかん = ～ tiếng (khoảng thời gian), khác với ～じ = ～ giờ (thời điểm)."],
+   "notes": [], "table": null},
+  {"no": "9", "group": "A", "video": 1279,
+   "title": "（しゅだん）で Vます", "sub": null,
+   "meaning": "Làm V bằng (phương tiện／công cụ)",
+   "usage": ["Dùng để nhấn mạnh phương tiện, công cụ, phương thức thực hiện một hành động nào đó."],
+   "formulas": ["なにで ＋ Vますか", "N(phương tiện) ＋ で ＋ Vます"],
+   "examples": [
+    {"jp": "うちから がっこうまで でんしゃで{行|い}きます。", "vi": "Tôi đi từ nhà đến trường bằng tàu điện."},
+    {"jp": "テレビで ニュースを{見|み}ます。", "vi": "Tôi xem tin tức bằng ti vi."},
+    {"jp": "{自転車|じてんしゃ}で{学校|がっこう}に{行|い}きます。", "vi": "Tôi đi đến trường bằng xe đạp.", "src": "text"},
+    {"jp": "{電車|でんしゃ}で{行|い}きます。", "vi": "Tôi đi bằng tàu điện.", "src": "text"}
+   ],
+   "extra": ["Phương tiện khác: バス, {地下鉄|ちかてつ}, モノレール, タクシー, {車|くるま}; đi bộ nói là {歩|ある}いて (không dùng で)."],
+   "notes": [], "table": null}
+ ],
+ "essay": {
+  "title": "わたしの{毎日|まいにち}の{生活|せいかつ}",
+  "vi": "Cuộc sống hằng ngày của tôi",
+  "use": ["～じ・～ふん", "(じかん)にVます", "～から～までVます", "(ばしょ)にVます", "(ばしょ)でVます", "(しゅだん)でVます", "それから・Nのあと", "いつも・たいてい・ときどき"],
+  "ideas": ["Buổi sáng: mấy giờ dậy, ăn sáng, làm gì", "Đến trường bằng gì, từ nhà đến trường mất bao lâu", "Giờ học bắt đầu/kết thúc lúc mấy giờ; ăn trưa ở đâu, với ai", "Sau giờ học làm gì (thư viện, phòng nghiên cứu, về nhà)", "Buổi tối: ăn tối, xem ti vi, tắm, học từ mấy giờ đến mấy giờ", "Mấy giờ đi ngủ"]
+ },
+ "verbs": [
+  {"m": "おきます", "k": "起きます", "g": 2, "vi": "thức dậy"},
+  {"m": "はじまります", "k": "始まります", "g": 1, "vi": "bắt đầu"},
+  {"m": "おわります", "k": "終わります", "g": 1, "vi": "kết thúc"},
+  {"m": "かえります", "k": "帰ります", "g": 1, "vi": "về (nhà)"},
+  {"m": "かいます", "k": "買います", "g": 1, "vi": "mua"},
+  {"m": "べんきょうします", "k": "勉強します", "g": 3, "vi": "học"},
+  {"m": "ジョギングします", "k": "ジョギングします", "g": 3, "vi": "chạy bộ"},
+  {"m": "よみます", "k": "読みます", "g": 1, "vi": "đọc"},
+  {"m": "しごとします", "k": "仕事します", "g": 3, "vi": "làm việc"},
+  {"m": "あります", "k": "あります", "g": 1, "vi": "có (họp…)"},
+  {"m": "チェックします", "k": "チェックします", "g": 3, "vi": "kiểm tra, check"},
+  {"m": "はいります", "k": "入ります", "g": 1, "vi": "vào, tắm (bồn)"},
+  {"m": "ねます", "k": "寝ます", "g": 2, "vi": "ngủ"}
+ ]
+}

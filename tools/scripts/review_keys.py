@@ -5,8 +5,12 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
+import os
+
 ROOT = Path(__file__).resolve().parent.parent
-Q = ROOT / "raw" / "quiz"
+KEY = os.environ.get("NIX_KEY", "")
+Q = ROOT / "raw" / (KEY + "/quiz" if KEY else "quiz")
+SUFFIX = "_" + KEY if KEY else ""
 
 
 def norm(s):
@@ -16,7 +20,7 @@ def norm(s):
 
 def main():
     index = json.loads((Q / "index.json").read_text(encoding="utf-8"))
-    quizzes = {q["id"]: q for q in json.loads((ROOT / "quizzes.json").read_text(encoding="utf-8"))}
+    quizzes = {q["id"]: q for q in json.loads((ROOT / f"quizzes{SUFFIX}.json").read_text(encoding="utf-8"))}
     keys = {}
     for meta in index:
         for sub in meta["reviews"]:
@@ -32,12 +36,17 @@ def main():
                     {"prompt": norm(prompt.decode_contents()) if prompt else "", "ok": ok, "chosen": chosen})
     out = {}
     for qid, entries in keys.items():
+        if qid not in quizzes:
+            continue
         qz = quizzes[qid]
         for pi, part in enumerate(qz["parts"]):
             for q in part["questions"]:
                 if q["type"] != "single":
                     continue
                 p = norm(q["prompt"])
+                if not p:
+                    # image-only prompt: the review page cannot be matched by text, skip (would cross-match)
+                    continue
                 opts = [norm(o) for o in q["options"]]
                 wrong = set()
                 for e in entries:
@@ -51,7 +60,7 @@ def main():
                                 wrong.add(opts.index(c))
                 if f"{qid}/{pi}/{q['n']}" not in out and wrong:
                     out[f"{qid}/{pi}/{q['n']}"] = {"wrong": sorted(wrong)}
-    (ROOT / "verified_keys.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ROOT / f"verified_keys{SUFFIX}.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(len(out), "keys;", sum(1 for v in out.values() if v.get("verified")), "verified")
 
 

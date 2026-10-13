@@ -1,0 +1,15 @@
+---
+/* /se/<unit>/ — bài đọc chuyên ngành (M17 – SE) của Unit 13–18 */
+import Base from '../../layouts/Base.astro';
+import { SE } from '../../lib/course';
+
+export function getStaticPaths() {
+  return SE.map((u) => ({ params: { unit: String(u.id) } }));
+}
+const { unit } = Astro.params;
+---
+<Base nav="se" title={`Chuyên ngành · Unit ${unit}`} jp="読み物" args={[unit]}>
+  <script>
+    import '../../scripts/pages/se';
+  </script>
+</Base>

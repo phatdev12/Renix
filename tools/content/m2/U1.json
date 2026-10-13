@@ -1,0 +1,183 @@
+{
+ "text": {
+  "title": "{自己紹介|じこしょうかい}",
+  "titleVi": "Tự giới thiệu",
+  "titleNote": "Ba đoạn tự giới thiệu: Li (sinh viên năm 1), Akio (sinh viên năm 4) và thầy Nishiyama (giáo viên tiếng Nhật).",
+  "sections": [
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "はじめまして。", "vi": "Rất vui được gặp mọi người."},
+      {"jp": "リアイリンです。", "vi": "Tôi là Li Ailin."},
+      {"jp": "わたしは、{大京大学|だいきょうだいがく}の{学生|がくせい}です。", "vi": "Tôi là sinh viên trường Đại học Daikyo."},
+      {"jp": "{工学部|こうがくぶ}の{1年生|いちねんせい}です。", "vi": "Tôi là sinh viên năm nhất khoa Cơ khí."},
+      {"jp": "マレーシアから{来|き}ました。", "vi": "Tôi đến từ Malaysia."},
+      {"jp": "どうぞ、よろしく、おねがいします。", "vi": "Rất mong được mọi người giúp đỡ."}
+     ]
+    ]
+   },
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "はじめまして。", "vi": "Rất vui được gặp mọi người."},
+      {"jp": "やまかわあきおです。", "vi": "Tôi là Yamakawa Akio."},
+      {"jp": "{大京大学|だいきょうだいがく}の{学生|がくせい}です。", "vi": "Tôi là sinh viên trường Đại học Daikyo."},
+      {"jp": "{工学部|こうがくぶ}の{学生|がくせい}です。", "vi": "Tôi là sinh viên khoa Cơ khí."},
+      {"jp": "{4年生|よねんせい}です。", "vi": "Tôi là sinh viên năm tư."},
+      {"jp": "{22歳|にじゅうにさい}です。", "vi": "Tôi 22 tuổi."},
+      {"jp": "よろしく、おねがいします。", "vi": "Mong được mọi người giúp đỡ."}
+     ]
+    ]
+   },
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "こんにちは。", "vi": "Xin chào."},
+      {"jp": "にしやまです。", "vi": "Tôi là Nishiyama."},
+      {"jp": "わたしは、{大京大学|だいきょうだいがく}の{先生|せんせい}です。", "vi": "Tôi là giáo viên trường Đại học Daikyo."},
+      {"jp": "{日本語|にほんご}の{先生|せんせい}です。", "vi": "Tôi là giáo viên tiếng Nhật."},
+      {"jp": "どうぞ、よろしく。", "vi": "Rất vui được gặp các bạn."}
+     ]
+    ]
+   }
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1223,
+   "title": "～は～です", "sub": null,
+   "meaning": "N1 là N2",
+   "usage": ["Dùng để giới thiệu một đề tài mà người nói muốn đề cập đến.", "N1 là chủ ngữ, N2 là vị ngữ (N2 là nghề nghiệp, tên, tuổi tác, quốc tịch…)."],
+   "formulas": ["N1 ＋ は ＋ N2 ＋ です"],
+   "examples": [
+    {"jp": "わたしは フォンです。", "vi": "Tôi tên là Phương."},
+    {"jp": "わたしは 23さいです。", "vi": "Tôi 23 tuổi."},
+    {"jp": "わたしは、{大京大学|だいきょうだいがく}の{学生|がくせい}です。", "vi": "Tôi là sinh viên trường Đại học Daikyo.", "src": "text"},
+    {"jp": "{22歳|にじゅうにさい}です。", "vi": "Tôi 22 tuổi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["Khi chủ ngữ đã rõ (như trong bài tự giới thiệu), có thể lược bỏ phần 「わたしは」."],
+   "table": null
+  },
+  {"no": "2", "group": "A", "video": 1224,
+   "title": "Nですか", "sub": null,
+   "meaning": "S có phải N hay không?",
+   "usage": ["Câu hỏi Có/Không.", "Khi hỏi sẽ lên giọng ở chữ か."],
+   "formulas": ["～ ＋ は ＋ N ＋ ですか", "（〇）はい、N ＋ です", "（✖）いいえ、N ＋ ではありません"],
+   "examples": [
+    {"jp": "リさんは、がくせいですか。", "vi": "Li, bạn có phải là học sinh không?"},
+    {"jp": "→（〇）はい、がくせいです。", "vi": "Vâng, tôi là học sinh."},
+    {"jp": "→（✖）いいえ、がくせいではありません。", "vi": "Không, tôi không phải là học sinh."}
+   ],
+   "extra": [],
+   "notes": ["Thể phủ định của 「Nです」 là 「Nではありません」 (trong hội thoại thường nói 「Nじゃありません」)."],
+   "table": null
+  },
+  {"no": "3-1", "group": "A", "video": 1225,
+   "title": "N1のN2", "sub": "bổ nghĩa / nơi sở thuộc",
+   "meaning": "… của …",
+   "usage": ["Dùng の để nối 2 danh từ với nhau.", "N1 bổ nghĩa cho N2 hoặc N1 biểu thị nơi sở thuộc của N2."],
+   "formulas": ["N1 ＋ の ＋ N2"],
+   "examples": [
+    {"jp": "わたしは だいきょうだいがくの がくせいです。", "vi": "Tôi là học sinh trường ĐH Daikyo."},
+    {"jp": "わたしは えいごの せんせいです。", "vi": "Tôi là giáo viên tiếng Anh."},
+    {"jp": "{工学部|こうがくぶ}の{1年生|いちねんせい}です。", "vi": "Tôi là sinh viên năm nhất khoa Cơ khí.", "src": "text"},
+    {"jp": "{日本語|にほんご}の{先生|せんせい}です。", "vi": "Tôi là giáo viên tiếng Nhật.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null
+  },
+  {"no": "3-2", "group": "A", "video": 1226,
+   "title": "N1のN2", "sub": "sở hữu",
+   "meaning": "… của …",
+   "usage": ["Dùng の để nối 2 danh từ với nhau.", "N2 thuộc sở hữu của N1."],
+   "formulas": ["N1 ＋ の ＋ N2"],
+   "examples": [
+    {"jp": "わたしの ほんです。", "vi": "Là sách của tôi."}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null
+  },
+  {"no": "4", "group": "B", "video": 1227,
+   "title": "～ご", "sub": null,
+   "meaning": "Tiếng …",
+   "usage": ["Thêm ご vào sau tên nước để diễn tả ngôn ngữ của nước đó."],
+   "formulas": ["N (quốc gia) ＋ ご"],
+   "examples": [
+    {"jp": "にほんご", "vi": "Tiếng Nhật"},
+    {"jp": "ベトナムご", "vi": "Tiếng Việt"},
+    {"jp": "えいご", "vi": "Tiếng Anh"},
+    {"jp": "{日本語|にほんご}の{先生|せんせい}です。", "vi": "Tôi là giáo viên tiếng Nhật.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null
+  },
+  {"no": "5", "group": "B", "video": 1228,
+   "title": "なんねんせいですか", "sub": null,
+   "meaning": "Sinh viên năm mấy?",
+   "usage": ["Dùng để hỏi sinh viên năm mấy."],
+   "formulas": ["なんねんせい ＋ ですか", "→ ～ねんせい ＋ です"],
+   "examples": [
+    {"jp": "なんねんせいですか。", "vi": "Bạn là sinh viên năm mấy?"},
+    {"jp": "{工学部|こうがくぶ}の{1年生|いちねんせい}です。", "vi": "Tôi là sinh viên năm nhất khoa Cơ khí.", "src": "text"},
+    {"jp": "{4年生|よねんせい}です。", "vi": "Tôi là sinh viên năm tư.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["Cách đọc: いちねんせい (năm 1), にねんせい (năm 2), さんねんせい (năm 3), よねんせい (năm 4)."],
+   "table": null
+  },
+  {"no": "6", "group": "B", "video": 1229,
+   "title": "がくぶは？", "sub": null,
+   "meaning": "Học ngành nào vậy?",
+   "usage": ["Dùng để hỏi thông tin ngành học (khoa)."],
+   "formulas": ["がくぶは？", "→ ～がくぶ ＋ です"],
+   "examples": [
+    {"jp": "がくぶは？", "vi": "Bạn học khoa nào?"},
+    {"jp": "{工学部|こうがくぶ}の{学生|がくせい}です。", "vi": "Tôi là sinh viên khoa Cơ khí.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["Câu hỏi rút gọn, chỉ nêu đề tài 「～は？」 và lên giọng ở cuối."],
+   "table": null
+  },
+  {"no": "7", "group": "B", "video": 1230,
+   "title": "どこからきましたか", "sub": null,
+   "meaning": "Đến từ đâu vậy?",
+   "usage": ["Dùng để hỏi về quê quán / nơi xuất thân."],
+   "formulas": ["どこから ＋ きましたか", "→ N (địa danh) ＋ から ＋ きました"],
+   "examples": [
+    {"jp": "どこから きましたか。", "vi": "Bạn đến từ đâu?"},
+    {"jp": "→ ハノイから きました。", "vi": "Tôi đến từ Hà Nội."},
+    {"jp": "マレーシアから{来|き}ました。", "vi": "Tôi đến từ Malaysia.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null
+  },
+  {"no": "8", "group": "B", "video": 1231,
+   "title": "なんさいですか", "sub": null,
+   "meaning": "Mấy tuổi / bao nhiêu tuổi vậy?",
+   "usage": ["Dùng để hỏi về tuổi tác."],
+   "formulas": ["～ ＋ なんさいですか", "→ ～さい ＋ です"],
+   "examples": [
+    {"jp": "なんさいですか。", "vi": "Bạn bao nhiêu tuổi?"},
+    {"jp": "→ 23さいです。", "vi": "Tôi 23 tuổi."},
+    {"jp": "{22歳|にじゅうにさい}です。", "vi": "Tôi 22 tuổi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["Chú ý cách đọc: いっさい (1), はっさい (8), じゅっさい (10), はたち (20)."],
+   "table": null
+  }
+ ],
+ "essay": {
+  "title": "{自己紹介|じこしょうかい}",
+  "vi": "Giới thiệu bản thân",
+  "use": ["～は～です", "N1のN2", "～ご", "～からきました", "～さいです", "～ねんせいです"],
+  "ideas": ["Lời chào mở đầu (はじめまして)", "Tên", "Trường, khoa, năm", "Quê quán / đến từ đâu", "Tuổi", "Lời kết (どうぞよろしくおねがいします)"]
+ },
+ "verbs": [
+  {"m": "きます", "k": "来ます", "g": 3, "vi": "đến"}
+ ]
+}

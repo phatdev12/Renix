@@ -38,10 +38,10 @@ function render(main: HTMLElement) {
   const bestExam = exams.length ? Math.max(...exams.map((x) => pct(x.score, x.total))) : null;
 
   main.appendChild(h('div', { class: 'kpi-row' },
-    kpi('cards', 'var(--u13)', 'Từ đã thuộc', String(vLearn), '/' + vAll.length, h('div', { class: 'kpi-f' }, h('div', { class: 'bar' }, h('i', { style: { width: pct(vLearn, vAll.length) + '%' } })), pct(vLearn, vAll.length) + '%')),
+    kpi('cards', 'var(--unit)', 'Từ đã thuộc', String(vLearn), '/' + vAll.length, h('div', { class: 'kpi-f' }, h('div', { class: 'bar' }, h('i', { style: { width: pct(vLearn, vAll.length) + '%' } })), pct(vLearn, vAll.length) + '%')),
     kpi('brush', 'var(--accent)', 'Kanji đã viết', String(kDone), '/' + kAll.length, h('div', { class: 'kpi-f' }, h('div', { class: 'bar acc' }, h('i', { style: { width: pct(kDone, kAll.length) + '%' } })), kPerfect + ' hoàn hảo')),
     kpi('clipboard', 'var(--cyan)', 'Đề đã làm', String(done.length), '/' + bank.length, h('div', { class: 'kpi-f' }, h('div', { class: 'bar' }, h('i', { style: { width: pct(done.length, bank.length) + '%' } })), 'TB ' + avgBest + '%')),
-    kpi('timer', 'var(--u17)', 'Thi thử', String(exams.length), 'lần', h('div', { class: 'kpi-f' }, bestExam == null ? 'Chưa thi' : 'Cao nhất ' + bestExam + '%'))));
+    kpi('timer', 'var(--unit)', 'Thi thử', String(exams.length), 'lần', h('div', { class: 'kpi-f' }, bestExam == null ? 'Chưa thi' : 'Cao nhất ' + bestExam + '%'))));
 
   // vocab levels per unit
   const vc = h('div', { class: 'card' }, h('h3', null, ic('cards'), 'Ghi nhớ từ vựng'));
@@ -107,7 +107,7 @@ function render(main: HTMLElement) {
       B('bad', 'trash', 'Xoá tiến độ', resetData)));
 
   main.append(h('div', { class: 'grid-2' }, vc, kc), h('div', { class: 'grid-2', style: { marginTop: '16px' } }, qc, sc), h('div', { style: { marginTop: '16px' } }, dc));
-  main.appendChild(h('div', { class: 'foot-note' }, 'Nội dung: lớp M3 – N4 Tiếng Nhật cơ sở 2 (digital.nix.edu.vn) · Thứ tự nét: KanjiVG © Ulrich Apel (CC BY-SA 3.0)'));
+  main.appendChild(h('div', { class: 'foot-note' }, 'Nội dung: lớp M2 – N5 Tiếng Nhật cơ sở 1, M3 – N4 Tiếng Nhật cơ sở 2, M17 – N4 Tiếng Nhật chuyên ngành 2 (digital.nix.edu.vn) · Thứ tự nét: KanjiVG © Ulrich Apel (CC BY-SA 3.0)'));
 }
 
 function exportData() {

@@ -1,0 +1,501 @@
+{
+ "2007/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「工学部の1年生です」 → Li là sinh viên năm nhất (１ねんせい).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2007/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「マレーシアから来ました」 → Li đến từ Malaysia.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2007/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「わたしは、大京大学の先生です」 → trả lời khẳng định 「はい、だいきょうだいがくのせんせいです」 (Nですか → はい、Nです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2007/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「日本語の先生です」 → 「はい、にほんごのせんせいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2007/2/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「22歳です」 → Akio 22 tuổi.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2007/2/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Akio là 「工学部の学生」 (sinh viên), không phải giáo viên → phủ định 「いいえ、せんせいではありません」 (Nではありません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: quyển sách ghi chữ 'English' → えいご (tiếng Anh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: tòa nhà trường đại học (không có người) → だいがく (大学: đại học).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: quốc kỳ Mỹ (sao và sọc) → アメリカ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người mặc đồ kỹ thuật đang hàn mạch điện → こうがく (工学: cơ khí/kỹ thuật).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cô giáo cầm sách và que chỉ bảng → せんせい (先生: giáo viên).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "28 tuổi: にじゅう + はっさい (8 tuổi đọc はっさい, 20 là にじゅう có trường âm) → にじゅうはっさい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "21 tuổi: にじゅう + いっさい (1 tuổi đọc いっさい) → にじゅういっさい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "30 tuổi: 10 tuổi đọc じゅっさい → さんじゅっさい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "20 tuổi có cách đọc đặc biệt はたち (ghi chú ngữ pháp 8: いっさい, はっさい, じゅっさい, はたち).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/1/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "35 tuổi: さんじゅう + ご + さい, 5 không biến âm → さんじゅうごさい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/2/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「N1のN2」: わたしは（にほんご）のせんせいです = Tôi là giáo viên tiếng Nhật (giống bài đọc 「日本語の先生です」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2330/3/1": {
+  "type": "dragtext",
+  "answer": [
+   2,
+   4
+  ],
+  "explain": "Câu mở đầu tự giới thiệu là 「はじめまして」, câu kết là 「どうぞ、よろしくおねがいします」 (theo mẫu bài đọc của Li).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "はじめまして。わたしはリです。22さいです。どうぞ、よろしくおねがいします。"
+ },
+ "2374/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "がくぶせい・けんきゅうせい・がくせい đều là loại học sinh/sinh viên; エジプト (Ai Cập) là tên nước → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "アラビアご・ちゅうごくご・えいご là tên ngôn ngữ (N＋ご); がくせい (học sinh) khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "アメリカ・オーストラリア・イギリス là tên nước; にほんご là ngôn ngữ (～ご) → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: núi Phú Sĩ, lâu đài và hoa anh đào → にほん (Nhật Bản). Các lựa chọn còn lại là chữ viết sai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: nhóm sinh viên nhiều quốc tịch đeo ba lô, cầm sách → りゅうがくせい (留学生: du học sinh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người chỉ tay vào chính mình → わたし (tôi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cờ đỏ sao vàng → ベトナム.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: học sinh mặc đồng phục trong lớp → がくせい; các lựa chọn khác viết sai chính tả (がうくせい, がくせ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/1/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: chữ cái và chữ 'English' trên bảng → えいご (tiếng Anh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2374/2/1": {
+  "type": "order",
+  "answer": [
+   4,
+   6,
+   8,
+   3,
+   5,
+   2,
+   7,
+   0,
+   1
+  ],
+  "explain": "Ô 「□ご」 thả vào từng lá cờ theo thứ tự trái→phải, trên→xuống: Mỹ→アメリカご, Ấn Độ→インドご, Hàn Quốc→かんこくご, Trung Quốc→ちゅうごくご, Nhật→にほんご, Indonesia→インドネシアご, Đức→ドイツご, Anh→えいご, Thái→タイご (ngữ pháp 4: tên nước＋ご).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "アメリカご／インドご／かんこくご／ちゅうごくご／にほんご／インドネシアご／ドイツご／えいご／タイご",
+  "note": "Thứ tự giả định là đọc lưới cờ theo hàng (trái→phải, trên→xuống). Có 9 chip cho 9 cờ nên cờ Mỹ nhận アメリカご, cờ Anh nhận えいご; nếu LMS gán ngược (Mỹ→えいご) thì đổi chip 0 và 4."
+ },
+ "2332/0/1": {
+  "type": "short",
+  "answer": "はたち",
+  "explain": "Tranh: Makkusu (20), USA, Tōkyō; câu hỏi 「マックスさんはなんさいですか」 → 20 tuổi đọc là はたち (ghi chú ngữ pháp 8).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đề chỉ ghi （　）です nên có thể LMS cũng chấp nhận 「２０さい」/「20さい」; cách đọc chuẩn của 20 tuổi là はたち (giống đáp án đã xác nhận ở 2330/1/4)."
+ },
+ "2332/1/1": {
+  "type": "matching",
+  "answer": {
+   "A: パクさんはがくせいですか。 B: はい、（ ）": "がくせいです",
+   "A: メアリーさんはがくせいですか。 B: いいえ、（ ）": "がくせいではありません",
+   "A: （ ） B：はい、せんせいです。": "せんせいですか",
+   "A: あきおさんは（ ）。 B: ２２さいです。": "なんさいですか",
+   "A: りさんは（ ） B: マレーシアからきました。": "どこからきましたか。",
+   "A: （ ） B: 1ねんせいです。": "なんねんせいですか。",
+   "A: （ ） B: はい、にほんごのせんせいです。": "にほんごのせんせいですか。",
+   "A: （ ） B: いいえ、４ねんせいです。": "３ねんせいですか。"
+  },
+  "explain": "Nですか → はい、Nです／いいえ、Nではありません; 「なんさいですか」→「２２さいです」; 「どこからきましたか」→「マレーシアからきました」; 「なんねんせいですか」→「1ねんせいです」; câu trả lời 「いいえ、４ねんせいです」 phải ứng với câu hỏi Có/Không 「３ねんせいですか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2332/2/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   3
+  ],
+  "explain": "Hai tranh đều là quốc kỳ Mỹ → 「アメリカからきました」; chỗ trống đầu là thân phận: がくせい (bài 2/2 kế bên có ảnh giáo viên dùng せんせい, bài này không có ảnh giáo viên).",
+  "confidence": "low",
+  "needs_audio": false,
+  "sentence": "わたしはがくせいです。アメリカからきました。",
+  "note": "Cả hai ảnh của câu này (79c17a9abda70737.png và USL.GIF) đều chỉ là cờ Mỹ, không có hình người nên がくせい/せんせい không chắc; nước chắc chắn là アメリカ."
+ },
+ "2332/2/2": {
+  "type": "dragtext",
+  "answer": [
+   3,
+   2
+  ],
+  "explain": "Tranh: thầy giáo đứng trước bảng → せんせい; quốc kỳ đen-đỏ-vàng → ドイツ: 「わたしはせんせいです。ドイツからきました」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "わたしはせんせいです。ドイツからきました。"
+ },
+ "2332/2/3": {
+  "type": "dragtext",
+  "answer": [
+   3,
+   5,
+   2
+  ],
+  "explain": "Tranh: Tom (17), student, cờ Mỹ → 「17さいです」(～さい), 「がくせいです」(Nです), 「アメリカからきました」(N＋からきました).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "わたしはトムです。17さいです。がくせいです。アメリカからきました。"
+ },
+ "2332/3/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe: ví dụ キムさん→がくせい; cần nghe để xác định カーラさん, ヤンさん, たなかさん.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Dự đoán theo tranh (mỗi nhân vật có 2 lựa chọn a/b, các nhãn chỉ có かいしゃいん・マレーシアじん・がくせい): カーラさん→がくせい (lựa chọn a せんせい không có trong nhãn), ヤンさん→マレーシアじん (ちゅうごくじん không có trong nhãn), たなかさん→かいしゃいん (mặc vest; がくせい đã dùng cho Carla)."
+ },
+ "2332/4/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: bảng giờ bay viết chữ Hàn (타이베이, 상하이…) → 「にほんごではありません。かんこくごです」 → a (です).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2332/4/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: biển 'Für Hunde verboten!' là tiếng Đức → 「えいごではありません。ドイツごです」 → a (です).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2332/5/1": {
+  "type": "dragtext",
+  "answer": null,
+  "explain": "Bài nghe: cần nghe 4 đoạn để biết tên và nước của ①～④ (tên: マルシア/トン/パク/ヤミン; nước: ミャンマー/かんこく/タイ/ブラジル).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio nên không xác định được thứ tự ①～④. Gợi ý ghép tên–nước theo xuất xứ tên: マルシア→ブラジル, トン→タイ, パク→かんこく, ヤミン→ミャンマー. Hàng なまえ điền 4 tên theo thứ tự ①～④, hàng くに điền nước tương ứng."
+ },
+ "2332/6/1": {
+  "type": "short",
+  "answer": "わたしはえいごのせんせいです。",
+  "explain": "Sắp xếp: わたし＋は＋えいご＋の＋せんせい＋です＋。 → 「わたしはえいごのせんせいです。」 (N1はN2です, N1のN2; ví dụ ngữ pháp 3-1 「わたしは えいごの せんせいです」). Viết liền không cách.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1650/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「わたしは（せんせい）です」: N1はN2です với N2 là nghề nghiệp; マレーシア cần 「からきました」, こうがく cần 「ぶの学生」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1650/1/1": {
+  "type": "matching",
+  "answer": {
+   "～は～です。": "“….. N1 là N2….”",
+   "～ですか。": "“S có phải N hay không?”"
+  },
+  "explain": "Ngữ pháp 1 「～は～です」 = N1 là N2; ngữ pháp 2 「Nですか」 = S có phải N hay không?",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1651/0/1": {
+  "type": "matching",
+  "answer": {
+   "N1のN2": "“N2 của N1”",
+   "～ご": "“Tiếng ~”"
+  },
+  "explain": "Ngữ pháp 3 「N1のN2」 = N2 của N1 (sở thuộc/sở hữu); ngữ pháp 4 「～ご」 = tiếng ~ (tên nước＋ご).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1651/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「にほんご（の）せんせい」: N1のN2 nối hai danh từ → の (giống bài đọc 「日本語の先生です」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1651/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「わたしは（こうがくぶ）の学生です」: 学部 (khoa) の 学生 — giống bài đọc 「工学部の学生です」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1651/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Câu trả lời khẳng định 「はい、…」 → 「わたしのほんです」 (N1のN2 sở hữu: sách của tôi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1652/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「わたしの（がくぶ）はこうがくです」: khoa của tôi là Cơ khí (ngữ pháp 6 がくぶは？ → ～がくぶです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1652/1/1": {
+  "type": "matching",
+  "answer": {
+   "なんねんせいですか。": "\"Sinh viên năm mấy?\"",
+   "がくぶは？": "\"Học ngành gì?\""
+  },
+  "explain": "Ngữ pháp 5 「なんねんせいですか」 = Sinh viên năm mấy?; ngữ pháp 6 「がくぶは？」 = Học ngành (khoa) nào?",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1653/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「どこから（きました）か」: ngữ pháp 7 「どこからきましたか」 = Đến từ đâu? (きます: đến).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1653/1/1": {
+  "type": "matching",
+  "answer": {
+   "どこからきましたか。": "\"Bạn đến từ đâu vậy?\"",
+   "なんさいですか。": "\"Bạn bao nhiêu tuổi vậy?\""
+  },
+  "explain": "Ngữ pháp 7 「どこからきましたか」 = Bạn đến từ đâu?; ngữ pháp 8 「なんさいですか」 = Bạn bao nhiêu tuổi?",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1710/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Câu hỏi Có/Không 「がくせいですか」 → trả lời 「いいえ、せんせいです」 (phủ định rồi nêu N đúng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1710/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「なんさいですか」 hỏi tuổi → 「３８さいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1710/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「なんねんせいですか」 hỏi năm học → 「４ねんせいです」 (bài đọc: Akio 「4年生です」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1710/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「がくぶは？」 hỏi khoa → trả lời 「～がくぶです」: ぶんがくぶです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1710/1/1": {
+  "type": "dragtext",
+  "answer": [
+   "は",
+   "です",
+   "の",
+   "です",
+   "です"
+  ],
+  "explain": "Theo bài đọc của Akio: 「やまかわさんは、だいきょうだいがくのがくせいです。こうがくぶのがくせいです。４ねんせいです。２２さいです。」 — は đánh dấu chủ đề, の nối N1のN2, です kết câu.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "やまかわさんは、だいきょうだいがくのがくせいです。こうがくぶのがくせいです。４ねんせいです。２２さいです。"
+ },
+ "1710/1/2": {
+  "type": "dragtext",
+  "answer": [
+   "は",
+   "の"
+  ],
+  "explain": "Theo bài đọc của thầy Nishiyama: 「にしやませんせいは、だいきょうだいがくのせんせいです。にほんごのせんせいです。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "にしやませんせいは、だいきょうだいがくのせんせいです。にほんごのせんせいです。"
+ },
+ "1710/1/3": {
+  "type": "dragtext",
+  "answer": [
+   "は",
+   "です",
+   "の"
+  ],
+  "explain": "Theo bài đọc của Li: 「リ・アイリンさんは、だいきょうだいがくのがくせいです。こうがくぶの１ねんせいです。マレーシアからきました。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "リ・アイリンさんは、だいきょうだいがくのがくせいです。こうがくぶの１ねんせいです。マレーシアからきました。"
+ },
+ "1515/0/1": {
+  "type": "short",
+  "answer": "こうがくぶのがくせいです。",
+  "explain": "Gõ lại câu trong ảnh: 「こうがくぶのがくせいです。」 (Tôi là sinh viên khoa Cơ khí).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1515/0/2": {
+  "type": "short",
+  "answer": "だいきょうだいがくのがくせいです。",
+  "explain": "Gõ lại câu trong ảnh: 「だいきょうだいがくのがくせいです。」 (Tôi là sinh viên ĐH Daikyo).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1515/0/3": {
+  "type": "short",
+  "answer": "４ねんせいです。",
+  "explain": "Gõ lại câu trong ảnh: 「４ねんせいです。」 (Tôi là sinh viên năm tư).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đo ảnh: chữ số 4 rộng ~24px, chiếm trọn ô ~40px như kana → số full-width ４. Nếu LMS yêu cầu half-width thì gõ 「4ねんせいです。」."
+ },
+ "1515/0/4": {
+  "type": "short",
+  "answer": "２２さいです。",
+  "explain": "Gõ lại câu trong ảnh: 「２２さいです。」 (Tôi 22 tuổi).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đo ảnh: hai chữ số 2 cách nhau ~39px (bằng một ô kana) → số full-width ２２. Nếu LMS yêu cầu half-width thì gõ 「22さいです。」."
+ },
+ "1515/0/5": {
+  "type": "short",
+  "answer": "はじめまして。やまかわあきおです。",
+  "explain": "Gõ lại câu trong ảnh: 「はじめまして。やまかわあきおです。」 (Rất vui được gặp. Tôi là Yamakawa Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1515/0/6": {
+  "type": "short",
+  "answer": "よろしく、おねがいします。",
+  "explain": "Gõ lại câu trong ảnh: 「よろしく、おねがいします。」 (có dấu phẩy sau よろしく như bài đọc của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

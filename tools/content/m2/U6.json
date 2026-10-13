@@ -1,0 +1,191 @@
+{
+ "text": {
+  "title": "{買|か}い{物|もの}と{映画|えいが}",
+  "titleVi": "Mua sắm và xem phim",
+  "titleNote": null,
+  "sections": [
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしは、{土曜日|どようび}に、{友|とも}だちといっしょに、{買|か}い{物|もの}に{行|い}きました。", "vi": "Thứ bảy, tôi đã đi mua sắm cùng với bạn."},
+      {"jp": "ショッピングモールは、とてもきれいで{大|おお}きかったです。", "vi": "Trung tâm mua sắm rất đẹp và to."},
+      {"jp": "そして、モールの{中|なか}に{庭|にわ}があります。", "vi": "Và trong trung tâm có một khu vườn."},
+      {"jp": "にわには、{木|き}がありました。", "vi": "Trong vườn có cây."},
+      {"jp": "{本当|ほんとう}に、{広|ひろ}くてすてきなショッピングモールでした。", "vi": "Thật sự là một trung tâm mua sắm rộng rãi và tuyệt vời."}
+     ],
+     [
+      {"jp": "ショッピングモールには、わたしは、{白|しろ}いポロシャツと、チェックのスカートと、ジーンズを{買|か}いました。", "vi": "Ở trung tâm mua sắm, tôi đã mua một áo polo trắng, một chiếc váy ca rô và một quần jean."},
+      {"jp": "そして、かわいいポーチと、{小|ちい}さくてかわいいボールペンを{買|か}いました。", "vi": "Rồi tôi mua một chiếc ví nhỏ dễ thương và một cây bút bi nhỏ xinh."},
+      {"jp": "{友|とも}だちは、ストライプのシャツと、くつと、{食器|しょっき}を{買|か}いました。", "vi": "Bạn tôi mua áo sơ mi kẻ sọc, giày và chén bát."},
+      {"jp": "わたしたちは、{4時間|よじかん}くらい{買|か}い{物|もの}をしました。", "vi": "Chúng tôi đã mua sắm khoảng 4 tiếng."}
+     ],
+     [
+      {"jp": "つかれました。", "vi": "Chúng tôi mệt."},
+      {"jp": "そして、とてもおなかがすきました。", "vi": "Và rất đói bụng."},
+      {"jp": "それで、わたしたちは、ごはんを{食|た}べに{行|い}きました。", "vi": "Vì vậy, chúng tôi đã đi ăn."},
+      {"jp": "ショッピングモールには、いろいろなレストランがありました。", "vi": "Trong trung tâm mua sắm có nhiều nhà hàng khác nhau."},
+      {"jp": "わたしたちは、{中華|ちゅうか}の{店|みせ}に{入|はい}りました。", "vi": "Chúng tôi vào một quán ăn Trung Hoa."},
+      {"jp": "{味|あじ}がうすくてあまりおいしくなかったです。", "vi": "Vị nhạt và không ngon lắm."},
+      {"jp": "でも、{買|か}い{物|もの}はとても{楽|たの}しかったです。", "vi": "Nhưng buổi mua sắm thì rất vui."},
+      {"jp": "{行|い}きたいです。", "vi": "Tôi muốn đi nữa."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{先週|せんしゅう}の{土曜日|どようび}は、{彼女|かのじょ}と{二人|ふたり}で、{映画|えいが}を{見|み}に{行|い}きました。", "vi": "Thứ bảy tuần trước, tôi đã đi xem phim với bạn gái, chỉ hai đứa."},
+      {"jp": "{4時|よじ}に、{街|まち}のおおきい{本屋|ほんや}の{前|まえ}で{会|あ}いました。", "vi": "Lúc 4 giờ, chúng tôi gặp nhau trước nhà sách lớn trong phố."},
+      {"jp": "そして、{映画館|えいがかん}に{行|い}きました。", "vi": "Rồi chúng tôi đến rạp chiếu phim."},
+      {"jp": "{映画|えいが}は、{4時半|よじはん}からでした。", "vi": "Phim bắt đầu lúc 4 giờ rưỡi."}
+     ],
+     [
+      {"jp": "わたしたちは、{清|しん}の{時代|じだい}の{中国|ちゅうごく}の{映画|えいが}を{見|み}ました。", "vi": "Chúng tôi xem một bộ phim Trung Quốc thời nhà Thanh."},
+      {"jp": "とても{面白|おもしろ}くていい{映画|えいが}でした。", "vi": "Đó là một bộ phim rất hay và thú vị."},
+      {"jp": "そして、{少|すこ}し{悲|かな}しかったです。", "vi": "Và hơi buồn một chút."},
+      {"jp": "{主人公|しゅじんこう}の{女|おんな}の{人|ひと}は、とてもきれいですてきでした。", "vi": "Nữ nhân vật chính rất đẹp và tuyệt vời."},
+      {"jp": "{映画|えいが}は、{7時|しちじ}ごろ、{終|お}わりました。", "vi": "Phim kết thúc khoảng 7 giờ."}
+     ],
+     [
+      {"jp": "{映画|えいが}の{後|あと}で、わたしたちは、{晩|ばん}ごはんを{食|た}べに{行|い}きました。", "vi": "Sau bộ phim, chúng tôi đi ăn tối."},
+      {"jp": "{映画館|えいがかん}のビルには、パスタの{店|みせ}がありました。", "vi": "Trong tòa nhà của rạp chiếu phim có một quán mì Ý."},
+      {"jp": "わたしたちは、パスタとピザを{食|た}べました。", "vi": "Chúng tôi ăn mì Ý và pizza."},
+      {"jp": "そして、{映画|えいが}の{話|はなし}をしました。", "vi": "Và nói chuyện về bộ phim."},
+      {"jp": "{彼女|かのじょ}は、{中国|ちゅうごく}の{歴史|れきし}をよく{知|し}っています。", "vi": "Bạn gái tôi biết rất rõ lịch sử Trung Quốc."},
+      {"jp": "わたしは、{日本|にほん}の{歴史|れきし}をよく{知|し}っています。", "vi": "Tôi thì biết rõ lịch sử Nhật Bản."},
+      {"jp": "でも、{中国|ちゅうごく}の{歴史|れきし}はあまり{知|し}りません。", "vi": "Nhưng lịch sử Trung Quốc thì tôi không biết nhiều."},
+      {"jp": "わたしたちは、たくさん{話|はなし}をしました。", "vi": "Chúng tôi đã nói chuyện rất nhiều."}
+     ],
+     [
+      {"jp": "{私|わたし}たちは、{10時|じゅうじ}に{店|みせ}を{出|で}ました。", "vi": "Chúng tôi rời quán lúc 10 giờ."},
+      {"jp": "そして、コーヒーを{飲|の}みに{行|い}きました。", "vi": "Rồi chúng tôi đi uống cà phê."},
+      {"jp": "そして、また、{話|はなし}をしました。", "vi": "Và lại tiếp tục trò chuyện."},
+      {"jp": "それから、{私|わたし}は、かのじょをうちまで{送|おく}りました。", "vi": "Sau đó, tôi đưa cô ấy về tận nhà."},
+      {"jp": "とても{楽|たの}しい{一日|いちにち}でした。", "vi": "Đó là một ngày thật vui."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1306,
+   "title": "イ-Aくないです・イ-Aくなかったです", "sub": "（phủ định của tính từ đuôi い）",
+   "meaning": "Không … / Đã không … (tính từ đuôi い)",
+   "usage": ["Dạng thức phủ định và phủ định quá khứ của tính từ đuôi い (Aイ).", "Bỏ い cuối tính từ rồi thêm くないです (hiện tại) hoặc くなかったです (quá khứ)."],
+   "formulas": ["Aい（bỏ い）＋ くないです", "Aい（bỏ い）＋ くなかったです"],
+   "examples": [
+    {"jp": "りょうりは おいしくないです。", "vi": "Món ăn không ngon."},
+    {"jp": "きのうのりょうりは おいしくなかったです。", "vi": "Món ăn hôm qua không ngon."},
+    {"jp": "{味|あじ}がうすくてあまりおいしくなかったです。", "vi": "Vị nhạt và không ngon lắm.", "src": "text"}
+   ],
+   "extra": ["Bảng chia: khẳng định hiện tại Aいです → quá khứ Aかったです; phủ định hiện tại Aくないです → phủ định quá khứ Aくなかったです. Ví dụ: おおきいです / おおきかったです / おおきくないです / おおきくなかったです.", "Ngoại lệ: いい → よくないです・よくなかったです (không nói いくないです)."],
+   "notes": [],
+   "table": null},
+  {"no": "2", "group": "A", "video": 1307,
+   "title": "ナ-Aではありません・ナ-Aではありませんでした", "sub": "（phủ định của tính từ đuôi な）",
+   "meaning": "Không … / Đã không … (tính từ đuôi な)",
+   "usage": ["Dạng thức phủ định và quá khứ phủ định của tính từ đuôi な (Aナ).", "Bỏ な rồi thêm ではありません (hiện tại) hoặc ではありませんでした (quá khứ), giống như với danh từ."],
+   "formulas": ["Aな（bỏ な）＋ ではありません", "Aな（bỏ な）＋ ではありませんでした"],
+   "examples": [
+    {"jp": "みせの{人|ひと}は しんせつではありません。", "vi": "Nhân viên quán không thân thiện."},
+    {"jp": "きのうのみせの{人|ひと}は しんせつではありませんでした。", "vi": "Nhân viên quán hôm qua không thân thiện."}
+   ],
+   "extra": ["Bảng chia: khẳng định hiện tại Aなです (きれいです) → quá khứ Aなでした (きれいでした); phủ định hiện tại Aなではありません (きれいではありません) → phủ định quá khứ Aなではありませんでした (きれいではありませんでした).", "Trong văn nói, ではありません thường được nói thành じゃありません / じゃないです."],
+   "notes": [],
+   "table": null},
+  {"no": "3", "group": "A", "video": 1308,
+   "title": "イ-Aくて・ナ-Aで", "sub": "（nối tính từ）",
+   "meaning": "… và … (nối hai tính từ trong một câu)",
+   "usage": ["Dùng để nối 2 hay nhiều tính từ lại với nhau trong 1 câu.", "Tính từ đuôi い: bỏ い rồi thêm くて. Tính từ đuôi な: bỏ な rồi thêm で. Tính từ cuối cùng giữ nguyên dạng."],
+   "formulas": ["A1い（bỏ い）＋ くて、＋ A2い／A2な", "A1な（bỏ な）＋ で、＋ A2い／A2な"],
+   "examples": [
+    {"jp": "ショッピングモールは、とても きれいで {大|おお}きかったです。", "vi": "Trung tâm mua sắm rất đẹp và to."},
+    {"jp": "{広|ひろ}くて すてきなショッピングモールでした。", "vi": "Đó là một trung tâm mua sắm rộng và tuyệt vời."},
+    {"jp": "{小|ちい}さくてかわいいボールペンを{買|か}いました。", "vi": "Tôi đã mua một cây bút bi nhỏ xinh.", "src": "text"},
+    {"jp": "とても{面白|おもしろ}くていい{映画|えいが}でした。", "vi": "Đó là một bộ phim rất hay và thú vị.", "src": "text"}
+   ],
+   "extra": ["ひろい ＋ すてきな → ひろくて すてきな (bỏ い ＋ くて).", "きれいな ＋ おおきい → きれいで おおきい (bỏ な ＋ で).", "Ngoại lệ: いい → よくて (いい{天気|てんき}で… thì không, phải nói よくて)."],
+   "notes": [],
+   "table": null},
+  {"no": "4", "group": "A", "video": 1309,
+   "title": "Nに 行きます・V「ます」に 行きます", "sub": "（mục đích của 行きます）",
+   "meaning": "Đi (đến đâu) để làm gì",
+   "usage": ["Dùng để diễn tả ý: muốn đi đâu để làm gì, chỉ mục đích của hành động đi, đến, trở về.", "Trước に là danh từ chỉ hoạt động (買い物, 食事…) hoặc động từ ở dạng Vます bỏ ます."],
+   "formulas": ["（Place へ）＋ N ＋ に ＋ {行|い}きます", "（Place へ）＋ Vます（bỏ ます）＋ に ＋ {行|い}きます・{来|き}ます・{帰|かえ}ります"],
+   "examples": [
+    {"jp": "{友|とも}だちといっしょに、{買|か}い{物|もの}に {行|い}きます。", "vi": "Tôi đi mua sắm với bạn."},
+    {"jp": "{彼女|かのじょ}と{二人|ふたり}で、えいがを {見|み}に {行|い}きます。", "vi": "Tôi đi xem phim với người yêu."},
+    {"jp": "それで、わたしたちは、ごはんを{食|た}べに{行|い}きました。", "vi": "Vì vậy, chúng tôi đã đi ăn.", "src": "text"},
+    {"jp": "そして、コーヒーを{飲|の}みに{行|い}きました。", "vi": "Rồi chúng tôi đi uống cà phê.", "src": "text"}
+   ],
+   "extra": ["Chú ý: động từ trước に để dạng Vます bỏ ます: {見|み}ます ＋ {行|い}きます → {見|み}に{行|い}きます; {食|た}べます → {食|た}べに{行|い}きます."],
+   "notes": [],
+   "table": null},
+  {"no": "5", "group": "A", "video": 1310,
+   "title": "それで", "sub": null,
+   "meaning": "Vì vậy, do đó",
+   "usage": ["「それで」là liên từ được dùng để trình bày kết quả do nguyên nhân hoặc lý do đã được trình bày trước đó.", "Đặt ở đầu câu sau, nối với câu nêu lý do ở trước."],
+   "formulas": ["Câu 1（nguyên nhân, lý do）。＋ それで、＋ Câu 2（kết quả）"],
+   "examples": [
+    {"jp": "わたしたちは、つかれました。そして、おなかがすきました。それで、ごはんを{食|た}べに{行|い}きました。", "vi": "Chúng tôi mệt, và đói. Vì vậy, chúng tôi đã đi ăn."},
+    {"jp": "それで、わたしたちは、ごはんを{食|た}べに{行|い}きました。", "vi": "Vì vậy, chúng tôi đã đi ăn.", "src": "text"}
+   ],
+   "extra": ["Phân biệt: そして = và, rồi (liệt kê, nối tiếp); それから = sau đó (trình tự thời gian); それで = vì vậy (kết quả)."],
+   "notes": [],
+   "table": null},
+  {"no": "6", "group": "B", "video": 1311,
+   "title": "どうでしたか？", "sub": null,
+   "meaning": "… như thế nào? (hỏi cảm nhận về việc đã qua)",
+   "usage": ["Dùng để hỏi về cảm nhận của đối phương như thế nào về một thứ gì đó.", "Dùng ở dạng quá khứ; câu trả lời cũng dùng tính từ ở dạng quá khứ."],
+   "formulas": ["Q: ～ ＋ は ＋ どうでしたか。", "A: ～ ＋ Aかったです ／ Aなでした。"],
+   "examples": [
+    {"jp": "ショッピングモールは どうでしたか？", "vi": "Trung tâm mua sắm hôm trước như thế nào?"},
+    {"jp": "とてもきれいで {大|おお}きかったです。", "vi": "Rất đẹp và to."},
+    {"jp": "{映画|えいが}は どうでしたか？ ― とても{面白|おもしろ}くていい{映画|えいが}でした。", "vi": "Bộ phim thế nào? ― Rất hay và thú vị.", "src": "text"}
+   ],
+   "extra": ["Hỏi về hiện tại thì dùng どうですか (～は どうですか。 – … thế nào?)."],
+   "notes": [],
+   "table": null},
+  {"no": "7", "group": "B", "video": 1312,
+   "title": "知っています", "sub": null,
+   "meaning": "Biết / không biết (về một thứ gì đó)",
+   "usage": ["Dùng「知っています」・「知りません」để thể hiện ý biết / không biết về một thứ gì đó.", "Chú ý: phủ định là 知りません, không nói 知っていません."],
+   "formulas": ["N ＋ を ＋ {知|し}っています", "N ＋ は ＋ {知|し}りません"],
+   "examples": [
+    {"jp": "わたしは、{日本|にほん}のれきしを よく {知|し}っています。", "vi": "Tôi biết rất rõ về lịch sử Nhật Bản."},
+    {"jp": "でも、{中国|ちゅうごく}のれきしは あまり {知|し}りません。", "vi": "Tôi không biết nhiều lắm về lịch sử Trung Quốc."},
+    {"jp": "{彼女|かのじょ}は、{中国|ちゅうごく}の{歴史|れきし}をよく{知|し}っています。", "vi": "Bạn gái tôi biết rất rõ lịch sử Trung Quốc.", "src": "text"}
+   ],
+   "extra": ["Bảng chia: hiện tại {知|し}っています / {知|し}りません; quá khứ {知|し}っていました / {知|し}りませんでした.", "よく{知|し}っています = biết rõ; あまり{知|し}りません = không biết nhiều lắm."],
+   "notes": [],
+   "table": null},
+  {"no": "8", "group": "B", "video": 1313,
+   "title": "前、中、となり、よこ、おく", "sub": "（danh từ chỉ vị trí）",
+   "meaning": "Trước, trong, bên cạnh, bên cạnh (ngang), phía trong / trong góc",
+   "usage": ["Các danh từ chỉ vị trí: {前|まえ} (đằng trước), {中|なか} (bên trong), となり (bên cạnh), よこ (bên cạnh), おく (trong góc, phía trong).", "Đi sau N の để nói vị trí của người hoặc vật: N1 の 前／中／となり に N2 があります・います."],
+   "formulas": ["N1 ＋ の ＋ {前|まえ}／{中|なか}／となり／よこ／おく ＋ に ＋ N2 ＋ があります・います", "N1 ＋ の ＋ {前|まえ}／{中|なか}／となり ＋ で ＋ V"],
+   "examples": [
+    {"jp": "モールの{中|なか}に{庭|にわ}があります。", "vi": "Trong trung tâm thương mại có một khu vườn.", "src": "text"},
+    {"jp": "{本屋|ほんや}の{前|まえ}で{会|あ}いました。", "vi": "Chúng tôi gặp nhau trước nhà sách.", "src": "text"},
+    {"jp": "{学校|がっこう}のとなりに{本屋|ほんや}があります。", "vi": "Bên cạnh trường có nhà sách."},
+    {"jp": "{店|みせ}のおくに{食器|しょっき}があります。", "vi": "Ở phía trong cửa tiệm có chén bát."}
+   ],
+   "extra": ["となり: ngay bên cạnh, thường là vật/người cùng loại (となりの{人|ひと}, となりの{店|みせ}); よこ: bên hông, phía ngang."],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "{週末|しゅうまつ}のできごと",
+  "vi": "Chuyện cuối tuần (một buổi đi mua sắm / xem phim)",
+  "use": ["Aかったです・Aくなかったです", "Aなでした・Aなではありませんでした", "Aくて・Aで", "Nに行きます・Vますに行きます", "それで", "知っています"],
+  "ideas": ["Hôm nào, đi đâu, với ai, gặp nhau lúc mấy giờ, ở đâu (前・中・となり)", "Đã mua gì / xem gì; nhận xét bằng tính từ ở dạng quá khứ, nối tính từ bằng くて・で", "Sau đó đi ăn gì, món ăn thế nào (おいしくなかったです…)", "Kết quả, cảm nghĩ về cả ngày (それで…, とても楽しい一日でした)"]
+ },
+ "verbs": [
+  {"m": "います", "k": "います", "g": 2, "vi": "có, ở (người, động vật)"},
+  {"m": "つかれます", "k": "疲れます", "g": 2, "vi": "mệt"},
+  {"m": "おなかがすきます", "k": "お腹がすきます", "g": 1, "vi": "đói bụng"},
+  {"m": "あいます", "k": "会います", "g": 1, "vi": "gặp"},
+  {"m": "しります", "k": "知ります", "g": 1, "vi": "biết (知っています)"},
+  {"m": "でます", "k": "出ます", "g": 2, "vi": "ra khỏi (cửa tiệm)"},
+  {"m": "おくります", "k": "送ります", "g": 1, "vi": "tiễn, đưa (ai về)"}
+ ]
+}

@@ -1,0 +1,807 @@
+{
+ "1536/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa (西山先生): 「わたしは、いつも、7時ごろ、起きます。」→ ７じに おきます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (西山先生): 「晩ごはんは、たいてい、うちで食べます。うちで、家族といっしょに食べます。」→ うちで たべます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa (西山先生): 「うちから学校まで、1時間半くらいです。少し遠いです。」→ １じかんはんくらいです.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Part I hỏi về 西山先生 → 1 tiếng rưỡi. Nếu đề hiểu là あきお thì là 40分 (phương án 0); bản quiz cũ trong LMS có câu 「うちから学校まで、どのくらいですか」 với đáp án 40ぷん, nhưng câu hiện tại nằm ở phần 西山先生."
+ },
+ "1536/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (あきお): 「昼ごはんは、食堂で食べます。」→ しょくどうで 食べます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa (あきお): 「そして、8時に学校に行きます。」→ ８じに 行きます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (あきお, buổi tối): 「ハンバーガーやカップラーメンやお弁当を食べます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/2/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (リ): 「5時半ごろにうちに帰ります。」→ ５じはんに かえります.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (リ): 「晩ごはんは、いつもうちで食べます。」→ うちで たべます (ばしょ)で Vます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/2/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa (リ): 「自転車で学校に行きます。」→ じてんしゃで いきます ((しゅだん)で Vます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1536/2/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa (リ): 「昼ごはんは、食堂で食べます。」→ しょくどうで たべます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2053/0/1": {
+  "type": "matching",
+  "answer": {
+   "① インド": "ごぜん 5じはん",
+   "② エジプト": "ごぜん ２じ",
+   "③ フランス": "ごぜん 1じ",
+   "④ アメリカ": "よる ７じ",
+   "⑤ ニュージーランド": "ひる 12じ"
+  },
+  "explain": "Tranh bản đồ múi giờ: DELHI AM 5:30 (インド), CAIRO AM 2:00 (エジプト), PARIS AM 1:00 (フランス), NEW YORK PM 7:00 (アメリカ), WELLINGTON PM 12:00 (ニュージーランド). ごぜん = sáng (AM), ごご／よる = chiều/tối (PM), ひる12じ = 12 giờ trưa.",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Có audio nhưng tranh đã cho đủ thông tin; bài nộp đã chấm đúng trên LMS cũng chọn đúng thứ tự này."
+ },
+ "2053/1/1": {
+  "type": "order",
+  "answer": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "explain": "Cụm từ cố định: テレビを みます (xem ti vi), しんぶんを よみます (đọc báo), おふろに はいります (tắm bồn), ごはんを たべます (ăn cơm) — đều có trong bài khóa U4.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "テレビをみます／しんぶんをよみます／おふろにはいります／ごはんをたべます"
+ },
+ "2053/1/2": {
+  "type": "order",
+  "answer": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "explain": "メールを おくります (gửi mail), お弁当を かいます (mua cơm hộp, bài khóa 「お弁当を買います」), うちに かえります (về nhà, (ばしょ)に かえります), かいぎを します (họp).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "メールをおくります／お弁当をかいます／うちにかえります／かいぎをします"
+ },
+ "2053/1/3": {
+  "type": "order",
+  "answer": [
+   4,
+   0,
+   1,
+   3,
+   2,
+   5
+  ],
+  "explain": "Theo thứ tự tranh (hàng trên trái→phải, rồi hàng dưới): người làm việc với máy tính = しごとをします; người đi đến tòa nhà công ty = かいしゃにいきます; học sinh viết bài = べんきょうします; thức dậy với đồng hồ báo thức = おきます; ngủ dưới trăng sao = ねます; trường học = がっこうにいきます.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "しごとをします／かいしゃにいきます／べんきょうします／おきます／ねます／がっこうにいきます"
+ },
+ "2053/2/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "タクシー, バイク là phương tiện đi lại; ピザ là đồ ăn → từ không cùng nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2053/2/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "じてんしゃ, でんしゃ là phương tiện; えいが (phim) không cùng nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2053/2/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "タクシー, バス là phương tiện; ドラマ (phim truyền hình) không cùng nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2053/3/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "〇",
+   "2": "〇"
+  },
+  "explain": "Bài nộp trên LMS (đã chấm đúng) chọn 〇 cho cả hai câu. Theo tranh: フランス (PARIS) AM 1:00 → câu ② 「ごぜん１じ」 đúng (〇).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Theo bản đồ trong tranh, TOKYO là AM 9:00 nên câu ① 「にほんは ごぜん５じ」 lẽ ra là ×; tuy nhiên bản nộp 〇/〇 được LMS chấm đúng (có thể audio slide 12+13 nói giờ khác). Không nghe được audio để xác nhận."
+ },
+ "1648/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: nhà ga có biển STATION → えき (駅: nhà ga).",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Dump ghi VERIFIED 2 là do script ghép nhầm (các câu chỉ có ảnh có prompt rỗng nên bị trộn). Bản nộp gốc trên LMS chọn えき cho ảnh này và được chấm đúng."
+ },
+ "1648/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: phòng ngủ có giường, ghế bành → へや (部屋: phòng).",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Dump ghi VERIFIED 0 do script ghép nhầm; bản nộp gốc trên LMS chọn へや cho ảnh này và được chấm đúng."
+ },
+ "1648/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: nhiều người họp quanh bàn dài → かいぎ (会議: cuộc họp).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: nhà khoa học với ống nghiệm, kính hiển vi → けんきゅうしつ (研究室: phòng nghiên cứu).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: ly mì ăn liền đang bốc khói → カップラーメン (mì ly).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Từ trái nghĩa của ねます (ngủ) là おきます (thức dậy).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Từ trái nghĩa của いきます (đi) là かえります (về).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/2/1": {
+  "type": "dragtext",
+  "answer": [
+   1,
+   6,
+   13,
+   9,
+   14
+  ],
+  "explain": "Cách đọc giờ (ngữ pháp 1 ～じ): 7:00 = しちじ, 9:00 = くじ, 4:00 = よじ, 10:00 = じゅうじ, 5:00 = ごじ. Chú ý giờ đọc đặc biệt 4時＝よじ, 7時＝しちじ, 9時＝くじ.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "７：００ しちじ／９：００ くじ／４：００ よじ／１０：００ じゅうじ／５：００ ごじ"
+ },
+ "1648/3/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "タクシー, じてんしゃ, しんかんせん là phương tiện; えき (nhà ga) là địa điểm → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/3/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "ひるごはん, ばんごはん, あさごはん là các bữa ăn; としょかん (thư viện) là địa điểm → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/4/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "ニュースを みます (xem tin tức) — bài khóa: 「テレビでニュースを見ます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1648/4/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "ごはんを つくります (nấu cơm) — bài khóa: 「友だちといっしょに晩ごはんを作ります。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1761/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "まいあさ (mỗi sáng) là từ chỉ thời gian tương đối, không đi với に → まいあさ パンを たべます (không có trợ từ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1761/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "7時半 đọc là しちじはん (7時 đọc đặc biệt = しち, ～はん = rưỡi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1761/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "8時45分 = はちじ よんじゅうごふん; 5分 đọc ふん (không phải ぷん/ぶん), và phải có 「ふん」 sau số phút.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1761/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 2: なんじに Vますか — 「なんじに おきますか」; mốc thời gian + に.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1761/1/1": {
+  "type": "matching",
+  "answer": {
+   "～じ、～ふん": "~giờ, ~phút",
+   "Ｎ(thời gian)に Ｖます。": "Thực hiện hành động V vào thời điểm N"
+  },
+  "explain": "Ngữ pháp 1: ～じ、～ふん = ~giờ, ~phút; ngữ pháp 2: N(じかん)に Vます = làm V vào thời điểm N.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1762/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 4: ～から～まで Vます — 「10時から12時まで しごとします」(làm việc từ 10 giờ đến 12 giờ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1762/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 3: N1かN2 (hoặc) + ngữ pháp 2: thời gian + に — 「8じか8じはんに おきます」(dậy lúc 8 giờ hoặc 8 giờ rưỡi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1762/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 3: N1かN2 = N1 hoặc N2 — 「りんごか ばななを かいますか」(mua táo hay chuối?).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1762/1/1": {
+  "type": "matching",
+  "answer": {
+   "N1 か N2": "“N1 hoặc N2”",
+   "～から ～まで Vます": "“Làm V từ… đến…”"
+  },
+  "explain": "Ngữ pháp 3: N1かN2 = N1 hoặc N2; ngữ pháp 4: ～から～までVます = làm V từ… đến….",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1763/0/1": {
+  "type": "matching",
+  "answer": {
+   "N(Place) に いきます・きます・かえります。": "Dùng để nhấn mạnh điểm đến của các động từ di chuyển (đi, đến, trở về)",
+   "(Câu 1)。それから、(Câu 2)": "Sau đó thì.... (diễn tả hành động trước sau theo trình tự thời gian)",
+   "Nのあと、～": "Sau khi làm... thì...(diễn tả hành động trước sau theo trình tự thời gian)"
+  },
+  "explain": "Ngữ pháp 5: (ばしょ)に いきます／きます／かえります = điểm đến của động từ di chuyển; ngữ pháp 6: それから = sau đó (nối hai câu), Nのあと = sau N thì….",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1763/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "うちに かえります (về nhà) — ngữ pháp 5, ví dụ 「5じに うちに かえります」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1763/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 6: Nのあと — 「ばんごはんのあと、11じごろに、おふろにはいります」(sau bữa tối, khoảng 11 giờ đi tắm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1763/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "なんじに (thời gian + に) + がっこうに いきます (địa điểm + に với động từ di chuyển).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1763/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "それから nối hai câu theo thứ tự thời gian: 「がっこうに いきます。それから、としょかんに いきます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1764/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 9: (しゅだん)で Vます — でんしゃで いきます (đi bằng tàu điện).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1764/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 7: (ばしょ)で Vます — 「しょくどうで ひるごはんを たべます」 (bài khóa: 昼ごはんは、食堂で食べます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1764/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "どこで Vますか — hỏi nơi diễn ra hành động (mua ở đâu?): どこで かいますか.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1764/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 8: (ばしょ)から(ばしょ)まで — 「うちから がっこうまで どのくらいですか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1764/1/1": {
+  "type": "matching",
+  "answer": {
+   "N (Place) で Vます。": "“Làm V ở ...” (dùng để chỉ địa điểm/nơi xảy ra hành động nào đó)",
+   "N (Place) から N (Place) まで ～": "từ (địa điểm) ...đến (địa điểm)...",
+   "Ｎ(method)で Ｖます。": "“Làm V bằng ...” (Dùng để diễn tả phương tiện/công cụ/phương thức để thực hiện 1 hành động nào đó)"
+  },
+  "explain": "Ngữ pháp 7: (ばしょ)でVます = làm V ở đâu; ngữ pháp 8: (ばしょ)から(ばしょ)まで = từ… đến…; ngữ pháp 9: (しゅだん)でVます = làm V bằng phương tiện gì.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2055/0/1": {
+  "type": "dragtext",
+  "answer": [
+   1,
+   4
+  ],
+  "explain": "Tranh: xe đạp → ホーチミン. (しゅだん)で + (ばしょ)に いきます: 「じてんしゃで ホーチミンに いきます」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "じてんしゃでホーチミンにいきます。"
+ },
+ "2055/0/2": {
+  "type": "dragtext",
+  "answer": [
+   2,
+   3
+  ],
+  "explain": "Tranh: tàu điện ngầm → thư viện (LIBRARY). 「ちかてつで としょかんに いきます」 (đi thư viện bằng tàu điện ngầm).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "ちかてつでとしょかんにいきます。"
+ },
+ "2055/0/3": {
+  "type": "dragtext",
+  "answer": [
+   2,
+   1
+  ],
+  "explain": "Tranh: tàu điện → ngôi nhà. 「でんしゃで うちに かえります」 — về nhà dùng かえります (ngữ pháp 5).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "でんしゃでうちにかえります。"
+ },
+ "2055/1/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Cần nghe audio: nối hoạt động ①マンガをよみます ②おんがくをききます ③しゃしんをとります ④スポーツをします với nơi làm (a へや, b トイレ, c おふろ, f えき) theo mẫu (ばしょ)で Vます.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio. Đoán theo tranh (bảng có sẵn きむらさん① = b): ① b. トイレ, ② c. おふろ, ③ f. えき, ④ a. へや (4 lựa chọn a/b/c/f dùng mỗi cái một lần)."
+ },
+ "2055/2/1": {
+  "type": "dragtext",
+  "answer": [
+   6,
+   "に",
+   "に",
+   "に",
+   "に",
+   2,
+   "で",
+   7,
+   "から",
+   "まで",
+   "から",
+   "まで",
+   "で",
+   "に",
+   "に",
+   0
+  ],
+  "explain": "① ５じはんです: không có trợ từ trước です (❌). ② ６じに おきます (thời gian+に). ③ ８じに がっこうに いきます. ④ うちに かえります. ⑤ かいぎが あります. ⑥ うちで しんぶんを よみます ((ばしょ)で, を). ⑦ ９じから ５じまで. ⑧ うちから がっこうまで でんしゃで いきます. ⑨ ７じに おふろに はいります. ⑩ １じか ２じに (N1かN2).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "いまインドは５じはんです。／まいにち６じにおきます。／８じにがっこうにいきます。／１０じごろ、うちにかえります。／こんばん、かいぎがあります。／うちでしんぶんをよみます。／かいしゃは９じから５じまでです。／うちからがっこうまででんしゃでいきます。／まいにち、７じにおふろにはいります。／１じか２じにねます。",
+  "note": "Các chip に, から, まで, で được dùng lại nhiều lần nên ghi bằng chữ; ❌ = không cần trợ từ."
+ },
+ "2055/3/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "ごご",
+   "2": "に",
+   "3": "ねます"
+  },
+  "explain": "Tranh: 8:45 P.M., おおのさん đang ngủ → 「おおのさんは ごご ８じ４５ふんに ねます。」 (P.M. = ごご; thời gian + に + Vます).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "おおのさんはごご８じ４５ふんにねます。"
+ },
+ "2055/3/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "ごご",
+   "2": "から",
+   "3": "ごぜん",
+   "4": "まで",
+   "5": "ねます"
+  },
+  "explain": "Tranh: 8:45 P.M. ～ 6:00 A.M., ngủ → 「おおのさんは ごご８じ４５ふんから ごぜん６じまで ねます。」 (～から～までVます).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "おおのさんはごご８じ４５ふんからごぜん６じまでねます。"
+ },
+ "2055/3/3": {
+  "type": "blanks",
+  "answer": {
+   "1": "から",
+   "2": "まで",
+   "3": "べんきょうします"
+  },
+  "explain": "Tranh: 3:00 P.M. ～ 5:00 P.M., たかはしさん đang học → 「たかはしさんは ３じから ５じまで べんきょうします。」",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "たかはしさんは３じから５じまでべんきょうします。",
+  "note": "Ô 3 gõ tự do; cũng có thể hệ thống chấp nhận 「べんきょうをします」. Không ghi ごご vì mẫu câu れい không có."
+ },
+ "2055/4/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Cần nghe audio: biểu đồ 「シンさんの いちにち」 — chọn thời lượng (a 1じかんぐらい, b 30ぷんぐらい, d 7じかんはん, e 2じかんぐらい) cho ①しごと ②テレビ ③うんどう ④インターネット; ① đã cho sẵn = d.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio. Đoán theo biểu đồ: ① d (7じかんはん しごと), ② e (テレビ ~2 tiếng, phần hồng lớn hơn), ③ b (うんどう chỉ một lát mỏng ~30 phút), ④ a (インターネット ~1 tiếng)."
+ },
+ "1663/0/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   "に",
+   "に"
+  ],
+  "explain": "Bài khóa (西山先生): 「昼ごはんは、研究室で、お弁当を食べます」((ばしょ)で); 「6時ごろに、うちに帰ります」(thời gian ごろ+に, (ばしょ)に かえります).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "けんきゅうしつで、おべんとうをたべます。／６じごろに、うちにかえります。"
+ },
+ "1663/0/2": {
+  "type": "dragtext",
+  "answer": [
+   "で",
+   1,
+   0,
+   "で",
+   6
+  ],
+  "explain": "Bài khóa (あきお): 「電車で行きます」((しゅだん)で); 「うちから学校まで、40分くらいです」(から～まで); 「食堂で食べます」((ばしょ)で); 「お弁当を買います」(を).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "でんしゃでいきます。／うちからがっこうまで、40分くらいです。／しょくどうでたべます。／おべんとうをかいます。"
+ },
+ "1663/0/3": {
+  "type": "dragtext",
+  "answer": [
+   "を",
+   "を",
+   3,
+   4,
+   6,
+   "を"
+  ],
+  "explain": "Bài khóa (西山先生): 「テレビを見ます」「映画を見ます」(を); 「映画やドラマが大好きです」(が với 大好き); 「子どもたちも、ときどき、いっしょに見ます」(も = cũng); 「お風呂に入ります」(に); 「少し本を読みます」(を).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "テレビをみます。／えいがをみます。／えいがやドラマがだいすきです。／おこさんたちも、ときどき、いっしょに見ます。／おふろにはいります。／すこし本をよみます。"
+ },
+ "1663/0/4": {
+  "type": "dragtext",
+  "answer": [
+   1,
+   3,
+   2
+  ],
+  "explain": "Bài khóa (リ): 「朝ごはんを食べます」(を); 「8時半に学校に行きます」((ばしょ)に); 「自転車で学校に行きます」((しゅだん)で).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "あさごはんをたべます。／８じはんにがっこうにいきます。／じてんしゃでがっこうにいきます。"
+ },
+ "1663/1/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Họp bắt đầu lúc 10 giờ; bay Hà Nội→TP.HCM mất 2 tiếng rưỡi (ひこうきで ２じかんはんくらい). Chỉ chuyến ７じ (đến ~9 giờ rưỡi) kịp họp lúc 10 giờ; các chuyến 8じ/8じはん/9じ đều đến sau 10 giờ.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đề không nói rõ thời gian từ sân bay đến công ty khi đi; chọn chuyến sớm nhất đủ để đến trước 10 giờ."
+ },
+ "1541/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "きんようび = 金よう日; chữ ở ô trống là 日 (び: ngày).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "ふるい = 古い (cũ); 古 (CỔ) kun: ふる.い.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "にほん = 日本 (Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "やま = 山 (núi); 山川 = やまかわ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "でんしゃ = 電車; chữ しゃ là 車 (XA: xe).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "め = 目 (mắt).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "ちゅうごく = 中国 (Trung Quốc); ちゅう = 中.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "かわ = 川 (sông).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/9": {
+  "type": "single",
+  "answer": 2,
+  "explain": "どようび = 土よう日; ど = 土 (THỔ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/0/10": {
+  "type": "single",
+  "answer": 3,
+  "explain": "くち = 口 (miệng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1541/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "じゅうじ",
+   "2": "どようび",
+   "3": "にほんじん",
+   "4": "やまかわ",
+   "5": "じてんしゃ",
+   "6": "ふるい"
+  },
+  "explain": "十じ = じゅうじ (10 giờ); 土よう日 = どようび; 日ほんじん = にほんじん; 山川 = やまかわ; じてん車 = じてんしゃ; 古い = ふるい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "車 đọc kun là くるま (xe ô tô): くるまで かいしゃに いきます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "ふるい = 古い, でんしゃ = でん車 → 古いでん車.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "川 đọc kun là かわ (sông); おおきい川 = con sông lớn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "やまかわ = 山川 (tên người Yamakawa).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "目 = め (mắt): 目が ちいさいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/6": {
+  "type": "single",
+  "answer": 0,
+  "explain": "どようび = 土ようび (thứ bảy).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/7": {
+  "type": "single",
+  "answer": 0,
+  "explain": "三じ = さんじ, 十じ = じゅうじ (10 giờ; 十 on-yomi ジュウ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/8": {
+  "type": "single",
+  "answer": 3,
+  "explain": "中がくせい = ちゅうがくせい (học sinh cấp 2); 中 on-yomi チュウ (trường âm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/9": {
+  "type": "single",
+  "answer": 3,
+  "explain": "土ようび = どようび (thứ bảy); 土 on-yomi ド, không kéo dài.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1542/0/10": {
+  "type": "single",
+  "answer": 3,
+  "explain": "ちゅう = 中 → 中がくせい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1531/0/1": {
+  "type": "short",
+  "answer": "それから、メールやインターネットをします。",
+  "explain": "Bài khóa (あきお): 「それから、メールやインターネットをします。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1531/0/2": {
+  "type": "short",
+  "answer": "けんきゅうしつでじっけんをします。",
+  "explain": "Bài khóa (あきお): 「研究室で実験をします。」 viết bằng hiragana.",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh viết toàn hiragana, số half-width; khoảng trống trong ảnh (sau で／を) không cần gõ vì hệ thống bỏ qua dấu cách."
+ },
+ "1531/0/3": {
+  "type": "short",
+  "answer": "ときどき、おべんとうをかいます。",
+  "explain": "Bài khóa (あきお): 「ときどき、お弁当を買います。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh viết toàn hiragana, số half-width; khoảng trống trong ảnh (sau で／を) không cần gõ vì hệ thống bỏ qua dấu cách."
+ },
+ "1531/0/4": {
+  "type": "short",
+  "answer": "じゅぎょうは、たいてい、4じ10ふんにおわります。",
+  "explain": "Bài khóa (あきお): 「授業は、たいてい、4時10分に終わります。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh viết toàn hiragana, số half-width; khoảng trống trong ảnh (sau で／を) không cần gõ vì hệ thống bỏ qua dấu cách."
+ },
+ "1531/0/5": {
+  "type": "short",
+  "answer": "あさは、たいてい7じにおきます。",
+  "explain": "Bài khóa (あきお): 「朝は、たいてい7時に起きます。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Số trong ảnh là số half-width."
+ },
+ "1531/0/6": {
+  "type": "short",
+  "answer": "それから、けんきゅうしつにいきます。",
+  "explain": "Bài khóa (あきお): 「それから、研究室に行きます。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh viết toàn hiragana, số half-width; khoảng trống trong ảnh (sau で／を) không cần gõ vì hệ thống bỏ qua dấu cách."
+ },
+ "1531/0/7": {
+  "type": "short",
+  "answer": "10じごろに、ひとりでたべます。",
+  "explain": "Bài khóa (あきお): 「10時ごろに、一人で食べます。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Số trong ảnh là số half-width."
+ },
+ "1531/0/8": {
+  "type": "short",
+  "answer": "ときどき、べんきょうをします。",
+  "explain": "Bài khóa (あきお): 「ときどき、勉強をします。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1531/0/9": {
+  "type": "short",
+  "answer": "ひるごはんは、しょくどうでたべます。",
+  "explain": "Bài khóa (あきお): 「昼ごはんは、食堂で食べます。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Ảnh viết toàn hiragana, số half-width; khoảng trống trong ảnh (sau で／を) không cần gõ vì hệ thống bỏ qua dấu cách."
+ },
+ "1531/0/10": {
+  "type": "short",
+  "answer": "そして、1じか2じごろに、ねます。",
+  "explain": "Bài khóa (あきお): 「そして、1時か2時ごろに、寝ます。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Số trong ảnh là số half-width."
+ }
+}

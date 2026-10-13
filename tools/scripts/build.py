@@ -15,7 +15,15 @@ from bs4 import BeautifulSoup, NavigableString
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = Path(sys.argv[1]).resolve()
-UNITS = [13, 14, 15, 16, 17]
+# courses merged into one site: M2 (N5, Unit 1-12) and M3 (N4, Unit 13-17)
+COURSES = [
+    {"key": "n5", "short": "N5", "level": "N5", "name": "M2 – N5: Tiếng Nhật cơ sở 1", "book": "NEJ Vol.1 テーマで学ぶ基礎日本語",
+     "units": list(range(1, 13))},
+    {"key": "n4", "short": "N4", "level": "N4", "name": "M3 – N4: Tiếng Nhật cơ sở 2", "book": "NEJ Vol.2 テーマで学ぶ基礎日本語",
+     "units": [13, 14, 15, 16, 17]},
+]
+UNITS = [13, 14, 15, 16, 17]          # M3 units (hand-written content in content/*.json)
+M2_UNITS = list(range(1, 13))         # M2 units (content/m2/U<n>.json + kb_raw_m2.json)
 KANJI_RE = r"[一-鿿々〆ヶ]"
 
 
@@ -52,9 +60,11 @@ VOCAB_FIX = {
 }
 
 
-def build_vocab(unit, raw):
+def build_vocab(unit, raw, ext=(), start=0):
+    """raw = main list; ext = extended list (marked "mở rộng")"""
     out = []
-    for i, v in enumerate(raw):
+    for i, v in enumerate(list(raw) + list(ext)):
+        is_ext = i >= len(raw)
         kana, kanji, vi = v["kana"].strip(), v["kanji"].strip(), v["vi"].strip()
         kana = re.sub(r"\s+", "", kana)
         fix = VOCAB_FIX.get(kana, {})
@@ -75,8 +85,11 @@ def build_vocab(unit, raw):
                 kanji = kanji[km.end():]
         k2 = re.sub(r"[（(][^）)]*[）)]", "", kanji).strip()
         ruby = align(k2, kana) if k2 else kana
-        out.append({"id": f"{unit}-{i + 1}", "kana": kana, "kanji": k2, "ruby": ruby,
-                    "vi": vi, "pre": lead, "note": fix.get("note", note)})
+        item = {"id": f"{unit}-{start + i + 1}", "kana": kana, "kanji": k2, "ruby": ruby,
+                "vi": vi, "pre": lead, "note": fix.get("note", note)}
+        if is_ext:
+            item["ext"] = True
+        out.append(item)
     return out
 
 
@@ -194,7 +207,7 @@ def build_kanji(unit, lists, kvg):
 # ---------------------------------------------------------------- videos / guides
 def video_map():
     vm = {}
-    for f in (ROOT / "raw" / "act").glob("*.json"):
+    for f in list((ROOT / "raw" / "act").glob("*.json")) + list((ROOT / "raw" / "m2" / "act").glob("*.json")):
         h = json.loads(f.read_text(encoding="utf-8"))["data"]
         m = re.search(r'data-file-url="([^"]+)"', h)
         t = re.search(r"<h1[^>]*>(.*?)</h1>", h, re.S)
@@ -226,9 +239,89 @@ PDFS = {13: {"yomimono": "Unit-13_Yomimono", "shadowing": "Unit-13_Huong-dan-luy
 
 
 def pages(stem):
-    src = ROOT / "pdfimg" if (ROOT / "pdfimg").exists() else SITE / "public" / "media" / "guides"
-    return sorted((f"/media/guides/{p.name}" for p in src.glob(stem + "_p*.png")),
-                  key=lambda s: int(re.search(r"_p(\d+)\.png$", s).group(1)))
+    found = []
+    for src in (ROOT / "pdfimg", ROOT / "pdfimg_m2", SITE / "public" / "media" / "guides"):
+        if src.exists():
+            found += [f"/media/guides/{p.name}" for p in src.glob(stem + "_p*.png")]
+    return sorted(set(found), key=lambda s: int(re.search(r"_p(\d+)\.png$", s).group(1)))
+
+
+# ---------------------------------------------------------------- course M2 (N5) helpers
+def m2_outline_unit(u):
+    outline = load("outline_m2.json")
+    return next(s for s in outline if s["title"].strip() == f"Unit {u}")
+
+
+def m2_guides(u):
+    """PDF reading guides linked from the [UnP1]ドリル activity: speaker guessed from the kana text."""
+    from pypdf import PdfReader
+    sec = m2_outline_unit(u)
+    out, pdfs = [], {}
+    for les in sec["lessons"]:
+        if "マスターテクスト" not in les["title"]:
+            continue
+        for a in les["activities"]:
+            if "ドリル" not in a["title"] or not a["url"].endswith("/activity"):
+                continue
+            h = json.loads((ROOT / "raw" / "m2" / "act" / f"{a['id']}.json").read_text(encoding="utf-8"))["data"]
+            for url in dict.fromkeys(re.findall(r'https?://storage\.googleapis\.com/[^"\']+\.pdf', h)):
+                name = url.rsplit("/", 1)[1]
+                f = ROOT / "raw" / "m2" / "pdf" / name
+                if not f.exists():
+                    continue
+                try:
+                    txt = "".join((pg.extract_text() or "") for pg in PdfReader(str(f)).pages)
+                except Exception:  # noqa: BLE001
+                    txt = ""
+                head = re.sub(r"\s+", "", txt)[:80]
+                spk = "akio" if "あきお" in head else "nishiyama" if "にしやま" in head else "li" if ("りあいりん" in head or "リ" in head or "り" in head[:12]) else "li"
+                stem = name[:-4]
+                out.append({"speaker": spk, "label": "", "pages": pages(stem), "pdf": f"/media/pdf/{name}"})
+                pdfs[stem] = name
+    return out
+
+
+def m2_unit(u, kb, kvg, vm):
+    c = load(f"content/m2/U{u}.json")
+    k = kb[str(u)]
+    g = []
+    for item in c["grammar"]:
+        item = dict(item)
+        item["id"] = f"{u}-{item['no']}"
+        vid = item.pop("video", None)
+        if vid in vm:
+            item["video"] = vm[vid]["url"]
+            item["videoTitle"] = vm[vid]["title"]
+        for f in ("sub", "table", "titleNote"):
+            if item.get(f) is None:
+                item.pop(f, None)
+        g.append(item)
+    vids = k.get("videos", {})
+    videos = {}
+    if vids.get("text"):
+        videos["text"] = vm[vids["text"][0]]["url"] if vids["text"][0] in vm else None
+        if len(vids["text"]) > 1 and vids["text"][1] in vm:
+            videos["textB"] = vm[vids["text"][1]]["url"]
+    for key in ("vocab", "kanji"):
+        if vids.get(key) in vm:
+            videos[key] = vm[vids[key]]["url"]
+    videos = {a: b for a, b in videos.items() if b}
+    guides = m2_guides(u)
+    t = c["text"]
+    unit = {
+        "id": u, "course": "n5",
+        "title": t["title"], "titleVi": t["titleVi"], "titleNote": t.get("titleNote"),
+        "sections": t["sections"],
+        "videos": videos,
+        "guides": [{"speaker": x["speaker"], "label": x["label"], "pages": x["pages"]} for x in guides],
+        "pdfs": {("guide%d" % i if i else "guide"): x["pdf"] for i, x in enumerate(guides)},
+        "pdfPages": {},
+        "vocab": build_vocab(u, k["vocab_p1"], k.get("vocab_ext", [])),
+        "grammar": g,
+        "kanji": build_kanji(u, k["kanji"], kvg),
+        "essay": c["essay"],
+    }
+    return unit, c.get("speakers", {}), c.get("verbs", [])
 
 
 # ---------------------------------------------------------------- quiz bank
@@ -319,9 +412,12 @@ def norm_matching(ans, sections):
 def build_bank():
     quizzes = load("quizzes.json")
     verified = load("verified_keys.json")
+    if (ROOT / "quizzes_m2.json").exists():
+        quizzes = load("quizzes_m2.json") + quizzes
+    if (ROOT / "verified_keys_m2.json").exists():
+        verified = {**load("verified_keys_m2.json"), **verified}
     answers = {}
-    for u in UNITS:
-        p = ROOT / "answers" / f"U{u}.json"
+    for p in [ROOT / "answers" / f"U{u}.json" for u in UNITS] + [ROOT / "answers" / "m2" / f"U{u}.json" for u in M2_UNITS]:
         if p.exists():
             answers.update(json.loads(p.read_text(encoding="utf-8")))
     bank, stats = [], {"q": 0, "keyed": 0, "audio": 0, "missing": 0}
@@ -409,8 +505,20 @@ def main():
     essays = load("content/essays.json")
     verbs = load("content/verbs.json")
     vm = video_map()
+    speakers = dict(texts["speakers"])
 
     units = []
+    kb2 = load("kb_raw_m2.json") if (ROOT / "kb_raw_m2.json").exists() else {}
+    m2_verbs = []
+    for u in M2_UNITS:
+        if str(u) not in kb2 or not (ROOT / "content" / "m2" / f"U{u}.json").exists():
+            print(f"U{u}: (M2) no data yet, skipped")
+            continue
+        unit, spk, vb = m2_unit(u, kb2, kvg, vm)
+        units.append(unit)
+        speakers.update(spk)
+        for v in vb:
+            m2_verbs.append(dict(v, u=u))
     for u in UNITS:
         t = texts["units"][str(u)]
         g = []
@@ -423,7 +531,7 @@ def main():
                 item["videoTitle"] = vm[vid]["title"]
             g.append(item)
         units.append({
-            "id": u,
+            "id": u, "course": "n4",
             "title": t["title"], "titleVi": t["titleVi"], "titleNote": t.get("titleNote"),
             "sections": t["sections"],
             "videos": {k: vm[v]["url"] for k, v in VIDEO_IDS[u].items() if v in vm},
@@ -434,18 +542,27 @@ def main():
             "grammar": g,
             "kanji": build_kanji(u, kb[str(u)]["kanji"], kvg),
             "essay": essays["topics"][str(u)],
+            **({"model": essays["model13"]} if u == 13 else {}),
         })
 
+    # verbs: M3 list (hand-written) + verbs of the M2 units, de-duplicated by ます-form
+    seen = {v["m"] for v in verbs}
+    for v in m2_verbs:
+        if v["m"] not in seen:
+            seen.add(v["m"])
+            verbs.append(v)
+    verbs.sort(key=lambda v: (v.get("u", 99), v["m"]))
     for v in verbs:
         v["ruby"] = align(v["k"], v["m"])
 
     bank, stats = build_bank()
     print("bank:", stats)
 
-    nix = {"built": "2026-10-10",
-           "course": {"name": "M3 – N4: Tiếng Nhật cơ sở 2", "book": "NEJ Vol.2 テーマで学ぶ基礎日本語",
+    nix = {"built": "2026-10-12",
+           "course": {"name": "M2 – N5 Tiếng Nhật cơ sở 1 · M3 – N4 Tiếng Nhật cơ sở 2", "book": "NEJ Vol.1–2 テーマで学ぶ基礎日本語",
                       "source": "digital.nix.edu.vn"},
-           "speakers": texts["speakers"], "units": units, "model": essays["model13"]}
+           "courses": COURSES,
+           "speakers": speakers, "units": units}
     print("writing to", SITE)
     write_json("units", nix)
     write_json("kanjivg", kvg)
@@ -453,8 +570,20 @@ def main():
     write_json("bank", bank)
     media = SITE / "public" / "media"
     print("  media/q new:", copy_dir(ROOT / "qmedia", media / "q"))
-    print("  media/guides new:", copy_dir(ROOT / "pdfimg", media / "guides"))
-    print("  media/pdf new:", copy_dir(ROOT / "raw" / "pdf", media / "pdf"))
+    print("  media/guides new:", copy_dir(ROOT / "pdfimg", media / "guides") + copy_dir(ROOT / "pdfimg_m2", media / "guides"))
+    print("  media/pdf new:", copy_dir(ROOT / "raw" / "pdf", media / "pdf") + copy_dir(ROOT / "raw" / "m2" / "pdf", media / "pdf"))
+    # bài đọc chuyên ngành (M17 SE Unit 13-18)
+    se_src = ROOT / "content" / "se" / "se.json"
+    if se_src.exists():
+        se_raw = load("content/se/se_raw.json")
+        se = []
+        for k, v in sorted(json.loads(se_src.read_text(encoding="utf-8")).items(), key=lambda kv: int(kv[0])):
+            vocab = []
+            for w in se_raw[k]["vocab"]:
+                r = w["r"] if not re.fullmatch(r"[－—-]?", w["r"]) else ""
+                vocab.append({"w": w["w"], "r": r, "hv": w["hv"], "vi": w["vi"], "ruby": align(w["w"], r) if r and re.search(KANJI_RE, w["w"]) else w["w"]})
+            se.append({"id": int(k), **v, "vocab": vocab})
+        write_json("se", se)
 
     # sanity report
     for u in units:

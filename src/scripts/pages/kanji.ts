@@ -17,7 +17,7 @@ const hv = (k: Kanji) => { const m = k.hv.filter((x) => !x.rare); return (m.leng
 
 function tile(k: K, hide: boolean) {
   const lvl = Prog.kanjiLevel(k.c);
-  return h('div', { class: 'ktile', style: { '--c': `var(--u${k.u})` }, title: hv(k) + ' – ' + k.meaning, onclick: () => W.kanjiModal(k.c) },
+  return h('div', { class: 'ktile', style: { '--c': 'var(--unit)' }, title: hv(k) + ' – ' + k.meaning, onclick: () => W.kanjiModal(k.c) },
     lvl ? h('span', { class: 'kdone' + (lvl === 2 ? '' : ' part'), title: lvl === 2 ? 'Đã viết đúng hoàn toàn' : 'Đã luyện viết' }, ic(lvl === 2 ? 'check' : 'pencil')) : null,
     k.list === 'n4' ? h('span', { class: 'tag badge-n4 kbadge' }, 'N4') : null,
     h('div', { class: 'kc', lang: 'ja' }, k.c),

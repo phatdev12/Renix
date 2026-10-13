@@ -1,0 +1,778 @@
+{
+ "1598/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài hội thoại: 「3時ごろに図書館の前で会いましょうか。― はい、そうしましょう。」 → hẹn gặp khoảng 3 giờ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài hội thoại: 「クアラルンプールの郊外に、日本人がたくさん住んでいます」 → người Nhật sống ở ngoại ô (こうがい).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Li hỏi 「何年生ですか」, Nakata trả lời 「2年生です」 → năm hai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Nakata: 「クアラルンプールは、とても大きくて近代的なまちですね」 → thành phố lớn và hiện đại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Li: 「はい、コーヒーより紅茶の方が好きです」 → Li thích trà (こうちゃ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Li: 「ここは日本ですから、日本語で話しましょう」 → hai người nói chuyện bằng tiếng Nhật.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Nakata hỏi 「いつ、日本に来ましたか」, Li đáp 「今年の3月です」 → tháng 3 năm nay.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「3時ごろに図書館の前で会いましょうか」 → gặp nhau trước thư viện (としょかんの前).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/9": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Li hỏi 「マレーシア語ができますか」, Nakata: 「簡単な会話は、できます」 → có thể (はい、できます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1598/0/10": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Nakata: 「じゃあ、あしたの午後は、行きましょうか」 → chiều mai (あしたのごご) đi quán trà.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/1": {
+  "type": "short",
+  "answer": "こうそうビル",
+  "explain": "Tranh vẽ các tòa nhà cao tầng → từ vựng bài 7 「高層ビル（こうそうビル）」 = nhà cao tầng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/2": {
+  "type": "short",
+  "answer": "かんたんな",
+  "explain": "Tranh: bài toán 1+1=? được khoanh tròn, học sinh giơ tay vui vẻ (đối lập với bài khó) → 「簡単な（かんたんな）」 = đơn giản.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Cũng có thể là わかります (hiểu) nhưng vòng tròn khoanh vào bài dễ nhấn mạnh 'đơn giản'."
+ },
+ "1571/0/3": {
+  "type": "short",
+  "answer": "もってきます",
+  "explain": "Tranh: cô bé cầm ô, trời mây, mũi tên đi từ phía nhà ra → mang (ô) đến: 「持って来ます（もってきます）」.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Cùng tranh này ở quiz 1655 có các lựa chọn もってきます／もっていきます／もってかえります; từ vựng bài 7 là もってきます."
+ },
+ "1571/0/4": {
+  "type": "short",
+  "answer": "ことし",
+  "explain": "Tranh ghi 'this year' → 「今年（ことし）」 = năm nay.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/5": {
+  "type": "short",
+  "answer": "きんだいてきな",
+  "explain": "Tranh thành phố tương lai, hiện đại → 「近代的な（きんだいてきな）」 = hiện đại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/6": {
+  "type": "short",
+  "answer": "さいきん",
+  "explain": "Tranh ghi 'DẠO GẦN ĐÂY' → 「最近（さいきん）」 = gần đây.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/7": {
+  "type": "short",
+  "answer": "じつは",
+  "explain": "Tranh ghi 'In FACT' → 「実は（じつは）」 = thật ra.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/8": {
+  "type": "short",
+  "answer": "こうがい",
+  "explain": "Tranh: khu nhà ở ven đô với thành phố ở phía xa → 「郊外（こうがい）」 = ngoại ô.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/9": {
+  "type": "short",
+  "answer": "かいわ",
+  "explain": "Tranh: hai người đang trò chuyện → 「会話（かいわ）」 = hội thoại, giao tiếp.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1571/0/10": {
+  "type": "short",
+  "answer": "どうして",
+  "explain": "Tranh ghi 'WHY?' → 「どうして」 = tại sao.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "B trả lời bằng 「～から」 (lý do) nên A hỏi 「どうして」 = tại sao; giống bài: 「どうして、分かりましたか。― マレーシア語が聞こえましたから」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Giống bài: 「ええ、実は、今年の夏に、マレーシアに行きます」 → 「じつは」 = thật ra.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/0/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài: 「最近は、日本人もたくさん住んでいますね」 → 「すんでいます」 = đang sống.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài: 「よかったら、いっしょに行きませんか」 → 「よかったら」 = nếu được, đặt trước lời mời.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài: Nakata nói KL lớn và hiện đại, Li đáp 「そうですね。高層ビルもたくさんありますし…」 → đồng tình 「そうですね」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: người làm bài vui vẻ, vừa làm vừa hát → bài dễ: 「かんたんな」 = đơn giản.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1655/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: bóng đèn sáng, người chợt hiểu ra → 「わかります」 = hiểu.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: cô bé mang ô đi từ nhà đến (mũi tên hướng ra), trời mây → 「もってきます」 = mang đến (từ vựng bài 7).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1655/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: trên tàu, nhạc từ tai nghe lọt vào tai người bên cạnh → 「きこえます」 = nghe thấy (âm thanh tự lọt vào tai).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1655/1/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: nhiều tòa nhà cao → 「こうそうビル」 = nhà cao tầng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1781/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "B đáp 「ええ、おねがいします」 → A đề nghị làm giúp: 「ケーキ、もってきましょうか」 (Vましょうか: để tôi … nhé?).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1781/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「7時ごろに学校であいましょうか」 = 7 giờ gặp nhau ở trường nhé? (giống bài 「3時ごろに図書館の前で会いましょうか」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1781/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「としょかんへいきますか」: đi đến thư viện (へ + 行きます); のみます／たべます không đi với へ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1781/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「よかったら、レストランでたべませんか」: rủ cùng ăn ở nhà hàng (で + Vませんか); với いきません phải dùng へ/に.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1781/1/1": {
+  "type": "matching",
+  "answer": {
+   "N を Vますか。": "Mẫu câu dùng để mời ai đó làm gì.",
+   "いっしょに Vませんか。": "Mẫu câu dùng để mời ai đó làm gì cùng mình",
+   "Vましょうか。": "Dùng để rủ rê, mời đối phương làm gì đó (dạng thân thiết hơn của ませんか) HOẶC dùng để đưa ra đề nghị mình sẽ thực hiện một hành động gì đó cho đối phương."
+  },
+  "explain": "Ngữ pháp 1-1 Vますか = mời ai dùng gì; 1-2 いっしょにVませんか = mời làm cùng mình; 2-1/2-2 Vましょうか = rủ rê hoặc đề nghị làm gì cho đối phương.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1782/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「日本語のかいわができます」: できます = có thể (khả năng); giống bài 「簡単な会話は、できます」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1782/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「わたしのへやからこうそうビルがみえます」: vật nằm trong tầm mắt → みえます (ví dụ 「わたしのへやから山が見えます」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1782/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「レストランのおとがきこえます」: âm thanh (おと) lọt vào tai → きこえます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1782/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「どうしてマレーシア語がわかりますか。― べんきょうしましたから」: hỏi lý do どうして, trả lời ～から.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1782/1/1": {
+  "type": "matching",
+  "answer": {
+   "Q：どうして・なぜ〜 Vますか。 A ：～から。": "Dùng để hỏi và đáp về Nguyên nhân - Lý do",
+   "Nが きこえます。": "Nghe thấy,.... vật thể nằm trong phạm vi quan sát, và không phải chủ ý của chủ thể",
+   "Nが 見えます。": "Nhìn thấy,.... vật thể nằm trong phạm vi quan sát, và không phải chủ ý của chủ thể",
+   "Nが できます。": "Có thể,.... nói lên khả năng có thể thực hiện 1 hành động gì đó."
+  },
+  "explain": "Ngữ pháp 3: どうして・なぜ～から hỏi-đáp lý do; ngữ pháp 4: Nがきこえます = nghe thấy, Nが見えます = nhìn thấy, Nができます = có thể.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1783/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「ベトナムよりちゅうごくのほうがおおきいです」: mẫu N1より N2のほうが A (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1783/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「あたまがいいし、すてきなひとです」: し liệt kê thêm tính chất (ngữ pháp 5 ～し、～).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1783/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「日本よりクアラルンプールのほうがあついです」: N1より N2のほうが; ví dụ bài 「日本よりマレーシアのほうがあついです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1783/1/1": {
+  "type": "matching",
+  "answer": {
+   "Câu 1 し、Câu 2。": "「し」dùng để nói rõ thêm, liệt kê theo mức độ gia tăng",
+   "N1より N2のほうが ～。": "Dùng để so sánh hơn kém của 2 chủ thể"
+  },
+  "explain": "Ngữ pháp 5 ～し、～ = liệt kê, nói thêm; ngữ pháp 6 ～より～のほうが = so sánh hơn kém.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1784/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trước danh từ ケーキ phải dùng あの＋N: 「あのケーキはかいませんか」 (ngữ pháp 7: この/その/あの＋N).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1784/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「これは、だれのかばんですか」 = cái này là cặp của ai? (ví dụ bài 「これは、だれの本ですか」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1784/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「あなたのほんはどれですか」: どれ = cái nào (chọn trong nhiều vật).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1784/1/1": {
+  "type": "matching",
+  "answer": {
+   "これ（この＋N）": "Chỉ đối tượng gần người nói",
+   "それ（その＋N）": "Chỉ đối tượng gần người nghe",
+   "あれ（あの＋N）": "Chỉ đối tượng xa cả người nói và người nghe.",
+   "どれ（どの＋N）": "Câu hỏi- dùng để chỉ những đối tượng không xác định."
+  },
+  "explain": "Ngữ pháp 7: こ～ gần người nói, そ～ gần người nghe, あ～ xa cả hai, ど～ từ để hỏi.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1785/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「かれはこうえんでよくジョギングをしています」: chạy bộ ở công viên (こうえん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1785/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「きのうのはなしをもう一度いってください」: hãy nói lại chuyện hôm qua một lần nữa (Vてください, ngữ pháp 9).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "きいてください cũng có thể hiểu được nhưng 'nói lại một lần nữa' tự nhiên hơn với はなしを."
+ },
+ "1785/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「すみません、ここにすわってください」: mời ngồi ở đây (に + すわります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1785/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Giống bài: 「外国語学部でマレーシア語を勉強しています」 → べんきょうしています (～ています, dạng đầy đủ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1785/1/1": {
+  "type": "matching",
+  "answer": {
+   "Vています。": "Dùng để nói về hành động đang xảy ra hoặc trạng thái hiện tại",
+   "Vてください。": "Dùng để yêu cầu người nghe làm gì"
+  },
+  "explain": "Ngữ pháp 8 ～ています = đang…; ngữ pháp 9 Vてください = hãy… (yêu cầu).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2065/0/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe 「聞いて、答えてください」: nghe rồi điền ngày (tháng/ngày) và ◯/✖ cho các sự kiện 2 まつり, 3 コンサート, 4 じゅうどう, 5 ファッションショー; không có file nghe nên không xác định được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không có audio. Theo lịch trong tranh (tháng 7: 15, 20, 22, 28; lịch sau: 2 J-pop コンサート, 4 きものショー) các chip 7/15/20/2/24/25/28 là tháng-ngày; cần nghe để biết thứ tự và ◯/✖."
+ },
+ "2065/0/2": {
+  "type": "dragtext",
+  "answer": null,
+  "explain": "Mẫu 「～がありますから／ありませんから、～」 (ngữ pháp 3 ～から). Hai dòng sau suy được từ nghĩa: 「お金がありませんから、カバンを買いません」「時間がありませんから、タクシーで行きます」; dòng đầu cần nghe.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Dự đoán: [?, ?, お金(6), 買いません(4), 時間(2), 行きます(10)]. Dòng 1: 休みがありますから、ビールを飲みます(7,1) hoặc しごと/やくそく/ようじがありますから、ビールを飲みません(…,9) – cần audio."
+ },
+ "2065/1/1": {
+  "type": "dragtext",
+  "answer": [
+   0
+  ],
+  "explain": "Tranh: thích thịt (mắt trái tim) → mỗi ngày ăn: 「にくがすきですから、まいにち、たべます」 (lý do ～から).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "にくがすきですから、まいにち、たべます。"
+ },
+ "2065/1/2": {
+  "type": "dragtext",
+  "answer": [
+   1
+  ],
+  "explain": "Tranh: đồng hồ bị gạch, người vội → không có thời gian: 「じかんがありませんから、しんぶんをよみません」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "じかんがありませんから、しんぶんをよみません。"
+ },
+ "2065/1/3": {
+  "type": "dragtext",
+  "answer": [
+   2
+  ],
+  "explain": "Tranh: ví rỗng → không có tiền nên mượn bạn: 「おかねがありませんから、ともだちにかりました」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "おかねがありませんから、ともだちにかりました。"
+ },
+ "2065/2/1": {
+  "type": "short",
+  "answer": "とりましょうか",
+  "explain": "Tranh ②: người cầm máy ảnh đề nghị chụp giúp → 「しゃしんをとりましょうか」 (Vましょうか đề nghị làm cho đối phương, ngữ pháp 2-2); đáp 「ええ、おねがいします」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2065/2/2": {
+  "type": "short",
+  "answer": "とりましょうか",
+  "explain": "Tranh ⑤: người đề nghị lấy nĩa giúp → 「フォークをとりましょうか」 (とります→とりましょうか).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2065/2/3": {
+  "type": "short",
+  "answer": "てつだいましょうか",
+  "explain": "Tranh ③: người bị đổ đồ, người khác đề nghị giúp → 「てつだいましょうか」; đáp 「あ、だいじょうぶです」 = từ chối.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2065/3/1": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Bài nghe so sánh giá ở わかばスーパー và まるやスーパー (～より～のほうが安いです); không có audio nên không chắc câu hỏi là rẻ hơn hay đắt hơn.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Theo tờ rơi: táo わかば 2個¥300 vs まるや 1個100円 → まるや rẻ hơn; thịt 100g ¥108 vs 118円 → わかば rẻ hơn; sữa ¥198 vs 213円 → わかば rẻ hơn. Nếu hỏi 'rẻ hơn': {1: まるやスーパー, 2: わかばスーパー, 3: わかばスーパー}."
+ },
+ "2065/3/2": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Bài nghe 「聞いて、チェックしましょう」: 5 lời rủ (タイフェスティバル, 夏祭り, 交流パーティー, 空手の試合, 忘年会) và chọn a 行きます / b 行きません / c わかりません theo câu trả lời nghe được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không có audio; không đoán được từ tranh. Nhận lời: はい、いいですね→a; từ chối: ～はちょっと…→b; chưa rõ→c."
+ },
+ "1696/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Câu đúng: 「ハノイのこうがいに 日本人が たくさん すんでいます」 (giống bài 「郊外に日本人がたくさん住んでいます」) → vị trí ★ (thứ 3) là 「が」.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "ハノイのこうがいに日本人がたくさんすんでいます。"
+ },
+ "1696/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Câu đúng: 「こうそうビルも たくさん ありますし、大きい ショッピングモールも あります」 (nguyên văn bài) → ★ = 「大きい」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "こうそうビルもたくさんありますし、大きいショッピングモールもあります。"
+ },
+ "1696/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Câu đúng: 「わたしは さかなが きらいですから、さかなを たべません」 (lý do ～から) → ★ = 「さかなを」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "わたしはさかながきらいですから、さかなをたべません。"
+ },
+ "1696/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Câu đúng: 「じゃあ、あしたの ごご に 行きましょう か」 (bài: 「あしたの午後は、行きましょうか」) → ★ = 「に」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "じゃあ、あしたのごごに行きましょうか。"
+ },
+ "1696/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Câu đúng: 「わたしの へや から やま が 見えます」 (ví dụ ngữ pháp 4) → ★ = 「やま」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "わたしのへやからやまが見えます。"
+ },
+ "1696/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Giống bài: 「じゃあ、あしたの午後は、行きましょうか」 → đề xuất cùng đi: 行きましょうか (ngữ pháp 2-1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「母は父より5さいわかいです」: N2は N1より A (ngữ pháp 6, đảo vế của ～より～のほうが).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「雨ですから、きょうは外へ行きません」: Câu lý do ＋ から、＋ kết quả (ngữ pháp 3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Từ chối khéo lời rủ Vませんか: 「～はちょっと……」 → 「すみません、ちょっと…」 (ngữ pháp 1-2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「いえよりここのほうがたのしいですよ」: N＋のほうが (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Mời dùng đồ uống: 「こうちゃ、のみますか」 (ngữ pháp 1-1); giống bài 「コーヒー、飲みますか。― あっ、ありがとうございます。でも、紅茶の方が……」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1696/1/7": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Vます＋ましょう: かえります → 「かえりましょう」 = cùng về nhé (ngữ pháp 2-1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/1": {
+  "type": "short",
+  "answer": "千円",
+  "explain": "Gõ lại nguyên văn 「千円」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/2": {
+  "type": "short",
+  "answer": "金曜日",
+  "explain": "Gõ lại nguyên văn 「金曜日」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/3": {
+  "type": "short",
+  "answer": "お金",
+  "explain": "Gõ lại nguyên văn 「お金」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/4": {
+  "type": "short",
+  "answer": "下の子ども",
+  "explain": "Gõ lại nguyên văn 「下の子ども」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/5": {
+  "type": "short",
+  "answer": "今日",
+  "explain": "Gõ lại nguyên văn 「今日」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/6": {
+  "type": "short",
+  "answer": "男の子",
+  "explain": "Gõ lại nguyên văn 「男の子」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/7": {
+  "type": "short",
+  "answer": "百円",
+  "explain": "Gõ lại nguyên văn 「百円」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/8": {
+  "type": "short",
+  "answer": "白い",
+  "explain": "Gõ lại nguyên văn 「白い」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/9": {
+  "type": "short",
+  "answer": "女の子",
+  "explain": "Gõ lại nguyên văn 「女の子」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1715/0/10": {
+  "type": "short",
+  "answer": "お母さん",
+  "explain": "Gõ lại nguyên văn 「お母さん」 (Hán tự bài 7: 千・金・下・今・男・百・白・女・母).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "きんようび = 金曜日 (金: KIM, kun かね, 金曜日 = thứ sáu).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "お金 đọc là おかね = tiền (ví dụ bảng Hán tự 「お金：おかね」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "今月 đọc là こんげつ = tháng này (ví dụ 「今月：こんげつ」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "西 kun đọc là にし = hướng tây.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "四キロ đọc là よんキロ (四: よん/よ/し; với キロ dùng よん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "男 đọc là おとこ: 「男の人：おとこのひと」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "母 đọc là はは = mẹ (mẹ mình).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "千円 đọc là せんえん = 1.000 yên.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "百 đọc là ひゃく = 100.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1725/1/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "女の子 đọc là おんなのこ = bé gái.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/1": {
+  "type": "short",
+  "answer": "金よう日のよるは、いそがしいですか。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「金よう日のよるは、いそがしいですか。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/2": {
+  "type": "short",
+  "answer": "ああ、いいですね。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「ああ、いいですね。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/3": {
+  "type": "short",
+  "answer": "ああ、いいですね。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「ああ、いいですね。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/4": {
+  "type": "short",
+  "answer": "わたしは、イタリアンも、ちゅうかも、エスニックりょうりも、何でもだいじょうぶです。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「わたしは、イタリアンも、ちゅうかも、エスニックりょうりも、何でもだいじょうぶです。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/5": {
+  "type": "short",
+  "answer": "よかったら、いっしょにしょくじをしませんか。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「よかったら、いっしょにしょくじをしませんか。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/6": {
+  "type": "short",
+  "answer": "からいものもだいじょうぶですか。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「からいものもだいじょうぶですか。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/7": {
+  "type": "short",
+  "answer": "じゃあ、えきまえにインドりょうりのみせがあります。そこに行きましょうか。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「じゃあ、えきまえにインドりょうりのみせがあります。そこに行きましょうか。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/8": {
+  "type": "short",
+  "answer": "どんなりょうりが好きですか。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「どんなりょうりが好きですか。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/9": {
+  "type": "short",
+  "answer": "いいえ、とくによていはありません。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「いいえ、とくによていはありません。」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1724/0/10": {
+  "type": "short",
+  "answer": "はい、だいじょうぶです。",
+  "explain": "Gõ lại nguyên văn câu trong tranh: 「はい、だいじょうぶです。」.",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

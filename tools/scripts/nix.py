@@ -73,7 +73,7 @@ def fetch(s, path, out=None):
     return r
 
 
-COURSE = "learning/m3-n4-tieng-nhat-co-so-2"
+COURSE = os.environ.get("NIX_COURSE", "learning/m3-n4-tieng-nhat-co-so-2")
 _token = None
 
 

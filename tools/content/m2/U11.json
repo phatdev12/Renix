@@ -1,0 +1,141 @@
+{
+ "text": {
+  "title": "{忙|いそが}しい{毎日|まいにち}",
+  "titleVi": "Những ngày bận rộn (việc phải làm)",
+  "titleNote": "Hai bài khóa: Li kể về cuộc sống một mình ở nước ngoài (PDF Unit11.Li, 5 trang) và thầy Nishiyama kể về công việc của giáo viên (PDF Unit-11, 3 trang). Mẫu chính của bài: ～なければなりません.",
+  "sections": [
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{外国|がいこく}での{一人|ひとり}で{生活|せいかつ}は、たいへんです。", "vi": "Cuộc sống một mình ở nước ngoài thật vất vả."},
+      {"jp": "{朝|あさ}は、{自分|じぶん}で{起|お}きなければなりません。", "vi": "Buổi sáng, tôi phải tự mình thức dậy."},
+      {"jp": "そして、あさごはんを{作|つく}らなければなりません。", "vi": "Rồi phải tự nấu bữa sáng."},
+      {"jp": "{晩|ばん}ごはんも、{自分|じぶん}で{作|つく}らなければなりません。", "vi": "Bữa tối cũng phải tự mình nấu."},
+      {"jp": "そして、{食材|しょくざい}も、{買|か}いに{行|い}かなければなりません。", "vi": "Và thực phẩm cũng phải đi mua."}
+     ],
+     [
+      {"jp": "{朝|あさ}のパンや{牛乳|ぎゅうにゅう}やヨーグルトなども、{買|か}わなければなりません。", "vi": "Bánh mì, sữa, sữa chua… cho bữa sáng cũng phải mua."},
+      {"jp": "いろいろな{買|か}い{物|もの}をしなければなりません。", "vi": "Tôi phải mua sắm đủ thứ."},
+      {"jp": "{石|せっ}けんやシャンプーやティッシュペーパーなども、{買|か}わなければなりません。", "vi": "Xà phòng, dầu gội, khăn giấy… cũng phải mua."},
+      {"jp": "そうじや{洗濯|せんたく}も、{自分|じぶん}でしなければなりません。", "vi": "Dọn dẹp, giặt giũ cũng phải tự mình làm."}
+     ],
+     [
+      {"jp": "{日本|にほん}に{来|き}てから、{新|あたら}しい{銀行口座|ぎんこうこうざ}を{作|つく}りました。", "vi": "Sau khi đến Nhật, tôi đã mở một tài khoản ngân hàng mới."},
+      {"jp": "{電話番号|でんわばんごう}も、{契約|けいやく}しました。", "vi": "Số điện thoại tôi cũng đã ký hợp đồng."},
+      {"jp": "{市役所|しやくしょ}にも、{行|い}かなければなりません。", "vi": "Tôi còn phải đến cả tòa thị chính."},
+      {"jp": "{学校|がっこう}も、{大変|たいへん}でした。", "vi": "Việc trường học cũng vất vả."},
+      {"jp": "いろいろな{手続|てつづ}きをしなければなりませんでした。", "vi": "Tôi đã phải làm nhiều thủ tục khác nhau."}
+     ],
+     [
+      {"jp": "{授業登録|じゅぎょうとうろく}も、{大変|たいへん}でした。", "vi": "Đăng ký môn học cũng vất vả."},
+      {"jp": "{最初|さいしょ}に、カリキュラムを{理解|りかい}しなければなりません。", "vi": "Đầu tiên, phải hiểu chương trình học."},
+      {"jp": "それから、シラバスを{見|み}なければなりません。", "vi": "Sau đó, phải xem đề cương môn học."},
+      {"jp": "そして、{勉強|べんきょう}したい{科目|かもく}を{選|えら}ばなければなりません。", "vi": "Rồi phải chọn những môn mình muốn học."},
+      {"jp": "たくさん、{日本語|にほんご}を{読|よ}まなければなりませんでした。", "vi": "Tôi đã phải đọc rất nhiều tiếng Nhật."}
+     ],
+     [
+      {"jp": "{4月|しがつ}は、とてもつかれました。", "vi": "Tháng 4, tôi rất mệt."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{学校|がっこう}の{先生|せんせい}の{仕事|しごと}は、{楽|たの}しいです。", "vi": "Công việc của giáo viên ở trường rất vui."},
+      {"jp": "でも、なかなかたいへんです。", "vi": "Nhưng cũng khá vất vả."},
+      {"jp": "{授業|じゅぎょう}は、たのしいです。", "vi": "Giờ dạy thì vui."},
+      {"jp": "でも、{評価|ひょうか}がたいへんです。", "vi": "Nhưng việc đánh giá thì vất vả."},
+      {"jp": "{最初|さいしょ}に、テストを{作|つく}らなければなりません。", "vi": "Đầu tiên, phải soạn bài kiểm tra."}
+     ],
+     [
+      {"jp": "そして、テストの{後|あと}は、{採点|さいてん}をしなければなりません。", "vi": "Rồi sau bài kiểm tra, phải chấm điểm."},
+      {"jp": "{学生|がくせい}のレポートも、{読|よ}まなければなりません。", "vi": "Báo cáo của sinh viên cũng phải đọc."},
+      {"jp": "そして、{評価|ひょうか}をしなければなりません。", "vi": "Và phải đánh giá."},
+      {"jp": "{学生|がくせい}の{相談|そうだん}も{受|う}けなければなりません。", "vi": "Cũng phải tiếp nhận tư vấn cho sinh viên."},
+      {"jp": "{学校|がっこう}の{運営|うんえい}の{仕事|しごと}もしなければなりません。", "vi": "Cả công việc điều hành của trường cũng phải làm."}
+     ],
+     [
+      {"jp": "いろいろな{会議|かいぎ}にでなければなりません。", "vi": "Phải tham dự nhiều cuộc họp khác nhau."},
+      {"jp": "そして、いろいろな{書類|しょるい}を{書|か}かなければなりません。", "vi": "Và phải viết đủ loại giấy tờ."},
+      {"jp": "{授業|じゅぎょう}のほかに、いろいろなことをしなければなりません。", "vi": "Ngoài giờ dạy, còn phải làm nhiều việc khác."},
+      {"jp": "でも、わたしは、{今|いま}の{仕事|しごと}が{好|す}きです。", "vi": "Nhưng tôi thích công việc hiện tại của mình."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1374,
+   "title": "ない形", "sub": "（thể nai）",
+   "meaning": "Thể phủ định thông thường của động từ (Vない)",
+   "usage": ["Cách chia động từ từ dạng Vます sang thể ない (phủ định thường).", "Nhóm I: đổi âm cuối hàng い trước ます sang hàng あ rồi thêm ない (のみます → のまない); riêng ～います → ～わない (つかいます → つかわない).", "Nhóm II: bỏ ます thêm ない (たべます → たべない). Nhóm III: します → しない, きます → こない."],
+   "formulas": ["Nhóm I: i-ます ＋ a-ない（のみます → のまない）", "Nhóm I: ～います → ～わない（つかいます → つかわない）", "Nhóm II: e-ます／i-ます → ～ない（たべます → たべない、みます → みない）", "Nhóm III: します → しない、きます → こない"],
+   "examples": [
+    {"jp": "のみます → のまない", "vi": "uống → không uống"},
+    {"jp": "はなします → はなさない", "vi": "nói → không nói"},
+    {"jp": "つくります → つくらない", "vi": "làm → không làm"},
+    {"jp": "つかいます → つかわない", "vi": "dùng → không dùng"},
+    {"jp": "たべます → たべない", "vi": "ăn → không ăn"},
+    {"jp": "みます → みない", "vi": "xem → không xem"},
+    {"jp": "おきます → おきない", "vi": "thức dậy → không thức dậy"},
+    {"jp": "します → しない", "vi": "làm → không làm"},
+    {"jp": "きます → こない", "vi": "đến → không đến"}
+   ],
+   "extra": ["Thể ない là gốc để tạo các mẫu ～なければなりません (phải…) và ～ないでください (xin đừng…) trong bài này."],
+   "notes": [],
+   "table": "nai"},
+  {"no": "2", "group": "A", "video": 1375,
+   "title": "～なければなりません", "sub": null,
+   "meaning": "Phải làm gì đó",
+   "usage": ["Diễn tả sự bắt buộc hoặc cần thiết phải thực hiện một hành động.", "Động từ chia thể ない, bỏ い rồi thêm ければなりません."],
+   "formulas": ["Vない（bỏ い）＋ ければなりません", "Vなければなりませんでした（quá khứ）"],
+   "examples": [
+    {"jp": "{晩|ばん}ごはんは、{自分|じぶん}で{作|つく}らなければなりません。", "vi": "Tôi phải tự nấu bữa tối."},
+    {"jp": "いろいろな{買|か}い{物|もの}をしなければなりません。", "vi": "Tôi phải mua sắm rất nhiều."},
+    {"jp": "{朝|あさ}は、{自分|じぶん}で{起|お}きなければなりません。", "vi": "Buổi sáng, tôi phải tự mình thức dậy.", "src": "text"},
+    {"jp": "いろいろな{手続|てつづ}きをしなければなりませんでした。", "vi": "Tôi đã phải làm nhiều thủ tục khác nhau.", "src": "text"}
+   ],
+   "extra": ["Quá khứ: ～なければなりませんでした (đã phải…)."],
+   "notes": [],
+   "table": null},
+  {"no": "3", "group": "A", "video": 1376,
+   "title": "～ないでください", "sub": null,
+   "meaning": "Xin đừng làm gì đó",
+   "usage": ["Cách nói lịch sự để yêu cầu, nhờ vả người khác không thực hiện một hành động nào đó.", "Động từ thể ない ＋ でください."],
+   "formulas": ["Vない ＋ でください"],
+   "examples": [
+    {"jp": "じゅぎょうは {8時|はちじ}{50分|ごじゅっぷん}に {始|はじ}まります。ちこくしないでください。", "vi": "Buổi học bắt đầu lúc 8h50. Xin đừng đến muộn."}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "4", "group": "B", "video": 1377,
+   "title": "～なければなりません、～なくてはなりません、～ないといけません", "sub": null,
+   "meaning": "Phải làm… (3 cách nói cùng nghĩa)",
+   "usage": ["Cả 3 mẫu đều dùng với nghĩa “phải làm…”.", "Đều tạo từ thể ない của động từ: bỏ い thêm ければなりません / くてはなりません, hoặc giữ nguyên Vない ＋ といけません."],
+   "formulas": ["Vない（bỏ い）＋ ければなりません", "Vない（bỏ い）＋ くてはなりません", "Vない ＋ といけません"],
+   "examples": [
+    {"jp": "レポートを{書|か}かなければなりません。", "vi": "Phải viết báo cáo."},
+    {"jp": "レポートを{書|か}かなくてはなりません。", "vi": "Phải viết báo cáo."},
+    {"jp": "レポートを{書|か}かないといけません。", "vi": "Phải viết báo cáo."},
+    {"jp": "そして、いろいろな{書類|しょるい}を{書|か}かなければなりません。", "vi": "Và phải viết đủ loại giấy tờ.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "{忙|いそが}しかった{一日|いちにち}",
+  "vi": "Một ngày bận rộn",
+  "use": ["ない形", "～なければなりません", "～なければなりませんでした", "～ないでください", "～なくてはなりません・～ないといけません"],
+  "ideas": ["Hôm đó là ngày nào; sáng phải dậy lúc mấy giờ, phải tự làm gì (起きなければなりません、ごはんを作らなければなりません)", "Ở trường / nơi làm phải làm những việc gì (授業、テスト、レポート、会議…)", "Phải đi mua gì, làm thủ tục gì (買い物、銀行、市役所…)", "Kết thúc ngày: cảm giác thế nào (とてもつかれました、でも楽しかったです)"]
+ },
+ "verbs": [
+  {"m": "そうじします", "k": "掃除します", "g": 3, "vi": "dọn dẹp"},
+  {"m": "せんたくします", "k": "洗濯します", "g": 3, "vi": "giặt"},
+  {"m": "つくります", "k": "作ります", "g": 1, "vi": "mở (tài khoản ngân hàng); làm, nấu"},
+  {"m": "りかいします", "k": "理解します", "g": 3, "vi": "hiểu"},
+  {"m": "えらびます", "k": "選びます", "g": 1, "vi": "chọn"},
+  {"m": "うけます", "k": "受けます", "g": 2, "vi": "tiếp nhận, nhận (tư vấn)"},
+  {"m": "でます", "k": "出ます", "g": 2, "vi": "tham dự (hội nghị)"}
+ ]
+}

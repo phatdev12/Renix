@@ -20,20 +20,29 @@ def is_kanji(ch):
 
 
 def needed():
-    kb = json.loads((ROOT / "kb_raw.json").read_text(encoding="utf-8"))
+    kbs = [json.loads((ROOT / f).read_text(encoding="utf-8")) for f in ("kb_raw.json", "kb_raw_m2.json") if (ROOT / f).exists()]
     chars = []
-    for u in kb.values():
-        for lst in u["kanji"]:
-            for it in lst["items"]:
-                for ch in it["char"]:
-                    if is_kanji(ch) and ch not in chars:
-                        chars.append(ch)
+    for kb in kbs:
+        for u in kb.values():
+            for lst in u["kanji"]:
+                for it in lst["items"]:
+                    for ch in it["char"]:
+                        if is_kanji(ch) and ch not in chars:
+                            chars.append(ch)
     extra = []
-    for u in kb.values():
-        for v in u["vocab_p1"]:
-            for ch in v["kanji"]:
-                if is_kanji(ch) and ch not in chars and ch not in extra:
-                    extra.append(ch)
+
+    def add_text(t):
+        for ch in t:
+            if is_kanji(ch) and ch not in chars and ch not in extra:
+                extra.append(ch)
+    for kb in kbs:
+        for u in kb.values():
+            for v in u["vocab_p1"] + u.get("vocab_ext", []):
+                add_text(v["kanji"])
+    # kanji met in the master texts / readings (so the writer can show them too)
+    for f in list((ROOT / "content" / "m2").glob("U*.json")) + [ROOT / "content" / "se" / "se.json", ROOT / "content" / "texts.json"]:
+        if f.exists():
+            add_text(f.read_text(encoding="utf-8"))
     for t in sys.argv[1:]:
         for ch in t:
             if is_kanji(ch) and ch not in chars and ch not in extra:

@@ -10,6 +10,8 @@ export interface Vocab {
   vi: string;
   pre: string;
   note: string;
+  /** from the LMS "bảng từ vựng mở rộng" (extended list) */
+  ext?: boolean;
 }
 
 export interface KanjiExample { w: string; r: string; vi: string; ruby: string; rare?: boolean }
@@ -63,6 +65,8 @@ export interface Essay { title: string; vi: string; use: string[]; ideas: string
 
 export interface Unit {
   id: number;
+  /** course key: 'n5' (M2, Unit 1–12) or 'n4' (M3, Unit 13–17) */
+  course: string;
   title: string;
   titleVi: string;
   titleNote?: string | null;
@@ -75,16 +79,34 @@ export interface Unit {
   grammar: Grammar[];
   kanji: Kanji[];
   essay: Essay;
+  /** sample essay of this unit (only some units) */
+  model?: ModelEssay;
 }
+
+export interface ModelEssay { title: string; label: string; paragraphs: string[] }
+
+export interface CourseInfo { key: string; name: string; short: string; level: string; book: string; units: number[] }
 
 export interface Speaker { name: string; vi: string }
 
 export interface Course {
   built: string;
   course: { name: string; book: string; source: string };
+  courses: CourseInfo[];
   speakers: Record<string, Speaker>;
   units: Unit[];
-  model: { title: string; label: string; paragraphs: string[] };
+}
+
+/** Bài đọc chuyên ngành (M17 – SE readings), src/data/se.json */
+export interface SeVocab { w: string; r: string; hv: string; vi: string; ruby: string }
+export interface SeSection { speaker: string; paragraphs: Sentence[][] }
+export interface SeUnit {
+  id: number;
+  heading: string;
+  headingVi: string;
+  intro: Sentence;
+  sections: SeSection[];
+  vocab: SeVocab[];
 }
 
 /** One question of an LMS quiz (several types share the record). */

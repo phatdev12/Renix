@@ -1,0 +1,120 @@
+{
+ "text": {
+  "title": "{健康|けんこう}と{安全|あんぜん}のアドバイス",
+  "titleVi": "Lời khuyên về sức khỏe và an toàn",
+  "titleNote": "Ba bài: cuộc sống bận rộn của Lý, mùa đông và phòng cảm ở Nhật (Akio), bão ở Nhật (thầy Nishiyama).",
+  "sections": [
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{毎日|まいにち}、とてもいそがしいです。", "vi": "Mỗi ngày tôi rất bận."},
+      {"jp": "{月曜日|げつようび}から{金曜日|きんようび}までは、{毎日|まいにち}{学校|がっこう}に{行|い}きます。", "vi": "Từ thứ hai đến thứ sáu, ngày nào tôi cũng đến trường."},
+      {"jp": "{授業|じゅぎょう}は、{週|しゅう}に12コマあります。", "vi": "Mỗi tuần tôi có 12 tiết học."},
+      {"jp": "{授業|じゅぎょう}は、むずかしいです。", "vi": "Bài học thì khó."},
+      {"jp": "{毎日|まいにち}、{2時|にじ}くらいまで{勉強|べんきょう}しています。", "vi": "Mỗi ngày tôi học đến khoảng 2 giờ sáng."}
+     ],
+     [
+      {"jp": "{土曜日|どようび}は、いろいろな{用事|ようじ}をします。", "vi": "Thứ bảy tôi làm nhiều việc lặt vặt khác nhau."},
+      {"jp": "{銀行|ぎんこう}に{行|い}ったり、{買|か}い{物|もの}に{行|い}ったりします。", "vi": "Tôi đi ngân hàng, đi mua sắm, v.v."},
+      {"jp": "{日曜日|にちようび}も、そうじをしたり、{洗濯|せんたく}をしたりします。", "vi": "Chủ nhật tôi cũng dọn dẹp, giặt giũ, v.v."},
+      {"jp": "そして、{午後|ごご}から、{教科書|きょうかしょ}を{読|よ}んだり、レポートを{書|か}いたりします。", "vi": "Rồi từ buổi chiều, tôi đọc sách giáo khoa, viết báo cáo, v.v."}
+     ],
+     [
+      {"jp": "{毎日|まいにち}、いそがしいです。", "vi": "Ngày nào tôi cũng bận."},
+      {"jp": "{少|すこ}し{休|やす}んだほうがいいと{思|おも}います。", "vi": "Tôi nghĩ mình nên nghỉ ngơi một chút."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{日本|にほん}の{冬|ふゆ}は、さむいです。", "vi": "Mùa đông ở Nhật Bản lạnh."},
+      {"jp": "そして、{乾燥|かんそう}します。", "vi": "Và không khí rất khô."},
+      {"jp": "ですから、よく{風邪|かぜ}をひきます。", "vi": "Vì vậy, mọi người hay bị cảm."},
+      {"jp": "{寒|さむ}い{日|ひ}は、{手|て}ぶくろをしたほうがいいです。", "vi": "Những ngày lạnh, nên đeo bao tay."},
+      {"jp": "お{風呂|ふろ}も、{長|なが}い{時間|じかん}、{入|はい}ったほうがいいです。", "vi": "Tắm bồn cũng nên ngâm mình lâu một chút."}
+     ],
+     [
+      {"jp": "{外|そと}には、{風邪|かぜ}のウィルスがいます。", "vi": "Bên ngoài có vi-rút cảm."},
+      {"jp": "ですから、うちに{帰|かえ}ったら、すぐに{手|て}を{洗|あら}ってください。", "vi": "Vì vậy, về đến nhà thì hãy rửa tay ngay."},
+      {"jp": "{石|せっ}けんで{洗|あら}ったほうがいいです。", "vi": "Nên rửa bằng xà phòng."},
+      {"jp": "そして、うがいをしてください。", "vi": "Và hãy súc miệng."},
+      {"jp": "{冬|ふゆ}は、とても{乾燥|かんそう}します。", "vi": "Mùa đông rất khô."}
+     ],
+     [
+      {"jp": "ですから、{加湿器|かしつき}を{使|つか}ったほうがいいです。", "vi": "Vì vậy, nên dùng máy tạo ẩm."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{日本|にほん}の{気候|きこう}は、おだやかです。", "vi": "Khí hậu Nhật Bản ôn hòa."},
+      {"jp": "でも{台風|たいふう}が{来|き}ます。", "vi": "Nhưng có bão."},
+      {"jp": "{毎年|まいとし}、{夏|なつ}から{秋|あき}に、{台風|たいふう}が{来|き}ます。", "vi": "Hằng năm, từ mùa hè sang mùa thu, bão lại đến."},
+      {"jp": "{台風|たいふう}のときは、とても{強|つよ}い{風|かぜ}が{吹|ふ}きます。", "vi": "Khi có bão, gió thổi rất mạnh."},
+      {"jp": "そして、たくさん{雨|あめ}が{降|ふ}ります。", "vi": "Và mưa rất nhiều."}
+     ],
+     [
+      {"jp": "{台風|たいふう}のときは、かさは{役|やく}に{立|た}ちません。", "vi": "Khi có bão, dù không có ích gì."},
+      {"jp": "ですから、{雨具|あまぐ}を{使|つか}ったほうがいいです。", "vi": "Vì vậy, nên dùng áo mưa."},
+      {"jp": "{自転車|じてんしゃ}は、{乗|の}らないほうがいいです。", "vi": "Không nên đi xe đạp."},
+      {"jp": "{台風|たいふう}のときは、{天気予報|てんきよほう}を{見|み}てください。", "vi": "Khi có bão, hãy xem dự báo thời tiết."},
+      {"jp": "そして、{台風情報|たいふうじょうほう}をよく{聞|き}いてください。", "vi": "Và hãy nghe kỹ thông tin về bão."}
+     ],
+     [
+      {"jp": "そして、{台風|たいふう}が{来|く}るときは、{早|はや}くうちに{帰|かえ}ったほうがいいです。", "vi": "Và khi bão sắp đến, nên về nhà sớm."},
+      {"jp": "そして、{外|そと}に{出|で}ない{方|ほう}がいいです。", "vi": "Và không nên ra ngoài."},
+      {"jp": "{家|いえ}の{窓|まど}は、ぜんぶしめてください。", "vi": "Hãy đóng tất cả cửa sổ trong nhà."},
+      {"jp": "{雨戸|あまど}も、しめたほうがいいです。", "vi": "Cửa chớp che mưa cũng nên đóng lại."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1385,
+   "title": "～ほうがいいです", "sub": "（lời khuyên）",
+   "meaning": "Nên làm ~ / Tốt hơn là nên làm ~",
+   "usage": ["Dùng để đưa ra lời khuyên, đề xuất hoặc gợi ý về một hành động được cho là tốt hơn trong một tình huống cụ thể.", "Khẳng định (nên làm gì): động từ thể た ＋ ほうがいいです. Phủ định (không nên làm gì): động từ thể ない ＋ ほうがいいです."],
+   "formulas": ["Vた ＋ ほうがいいです", "Vない ＋ ほうがいいです"],
+   "examples": [
+    {"jp": "くすりを のんだほうがいいです。", "vi": "Bạn nên uống thuốc."},
+    {"jp": "おふろに はいらないほうがいいです。", "vi": "Bạn không nên đi tắm."},
+    {"jp": "{寒|さむ}い{日|ひ}は、{手|て}ぶくろをしたほうがいいです。", "vi": "Những ngày lạnh, nên đeo bao tay.", "src": "text"},
+    {"jp": "{自転車|じてんしゃ}は、{乗|の}らないほうがいいです。", "vi": "Không nên đi xe đạp.", "src": "text"}
+   ],
+   "extra": ["Thêm と{思|おも}います để nói ý kiến nhẹ nhàng hơn: {少|すこ}し{休|やす}んだほうがいいと{思|おも}います (Tôi nghĩ nên nghỉ một chút).", "Chú ý: vế khẳng định dùng thể た (không dùng thể từ điển), vế phủ định dùng thể ない."],
+   "notes": [],
+   "table": null},
+  {"no": "2", "group": "A", "video": 1386,
+   "title": "～たり、～たりします", "sub": "（liệt kê hành động）",
+   "meaning": "Làm … và …, nào là … nào là … (liệt kê một vài hành động tiêu biểu)",
+   "usage": ["Dùng để diễn tả nhiều hành động hoặc trạng thái khác nhau, thường là những việc không có thứ tự cố định hoặc không phải là hành động chính.", "Có thể dịch là \"làm… và…\", \"có… và…\"; ngầm ý ngoài những việc được nêu còn có việc khác."],
+   "formulas": ["V1た ＋ り、＋ V2た ＋ り ＋ します", "V1た ＋ り、＋ V2た ＋ り ＋ しました"],
+   "examples": [
+    {"jp": "{日曜日|にちようび}は かいものをしたり、えいがを みたりします。", "vi": "Chủ nhật tôi làm các việc như đi mua sắm, đi xem phim..."},
+    {"jp": "きのう、{勉強|べんきょう}したり、そうじしたりしました。", "vi": "Hôm qua tôi làm các việc như học bài, dọn dẹp…"},
+    {"jp": "{銀行|ぎんこう}に{行|い}ったり、{買|か}い{物|もの}に{行|い}ったりします。", "vi": "Tôi đi ngân hàng, đi mua sắm, v.v.", "src": "text"},
+    {"jp": "{教科書|きょうかしょ}を{読|よ}んだり、レポートを{書|か}いたりします。", "vi": "Tôi đọc sách giáo khoa, viết báo cáo, v.v.", "src": "text"}
+   ],
+   "extra": ["Thì của cả câu nằm ở します cuối cùng: ～たり、～たりします (hiện tại / thói quen), ～たり、～たりしました (quá khứ).", "So sánh: V1て、V2 nêu các hành động theo thứ tự; V1たり、V2たり chỉ liệt kê vài hành động tiêu biểu, không theo thứ tự."],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "ベトナム{旅行|りょこう}のアドバイスメール",
+  "vi": "Mail lời khuyên về du lịch Việt Nam",
+  "use": ["Vたほうがいいです・Vないほうがいいです", "～たり、～たりします", "Vてください", "～と思います"],
+  "ideas": ["Mở đầu mail: chào hỏi, nói về chuyến đi sắp tới của người nhận", "Thời tiết, khí hậu Việt Nam theo mùa (暑い、雨が降ります、台風…) và nên mang gì (傘、帽子…)", "Nên / không nên làm gì (食べ物、水、乗り物、お金…): Vたほうがいいです・Vないほうがいいです", "Gợi ý các hoạt động: ～たり、～たりします (đi chợ, ăn phở, xem…)", "Kết thúc: chúc chuyến đi vui vẻ"]
+ },
+ "verbs": [
+  {"m": "やすみます", "k": "休みます", "g": 1, "vi": "nghỉ"},
+  {"m": "おもいます", "k": "思います", "g": 1, "vi": "nghĩ"},
+  {"m": "ひきます", "k": "ひきます（風邪を）", "g": 1, "vi": "bị cảm (風邪をひきます)"},
+  {"m": "します", "k": "します（手袋を）", "g": 3, "vi": "đeo (bao tay)"},
+  {"m": "あらいます", "k": "洗います", "g": 1, "vi": "rửa"},
+  {"m": "ふきます", "k": "吹きます", "g": 1, "vi": "thổi (gió)"},
+  {"m": "ふります", "k": "降ります", "g": 1, "vi": "rơi (mưa)"},
+  {"m": "やくにたちます", "k": "役に立ちます", "g": 1, "vi": "có ích, có lợi"},
+  {"m": "のります", "k": "乗ります", "g": 1, "vi": "lên (xe), đi (xe)"}
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "text": {
+  "title": "ルールと{注意|ちゅうい}",
+  "titleVi": "Quy định và những điều cần lưu ý",
+  "titleNote": "Hai bài: Akio dặn dò khi đi leo núi; thầy Nishiyama giải thích quy định của giờ học tiếng Nhật.",
+  "sections": [
+   {"speaker": "akio", "heading": "{山|やま}に{行|い}くときの{注意|ちゅうい}", "headingVi": "Lưu ý khi đi leo núi",
+    "paragraphs": [
+     [
+      {"jp": "{山|やま}に{行|い}くときの{注意|ちゅうい}をします。", "vi": "Tôi sẽ dặn dò những điều cần lưu ý khi đi leo núi."},
+      {"jp": "{山|やま}に{行|い}くときは、ズボンをはいてください。", "vi": "Khi đi leo núi, hãy mặc quần dài."},
+      {"jp": "{動|うご}きやすいズボンをはいてください。", "vi": "Hãy mặc loại quần dễ cử động."},
+      {"jp": "ジーンズは、だめです。", "vi": "Quần jean thì không được."},
+      {"jp": "そして、{山|やま}のくつかスニーカーをはいてください。", "vi": "Và hãy đi giày leo núi hoặc giày thể thao."}
+     ],
+     [
+      {"jp": "シャツは、{長|なが}そでのシャツを{着|き}てください。", "vi": "Áo thì hãy mặc áo sơ mi tay dài."},
+      {"jp": "そして、ぼうしも{持|も}っていってください。", "vi": "Và hãy mang theo cả mũ nữa."},
+      {"jp": "{雨具|あまぐ}を{必|かなら}ず{持|も}って{行|い}ってください。", "vi": "Nhất định phải mang theo áo mưa."},
+      {"jp": "そして、ヘッドライトも{持|も}って{行|い}ってください。", "vi": "Và hãy mang theo cả đèn đội đầu nữa."},
+      {"jp": "{好|す}きなおかしを{持|も}っていってください。", "vi": "Hãy mang theo bánh kẹo mà bạn thích."}
+     ],
+     [
+      {"jp": "チョコレートやビスケットやキャンディがいいです。", "vi": "Sô-cô-la, bánh quy hay kẹo thì tốt."},
+      {"jp": "{山|やま}では、{走|はし}ってはいけません。", "vi": "Trên núi, không được chạy."},
+      {"jp": "{危|あぶ}ないです。", "vi": "Nguy hiểm lắm."},
+      {"jp": "{同|おな}じペースで{歩|ある}いてください。", "vi": "Hãy đi bộ với cùng một nhịp độ."},
+      {"jp": "{山|やま}の{花|はな}や{木|き}は、とってはいけません。", "vi": "Không được hái hoa, bẻ cây trên núi."}
+     ],
+     [
+      {"jp": "{写真|しゃしん}は、とってもいいです。", "vi": "Ảnh thì được chụp."},
+      {"jp": "ゴミは、{自分|じぶん}のゴミ{袋|ぶくろ}に{入|い}れてください。", "vi": "Rác thì hãy bỏ vào túi rác của mình."},
+      {"jp": "そして、うちに{持|も}って{帰|かえ}ってください。", "vi": "Và hãy mang về nhà."},
+      {"jp": "{安全|あんぜん}で{楽|たの}しい{山登|やまのぼ}りをしましょう。", "vi": "Chúng ta hãy cùng có một chuyến leo núi an toàn và vui vẻ nhé."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": "{日本語|にほんご}の{授業|じゅぎょう}のルール", "headingVi": "Quy định của giờ học tiếng Nhật",
+    "paragraphs": [
+     [
+      {"jp": "{日本語|にほんご}の{授業|じゅぎょう}のルールを{説明|せつめい}します。", "vi": "Tôi sẽ giải thích quy định của giờ học tiếng Nhật."},
+      {"jp": "{授業|じゅぎょう}は、{8時|はちじ}{50分|ごじゅっぷん}に{始|はじ}まります。", "vi": "Giờ học bắt đầu lúc 8 giờ 50."},
+      {"jp": "{遅刻|ちこく}しないでください。", "vi": "Xin đừng đến muộn."},
+      {"jp": "{遅|おく}れるときは、メールか{電話|でんわ}をしてください。", "vi": "Khi đến muộn, hãy gửi mail hoặc gọi điện."},
+      {"jp": "また、{授業|じゅぎょう}は、{欠席|けっせき}しないでください。", "vi": "Ngoài ra, xin đừng nghỉ học."}
+     ],
+     [
+      {"jp": "{休|やす}むときは、{連絡|れんらく}をしてください。", "vi": "Khi nghỉ, hãy liên lạc."},
+      {"jp": "{授業中|じゅぎょうちゅう}は、{先生|せんせい}の{話|はなし}をよく{聞|き}いてください。", "vi": "Trong giờ học, hãy chú ý nghe lời giảng của thầy cô."},
+      {"jp": "{先生|せんせい}の{指示|しじ}も、よく{聞|き}いてください。", "vi": "Hãy nghe kỹ cả hướng dẫn của thầy cô nữa."},
+      {"jp": "そして、できるだけ、{日本語|にほんご}で{話|はな}してください。", "vi": "Và hãy cố gắng hết sức nói bằng tiếng Nhật."},
+      {"jp": "{英語|えいご}は、だめです。", "vi": "Tiếng Anh thì không được."}
+     ],
+     [
+      {"jp": "{日本語|にほんご}の{中|なか}で{英語|えいご}の{言葉|ことば}を{使|つか}ってもいいです。", "vi": "Trong câu tiếng Nhật, có thể dùng từ tiếng Anh."},
+      {"jp": "{授業中|じゅぎょうちゅう}に、{電子辞書|でんしじしょ}を{使|つか}ってもいいです。", "vi": "Trong giờ học, được dùng kim từ điển."},
+      {"jp": "{分|わ}からないときは、{手|て}をあげてください。", "vi": "Khi không hiểu, hãy giơ tay."},
+      {"jp": "{授業中|じゅぎょうちゅう}は、{少|すこ}し{大|おお}きい{声|こえ}で{話|はな}してください。", "vi": "Trong giờ học, hãy nói to lên một chút."},
+      {"jp": "ほかの{学生|がくせい}の{話|はなし}も、よく{聞|き}いてください。", "vi": "Hãy lắng nghe kỹ cả lời của các bạn học khác nữa."}
+     ],
+     [
+      {"jp": "{授業中|じゅぎょうちゅう}は、ジュースやコーヒーを{飲|の}んではいけません。", "vi": "Trong giờ học, không được uống nước trái cây hay cà phê."},
+      {"jp": "ミネラルウォーターは、{飲|の}んでもいいです。", "vi": "Nước khoáng thì được uống."},
+      {"jp": "{教室|きょうしつ}では、{飲|の}み{物|もの}を{飲|の}んではいけません。", "vi": "Trong phòng học, không được uống nước giải khát."},
+      {"jp": "お{弁当|べんとう}やおかしも、{食|た}べてはいけません。", "vi": "Cũng không được ăn cơm hộp hay bánh kẹo."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1360,
+   "title": "てください", "sub": null,
+   "meaning": "Hãy làm V… (yêu cầu, nhờ vả, đề nghị)",
+   "usage": ["「てください」 là mẫu ngữ pháp dùng để yêu cầu, nhờ vả hoặc đề nghị ai đó làm một việc gì đó.", "Dùng V ở thể て (て形 đã học ở Unit 8) rồi thêm ください."],
+   "formulas": ["Vて ＋ ください"],
+   "examples": [
+    {"jp": "シャツは {長|なが}そでのシャツを きてください。", "vi": "Áo thì hãy mặc áo sơ mi tay dài."},
+    {"jp": "そして、 ぼうしを もってください。", "vi": "Với lại, hãy mang theo mũ."},
+    {"jp": "{同|おな}じペースで{歩|ある}いてください。", "vi": "Hãy đi bộ với cùng một nhịp độ.", "src": "text"},
+    {"jp": "{休|やす}むときは、{連絡|れんらく}をしてください。", "vi": "Khi nghỉ, hãy liên lạc.", "src": "text"}
+   ],
+   "extra": ["Khi nói với người trên, người lạ thì てください vẫn là cách nói lịch sự; muốn nhẹ nhàng hơn dùng てくれませんか／てくださいませんか (mẫu 6)."],
+   "notes": [],
+   "table": null
+  },
+  {"no": "2", "group": "A", "video": 1361,
+   "title": "～てはいけません", "sub": null,
+   "meaning": "Không được làm V… / Cấm làm V…",
+   "usage": ["Cấu trúc 「～てはいけません」 có nghĩa là \"không được làm\" hoặc \"cấm làm\".", "Dùng để chỉ hành động mà người nói khuyên hoặc yêu cầu không nên làm, hoặc là một lệnh cấm."],
+   "formulas": ["Vて ＋ はいけません"],
+   "examples": [
+    {"jp": "{山|やま}では、はしってはいけません。あぶないです。", "vi": "Trên núi không được chạy. Nguy hiểm lắm."},
+    {"jp": "{山|やま}のはなや{木|き}は、とってはいけません。", "vi": "Không được ngắt hoa, bẻ cây trên núi."},
+    {"jp": "{授業中|じゅぎょうちゅう}は、ジュースやコーヒーを{飲|の}んではいけません。", "vi": "Trong giờ học, không được uống nước trái cây hay cà phê.", "src": "text"},
+    {"jp": "お{弁当|べんとう}やおかしも、{食|た}べてはいけません。", "vi": "Cũng không được ăn cơm hộp hay bánh kẹo.", "src": "text"}
+   ],
+   "extra": ["Trong văn nói thân mật: Vては → Vちゃ (はしっちゃいけません)."],
+   "notes": [],
+   "table": null
+  },
+  {"no": "3", "group": "A", "video": 1362,
+   "title": "～てもいいです", "sub": null,
+   "meaning": "Làm V… cũng được / được phép làm V…",
+   "usage": ["Cấu trúc 〜てもいいです có nghĩa là \"cũng được\" hoặc \"không sao\".", "Thường dùng để cho phép ai đó làm một hành động mà không có vấn đề gì.", "Đây là cách diễn tả sự đồng ý hoặc cho phép một hành động diễn ra."],
+   "formulas": ["Vて ＋ もいいです", "Vて ＋ もいいですか（xin phép）"],
+   "examples": [
+    {"jp": "{授業中|じゅぎょうちゅう}は、ジュースやコーヒーを{飲|の}んではいけません。", "vi": "Trong giờ học không được uống nước trái cây, cà phê."},
+    {"jp": "ミネラルウォーターは{飲|の}んでもいいです。", "vi": "Nước khoáng thì được uống."},
+    {"jp": "{写真|しゃしん}は、とってもいいです。", "vi": "Ảnh thì được chụp.", "src": "text"},
+    {"jp": "{授業中|じゅぎょうちゅう}に、{電子辞書|でんしじしょ}を{使|つか}ってもいいです。", "vi": "Trong giờ học, được dùng kim từ điển.", "src": "text"}
+   ],
+   "extra": ["Hỏi xin phép: 〜てもいいですか。 Trả lời: はい、いいです。／いいえ、〜てはいけません。"],
+   "notes": [],
+   "table": null
+  },
+  {"no": "4", "group": "B", "video": 1363,
+   "title": "～とき", "sub": null,
+   "meaning": "Khi…, lúc…",
+   "usage": ["とき được sử dụng để chỉ một thời gian cụ thể hoặc hoàn cảnh mà một sự việc xảy ra, với nghĩa \"khi…\", \"lúc…\".", "Đứng sau động từ ở thể từ điển hoặc thể ない (V辞書形／Vない ＋ とき); thường thêm は: 〜ときは、…"],
+   "formulas": ["V（辞書形）＋ とき、～", "Vない ＋ とき、～", "N ＋ の ＋ とき、～"],
+   "examples": [
+    {"jp": "おくれるとき、メールか{電話|でんわ}をしてください。", "vi": "Khi đến muộn, hãy gửi mail hoặc gọi điện."},
+    {"jp": "{休|やす}むとき、れんらくしてください。", "vi": "Khi nghỉ, hãy liên lạc."},
+    {"jp": "わからないとき、{手|て}をあげてください。", "vi": "Khi không hiểu, hãy giơ tay."},
+    {"jp": "{山|やま}に{行|い}くときは、ズボンをはいてください。", "vi": "Khi đi leo núi, hãy mặc quần dài.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null
+  },
+  {"no": "5", "group": "B", "video": 1364,
+   "title": "～ないでください", "sub": null,
+   "meaning": "Xin đừng làm V…",
+   "usage": ["～ないでください là mẫu ngữ pháp dùng để yêu cầu hoặc đề nghị ai đó không làm một việc gì đó.", "Cấu trúc này mang tính lịch sự, thường dùng trong giao tiếp hàng ngày khi muốn đưa ra yêu cầu một cách nhẹ nhàng."],
+   "formulas": ["Vない ＋ でください"],
+   "examples": [
+    {"jp": "じゅぎょうは {8時|はちじ}{50分|ごじゅっぷん}に {始|はじ}まります。ちこくしないでください。", "vi": "Buổi học bắt đầu lúc 8h50, đừng đến muộn."},
+    {"jp": "また、{授業|じゅぎょう}は、{欠席|けっせき}しないでください。", "vi": "Ngoài ra, xin đừng nghỉ học.", "src": "text"}
+   ],
+   "extra": ["Thể ない (ない形) sẽ học kỹ ở Unit 11; ở đây nhớ mẫu: Nします → Nしないでください (ちこくしないでください, けっせきしないでください)."],
+   "notes": [],
+   "table": null
+  },
+  {"no": "6", "group": "B", "video": 1365,
+   "title": "～てください・～てくれませんか・～てくださいませんか", "sub": null,
+   "meaning": "Hãy làm V… / Làm V giúp tôi được không?",
+   "usage": ["Dùng ～てください・～てくれませんか・～てくださいませんか để đưa ra lời yêu cầu, nhờ vả người khác làm gì đó.", "Mức độ lịch sự tăng dần: てください ＜ てくれませんか ＜ てくださいませんか."],
+   "formulas": ["Vて ＋ ください", "Vて ＋ くれませんか", "Vて ＋ くださいませんか"],
+   "examples": [
+    {"jp": "さむいですから、エアコンをけしてくださいませんか。", "vi": "Vì lạnh nên anh/chị tắt điều hòa giúp tôi được không?"},
+    {"jp": "まどをあけてくれませんか。", "vi": "Bạn mở cửa sổ giúp mình được không?"},
+    {"jp": "すみません、しおをとってください。", "vi": "Xin lỗi, lấy giúp tôi lọ muối."}
+   ],
+   "extra": ["Thường nêu lý do trước bằng 〜から rồi mới nhờ: さむいですから、〜てくださいませんか。"],
+   "notes": [],
+   "table": null
+  }
+ ],
+ "essay": {
+  "title": "クラスのルールについてのスピーチ",
+  "vi": "Bài nói về quy định trong lớp học",
+  "use": ["Vてください", "Vてはいけません", "Vてもいいです", "～とき", "Vないでください"],
+  "ideas": [
+   "Mở đầu: クラスのルールを説明します。 Giờ học bắt đầu, kết thúc lúc mấy giờ",
+   "Những việc phải làm (てください): đến đúng giờ, liên lạc khi nghỉ, nghe thầy cô, nói tiếng Nhật, giơ tay khi không hiểu",
+   "Những việc bị cấm (てはいけません／ないでください): đi muộn, nghỉ học, dùng điện thoại, ăn uống trong lớp",
+   "Những việc được phép (てもいいです): dùng kim từ điển, uống nước khoáng…",
+   "Kết: みんなでたのしく べんきょうしましょう。"
+  ]
+ },
+ "verbs": [
+  {"m": "はきます", "k": "履きます", "g": 1, "vi": "mặc (quần), đi (giày)"},
+  {"m": "もっていきます", "k": "持って行きます", "g": 1, "vi": "mang đi"},
+  {"m": "はしります", "k": "走ります", "g": 1, "vi": "chạy"},
+  {"m": "あるきます", "k": "歩きます", "g": 1, "vi": "đi bộ"},
+  {"m": "とります", "k": "取ります", "g": 1, "vi": "hái (hoa), lấy (muối)"},
+  {"m": "とります", "k": "撮ります", "g": 1, "vi": "chụp (ảnh)"},
+  {"m": "いれます", "k": "入れます", "g": 2, "vi": "bỏ vào"},
+  {"m": "もってかえります", "k": "持って帰ります", "g": 1, "vi": "mang về nhà"},
+  {"m": "せつめいします", "k": "説明します", "g": 3, "vi": "giải thích"},
+  {"m": "でんわします", "k": "電話します", "g": 3, "vi": "gọi điện thoại"},
+  {"m": "れんらくします", "k": "連絡します", "g": 3, "vi": "liên lạc"},
+  {"m": "つかいます", "k": "使います", "g": 1, "vi": "sử dụng"},
+  {"m": "あげます", "k": "あげます", "g": 2, "vi": "giơ (tay); kéo lên (rèm)"},
+  {"m": "あけます", "k": "あけます", "g": 2, "vi": "mở"},
+  {"m": "いいます", "k": "言います", "g": 1, "vi": "nói"},
+  {"m": "しらべます", "k": "調べます", "g": 2, "vi": "tra (từ điển)"},
+  {"m": "まちます", "k": "待ちます", "g": 1, "vi": "đợi, chờ"},
+  {"m": "しめます", "k": "閉めます", "g": 2, "vi": "đóng"},
+  {"m": "つけます", "k": "つけます", "g": 2, "vi": "bật (đèn, điều hòa)"},
+  {"m": "けします", "k": "消します", "g": 1, "vi": "tắt"},
+  {"m": "おろします", "k": "おろします", "g": 1, "vi": "hạ xuống (rèm)"},
+  {"m": "だします", "k": "出します", "g": 1, "vi": "mở (nước), lấy ra"},
+  {"m": "とめます", "k": "止めます", "g": 2, "vi": "khóa (nước), dừng"},
+  {"m": "てつだいます", "k": "手伝います", "g": 1, "vi": "giúp đỡ"}
+ ]
+}

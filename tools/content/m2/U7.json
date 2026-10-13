@@ -1,0 +1,359 @@
+{
+ "text": {
+  "title": "{紅茶|こうちゃ}を{飲|の}みませんか",
+  "titleVi": "Uống trà nhé?",
+  "titleNote": "Hội thoại giữa Nakata (khoa Ngoại ngữ) và Li (khoa Kỹ thuật)",
+  "sections": [
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "コーヒー、{飲|の}みますか。", "vi": "Bạn uống cà phê không?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "あっ、ありがとうございます。", "vi": "A, cảm ơn bạn."},
+     {"jp": "でも、{紅茶|こうちゃ}の{方|ほう}が……。", "vi": "Nhưng mà, trà thì hơn…"}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{持|も}ってきましょうか。", "vi": "Để tôi mang tới nhé?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "あっ、すみません。", "vi": "A, phiền bạn quá, cảm ơn."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ミルクは？", "vi": "Sữa thì sao?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ミルクは、いいです。", "vi": "Sữa thì thôi, không cần đâu."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "はい。", "vi": "Đây."},
+     {"jp": "{紅茶|こうちゃ}です。", "vi": "Trà đây."},
+     {"jp": "どうぞ。", "vi": "Mời bạn."},
+     {"jp": "わたしは、{外国語学部|がいこくごがくぶ}の{中田|なかた}です。", "vi": "Tôi là Nakata, khoa Ngoại ngữ."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "こんにちは。", "vi": "Xin chào."},
+     {"jp": "はじめまして。", "vi": "Rất vui được gặp bạn."},
+     {"jp": "{工学部|こうがくぶ}{1年生|いちねんせい}のリです。", "vi": "Tôi là Li, sinh viên năm nhất khoa Kỹ thuật."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "リさんは、マレーシア{人|じん}ですか。", "vi": "Li là người Malaysia phải không?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "はい、マレーシアから{来|き}ました。", "vi": "Vâng, tôi đến từ Malaysia."},
+     {"jp": "どうして、{分|わ}かりましたか。", "vi": "Sao bạn biết vậy?"}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "マレーシア{語|ご}が{聞|き}こえましたから。", "vi": "Vì tôi nghe thấy tiếng Malaysia."},
+     {"jp": "わたしは、{外国語学部|がいこくごがくぶ}でマレーシア{語|ご}を{勉強|べんきょう}しています。", "vi": "Tôi đang học tiếng Malaysia ở khoa Ngoại ngữ."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ああ、そうですか。", "vi": "À, thế à."},
+     {"jp": "{何年生|なんねんせい}ですか。", "vi": "Bạn học năm mấy?"}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{2年生|にねんせい}です。", "vi": "Tôi học năm hai."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "マレーシア{語|ご}ができますか。", "vi": "Bạn nói được tiếng Malaysia không?"}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{簡単|かんたん}な{会話|かいわ}は、できます。", "vi": "Hội thoại đơn giản thì được."},
+     {"jp": "マレーシア{語|ご}で{話|はな}しましょうか。", "vi": "Mình nói chuyện bằng tiếng Malaysia nhé?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "いえいえ、ここは{日本|にほん}ですから、{日本語|にほんご}で{話|はな}しましょう。", "vi": "Không không, đây là Nhật Bản nên mình nói tiếng Nhật đi."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ああ、そうですね。", "vi": "À, đúng rồi nhỉ."},
+     {"jp": "リさんは、いつ、{日本|にほん}に{来|き}ましたか。", "vi": "Li đến Nhật khi nào vậy?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{今年|ことし}の{3月|さんがつ}です。", "vi": "Tháng 3 năm nay."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "マレーシアのどこから？", "vi": "Từ đâu ở Malaysia?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "クアラルンプールです。", "vi": "Kuala Lumpur."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "クアラルンプールは、とても{大|おお}きくて{近代的|きんだいてき}なまちですね。", "vi": "Kuala Lumpur là một thành phố rất lớn và hiện đại nhỉ."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "そうですね。", "vi": "Đúng vậy."},
+     {"jp": "{高層|こうそう}ビルもたくさんありますし、{大|おお}きいショッピングモールもあります。", "vi": "Có nhiều nhà cao tầng, lại còn có cả trung tâm thương mại lớn nữa."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "そうですね。", "vi": "Đúng rồi."},
+     {"jp": "{最近|さいきん}は、{日本人|にほんじん}もたくさん{住|す}んでいますね。", "vi": "Gần đây cũng có nhiều người Nhật sống ở đó nhỉ."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "はい、クアラルンプールの{郊外|こうがい}に、{日本人|にほんじん}がたくさん{住|す}んでいます。", "vi": "Vâng, ở ngoại ô Kuala Lumpur có nhiều người Nhật sinh sống."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "そうですね。", "vi": "Đúng vậy."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{中田|なかた}さんは、マレーシアのことをよく{知|し}っていますね。", "vi": "Nakata biết rõ về Malaysia nhỉ."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ええ、{実|じつ}は、{今年|ことし}の{夏|なつ}に、マレーシアに{行|い}きます。", "vi": "Ừ, thật ra mùa hè năm nay tôi sẽ đi Malaysia."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "ああ、そうですか。", "vi": "À, vậy à."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "そういえば、リさんは、{紅茶|こうちゃ}が{好|す}きですか。", "vi": "Nói mới nhớ, Li thích trà à?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "はい、コーヒーより{紅茶|こうちゃ}の{方|ほう}が{好|す}きです。", "vi": "Vâng, so với cà phê thì tôi thích trà hơn."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "{学校|がっこう}の{近|ちか}くに、おいしい{紅茶|こうちゃ}の{店|みせ}があります。", "vi": "Gần trường có một quán trà ngon."},
+     {"jp": "{知|し}っていますか。", "vi": "Bạn có biết không?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "いいえ、{知|し}りません。", "vi": "Không, tôi không biết."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "よかったら、いっしょに{行|い}きませんか。", "vi": "Nếu được, mình cùng đi nhé?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "えっ？", "vi": "Dạ?"}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "おいしい{紅茶|こうちゃ}もありますし、おいしいケーキもありますよ。", "vi": "Ở đó có trà ngon, lại còn có cả bánh kem ngon nữa đấy."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "あっ、そうですか。", "vi": "A, thế à."},
+     {"jp": "わたしは、ケーキが{大好|だいす}きです。", "vi": "Tôi rất thích bánh kem."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "じゃあ、あしたの{午後|ごご}は、{行|い}きましょうか。", "vi": "Vậy thì chiều mai mình đi nhé?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "そうですね。", "vi": "Được đấy."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "マレーシアのことをいろいろ{教|おし}えてください。", "vi": "Hãy kể cho tôi nghe nhiều điều về Malaysia nhé."}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "いいですよ。", "vi": "Được chứ."}
+    ]]},
+   {"speaker": "nakata", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "じゃあ、{3時|さんじ}ごろに{図書館|としょかん}の{前|まえ}で{会|あ}いましょうか。", "vi": "Vậy khoảng 3 giờ mình gặp nhau trước thư viện nhé?"}
+    ]]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [[
+     {"jp": "はい、そうしましょう。", "vi": "Vâng, cứ thế nhé."}
+    ]]}
+  ]
+ },
+ "speakers": {
+  "nakata": {"name": "中田さん", "vi": "Nakata – sinh viên năm hai khoa Ngoại ngữ, đang học tiếng Malaysia"}
+ },
+ "grammar": [
+  {"no": "1-1", "group": "A", "video": 1322,
+   "title": "Vますか", "sub": "（mời ai đó dùng gì）",
+   "meaning": "Bạn … không? (mời ai đó ăn, uống, làm gì)",
+   "usage": ["Mẫu câu dùng để mời ai đó làm gì (uống, ăn…).", "Nhận lời: ありがとうございます. Từ chối: ～はいいです・～はけっこうです."],
+   "formulas": ["N ＋ を ＋ Vますか", "→ 〇：ありがとうございます", "→ ✖：～はいいです・～はけっこうです"],
+   "examples": [
+    {"jp": "コーヒーを のみますか。", "vi": "Bạn uống cà phê không?"},
+    {"jp": "あっ、ありがとうございます。", "vi": "Dạ, vâng, tôi cảm ơn."},
+    {"jp": "コーヒー、{飲|の}みますか。", "vi": "Bạn uống cà phê không?", "src": "text"},
+    {"jp": "ミルクは、いいです。", "vi": "Sữa thì thôi, không cần đâu.", "src": "text"}
+   ],
+   "extra": ["Khi mời, danh từ thường được nói lửng rồi ngắt: コーヒー、のみますか。 (bỏ を trong văn nói).", "～はいいです = thôi, không cần (từ chối lịch sự); không phải nghĩa là tốt."],
+   "notes": [],
+   "table": null},
+  {"no": "1-2", "group": "A", "video": 1322,
+   "title": "Vませんか", "sub": "（rủ ai đó cùng làm）",
+   "meaning": "Cùng … không? (mời ai đó làm gì cùng mình)",
+   "usage": ["Mẫu câu dùng để mời ai đó làm gì cùng mình.", "Nhận lời: はい、いいですね。Vましょう. Từ chối khéo: ～はちょっと……"],
+   "formulas": ["いっしょに ＋ Vませんか", "→ 〇：はい、いいですね。Vましょう", "→ ✖：～はちょっと……"],
+   "examples": [
+    {"jp": "よかったら、いっしょに{行|い}きませんか。", "vi": "Nếu được, bạn đi cùng tôi nhé?"},
+    {"jp": "はい、いいですね。", "vi": "Vâng, được chứ."},
+    {"jp": "よかったら、いっしょに{行|い}きませんか。 ― えっ？", "vi": "Nếu được, mình cùng đi nhé? ― Dạ?", "src": "text"}
+   ],
+   "extra": ["よかったら = nếu được, nếu bạn không phiền: đặt trước lời mời cho lịch sự."],
+   "notes": [],
+   "table": null},
+  {"no": "2-1", "group": "A", "video": 1323,
+   "title": "Vましょうか", "sub": "（rủ rê, đề xuất cùng làm）",
+   "meaning": "Chúng ta cùng … nhé? (rủ rê, đề xuất)",
+   "usage": ["Dùng để rủ rê, mời đối phương cùng làm gì đó (ましょう thân mật hơn, còn ませんか thì lịch sự, tôn trọng hơn).", "Dùng khi tích cực đề xuất người nghe cùng làm gì đó, hoặc tích cực đáp ứng đề xuất, lời mời của người khác."],
+   "formulas": ["Vましょうか", "→（＋）はい、～ましょう"],
+   "examples": [
+    {"jp": "{3時|さんじ}ごろに えきの{前|まえ}で あいましょうか。", "vi": "Chúng mình gặp nhau ở trước nhà ga lúc 3 giờ nhé?"},
+    {"jp": "はい、そうしましょう。", "vi": "Vâng, cứ thế nhé."},
+    {"jp": "じゃあ、{3時|さんじ}ごろに{図書館|としょかん}の{前|まえ}で{会|あ}いましょうか。", "vi": "Vậy khoảng 3 giờ mình gặp nhau trước thư viện nhé?", "src": "text"},
+    {"jp": "ここは{日本|にほん}ですから、{日本語|にほんご}で{話|はな}しましょう。", "vi": "Đây là Nhật Bản nên mình nói tiếng Nhật đi.", "src": "text"}
+   ],
+   "extra": ["Vましょう (không か) = ta hãy cùng…: dùng để đáp lại lời rủ hoặc chủ động đề xuất: そうしましょう (cứ thế nhé)."],
+   "notes": [],
+   "table": null},
+  {"no": "2-2", "group": "A", "video": 1323,
+   "title": "Vましょうか", "sub": "（đề nghị làm gì đó cho đối phương）",
+   "meaning": "Để tôi … (cho bạn) nhé?",
+   "usage": ["Dùng để đưa ra đề nghị mình sẽ thực hiện một hành động gì đó cho đối phương.", "Nhận lời: ええ、おねがいします. Từ chối: いいえ、けっこうです."],
+   "formulas": ["Q：～は ＋ N ＋ を ＋ Vましょうか", "A（＋）：ええ、おねがいします", "A（ー）：いいえ、けっこうです"],
+   "examples": [
+    {"jp": "コーヒー、もってきましょうか。", "vi": "Tôi đi lấy cà phê cho bạn nhé?"},
+    {"jp": "あっ、すみません。", "vi": "A, cảm ơn bạn."},
+    {"jp": "{持|も}ってきましょうか。", "vi": "Để tôi mang tới nhé?", "src": "text"},
+    {"jp": "マレーシア{語|ご}で{話|はな}しましょうか。", "vi": "Mình nói chuyện bằng tiếng Malaysia nhé?", "src": "text"}
+   ],
+   "extra": ["すみません ở đây không phải xin lỗi mà là lời cảm ơn vì đã làm phiền người khác."],
+   "notes": [],
+   "table": null},
+  {"no": "3", "group": "A", "video": 1324,
+   "title": "どうして・なぜ～から", "sub": null,
+   "meaning": "Tại sao …? – Vì …",
+   "usage": ["Dùng để hỏi về nguyên nhân – lý do.", "Trả lời bằng câu nêu lý do rồi thêm から ở cuối."],
+   "formulas": ["Q：どうして・なぜ ＋ ～Vますか", "A：～から"],
+   "examples": [
+    {"jp": "どうして わかりましたか。", "vi": "Tại sao bạn lại biết điều đó vậy?"},
+    {"jp": "マレーシア{語|ご}が{聞|き}こえましたから。", "vi": "Vì tôi nghe thấy tiếng Malaysia."},
+    {"jp": "どうして、{分|わ}かりましたか。 ― マレーシア{語|ご}が{聞|き}こえましたから。", "vi": "Sao bạn biết vậy? ― Vì tôi nghe thấy tiếng Malaysia.", "src": "text"},
+    {"jp": "ここは{日本|にほん}ですから、{日本語|にほんご}で{話|はな}しましょう。", "vi": "Đây là Nhật Bản nên mình nói tiếng Nhật đi.", "src": "text"}
+   ],
+   "extra": ["から cũng nối hai vế trong một câu: Câu lý do ＋ から、＋ Câu kết quả (ここは日本ですから、日本語で話しましょう)."],
+   "notes": [],
+   "table": null},
+  {"no": "4", "group": "A", "video": 1325,
+   "title": "～が聞こえます・～が見えます・～できます", "sub": null,
+   "meaning": "Nghe thấy ～ / nhìn thấy ～ / có thể ～",
+   "usage": ["～がみえます: nhìn thấy – vật nằm trong tầm mắt, tự lọt vào mắt, không phải do chủ ý của người nói.", "～がきこえます: nghe thấy – âm thanh tự lọt vào tai, không phải do chủ ý của người nghe.", "～ができます: có thể – nói lên khả năng thực hiện một hành động gì đó."],
+   "formulas": ["N ＋ が ＋ きこえます・{見|み}えます・できます"],
+   "examples": [
+    {"jp": "わたしのへやから {山|やま}が{見|み}えます。", "vi": "Từ phòng của tôi có thể nhìn thấy núi."},
+    {"jp": "となりのこえが{聞|き}こえます。", "vi": "Nghe thấy tiếng nói ở bên cạnh."},
+    {"jp": "{山|やま}のぼりができます。", "vi": "Có thể leo núi được."},
+    {"jp": "マレーシア{語|ご}ができますか。 ― {簡単|かんたん}な{会話|かいわ}は、できます。", "vi": "Bạn nói được tiếng Malaysia không? ― Hội thoại đơn giản thì được.", "src": "text"}
+   ],
+   "extra": ["Đối tượng nghe thấy / nhìn thấy / có thể làm đi với trợ từ が, không dùng を."],
+   "notes": [],
+   "table": null},
+  {"no": "5", "group": "A", "video": 1326,
+   "title": "～し、～", "sub": null,
+   "meaning": "… và lại còn … (liệt kê, nói thêm)",
+   "usage": ["「し」dùng để nói rõ thêm, liệt kê các tính chất, lý do theo mức độ tăng dần.", "Thường đi kèm も ở mỗi vế: ～も～し、～も～."],
+   "formulas": ["Câu 1 ＋ し、＋ Câu 2"],
+   "examples": [
+    {"jp": "クアラルンプールはこうそうビルもたくさんありますし、{大|おお}きいショッピングモールもあります。", "vi": "Kuala Lumpur có nhiều tòa nhà cao tầng và cũng có nhiều trung tâm thương mại lớn."},
+    {"jp": "おいしい{紅茶|こうちゃ}もありますし、おいしいケーキもありますよ。", "vi": "Ở đó có trà ngon, lại còn có cả bánh kem ngon nữa đấy.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "6", "group": "A", "video": 1327,
+   "title": "～より～のほうが～", "sub": null,
+   "meaning": "So với N1 thì N2 … hơn",
+   "usage": ["「より～のほうが」dùng để so sánh hơn kém giữa 2 chủ thể.", "N2 mang tính chất A hơn N1."],
+   "formulas": ["N1 ＋ より ＋ N2 ＋ のほうが ＋ A"],
+   "examples": [
+    {"jp": "コーヒーより こうちゃのほうが {好|す}きです。", "vi": "So với cà phê thì tôi thích trà hơn."},
+    {"jp": "{日本|にほん}より マレーシアのほうが あついです。", "vi": "So với Nhật thì Malaysia nóng hơn."},
+    {"jp": "はい、コーヒーより{紅茶|こうちゃ}の{方|ほう}が{好|す}きです。", "vi": "Vâng, so với cà phê thì tôi thích trà hơn.", "src": "text"}
+   ],
+   "extra": ["Có thể đảo vế: N2のほうが N1より A (こうちゃのほうが コーヒーより すきです)."],
+   "notes": [],
+   "table": null},
+  {"no": "7", "group": "A", "video": 1328,
+   "title": "こ・そ・あ・ど", "sub": "（từ chỉ định）",
+   "meaning": "Này / đó / kia / nào",
+   "usage": ["これ、それ、あれ là những đại từ chỉ định.", "これ (こ～): chỉ đối tượng gần người nói. それ (そ～): gần người nghe. あれ (あ～): xa cả người nói và người nghe.", "どれ (ど～): từ để hỏi, chỉ đối tượng không xác định."],
+   "formulas": ["Vật thể：これ ／ それ ／ あれ ／ どれ", "Vật thể, con người…：この＋N ／ その＋N ／ あの＋N ／ どの＋N", "Nơi chốn：ここ ／ そこ ／ あそこ ／ どこ", "Phương hướng hay nơi：こっち ／ そっち ／ あっち ／ どっち", "Phương hướng, nơi, con người (lịch sự)：こちら ／ そちら ／ あちら ／ どちら", "Loại nào：こんな ／ そんな ／ あんな ／ どんな"],
+   "examples": [
+    {"jp": "A：これは、だれの{本|ほん}ですか。", "vi": "Cái này là sách của ai vậy?"},
+    {"jp": "B：それは、リさんの{本|ほん}です。", "vi": "Cái đó là sách của Li."},
+    {"jp": "A：あれは、だれの{本|ほん}ですか。", "vi": "Cái kia là sách của ai vậy?"},
+    {"jp": "B：{西山先生|にしやませんせい}の{本|ほん}です。", "vi": "Sách của thầy Nishiyama."},
+    {"jp": "ここは{日本|にほん}ですから、{日本語|にほんご}で{話|はな}しましょう。", "vi": "Đây là Nhật Bản nên mình nói tiếng Nhật đi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "8", "group": "B", "video": 1329,
+   "title": "～ています", "sub": null,
+   "meaning": "Đang … (hành động / trạng thái đang diễn ra)",
+   "usage": ["Dùng để diễn tả trạng thái hiện tại hoặc hành động đang xảy ra ở hiện tại."],
+   "formulas": ["Vて ＋ います"],
+   "examples": [
+    {"jp": "{外国語学部|がいこくごがくぶ}で マレーシア{語|ご}を べんきょうしています。", "vi": "Tôi đang học tiếng Malaysia ở khoa Ngoại ngữ."},
+    {"jp": "クアラルンプールの{郊外|こうがい}に、{日本人|にほんじん}がたくさん{住|す}んでいます。", "vi": "Ở ngoại ô Kuala Lumpur có nhiều người Nhật sinh sống.", "src": "text"},
+    {"jp": "{中田|なかた}さんは、マレーシアのことをよく{知|し}っていますね。", "vi": "Nakata biết rõ về Malaysia nhỉ.", "src": "text"}
+   ],
+   "extra": ["Trong bài: べんきょうしています (đang học), すんでいます (đang sống), しっています (biết)."],
+   "notes": [],
+   "table": "te"},
+  {"no": "9", "group": "B", "video": 1330,
+   "title": "おしえてください", "sub": "（Vてください）",
+   "meaning": "Hãy … (yêu cầu, nhờ người nghe làm gì)",
+   "usage": ["Dùng để yêu cầu, nhờ người nghe làm gì."],
+   "formulas": ["Vて ＋ ください"],
+   "examples": [
+    {"jp": "マレーシアのことを いろいろ おしえてください。", "vi": "Hãy kể cho tôi nghe nhiều điều về Malaysia nhé."},
+    {"jp": "マレーシアのことをいろいろ{教|おし}えてください。", "vi": "Hãy kể cho tôi nghe nhiều điều về Malaysia nhé.", "src": "text"}
+   ],
+   "extra": ["Đáp lại lời nhờ: いいですよ (được chứ, không sao)."],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "{週末|しゅうまつ}のピクニックに{誘|さそ}うメール",
+  "vi": "Mail rủ đi picnic vào cuối tuần",
+  "use": ["Vませんか", "Vましょうか・Vましょう", "～し、～", "～より～のほうが", "～から", "Vてください"],
+  "ideas": ["Chào hỏi, giới thiệu ngắn (nếu cần) rồi rủ: 週末にいっしょにピクニックに行きませんか", "Địa điểm: ở đâu, có gì hay (～もありますし、～もあります), vì sao chọn nơi đó (～から)", "Hẹn giờ, chỗ gặp: ～時ごろに～の前で会いましょうか", "Mang gì, nhờ gì: ～を持ってきてください; kết thư: おしえてください / へんじをください"]
+ },
+ "verbs": [
+  {"m": "もってきます", "k": "持って来ます", "g": 3, "vi": "mang đến, mang theo"},
+  {"m": "わかります", "k": "分かります", "g": 1, "vi": "hiểu, biết"},
+  {"m": "きこえます", "k": "聞こえます", "g": 2, "vi": "nghe thấy, nghe được"},
+  {"m": "べんきょうします", "k": "勉強します", "g": 3, "vi": "học (勉強しています: đang học)"},
+  {"m": "できます", "k": "できます", "g": 2, "vi": "có thể, làm được"},
+  {"m": "すみます", "k": "住みます", "g": 1, "vi": "sống, ở (住んでいます: đang sống)"}
+ ]
+}

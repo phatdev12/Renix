@@ -104,6 +104,7 @@ function render(main: HTMLElement, args: string[]) {
   const nGuide = unit.guides.reduce((s, g) => s + g.pages.length, 0);
   const res = h('div', { class: 'res-list' });
   if (unit.videos.text) res.appendChild(h('button', { onclick: () => W.videoModal(unit.videos.text, 'Video bài đọc · Unit ' + unit.id) }, ic('video'), 'Video bài đọc', h('span', { class: 'tag' }, W.localVideo(unit.videos.text) ? 'offline' : 'online')));
+  if (unit.videos.textB) res.appendChild(h('button', { onclick: () => W.videoModal(unit.videos.textB, 'Video bài đọc B · Unit ' + unit.id) }, ic('video'), 'Video bài đọc B', h('span', { class: 'tag' }, W.localVideo(unit.videos.textB) ? 'offline' : 'online')));
   if (nGuide) res.appendChild(h('button', { onclick: showGuides }, ic('music'), 'Ngữ điệu (pitch)', h('span', { class: 'tag' }, nGuide + ' trang')));
   if (unit.pdfs.yomimono) res.appendChild(h('a', { href: unit.pdfs.yomimono, target: '_blank' }, ic('file'), 'PDF bài đọc', ic('external', 'muted')));
   if (unit.pdfs.shadowing) res.appendChild(h('a', { href: unit.pdfs.shadowing, target: '_blank' }, ic('file'), 'PDF shadowing', ic('external', 'muted')));

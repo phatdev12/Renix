@@ -1,0 +1,155 @@
+{
+ "text": {
+  "title": "{季節|きせつ}と、したいこと",
+  "titleVi": "Các mùa và những việc muốn làm",
+  "titleNote": "Hai video (A, B): mỗi video gồm bài của Li và bài của Akio. Video A: bốn mùa ở Nhật, dự định đi Kyoto / Hokkaido / leo núi; video B: những việc chưa từng làm và muốn làm một ngày nào đó.",
+  "sections": [
+   {"speaker": "li", "heading": "A", "headingVi": "Bốn mùa ở Nhật và chuyến đi Kyoto",
+    "paragraphs": [
+     [
+      {"jp": "{日本|にほん}はとてもきれいな{国|くに}です。", "vi": "Nhật Bản là một đất nước rất đẹp."},
+      {"jp": "{駅|えき}も、{電車|でんしゃ}も、{道|みち}も、{家|いえ}も、とてもきれいです。", "vi": "Nhà ga, tàu điện, đường sá, nhà cửa đều rất sạch đẹp."}
+     ],
+     [
+      {"jp": "{日本|にほん}では、よっつのきせつがあります。", "vi": "Ở Nhật có bốn mùa."},
+      {"jp": "{春|はる}と{夏|なつ}と{秋|あき}と{冬|ふゆ}です。", "vi": "Đó là xuân, hạ, thu và đông."},
+      {"jp": "{春|はる}は、あたたかいです。", "vi": "Mùa xuân thì ấm áp."},
+      {"jp": "{夏|なつ}は、あついです。", "vi": "Mùa hè thì nóng."},
+      {"jp": "{秋|あき}は、すずしいです。", "vi": "Mùa thu thì mát mẻ."},
+      {"jp": "そして、{冬|ふゆ}はさむいです。", "vi": "Và mùa đông thì lạnh."}
+     ],
+     [
+      {"jp": "わたしは、{春|はる}に、{日本|にほん}に{来|き}ました。", "vi": "Tôi đến Nhật vào mùa xuân."},
+      {"jp": "サクラがとてもきれいでした。", "vi": "Hoa anh đào rất đẹp."}
+     ],
+     [
+      {"jp": "わたしは、{秋|あき}に、{京都|きょうと}に{行|い}きたいと{思|おも}っています。", "vi": "Tôi đang định mùa thu sẽ đi Kyoto."},
+      {"jp": "{父|ちち}と{母|はは}は、{秋|あき}に、{日本|にほん}に{来|き}ます。", "vi": "Bố và mẹ tôi sẽ sang Nhật vào mùa thu."},
+      {"jp": "そのときに、いっしょに{行|い}きたいと{思|おも}っています。", "vi": "Lúc đó, tôi muốn đi cùng với bố mẹ."},
+      {"jp": "{京都|きょうと}の{紅葉|こうよう}を{見|み}たいです。", "vi": "Tôi muốn ngắm lá đỏ ở Kyoto."},
+      {"jp": "そして、{京都|きょうと}で、{日本料理|にほんりょうり}を{食|た}べたいと{思|おも}っています。", "vi": "Và tôi muốn ăn món Nhật ở Kyoto."}
+     ],
+     [
+      {"jp": "{父|ちち}と{母|はは}は、{日本|にほん}に{来|き}たことがあります。", "vi": "Bố mẹ tôi đã từng đến Nhật."},
+      {"jp": "{京都|きょうと}にも、{行|い}ったことがあります。", "vi": "Họ cũng đã từng đi Kyoto."}
+     ],
+     [
+      {"jp": "{夏休|なつやす}みには、{友|とも}だちといっしょに、{北海道|ほっかいどう}に{行|い}きます。", "vi": "Kỳ nghỉ hè, tôi sẽ đi Hokkaido cùng với bạn."},
+      {"jp": "レンタカーで、{北海道|ほっかいどう}を{旅行|りょこう}したいと{思|おも}っています。", "vi": "Tôi muốn đi du lịch Hokkaido bằng xe thuê."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": "A", "headingVi": "Câu lạc bộ leo núi và dự định leo núi Phú Sĩ",
+    "paragraphs": [
+     [
+      {"jp": "わたしは、{大学|だいがく}の{山|やま}の{会|かい}のメンバーです。", "vi": "Tôi là thành viên câu lạc bộ leo núi của trường đại học."},
+      {"jp": "わたしたちは、{月|つき}に{2、3回|にさんかい}、{山|やま}に{行|い}きます。", "vi": "Chúng tôi đi leo núi hai, ba lần một tháng."},
+      {"jp": "たいてい、{日帰|ひがえ}りで、{近|ちか}くの{低|ひく}い{山|やま}に{行|い}きます。", "vi": "Thường thì chúng tôi đi những ngọn núi thấp ở gần, đi về trong ngày."},
+      {"jp": "ときどき、テントで{1泊|いっぱく}します。", "vi": "Thỉnh thoảng, chúng tôi ngủ lều một đêm."},
+      {"jp": "{5月|ごがつ}の{連休|れんきゅう}には、{少|すこ}し{高|たか}い{山|やま}に{行|い}きたいと{思|おも}っています。", "vi": "Kỳ nghỉ dài tháng 5, tôi muốn đi một ngọn núi cao hơn một chút."}
+     ],
+     [
+      {"jp": "{毎年|まいとし}、{夏|なつ}には、{北|きた}アルプスに{行|い}きます。", "vi": "Mỗi năm, vào mùa hè, tôi đi dãy Bắc Alps."},
+      {"jp": "{今年|ことし}は、{白馬岳|はくばだけ}に{行|い}きたいと{思|おも}っています。", "vi": "Năm nay, tôi muốn đi núi Hakuba."}
+     ],
+     [
+      {"jp": "わたしは、{山|やま}が{好|す}きです。", "vi": "Tôi thích núi."},
+      {"jp": "でも、{富士山|ふじさん}に{登|のぼ}ったことがありません。", "vi": "Nhưng tôi chưa từng leo núi Phú Sĩ."},
+      {"jp": "{今年|ことし}の{秋|あき}に、{家族|かぞく}で{富士山|ふじさん}に{登|のぼ}りたいと{思|おも}っています。", "vi": "Mùa thu năm nay, tôi muốn cùng gia đình leo núi Phú Sĩ."}
+     ]
+    ]},
+   {"speaker": "li", "heading": "B", "headingVi": "Karaoke và kimono – những việc muốn thử một ngày nào đó",
+    "paragraphs": [
+     [
+      {"jp": "わたしは、カラオケに{行|い}ったことがありません。", "vi": "Tôi chưa từng đi hát karaoke."},
+      {"jp": "いつか、{行|い}きたいと{思|おも}っています。", "vi": "Một ngày nào đó, tôi muốn đi thử."},
+      {"jp": "そして、{日本|にほん}の{歌|うた}を{歌|うた}いたいと{思|おも}っています。", "vi": "Và tôi muốn hát những bài hát Nhật."}
+     ],
+     [
+      {"jp": "わたしは、{着物|きもの}を{着|き}たことがありません。", "vi": "Tôi chưa từng mặc kimono."},
+      {"jp": "いつか、{着物|きもの}を{着|き}たいと{思|おも}っています。", "vi": "Một ngày nào đó, tôi muốn mặc kimono."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": "B", "headingVi": "Nhạc jazz và chiếc máy tính cũ",
+    "paragraphs": [
+     [
+      {"jp": "わたしは、ジャズが{好|す}きです。", "vi": "Tôi thích nhạc jazz."},
+      {"jp": "でも、{生|なま}で{聞|き}いたことがありません。", "vi": "Nhưng tôi chưa từng nghe nhạc sống."},
+      {"jp": "いつか、ライブハウスに{行|い}きたいと{思|おも}っています。", "vi": "Một ngày nào đó, tôi muốn đến câu lạc bộ nhạc sống."},
+      {"jp": "そして、{生|なま}で{聞|き}きたいと{思|おも}っています。", "vi": "Và tôi muốn nghe nhạc sống."}
+     ],
+     [
+      {"jp": "{私|わたし}のパソコンは、ちょっと{古|ふる}いです。", "vi": "Máy tính của tôi hơi cũ."},
+      {"jp": "ですから、{遅|おそ}いです。", "vi": "Vì vậy, nó chậm."},
+      {"jp": "{新|あたら}しいパソコンを{買|か}いたいと{思|おも}っています。", "vi": "Tôi muốn mua một chiếc máy tính mới."},
+      {"jp": "{新|あたら}しいプリンターも、{買|か}いたいと{思|おも}っています。", "vi": "Tôi cũng muốn mua một chiếc máy in mới."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1350,
+   "title": "～たいです／～たいと思っています", "sub": "（mong muốn làm gì）",
+   "meaning": "Tôi muốn làm (gì đó)",
+   "usage": ["Dùng để biểu hiện mong muốn của bản thân muốn làm gì đó.", "Vます bỏ ます rồi thêm たいです. Khi mong muốn đó là dự định ấp ủ từ trước thì dùng ～たいと思っています."],
+   "formulas": ["Vます（bỏ ます）＋ たいです", "Vます（bỏ ます）＋ たいと{思|おも}っています"],
+   "examples": [
+    {"jp": "こうようを（が）{見|み}たいです。", "vi": "Tôi muốn ngắm lá phong đỏ."},
+    {"jp": "こうようを（が）{見|み}たいと{思|おも}っています。", "vi": "Tôi muốn (đang định) ngắm lá phong đỏ."},
+    {"jp": "{京都|きょうと}の{紅葉|こうよう}を{見|み}たいです。", "vi": "Tôi muốn ngắm lá đỏ ở Kyoto.", "src": "text"},
+    {"jp": "わたしは、{秋|あき}に、{京都|きょうと}に{行|い}きたいと{思|おも}っています。", "vi": "Tôi đang định mùa thu sẽ đi Kyoto.", "src": "text"}
+   ],
+   "extra": ["Tân ngữ của Vたい có thể đi với を hoặc が: こうようを{見|み}たいです ＝ こうようが{見|み}たいです.", "～たい chia như tính từ đuôi い: {行|い}きたいです → {行|い}きたくないです (không muốn đi) → {行|い}きたかったです (đã muốn đi).", "～たいです chỉ dùng để nói về mong muốn của bản thân (hoặc hỏi người thân thiết); không dùng để hỏi mong muốn của người trên."],
+   "notes": [],
+   "table": null},
+  {"no": "2", "group": "A", "video": 1351,
+   "title": "た形", "sub": "（thể た）",
+   "meaning": "Đã làm V (thể ngắn, quá khứ)",
+   "usage": ["Là thể ngắn (không lịch sự), tương ứng với Vました.", "Cách chia giống て形: thay て／で bằng た／だ."],
+   "formulas": ["Nhóm I: ～きます → ～いた（ききます → きいた）；～ぎます → ～いだ（およぎます → およいだ）", "Nhóm I: ～みます・～びます・～にます → ～んだ（よみます → よんだ、とびます → とんだ、しにます → しんだ）", "Nhóm I: ～います・～ちます・～ります → ～った（いいます → いった、まちます → まった、つくります → つくった）", "Nhóm I: ～します → ～した（はなします → はなした）", "Nhóm II: Vます（bỏ ます）＋ た（みます → みた、あけます → あけた、たべます → たべた）", "Nhóm III: します → した、べんきょうします → べんきょうした、きます → きた、もってきます → もってきた"],
+   "examples": [
+    {"jp": "ケーキを{食|た}べましたか？", "vi": "Bạn đã ăn bánh chưa?"},
+    {"jp": "→ うん、{食|た}べた。", "vi": "Ừ, tôi ăn rồi."},
+    {"jp": "{富士山|ふじさん}に{登|のぼ}ったことがありません。", "vi": "Tôi chưa từng leo núi Phú Sĩ.", "src": "text"},
+    {"jp": "{父|ちち}と{母|はは}は、{日本|にほん}に{来|き}たことがあります。", "vi": "Bố mẹ tôi đã từng đến Nhật.", "src": "text"}
+   ],
+   "extra": ["Ngoại lệ nhóm I: {行|い}きます → {行|い}った (không phải いいた).", "た形 là nền của mẫu Vたことがあります (mục 3) và nhiều mẫu câu khác về sau."],
+   "notes": [],
+   "table": "ta"},
+  {"no": "3-1", "group": "A", "video": 1352,
+   "title": "Vたことがあります／Vたことがありません", "sub": "（kinh nghiệm）",
+   "meaning": "Tôi đã từng… / Tôi chưa từng…",
+   "usage": ["Dùng để nói về kinh nghiệm của bản thân: đã từng có những trải nghiệm gì, hoặc chưa từng làm việc gì đó.", "Động từ chia ở た形 rồi thêm ことがあります (đã từng) hoặc ことがありません (chưa từng)."],
+   "formulas": ["Vた ＋ ことがあります", "Vた ＋ ことがありません"],
+   "examples": [
+    {"jp": "わたしは{日本酒|にほんしゅ}を{飲|の}んだことがあります。", "vi": "Tôi đã từng uống rượu Nhật."},
+    {"jp": "わたしは{雪|ゆき}を{見|み}たことがありません。", "vi": "Tôi chưa từng nhìn thấy tuyết."},
+    {"jp": "{京都|きょうと}にも、{行|い}ったことがあります。", "vi": "Họ cũng đã từng đi Kyoto.", "src": "text"},
+    {"jp": "わたしは、{着物|きもの}を{着|き}たことがありません。", "vi": "Tôi chưa từng mặc kimono.", "src": "text"}
+   ],
+   "extra": ["Câu hỏi: Vたことがありますか。 (Bạn đã từng… chưa?) → はい、あります。／いいえ、ありません。", "Phân biệt: {日本|にほん}に{行|い}きました (đã đi Nhật – sự việc đã xảy ra) ≠ {日本|にほん}に{行|い}ったことがあります (đã từng đi Nhật – kinh nghiệm)."],
+   "notes": [],
+   "table": null},
+  {"no": "3-2", "group": "A", "video": 1352,
+   "title": "いつか～", "sub": "（một ngày nào đó）",
+   "meaning": "Một lúc nào đó (sẽ)…",
+   "usage": ["Dùng để biểu hiện bản thân sẽ làm một việc gì đó trong tương lai, nhưng không rõ thời gian là lúc nào.", "Thường đi sau câu Vたことがありません để nói: chưa từng làm, nhưng một ngày nào đó sẽ / muốn làm."],
+   "formulas": ["いつか ＋ Vます", "いつか ＋ Vたいと{思|おも}っています"],
+   "examples": [
+    {"jp": "わたしはカラオケに{行|い}ったことがありません。いつか、{行|い}きます。", "vi": "Tôi chưa từng đi hát karaoke. Một ngày nào đó tôi sẽ đi."},
+    {"jp": "いつか、{行|い}きたいと{思|おも}っています。", "vi": "Một ngày nào đó, tôi muốn đi thử.", "src": "text"},
+    {"jp": "いつか、ライブハウスに{行|い}きたいと{思|おも}っています。", "vi": "Một ngày nào đó, tôi muốn đến câu lạc bộ nhạc sống.", "src": "text"}
+   ],
+   "extra": ["いつか thường đứng đầu câu, sau đó có dấu 、."],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {"title": "{私|わたし}の{夢|ゆめ}", "vi": "Ước mơ của tôi", "use": ["～たいです／～たいと思っています", "Vたことがあります／ありません", "いつか～", "た形"], "ideas": ["Mình thích gì (～が好きです); đã từng / chưa từng làm gì (Vたことがあります／ありません)", "Muốn làm gì, muốn đi đâu, muốn trở thành gì (～たいです／～たいと思っています)", "Khi nào: いつか、今年の夏に、夏休みに、毎年…", "Làm với ai, bằng cách nào (家族で、友だちといっしょに、レンタカーで…)"]},
+ "verbs": [
+  {"m": "おもいます", "k": "思います", "g": 1, "vi": "nghĩ (思っています: đang nghĩ, định)"},
+  {"m": "りょこうします", "k": "旅行します", "g": 3, "vi": "du lịch"},
+  {"m": "のぼります", "k": "登ります", "g": 1, "vi": "leo (núi)"},
+  {"m": "うたいます", "k": "歌います", "g": 1, "vi": "hát"},
+  {"m": "きます", "k": "着ます", "g": 2, "vi": "mặc (kimono, áo)"}
+ ]
+}

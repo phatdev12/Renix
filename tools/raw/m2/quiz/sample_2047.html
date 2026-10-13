@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Document</title>
+    <style>
+        @page  { margin-left: 10px; margin-right: 10px; padding-left: 0; padding-right: 0; }
+        @font-face {
+            font-family: 'NotoSansJp';
+            font-style: normal;
+            font-weight: normal;
+            src: url('/var/www/html/storage/fonts/NotoSansJP/NotoSansJP-Regular.ttf');
+        }
+
+        @font-face {
+            font-family: 'NotoSansJp';
+            font-style: normal;
+            font-weight: bold;
+            src: url('/var/www/html/storage/fonts/NotoSansJP/NotoSansJP-Bold.ttf');
+        }
+
+        * {
+            font-family: 'NotoSansJp', "DejaVu Sans", sans-serif;
+            font-size: 12px;
+        }
+
+        .rounded {
+            border-radius: 8px !important;
+        }
+
+        .text-center {
+            text-align: center !important;
+        }
+
+        .m-0 {
+            margin: 0 !important;
+        }
+
+        .mt-0,
+        .my-0 {
+            margin-top: 0 !important;
+        }
+
+        .mr-0,
+        .mx-0 {
+            margin-right: 0 !important;
+        }
+
+        .mb-0,
+        .my-0 {
+            margin-bottom: 0 !important;
+        }
+
+        .ml-0,
+        .mx-0 {
+            margin-left: 0 !important;
+        }
+
+        .m-1 {
+            margin: 0.25rem !important;
+        }
+
+        .mt-1,
+        .my-1 {
+            margin-top: 0.25rem !important;
+        }
+
+        .mr-1,
+        .mx-1 {
+            margin-right: 0.25rem !important;
+        }
+
+        .mb-1,
+        .my-1 {
+            margin-bottom: 0.25rem !important;
+        }
+
+        .ml-1,
+        .mx-1 {
+            margin-left: 0.25rem !important;
+        }
+
+        .m-2 {
+            margin: 0.5rem !important;
+        }
+
+        .mt-2,
+        .my-2 {
+            margin-top: 0.5rem !important;
+        }
+
+        .mr-2,
+        .mx-2 {
+            margin-right: 0.5rem !important;
+        }
+
+        .mb-2,
+        .my-2 {
+            margin-bottom: 0.5rem !important;
+        }
+
+        .ml-2,
+        .mx-2 {
+            margin-left: 0.5rem !important;
+        }
+
+        .m-3 {
+            margin: 1rem !important;
+        }
+
+        .mt-3,
+        .my-3 {
+            margin-top: 1rem !important;
+        }
+
+        .mr-3,
+        .mx-3 {
+            margin-right: 1rem !important;
+        }
+
+        .mb-3,
+        .my-3 {
+            margin-bottom: 1rem !important;
+        }
+
+        .ml-3,
+        .mx-3 {
+            margin-left: 1rem !important;
+        }
+
+        .m-4 {
+            margin: 1.5rem !important;
+        }
+
+        .mt-4,
+        .my-4 {
+            margin-top: 1.5rem !important;
+        }
+
+        .mr-4,
+        .mx-4 {
+            margin-right: 1.5rem !important;
+        }
+
+        .mb-4,
+        .my-4 {
+            margin-bottom: 1.5rem !important;
+        }
+
+        .ml-4,
+        .mx-4 {
+            margin-left: 1.5rem !important;
+        }
+
+        .m-5 {
+            margin: 3rem !important;
+        }
+
+        .mt-5,
+        .my-5 {
+            margin-top: 3rem !important;
+        }
+
+        .mr-5,
+        .mx-5 {
+            margin-right: 3rem !important;
+        }
+
+        .mb-5,
+        .my-5 {
+            margin-bottom: 3rem !important;
+        }
+
+        .ml-5,
+        .mx-5 {
+            margin-left: 3rem !important;
+        }
+
+        .p-0 {
+            padding: 0 !important;
+        }
+
+        .pt-0,
+        .py-0 {
+            padding-top: 0 !important;
+        }
+
+        .pr-0,
+        .px-0 {
+            padding-right: 0 !important;
+        }
+
+        .pb-0,
+        .py-0 {
+            padding-bottom: 0 !important;
+        }
+
+        .pl-0,
+        .px-0 {
+            padding-left: 0 !important;
+        }
+
+        .p-1 {
+            padding: 0.25rem !important;
+        }
+
+        .pt-1,
+        .py-1 {
+            padding-top: 0.25rem !important;
+        }
+
+        .pr-1,
+        .px-1 {
+            padding-right: 0.25rem !important;
+        }
+
+        .pb-1,
+        .py-1 {
+            padding-bottom: 0.25rem !important;
+        }
+
+        .pl-1,
+        .px-1 {
+            padding-left: 0.25rem !important;
+        }
+
+        .p-2 {
+            padding: 0.5rem !important;
+        }
+
+        .pt-2,
+        .py-2 {
+            padding-top: 0.5rem !important;
+        }
+
+        .pr-2,
+        .px-2 {
+            padding-right: 0.5rem !important;
+        }
+
+        .pb-2,
+        .py-2 {
+            padding-bottom: 0.5rem !important;
+        }
+
+        .pl-2,
+        .px-2 {
+            padding-left: 0.5rem !important;
+        }
+
+        .p-3 {
+            padding: 1rem !important;
+        }
+
+        .pt-3,
+        .py-3 {
+            padding-top: 1rem !important;
+        }
+
+        .pr-3,
+        .px-3 {
+            padding-right: 1rem !important;
+        }
+
+        .pb-3,
+        .py-3 {
+            padding-bottom: 1rem !important;
+        }
+
+        .pl-3,
+        .px-3 {
+            padding-left: 1rem !important;
+        }
+
+        .p-4 {
+            padding: 1.5rem !important;
+        }
+
+        .pt-4,
+        .py-4 {
+            padding-top: 1.5rem !important;
+        }
+
+        .pr-4,
+        .px-4 {
+            padding-right: 1.5rem !important;
+        }
+
+        .pb-4,
+        .py-4 {
+            padding-bottom: 1.5rem !important;
+        }
+
+        .pl-4,
+        .px-4 {
+            padding-left: 1.5rem !important;
+        }
+
+        .p-5 {
+            padding: 3rem !important;
+        }
+
+        .pt-5,
+        .py-5 {
+            padding-top: 3rem !important;
+        }
+
+        .pr-5,
+        .px-5 {
+            padding-right: 3rem !important;
+        }
+
+        .pb-5,
+        .py-5 {
+            padding-bottom: 3rem !important;
+        }
+
+        .pl-5,
+        .px-5 {
+            padding-left: 3rem !important;
+        }
+
+        .d-flex {
+            display: flex !important;
+        }
+
+        .d-inline-flex {
+            display: inline-flex !important;
+        }
+
+    </style>
+    <style>
+        .separator {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #2063af;
+        }
+        .border-blue {
+            border: 1px solid #2063af;
+        }
+        .single-choice-answer-content p {
+            margin: 0;
+        }
+        .multiple-choice-answer-content p {
+            margin: 0;
+        }
+        .nice-input-border {
+            border: 1px solid #CED4DAFF;
+        }
+        .bg-white {
+            background-color: #FFFFFF !important;
+        }
+        .bg-gray-f3 {
+            background-color: #F3F3F3FF;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <p style="font-size: 25px">
+            [U12-P3]ドリル
+        </p>
+    </div>
+                <div style="padding-left: 10px; padding-top: 10px; padding-bottom: 10px; color: white; background-color: #2063af">
+            <h1>
+                Part I - 文を完全にしてください。Viết thành câu hoàn chỉnh (Lưu ý: Viết theo đề bài: đề bài viết bằng Hiragana thì khi trả lời giữ nguyên Hiragana, đề bài viết bằng Kanji thì khi trả lời giữ nguyên Kanji)
+            </h1>
+        </div>
+                <div class="ml-3 mr-3">
+                                                                <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (1) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/540px;;width:300px;" src="https://lh4.googleusercontent.com/REPzHyi3qq4EhmUCwnbxVePGTgCObDr00d0Oc6ck2LCtHBYcEwMm5ETx2rTkYMBv5qaUTK0UTSPReFotsaGWXdCY9qXlTIF-hM3B9WhDK0ufG119FmP9o6hPBudQ7He_TQs1gJOMowNX0yY=nw" width="720px;" height="540px;"></strong></p><p>毎日勉強します・サッカーをします<br>⇒　毎日、勉強(1: ..............................)、サッカーを(2: ..............................)(3: ..............................)。</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] choose one from:  (しません)  (します)  (しました) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (2) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/540px;;width:300px;" src="https://lh4.googleusercontent.com/Q2FE2pFgJYrgoHwEqEA80wKjH9-0G_UGceogz20k1MA2zbwtdOk8hN17X54vcCC-jnWW6FKTmHSuls0lAxWCt_9McxAg2tOCaRnhUDIwudwP-u027lFpEltzl4ekgAusWpRqTHLI2SJu3dA=nw" width="720px;" height="540px;"></strong>&nbsp;</p><p>はやく寝ます・ほうがいいです。<br>⇒　はやく(1: ..............................)です。</p><ul><li>Section [1] is a short answer</li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (3) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/493px;;width:400px;" src="https://lh6.googleusercontent.com/uAGBT_68xR3CsS0OczZ563rEHF06stM1F52co_t8-QrdV91I_oZ1DJ03gzeWoCcY0EgF6TnrGmGpOL9RKg0IRrVqCsocOrlMEV4xgh87x34pyB6QNlhHRtwgCsyIeD0fPQh6twNsdCN2QyU=nw" width="720px;" height="493px;"></strong></p><p>冬休みに、つりに　行きます・スキーに　行きます<span style="font-size:0.9375rem;">。</span></p><p>⇒冬休みに　(1: ..............................)、(2: ..............................)(3: ..............................)。</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] choose one from:  (しています)  (します)  (しました) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (4) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/540px;;width:400px;" src="https://lh3.googleusercontent.com/np5O5ZCUJpq10PkbYtiSDcWEtFKxHyMXcknTY98gf9s8vSt0XlAdbNKISo2GVzdZFpHHjN2ISxPb6rLTB55kDCqqNjDP_Skzegz1pLWXy6nr7Z3Ua3W8fHP8dOcS6b8t-wGTq3LCnIkgdGQ=nw" width="720px;" height="540px;"></strong></p><p>きのう　買い物を　します・おてらへ　行きます。</p><p>⇒きのう　買い物を　(1: ..............................)、おてらへ　(2: ..............................)(3: ..............................)。</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] choose one from:  (します)  (しません)  (しました) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (5) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><img class="image_resized" style="aspect-ratio:720px;/437px;;width:400px;" src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUek7jJ_qNuJNODUEdEKe-I_RYnLWJyv35d_B0sC2rXpSQ7GaUiyrzojNMQvI2OqIlyQbk5Z8USpGUZHheIJRGHpooxVu-lQX838-4elycegJ1na7PZeWi5Pm46gAcN4YyxKtANmgAPBkLx4_GZYlQxGa4VzxwhisZp41NiAfsRU=s2048?key=4F6YKUNiqX0wwBBgtmlwtlXU" width="720px;" height="437px;"><br><br>ケーキを　食べません・ほうがいいです。<br>⇒　ケーキを　(1: ..............................)です。</p><ul><li>Section [1] is a short answer</li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (6) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/540px;;width:400px;" src="https://lh6.googleusercontent.com/qM-X2Ee2dJQmRoEz3a94K5kq3Qsk3N83L4XJFpwxm48JOI7hZ3Vhyeq7TJ9_rdmxDeXk7qoQiuxL9jS2WD0wFZ7y6VrHIx__ZMWODJYWPSIqggaULvt_QmSIKsffc9dJB7wMine2CNnZrPU=nw" width="720px;" height="540px;"></strong></p><p><br>休みの日に、車を　洗います・犬を　こうえんへ　つれて行きます。<br>⇒　休みの日に車を(1: ..............................)、犬をこうえんへ(2: ..............................)(3: ..............................)。</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] choose one from:  (します)  (しました)  (しません) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (7) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:720px;/540px;;width:400px;" src="https://lh3.googleusercontent.com/xK0Qbx1_51R62ybsSlEv2Bth7VWcO9ShaBbtE06O3MXMeQba4ZbeoIqLmhwjUDnM-PPfjiB1ec79LMlcoQb5IfcRVD_33kalgKU2tgZ6YMC5TMunjHSeiRW4hUrcBmNUrwTEADmc_4cq8r4=nw" width="720px;" height="540px;"></strong></p><p>日曜日　およぎます・ビールを　飲みます。</p><p>⇒　日曜日　(1: ..............................)、ビールを　(2: ..............................)(3: ..............................)。</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] choose one from:  (します)  (しました)  (しません) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (8) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p><strong><img class="image_resized" style="aspect-ratio:975/731;width:400px;" src="https://storage.googleapis.com/nilc02-storage/ckeditor/1704556965_l2GhHaDOamoGIwM6.png" alt="" width="975" height="731"></strong><br>&nbsp;</p><p>こうばんへ　行きます・ほうがいいです。<br>⇒　こうばんへ　(1: ..............................)です。</p><ul><li>Section [1] is a short answer</li></ul>
+            </div>
+</div>
+                                                            </div>
+            <div style="padding-left: 10px; padding-top: 10px; padding-bottom: 10px; color: white; background-color: #2063af">
+            <h1>
+                Part II - 内容を聞いて、正しくマッチンしてください。Nghe và nối đáp án cho chính xác
+            </h1>
+        </div>
+                <div class="ml-3 mr-3">
+                                                                <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (1) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <div class="raw-html-embed"><audio controls="true"><source src="https://storage.googleapis.com/nilc02-storage/ckeditor/1703591103_NQkEizobr8B4AZAI.mp3">Media2.mp3 ( bài １) (1).mp3</audio></div><p><br><img class="image_resized" style="aspect-ratio:1084px;/655px;;width:600px;" src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeT50ddHTH6kjiKZr2E3yD1Te8w6UNx9AicJU8JOb-Y-XYtMaoY7HZJkmLGjbUYl9gxsho2HhvGkGGBRX6xjIr8AemxnL6sjQstoRv8_cJZhIyB7hjnnmzWSRGCHd7QGXZ5ArOI7Sq57bbvGouKbArQgNPRx1fZ5Zaopg0dofsHuwokIQjZP2s=s2048?key=4F6YKUNiqX0wwBBgtmlwtlXU" width="1084px;" height="655px;"></p><p>1a) (1: ..............................)</p><p>1b) (2: ..............................)</p><p>1c) (3: ..............................)</p><p>2a) (4: ..............................)</p><p>2b) (5: ..............................)</p><p>2c) (6: ..............................)</p><ul><li>Section [1] choose one from:  (〇)  (×) </li><li>Section [2] choose one from:  (〇)  (×) </li><li>Section [3] choose one from:  (〇)  (×) </li><li>Section [4] choose one from:  (〇)  (×) </li><li>Section [5] choose one from:  (〇)  (×) </li><li>Section [6] choose one from:  (〇)  (×) </li></ul>
+            </div>
+</div>
+                                                            <div class="separator">
+                    </div>
+                                                                    <div class="mb-3 pb-2" >
+    <table>
+        <tr>
+            <td>
+                <strong>
+                    (2)
+                </strong>
+            </td>
+            <td>
+                Matching answers            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <div class="my-3">
+            <p>となりの人は親切ですが、うるさいです。チンさんはどうしますか</p><div class="raw-html-embed"><audio controls="true"><source src="https://storage.googleapis.com/nilc02-storage/ckeditor/1703591103_zLnbjZderQ1GMGjS.mp3">Media3.mp3 ( bài ２) (1).mp3</audio></div><p><strong>&nbsp;</strong>例：あしたから　買い物は　(スーパーで)する。</p><ol style="list-style-type:decimal;"><li>大掃除に　 (　　　)<strong>。</strong></li><li>遅くなった時、駅から　 (　　　)<span style="font-size:0.9375rem;">&nbsp;のる。</span></li><li>田中さんに　 (　　　)<strong>。</strong></li></ol>
+        </div>
+        <table style="border-collapse: collapse; width: 100%">
+            <tr>
+                <td colspan="3">
+                    Choose a matching answer:
+                </td>
+            </tr>
+                                                <tr style="border: 1px solid #2063af;;">
+                        <td style="">
+                            <strong>Section:</strong>
+                        </td>
+                        <td style="border-right: 1px solid #2063af;" class="px-2">
+                            <p>1.</p>
+                        </td>
+                        <td class="px-2">
+                                                            <p style="display: inline-block;">
+                                     (しごとをしょうかいしてもらう)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (タクシー)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (バスに)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかする)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかしない)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (しごとのことをそうだんする)
+                                </p>
+                                                    </td>
+                    </tr>
+                                                                <tr style="border: 1px solid #2063af;;">
+                        <td style="">
+                            <strong>Section:</strong>
+                        </td>
+                        <td style="border-right: 1px solid #2063af;" class="px-2">
+                            <p>2.</p>
+                        </td>
+                        <td class="px-2">
+                                                            <p style="display: inline-block;">
+                                     (しごとをしょうかいしてもらう)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (しごとのことをそうだんする)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (バスに)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかする)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (タクシー)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかしない)
+                                </p>
+                                                    </td>
+                    </tr>
+                                                                <tr style="border: 1px solid #2063af;;">
+                        <td style="">
+                            <strong>Section:</strong>
+                        </td>
+                        <td style="border-right: 1px solid #2063af;" class="px-2">
+                            <p>3.</p>
+                        </td>
+                        <td class="px-2">
+                                                            <p style="display: inline-block;">
+                                     (バスに)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (しごとをしょうかいしてもらう)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (タクシー)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (しごとのことをそうだんする)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかする)
+                                </p>
+                                                            <p style="display: inline-block;">
+                                     (さんかしない)
+                                </p>
+                                                    </td>
+                    </tr>
+                                                                                                                        </table>
+    </div>
+</div>                                                            </div>
+    </body>
+</html>

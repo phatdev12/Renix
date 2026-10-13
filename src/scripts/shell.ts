@@ -1,6 +1,6 @@
 /* shell.ts — client behaviour of the layout: rail pill + hover labels, unit filter, theme / furigana /
    voice toggles and the search box. Runs once per page load, before the page's own script. */
-import { ALL_UNITS, UNITS } from '../lib/course';
+import { ALL_UNITS, COURSES, UNITS } from '../lib/course';
 import { D } from '../lib/data';
 import { $, $$, B, esc, h } from '../lib/dom';
 import { rerender } from '../lib/page';
@@ -60,17 +60,30 @@ function setupNavHover() {
 }
 
 // ------------------------------------------------------------------ unit filter
+const courseUnits = (key: string) => UNITS.filter((u) => u.course === key).map((u) => u.id);
+/** short description of the selection for the top-bar button: "Tất cả", "N5", "13–17", "1, 3, 5" */
+export function unitSummary(sel: number[]): string {
+  if (sel.length === ALL_UNITS.length) return 'Tất cả';
+  for (const c of COURSES) { const cu = courseUnits(c.key); if (cu.length === sel.length && cu.every((u) => sel.includes(u))) return c.short; }
+  const run = sel.length > 2 && sel.every((u, i) => i === 0 || u === sel[i - 1] + 1);
+  return run ? `${sel[0]}–${sel[sel.length - 1]}` : sel.join(', ');
+}
 function paintUnitFilter() {
-  const sel = new Set(D.sel());
-  const all = sel.size === ALL_UNITS.length;
+  const sel = D.sel();
+  const set = new Set(sel);
+  const all = sel.length === ALL_UNITS.length;
   $$<HTMLButtonElement>('[data-unit-filter] button').forEach((b) => {
+    if (b.dataset.course) { const cu = courseUnits(b.dataset.course); b.classList.toggle('on', !all && cu.length === sel.length && cu.every((u) => set.has(u))); return; }
     const u = b.dataset.u!;
-    b.classList.toggle('on', u === 'all' ? all : !all && sel.has(Number(u)));
+    b.classList.toggle('on', u === 'all' ? all : !all && set.has(Number(u)));
   });
+  const btn = document.getElementById('unit-btn');
+  if (btn) { btn.querySelector('b')!.textContent = unitSummary(sel); btn.classList.toggle('on', !all); }
 }
 function setupUnitFilter() {
   $$<HTMLButtonElement>('[data-unit-filter] button').forEach((b) => b.addEventListener('click', () => {
     if (b.dataset.u === 'all') { Settings.set('units', ALL_UNITS.slice()); return; }
+    if (b.dataset.course) { Settings.set('units', courseUnits(b.dataset.course)); return; }
     const u = Number(b.dataset.u);
     const cur = D.sel();
     const all = cur.length === ALL_UNITS.length;
@@ -80,6 +93,16 @@ function setupUnitFilter() {
     else s.add(u);
     Settings.set('units', Array.from(s).sort((a, b2) => a - b2));
   }));
+  // top bar: a compact button opens the grouped pills in a glass popover
+  const btn = document.getElementById('unit-btn');
+  const pop = document.getElementById('unit-pop');
+  if (btn && pop) {
+    const close = () => { pop.hidden = true; btn.setAttribute('aria-expanded', 'false'); };
+    btn.addEventListener('click', (e) => { e.stopPropagation(); pop.hidden = !pop.hidden; btn.setAttribute('aria-expanded', String(!pop.hidden)); });
+    pop.addEventListener('click', (e) => e.stopPropagation());
+    document.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+  }
   paintUnitFilter();
 }
 

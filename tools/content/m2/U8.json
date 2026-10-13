@@ -1,0 +1,301 @@
+{
+ "text": {
+  "title": "わたしの{家族|かぞく}",
+  "titleVi": "Gia đình tôi",
+  "titleNote": null,
+  "sections": [
+   {
+    "speaker": "li",
+    "heading": null,
+    "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしの{家族|かぞく}は、{7人|しちにん}です。", "vi": "Gia đình tôi có 7 người."},
+      {"jp": "{父|ちち}と{母|はは}と{兄|あに}と{姉|あね}と{弟|おとうと}と{妹|いもうと}とわたしです。", "vi": "Gồm bố, mẹ, anh trai, chị gái, em trai, em gái và tôi."},
+      {"jp": "{父|ちち}も{母|はは}も{兄弟|きょうだい}も、マレーシアに{住|す}んでいます。", "vi": "Bố, mẹ và các anh chị em tôi đều đang sống ở Malaysia."}
+     ],
+     [
+      {"jp": "{父|ちち}は、{小|ちい}さい{会社|かいしゃ}を{経営|けいえい}しています。", "vi": "Bố tôi đang điều hành một công ty nhỏ."},
+      {"jp": "ビジネスのコンサルタントです。", "vi": "Bố là tư vấn viên kinh doanh."},
+      {"jp": "{日本|にほん}の{会社|かいしゃ}とよく{仕事|しごと}をしています。", "vi": "Bố thường làm việc với các công ty Nhật Bản."},
+      {"jp": "{時々|ときどき}、{仕事|しごと}で{日本|にほん}に{来|き}ます。", "vi": "Thỉnh thoảng, bố đến Nhật vì công việc."},
+      {"jp": "{父|ちち}は、とてもやさしいです。", "vi": "Bố tôi rất hiền."}
+     ],
+     [
+      {"jp": "{母|はは}も、{仕事|しごと}をしています。", "vi": "Mẹ tôi cũng đi làm."},
+      {"jp": "{母|はは}は、{大学|だいがく}の{先生|せんせい}です。", "vi": "Mẹ là giảng viên đại học."},
+      {"jp": "{大学|だいがく}で{中国語|ちゅうごくご}と{中国|ちゅうごく}の{歴史|れきし}を{教|おし}えています。", "vi": "Mẹ dạy tiếng Trung và lịch sử Trung Quốc ở trường đại học."},
+      {"jp": "{母|はは}は、ちょっときびしいです。", "vi": "Mẹ tôi hơi nghiêm khắc."}
+     ],
+     [
+      {"jp": "{兄|あに}は、{銀行|ぎんこう}に{勤|つと}めています。", "vi": "Anh trai tôi làm việc ở ngân hàng."},
+      {"jp": "{頭|あたま}がよくて、いろいろなスポーツがよくできます。", "vi": "Anh thông minh và chơi giỏi nhiều môn thể thao."},
+      {"jp": "{大学生|だいがくせい}のときは、{近所|きんじょ}の{子|こ}どもにサッカーを{教|おし}えていました。", "vi": "Hồi còn là sinh viên, anh dạy bóng đá cho trẻ em trong khu."},
+      {"jp": "{大学|だいがく}では、{経済学|けいざいがく}を{勉強|べんきょう}しました。", "vi": "Ở đại học, anh đã học kinh tế học."},
+      {"jp": "{兄|あに}は、とてもおもしろいです。", "vi": "Anh trai tôi rất vui tính."},
+      {"jp": "{結婚|けっこん}しています。", "vi": "Anh đã lập gia đình."},
+      {"jp": "そして、{子|こ}どもが{1人|ひとり}います。", "vi": "Và anh có một đứa con."}
+     ],
+     [
+      {"jp": "{姉|あね}は、{今|いま}、{大学院生|だいがくいんせい}です。", "vi": "Chị gái tôi hiện là học viên cao học."},
+      {"jp": "{大学院|だいがくいん}で{薬|くすり}の{研究|けんきゅう}をしています。", "vi": "Chị đang nghiên cứu về dược ở trường cao học."},
+      {"jp": "{姉|あね}はピアノが{上手|じょうず}です。", "vi": "Chị tôi chơi piano giỏi."},
+      {"jp": "うちで、ピアノ{教室|きょうしつ}をしています。", "vi": "Chị mở lớp dạy piano ở nhà."},
+      {"jp": "{姉|あね}は、とてもきれいです。", "vi": "Chị tôi rất xinh."}
+     ],
+     [
+      {"jp": "{弟|おとうと}と{妹|いもうと}は、{高校生|こうこうせい}です。", "vi": "Em trai và em gái tôi là học sinh cấp ba."},
+      {"jp": "{同|おな}じ{学校|がっこう}に{行|い}っています。", "vi": "Hai em học cùng một trường."},
+      {"jp": "{弟|おとうと}は、{外国語|がいこくご}の{勉強|べんきょう}が{好|す}きです。", "vi": "Em trai tôi thích học ngoại ngữ."},
+      {"jp": "{英語|えいご}と{日本語|にほんご}とフランス{語|ご}を{勉強|べんきょう}しています。", "vi": "Em đang học tiếng Anh, tiếng Nhật và tiếng Pháp."},
+      {"jp": "{妹|いもうと}は、{数学|すうがく}と{物理|ぶつり}が{好|す}きです。", "vi": "Em gái tôi thích toán và vật lý."},
+      {"jp": "よくパソコンで{遊|あそ}んでいます。", "vi": "Em hay chơi máy tính."},
+      {"jp": "{弟|おとうと}と{妹|いもうと}も、かわいいです。", "vi": "Em trai và em gái tôi cũng rất dễ thương."}
+     ]
+    ]
+   },
+   {
+    "speaker": "akio",
+    "heading": null,
+    "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "うちは、{6人|ろくにん}{家族|かぞく}です。", "vi": "Nhà tôi có 6 người."},
+      {"jp": "{父|ちち}と{母|はは}と{兄|あに}と{姉|あね}と{妹|いもうと}とわたしです。", "vi": "Gồm bố, mẹ, anh trai, chị gái, em gái và tôi."}
+     ],
+     [
+      {"jp": "{父|ちち}は、{銀行|ぎんこう}に{勤|つと}めています。", "vi": "Bố tôi làm việc ở ngân hàng."},
+      {"jp": "ずっと、{同|おな}じ{銀行|ぎんこう}に{勤|つと}めています。", "vi": "Bố làm ở cùng một ngân hàng suốt từ trước đến nay."},
+      {"jp": "{父|ちち}は、やさしいです。", "vi": "Bố tôi hiền."},
+      {"jp": "でも、{時々|ときどき}、きびしいです。", "vi": "Nhưng thỉnh thoảng bố cũng nghiêm khắc."}
+     ],
+     [
+      {"jp": "{母|はは}は、{前|まえ}は、{主婦|しゅふ}でした。", "vi": "Mẹ tôi trước đây là nội trợ."},
+      {"jp": "でも、{今|いま}は、{高校|こうこう}の{先生|せんせい}です。", "vi": "Nhưng bây giờ mẹ là giáo viên cấp ba."},
+      {"jp": "{英語|えいご}を{教|おし}えています。", "vi": "Mẹ dạy tiếng Anh."},
+      {"jp": "{母|はは}は、とてもやさしくて{明|あか}るいです。", "vi": "Mẹ tôi rất hiền và vui tươi."}
+     ],
+     [
+      {"jp": "{父|ちち}も{母|はは}も、{山登|やまのぼ}りが{好|す}きです。", "vi": "Cả bố và mẹ tôi đều thích leo núi."},
+      {"jp": "{父|ちち}と{母|はは}は、{大学|だいがく}のときから、{友|とも}だちでした。", "vi": "Bố và mẹ là bạn của nhau từ thời đại học."},
+      {"jp": "{大学|だいがく}の{山|やま}の{会|かい}のメンバーでした。", "vi": "Hai người từng là thành viên câu lạc bộ leo núi của trường đại học."},
+      {"jp": "{今|いま}でも、よく、{2人|ふたり}で{山|やま}に{行|い}きます。", "vi": "Đến bây giờ, hai người vẫn hay đi leo núi cùng nhau."},
+      {"jp": "{子|こ}どものときは、{家族|かぞく}で、よく{山|やま}に{行|い}きました。", "vi": "Hồi tôi còn nhỏ, cả nhà thường đi leo núi."}
+     ],
+     [
+      {"jp": "{兄|あに}は、コンピュータのエンジニアです。", "vi": "Anh trai tôi là kỹ sư máy tính."},
+      {"jp": "{子|こ}どものときから、コンピュータが{大好|だいす}きでした。", "vi": "Từ nhỏ anh đã rất thích máy tính."},
+      {"jp": "{今|いま}は、{会社|かいしゃ}でも、うちでも、ずっとコンピュータの{前|まえ}に{座|すわ}っています。", "vi": "Bây giờ, ở công ty cũng như ở nhà, anh lúc nào cũng ngồi trước máy tính."},
+      {"jp": "{兄|あに}は、あまり{話|はな}しません。", "vi": "Anh tôi ít nói."},
+      {"jp": "まだ、{結婚|けっこん}していません。", "vi": "Anh vẫn chưa lập gia đình."}
+     ],
+     [
+      {"jp": "{姉|あね}は、{旅行会社|りょこうがいしゃ}に{勤|つと}めています。", "vi": "Chị gái tôi làm việc ở công ty du lịch."},
+      {"jp": "{子|こ}どものときから、{英語|えいご}がよくできました。", "vi": "Từ nhỏ chị đã giỏi tiếng Anh."},
+      {"jp": "{今|いま}は、いろいろな{外国語|がいこくご}ができます。", "vi": "Bây giờ chị biết nhiều ngoại ngữ."},
+      {"jp": "よく{外国|がいこく}に{行|い}きます。", "vi": "Chị hay đi nước ngoài."},
+      {"jp": "{外国人|がいこくじん}の{友|とも}だちもたくさんいます。", "vi": "Chị cũng có nhiều bạn người nước ngoài."},
+      {"jp": "{姉|あね}は、いつも{明|あか}るくて{元気|げんき}です。", "vi": "Chị tôi lúc nào cũng vui tươi và khỏe khoắn."},
+      {"jp": "{独身|どくしん}です。", "vi": "Chị còn độc thân."}
+     ],
+     [
+      {"jp": "{妹|いもうと}は、{大学生|だいがくせい}です。", "vi": "Em gái tôi là sinh viên đại học."},
+      {"jp": "{大学|だいがく}{2年生|にねんせい}です。", "vi": "Em là sinh viên năm hai."},
+      {"jp": "{大学|だいがく}で{心理学|しんりがく}を{勉強|べんきょう}しています。", "vi": "Em đang học tâm lý học ở trường đại học."},
+      {"jp": "{妹|いもうと}は、とてもまじめです。", "vi": "Em gái tôi rất nghiêm túc."}
+     ]
+    ]
+   }
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {
+   "no": "1-1",
+   "group": "A",
+   "video": 1338,
+   "title": "動詞の３グループ",
+   "sub": "（các loại động từ）",
+   "meaning": "Ba nhóm động từ trong tiếng Nhật",
+   "usage": [
+    "Trong tiếng Nhật, động từ được chia làm 3 nhóm chính dựa vào âm đứng trước ます.",
+    "Nhóm I: âm đứng trước ます thuộc hàng い (のみます、ききます、はなします、あそびます…). Nhóm II: âm đứng trước ます thuộc hàng え (たべます、みえます、きこえます…).",
+    "Nhóm III: します、{来|き}ます và các động từ N＋します (かいものします…)."
+   ],
+   "formulas": [
+    "Nhóm I: ～（hàng い）＋ ます　→　{飲|の}みます、{聞|き}きます、{話|はな}します、{遊|あそ}びます",
+    "Nhóm II: ～（hàng え）＋ ます　→　{食|た}べます、{見|み}えます、{聞|き}こえます",
+    "Nhóm III: します ／ {来|き}ます ／ N ＋ します"
+   ],
+   "examples": [
+    {"jp": "のみます、ききます、はなします、あそびます", "vi": "uống, nghe, nói chuyện, chơi (nhóm I)"},
+    {"jp": "たべます、みえます、きこえます", "vi": "ăn, nhìn thấy, nghe thấy (nhóm II)"},
+    {"jp": "します、{来|き}ます、かいものします", "vi": "làm, đến, mua sắm (nhóm III)"},
+    {"jp": "{父|ちち}は、{小|ちい}さい{会社|かいしゃ}を{経営|けいえい}しています。", "vi": "Bố tôi đang điều hành một công ty nhỏ.", "src": "text"}
+   ],
+   "extra": [
+    "Ngoại lệ: một số động từ có âm trước ます thuộc hàng い nhưng là nhóm II: みます、います、きます（{着|き}ます – mặc）、にます (trước ます chỉ có 1 âm tiết); かんじます、しんじます (đuôi じます).",
+    "Các động từ nhóm II bất quy tắc khác: {借|か}ります (mượn), {起|お}きます (thức dậy), {浴|あ}びます (tắm vòi sen), {落|お}ちます (rơi), {過|す}ぎます (quá, vượt qua), {閉|と}じます (đóng), {信|しん}じます (tin tưởng), {生|い}きます (sống), {足|た}ります (đủ), {降|お}ります (xuống xe), {延|の}びます (kéo dài)."
+   ],
+   "notes": [],
+   "table": null
+  },
+  {
+   "no": "1-2",
+   "group": "A",
+   "video": 1338,
+   "title": "て形",
+   "sub": "（cách chia động từ về thể て）",
+   "meaning": "Thể て của động từ",
+   "usage": [
+    "Thể て là dạng nối của động từ, dùng để tạo các mẫu câu như Vています, Vてください….",
+    "Nhóm I chia theo âm cuối đứng trước ます; nhóm II bỏ ます thêm て; nhóm III: します → して、きます → きて."
+   ],
+   "formulas": [
+    "Nhóm I: い・ち・り ＋ ます → って（{買|か}います → {買|か}って、{待|ま}ちます → {待|ま}って、{作|つく}ります → {作|つく}って）",
+    "Nhóm I: み・び・に ＋ ます → んで（{飲|の}みます → {飲|の}んで、{遊|あそ}びます → {遊|あそ}んで、{死|し}にます → {死|し}んで）",
+    "Nhóm I: き ＋ ます → いて（{聞|き}きます → {聞|き}いて）；ぎ ＋ ます → いで（{泳|およ}ぎます → {泳|およ}いで）；ngoại lệ {行|い}きます → {行|い}って",
+    "Nhóm I: し ＋ ます → して（{話|はな}します → {話|はな}して）",
+    "Nhóm II: Vます（bỏ ます）＋ て（{食|た}べます → {食|た}べて、{見|み}ます → {見|み}て）",
+    "Nhóm III: します → して、{来|き}ます → {来|き}て"
+   ],
+   "examples": [
+    {"jp": "すみます → すんで、ききます → きいて、つくります → つくって、はなします → はなして、あそびます → あそんで", "vi": "nhóm I"},
+    {"jp": "たべます → たべて、みます → みて", "vi": "nhóm II"},
+    {"jp": "します → して、きます → きて", "vi": "nhóm III"},
+    {"jp": "{兄|あに}は、{銀行|ぎんこう}に{勤|つと}めています。", "vi": "Anh trai tôi làm việc ở ngân hàng. (つとめます → つとめて)", "src": "text"},
+    {"jp": "よくパソコンで{遊|あそ}んでいます。", "vi": "Em hay chơi máy tính. (あそびます → あそんで)", "src": "text"}
+   ],
+   "extra": [
+    "Động từ trong bài: けいえいします → けいえいして、おしえます → おしえて、つとめます → つとめて、けっこんします → けっこんして、いきます → いって、あそびます → あそんで、すわります → すわって、よみます → よんで、のみます → のんで、あらいます → あらって、つくります → つくって、たちます → たって、まちます → まって."
+   ],
+   "notes": [],
+   "table": "te"
+  },
+  {
+   "no": "2-1",
+   "group": "A",
+   "video": 1339,
+   "title": "Vています",
+   "sub": "（trạng thái kéo dài）",
+   "meaning": "Đang … (trạng thái kéo dài, tình trạng hiện tại)",
+   "usage": [
+    "Dùng để diễn tả trạng thái kéo dài (thể hiện tình trạng hiện tại).",
+    "Đi với động từ chỉ trạng thái: すんでいます (đang sống), つとめています (đang làm việc ở), けっこんしています (đã kết hôn)…"
+   ],
+   "formulas": [
+    "V（chỉ trạng thái）て ＋ います",
+    "Phủ định: Vて ＋ いません（まだ けっこんしていません）"
+   ],
+   "examples": [
+    {"jp": "わたしは、ハノイに すんでいます。", "vi": "Tôi đang sống ở Hà Nội."},
+    {"jp": "わたしは、コンピュータの{会社|かいしゃ}で はたらいています。", "vi": "Tôi đang làm việc ở công ty máy tính."},
+    {"jp": "{父|ちち}も{母|はは}も{兄弟|きょうだい}も、マレーシアに{住|す}んでいます。", "vi": "Bố, mẹ và các anh chị em tôi đều đang sống ở Malaysia.", "src": "text"},
+    {"jp": "まだ、{結婚|けっこん}していません。", "vi": "Anh vẫn chưa lập gia đình.", "src": "text"}
+   ],
+   "extra": [
+    "Vて形 – nhóm I: すみます → すんで、ききます → きいて、つくります → つくって、はなします → はなして、あそびます → あそんで; nhóm II: たべます → たべて、みます → みて; nhóm III: します → して、きます → きて."
+   ],
+   "notes": [],
+   "table": null
+  },
+  {
+   "no": "2-2",
+   "group": "A",
+   "video": 1339,
+   "title": "Vています",
+   "sub": "（hành động đang diễn ra）",
+   "meaning": "Đang … (hiện tại tiếp diễn)",
+   "usage": [
+    "Dùng để diễn tả hành động đang diễn ra (hiện tại tiếp diễn).",
+    "Đi với động từ chỉ hoạt động: みています (đang xem), たべています (đang ăn), よんでいます (đang đọc)…"
+   ],
+   "formulas": [
+    "V（chỉ hoạt động）て ＋ います"
+   ],
+   "examples": [
+    {"jp": "おとこのひとは テレビを みています。", "vi": "Người đàn ông đang xem ti vi."},
+    {"jp": "おんなのひとは ごはんを たべています。", "vi": "Người phụ nữ đang ăn cơm."},
+    {"jp": "よくパソコンで{遊|あそ}んでいます。", "vi": "Em hay chơi máy tính.", "src": "text"},
+    {"jp": "{大学|だいがく}で{心理学|しんりがく}を{勉強|べんきょう}しています。", "vi": "Em đang học tâm lý học ở trường đại học.", "src": "text"}
+   ],
+   "extra": [
+    "Vています còn dùng cho việc làm lặp đi lặp lại, thói quen hiện nay: {大学|だいがく}で{英語|えいご}を{教|おし}えています (đang dạy tiếng Anh ở đại học), {同|おな}じ{学校|がっこう}に{行|い}っています (đang học cùng trường).",
+    "Quá khứ: Vていました（{大学生|だいがくせい}のときは、サッカーを{教|おし}えていました）."
+   ],
+   "notes": [],
+   "table": null
+  },
+  {
+   "no": "3",
+   "group": "A",
+   "video": 1340,
+   "title": "～は～が",
+   "sub": null,
+   "meaning": "N1 thì N2 … (chủ đề は, chủ ngữ が trong cùng một câu)",
+   "usage": [
+    "Trong tiếng Nhật, trợ từ は và が có thể xuất hiện trong cùng một câu để nhấn mạnh vai trò khác nhau của chủ đề (は) và chủ ngữ (が).",
+    "Khi は giới thiệu bối cảnh hoặc chủ đề chung, が được dùng để nhấn mạnh chủ ngữ hoặc người thực hiện hành động."
+   ],
+   "formulas": [
+    "N1 ＋ は ＋ N2 ＋ が ＋ ～（Aい／Aな／できます／すきです…）"
+   ],
+   "examples": [
+    {"jp": "{兄|あに}は、あたまが いいです。", "vi": "Anh trai tôi rất thông minh."},
+    {"jp": "{兄|あに}は、いろいろな スポーツが できます。", "vi": "Anh trai tôi có thể chơi rất nhiều môn thể thao."},
+    {"jp": "{母|はは}は、はなが すきです。", "vi": "Mẹ tôi rất thích hoa."},
+    {"jp": "{姉|あね}はピアノが{上手|じょうず}です。", "vi": "Chị tôi chơi piano giỏi.", "src": "text"},
+    {"jp": "{妹|いもうと}は、{数学|すうがく}と{物理|ぶつり}が{好|す}きです。", "vi": "Em gái tôi thích toán và vật lý.", "src": "text"}
+   ],
+   "extra": [
+    "Phân biệt は／が – は: nhấn mạnh chủ đề (chủ thể hoặc thông tin đã biết, nhấn vào phần sau câu): {私|わたし}は{学生|がくせい}です。(Tôi là học sinh.)",
+    "は: dùng để so sánh hoặc đối lập: {日本|にほん}は{暑|あつ}いですが、ベトナムはもっと{暑|あつ}いです。(Nhật Bản nóng, nhưng Việt Nam nóng hơn.)",
+    "が: nhấn mạnh chủ ngữ (ai / điều gì thực hiện hành động hoặc trạng thái): {猫|ねこ}が{好|す}きです。(Tôi thích mèo.)",
+    "が: dùng khi chủ ngữ chưa được biết hoặc xuất hiện lần đầu: {誰|だれ}が{来|き}ましたか。(Ai đã đến?)",
+    "が: nhấn mạnh trong câu thể hiện cảm xúc, sở thích, khả năng: ピアノが{弾|ひ}けます。(Tôi có thể chơi piano.)"
+   ],
+   "notes": [],
+   "table": null
+  }
+ ],
+ "essay": {
+  "title": "グループでの{活動|かつどう}を{紹介|しょうかい}するブログ",
+  "vi": "Blog giới thiệu hoạt động nhóm",
+  "use": [
+   "Vています（trạng thái kéo dài / hành động đang diễn ra）",
+   "～は～が",
+   "Aくて・Aで",
+   "～のときは・～のときから"
+  ],
+  "ideas": [
+   "Nhóm (câu lạc bộ, lớp, gia đình…) có mấy người, gồm những ai",
+   "Từng thành viên đang làm gì, học gì, làm việc ở đâu (Vています)",
+   "Tính cách, sở trường của mỗi người (～は～が いいです／できます／すきです)",
+   "Hoạt động chung của nhóm: hay đi đâu, làm gì cùng nhau; từ khi nào (～のときから)"
+  ]
+ },
+ "verbs": [
+  {"m": "けいえいします", "k": "経営します", "g": 3, "vi": "kinh doanh, điều hành"},
+  {"m": "しごとをします", "k": "仕事をします", "g": 3, "vi": "làm việc"},
+  {"m": "おしえます", "k": "教えます", "g": 2, "vi": "dạy"},
+  {"m": "つとめます", "k": "勤めます", "g": 2, "vi": "làm việc ở (công ty, ngân hàng…)"},
+  {"m": "けっこんします", "k": "結婚します", "g": 3, "vi": "kết hôn"},
+  {"m": "けんきゅうをします", "k": "研究をします", "g": 3, "vi": "nghiên cứu"},
+  {"m": "ピアノきょうしつをします", "k": "ピアノ教室をします", "g": 3, "vi": "mở lớp dạy piano"},
+  {"m": "いきます", "k": "行きます", "g": 1, "vi": "đi"},
+  {"m": "あそびます", "k": "遊びます", "g": 1, "vi": "chơi"},
+  {"m": "そだてます", "k": "育てます", "g": 2, "vi": "trồng, nuôi"},
+  {"m": "すわります", "k": "座ります", "g": 1, "vi": "ngồi"},
+  {"m": "みます", "k": "見ます", "g": 2, "vi": "xem"},
+  {"m": "ききます", "k": "聞きます", "g": 1, "vi": "nghe"},
+  {"m": "パソコンをします", "k": "パソコンをします", "g": 3, "vi": "dùng máy tính"},
+  {"m": "はなしをします", "k": "話をします", "g": 3, "vi": "nói chuyện"},
+  {"m": "よみます", "k": "読みます", "g": 1, "vi": "đọc"},
+  {"m": "のみます", "k": "飲みます", "g": 1, "vi": "uống"},
+  {"m": "たべます", "k": "食べます", "g": 2, "vi": "ăn"},
+  {"m": "あらいます", "k": "洗います", "g": 1, "vi": "rửa"},
+  {"m": "つくります", "k": "作ります", "g": 1, "vi": "nấu, làm"},
+  {"m": "たちます", "k": "立ちます", "g": 1, "vi": "đứng"},
+  {"m": "まちます", "k": "待ちます", "g": 1, "vi": "đợi"}
+ ]
+}

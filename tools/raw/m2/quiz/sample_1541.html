@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Document</title>
+    <style>
+        @page  { margin-left: 10px; margin-right: 10px; padding-left: 0; padding-right: 0; }
+        @font-face {
+            font-family: 'NotoSansJp';
+            font-style: normal;
+            font-weight: normal;
+            src: url('/var/www/html/storage/fonts/NotoSansJP/NotoSansJP-Regular.ttf');
+        }
+
+        @font-face {
+            font-family: 'NotoSansJp';
+            font-style: normal;
+            font-weight: bold;
+            src: url('/var/www/html/storage/fonts/NotoSansJP/NotoSansJP-Bold.ttf');
+        }
+
+        * {
+            font-family: 'NotoSansJp', "DejaVu Sans", sans-serif;
+            font-size: 12px;
+        }
+
+        .rounded {
+            border-radius: 8px !important;
+        }
+
+        .text-center {
+            text-align: center !important;
+        }
+
+        .m-0 {
+            margin: 0 !important;
+        }
+
+        .mt-0,
+        .my-0 {
+            margin-top: 0 !important;
+        }
+
+        .mr-0,
+        .mx-0 {
+            margin-right: 0 !important;
+        }
+
+        .mb-0,
+        .my-0 {
+            margin-bottom: 0 !important;
+        }
+
+        .ml-0,
+        .mx-0 {
+            margin-left: 0 !important;
+        }
+
+        .m-1 {
+            margin: 0.25rem !important;
+        }
+
+        .mt-1,
+        .my-1 {
+            margin-top: 0.25rem !important;
+        }
+
+        .mr-1,
+        .mx-1 {
+            margin-right: 0.25rem !important;
+        }
+
+        .mb-1,
+        .my-1 {
+            margin-bottom: 0.25rem !important;
+        }
+
+        .ml-1,
+        .mx-1 {
+            margin-left: 0.25rem !important;
+        }
+
+        .m-2 {
+            margin: 0.5rem !important;
+        }
+
+        .mt-2,
+        .my-2 {
+            margin-top: 0.5rem !important;
+        }
+
+        .mr-2,
+        .mx-2 {
+            margin-right: 0.5rem !important;
+        }
+
+        .mb-2,
+        .my-2 {
+            margin-bottom: 0.5rem !important;
+        }
+
+        .ml-2,
+        .mx-2 {
+            margin-left: 0.5rem !important;
+        }
+
+        .m-3 {
+            margin: 1rem !important;
+        }
+
+        .mt-3,
+        .my-3 {
+            margin-top: 1rem !important;
+        }
+
+        .mr-3,
+        .mx-3 {
+            margin-right: 1rem !important;
+        }
+
+        .mb-3,
+        .my-3 {
+            margin-bottom: 1rem !important;
+        }
+
+        .ml-3,
+        .mx-3 {
+            margin-left: 1rem !important;
+        }
+
+        .m-4 {
+            margin: 1.5rem !important;
+        }
+
+        .mt-4,
+        .my-4 {
+            margin-top: 1.5rem !important;
+        }
+
+        .mr-4,
+        .mx-4 {
+            margin-right: 1.5rem !important;
+        }
+
+        .mb-4,
+        .my-4 {
+            margin-bottom: 1.5rem !important;
+        }
+
+        .ml-4,
+        .mx-4 {
+            margin-left: 1.5rem !important;
+        }
+
+        .m-5 {
+            margin: 3rem !important;
+        }
+
+        .mt-5,
+        .my-5 {
+            margin-top: 3rem !important;
+        }
+
+        .mr-5,
+        .mx-5 {
+            margin-right: 3rem !important;
+        }
+
+        .mb-5,
+        .my-5 {
+            margin-bottom: 3rem !important;
+        }
+
+        .ml-5,
+        .mx-5 {
+            margin-left: 3rem !important;
+        }
+
+        .p-0 {
+            padding: 0 !important;
+        }
+
+        .pt-0,
+        .py-0 {
+            padding-top: 0 !important;
+        }
+
+        .pr-0,
+        .px-0 {
+            padding-right: 0 !important;
+        }
+
+        .pb-0,
+        .py-0 {
+            padding-bottom: 0 !important;
+        }
+
+        .pl-0,
+        .px-0 {
+            padding-left: 0 !important;
+        }
+
+        .p-1 {
+            padding: 0.25rem !important;
+        }
+
+        .pt-1,
+        .py-1 {
+            padding-top: 0.25rem !important;
+        }
+
+        .pr-1,
+        .px-1 {
+            padding-right: 0.25rem !important;
+        }
+
+        .pb-1,
+        .py-1 {
+            padding-bottom: 0.25rem !important;
+        }
+
+        .pl-1,
+        .px-1 {
+            padding-left: 0.25rem !important;
+        }
+
+        .p-2 {
+            padding: 0.5rem !important;
+        }
+
+        .pt-2,
+        .py-2 {
+            padding-top: 0.5rem !important;
+        }
+
+        .pr-2,
+        .px-2 {
+            padding-right: 0.5rem !important;
+        }
+
+        .pb-2,
+        .py-2 {
+            padding-bottom: 0.5rem !important;
+        }
+
+        .pl-2,
+        .px-2 {
+            padding-left: 0.5rem !important;
+        }
+
+        .p-3 {
+            padding: 1rem !important;
+        }
+
+        .pt-3,
+        .py-3 {
+            padding-top: 1rem !important;
+        }
+
+        .pr-3,
+        .px-3 {
+            padding-right: 1rem !important;
+        }
+
+        .pb-3,
+        .py-3 {
+            padding-bottom: 1rem !important;
+        }
+
+        .pl-3,
+        .px-3 {
+            padding-left: 1rem !important;
+        }
+
+        .p-4 {
+            padding: 1.5rem !important;
+        }
+
+        .pt-4,
+        .py-4 {
+            padding-top: 1.5rem !important;
+        }
+
+        .pr-4,
+        .px-4 {
+            padding-right: 1.5rem !important;
+        }
+
+        .pb-4,
+        .py-4 {
+            padding-bottom: 1.5rem !important;
+        }
+
+        .pl-4,
+        .px-4 {
+            padding-left: 1.5rem !important;
+        }
+
+        .p-5 {
+            padding: 3rem !important;
+        }
+
+        .pt-5,
+        .py-5 {
+            padding-top: 3rem !important;
+        }
+
+        .pr-5,
+        .px-5 {
+            padding-right: 3rem !important;
+        }
+
+        .pb-5,
+        .py-5 {
+            padding-bottom: 3rem !important;
+        }
+
+        .pl-5,
+        .px-5 {
+            padding-left: 3rem !important;
+        }
+
+        .d-flex {
+            display: flex !important;
+        }
+
+        .d-inline-flex {
+            display: inline-flex !important;
+        }
+
+    </style>
+    <style>
+        .separator {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #2063af;
+        }
+        .border-blue {
+            border: 1px solid #2063af;
+        }
+        .single-choice-answer-content p {
+            margin: 0;
+        }
+        .multiple-choice-answer-content p {
+            margin: 0;
+        }
+        .nice-input-border {
+            border: 1px solid #CED4DAFF;
+        }
+        .bg-white {
+            background-color: #FFFFFF !important;
+        }
+        .bg-gray-f3 {
+            background-color: #F3F3F3FF;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <p style="font-size: 25px">
+            [U4-P4]ドリル
+        </p>
+    </div>
+                <div style="padding-left: 10px; padding-top: 10px; padding-bottom: 10px; color: white; background-color: #2063af">
+            <h1>
+                Part I - 正しい答えを選んでください。Hãy chọn đáp án đúng
+            </h1>
+        </div>
+                <div class="ml-3 mr-3">
+                                                                <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (1) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>きんよう（<strong>び</strong>）に　にほんに　いきます。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>目</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>土</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>古</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (2) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>このほんは（<strong>ふるい</strong>）です。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>口い</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>中い</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>車い</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>古い</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (3) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>わたしは（<strong>にほん</strong>）じんです。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日本</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>目本&nbsp;</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>目木&nbsp;</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日木&nbsp;</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (4) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>わたしは（<strong>やま</strong>）川です。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>  車</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>山</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>目</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>三</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (5) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>でん（<strong>しゃ</strong>）で　がっこうに　いきます。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>転</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>運</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>自</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>車</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (6) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>（<strong>め</strong>）が　おおきいです。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>土</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>古</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>目</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (7) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>（<strong>ちゅう</strong>）ごくごを　べんきょうします。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>古</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>車</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>中</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (8) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>（<strong>かわ</strong>）で　およぎます。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>川</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>ニ</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>三</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>海</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (9) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>（<strong>ど</strong>）ようびはやすみます。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>十</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>ニ</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>土</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>三</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            <div class="separator">
+                    </div>
+                                                                    <div class="pb-2 questions">
+    <table>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    (10) Single choice                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <strong>
+                    <p>（<strong>くち</strong>）がちいさいです。</p>
+                </strong>
+            </td>
+        </tr>
+    </table>
+    <div class="ml-2">
+        <table>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>古</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>日</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>中</p>
+                    </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <input type="radio" class="m-0 p-0">
+                    </td>
+                    <td class="single-choice-answer-content">
+                        <p>口</p>
+                    </td>
+                </tr>
+                    </table>
+
+    </div>
+</div>                                                            </div>
+            <div style="padding-left: 10px; padding-top: 10px; padding-bottom: 10px; color: white; background-color: #2063af">
+            <h1>
+                Part II - 漢字の読み方を書いてください。Hãy viết cách đọc của những Hán tự dưới đây.
+            </h1>
+        </div>
+                <div class="ml-3 mr-3">
+                                                                <div class="mb-3 pb-2 questions">
+    <div>
+        <strong>
+            (1) Fill in the blanks        </strong>
+    </div>
+    <div class="ml-2">
+                    <p>1. A：いま、なんじですか。<br>&nbsp; &nbsp; B:　( <strong>十 じ</strong>）です。<br>➡　(1: ..............................)<br><br>2．(<strong>土よう日</strong>)　べんきょうします<br>➡　(2: ..............................)<br><br>3．たなかさんは　(<strong>日ほんじん</strong>)　です。<br>➡　(3: ..............................)<br><br>4．(<strong>山川</strong>)さんは　中がくせい　ですす。<br>➡　(4: ..............................)<br><br>5．まいにち、(<strong>じてん車</strong>)で　がっこうに　いきます。<br>➡　(5: ..............................)<br><br>6．このほんは　(<strong>古い</strong>)　です。<br>➡　(6: ..............................)</p><ul><li>Section [1] is a short answer</li><li>Section [2] is a short answer</li><li>Section [3] is a short answer</li><li>Section [4] is a short answer</li><li>Section [5] is a short answer</li><li>Section [6] is a short answer</li></ul>
+            </div>
+</div>
+                                                            </div>
+    </body>
+</html>

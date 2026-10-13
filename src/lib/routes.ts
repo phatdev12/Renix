@@ -5,6 +5,7 @@ export interface NavItem { key: string; icon: string; label: string; jp: string 
 export const NAV: NavItem[] = [
   { key: '', icon: 'home', label: 'Tổng quan', jp: 'ホーム' },
   { key: 'text', icon: 'book', label: 'Bài khóa', jp: 'ほんぶん' },
+  { key: 'se', icon: 'zap', label: 'Chuyên ngành', jp: 'よみもの' },
   { key: 'vocab', icon: 'cards', label: 'Từ vựng', jp: 'ことば' },
   { key: 'grammar', icon: 'puzzle', label: 'Ngữ pháp', jp: 'ぶんぽう' },
   { key: 'kanji', icon: 'kanji', label: 'Kanji', jp: 'かんじ' },

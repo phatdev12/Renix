@@ -9,7 +9,7 @@ import type { Grammar, WithUnit } from '../../lib/types';
 import * as W from '../../lib/widgets';
 
 function gcard(g: WithUnit<Grammar>, open: boolean) {
-  const card = h('div', { class: 'card gcard' + (open ? ' open' : ''), id: 'g-' + g.id, style: { '--c': `var(--u${g.u})` } });
+  const card = h('div', { class: 'card gcard' + (open ? ' open' : ''), id: 'g-' + g.id, style: { '--c': 'var(--unit)' } });
   const head = h('div', { class: 'gcard-head', onclick: () => { card.classList.toggle('open'); remember(); } },
     h('div', { class: 'gnum' }, g.no),
     h('div', { style: { minWidth: 0 } },

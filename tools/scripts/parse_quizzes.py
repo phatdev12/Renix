@@ -12,8 +12,12 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString
 
+import os
+
 ROOT = Path(__file__).resolve().parent.parent
-Q = ROOT / "raw" / "quiz"
+KEY = os.environ.get("NIX_KEY", "")          # "" = course M3 (raw/quiz), "m2" = course M2 (raw/m2/quiz)
+Q = ROOT / "raw" / (KEY + "/quiz" if KEY else "quiz")
+SUFFIX = "_" + KEY if KEY else ""
 MEDIA = ROOT / "qmedia"
 REMOTE = set()
 
@@ -191,12 +195,16 @@ def main():
     out = []
     for qid, meta in index.items():
         p = Q / f"sample_{qid}.html"
+        if not p.exists():
+            print("no sample sheet for quiz", qid, meta["title"])
+            continue
         d = parse(p)
-        d.update({"id": qid, "unit": int(re.search(r"\d+", meta["unit"]).group()),
+        um = re.search(r"\d+", meta["unit"])
+        d.update({"id": qid, "unit": int(um.group()) if um else 0,
                   "lesson": meta["lesson"], "name": meta["title"]})
         out.append(d)
-    (ROOT / "quizzes.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    (ROOT / "qmedia_remote.txt").write_text("\n".join(sorted(REMOTE)), encoding="utf-8")
+    (ROOT / f"quizzes{SUFFIX}.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ROOT / f"qmedia_remote{SUFFIX}.txt").write_text("\n".join(sorted(REMOTE)), encoding="utf-8")
     import collections
     c = collections.Counter(q["type"] for d in out for p in d["parts"] for q in p["questions"])
     print(c, "remote media:", len(REMOTE), "local imgs:", len(list(MEDIA.glob("*"))))

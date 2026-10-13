@@ -1,0 +1,2255 @@
+[
+ {
+  "id": "607",
+  "title": "Unit 1",
+  "lessons": [
+   {
+    "id": "679",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/679",
+    "activities": [
+     {
+      "id": "1220",
+      "title": "[U1-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p1-11/607/679/activity",
+      "icons": []
+     },
+     {
+      "id": "1221",
+      "title": "[U1P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1p1/607/679/activity",
+      "icons": []
+     },
+     {
+      "id": "2007",
+      "title": "[U1-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p1-28/607/679/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "680",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/680",
+    "activities": [
+     {
+      "id": "1222",
+      "title": "[U1-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p2-15/607/680/activity",
+      "icons": []
+     },
+     {
+      "id": "2330",
+      "title": "[U1-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p2-39/607/680/quiz",
+      "icons": []
+     },
+     {
+      "id": "2374",
+      "title": "[U1-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p2-40/607/680/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "681",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/681",
+    "activities": [
+     {
+      "id": "1223",
+      "title": "[U1-P3]ビデオ１：〜は〜です。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-41/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "2332",
+      "title": "[U1-P3] ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-78/607/681/quiz",
+      "icons": []
+     },
+     {
+      "id": "1224",
+      "title": "[U1-P3]ビデオ２：〜ですか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-39/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1650",
+      "title": "[U1P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1p3/607/681/quiz",
+      "icons": []
+     },
+     {
+      "id": "1225",
+      "title": "[U1-P3]ビデオ３：N１のN２",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3nn-8/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1226",
+      "title": "[U1-P3]ビデオ４：N１のN２",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3nn-9/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1227",
+      "title": "[U1-P3]ビデオ５：〜ご",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-40/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1651",
+      "title": "[U1P3]ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1p3-1/607/681/quiz",
+      "icons": []
+     },
+     {
+      "id": "1228",
+      "title": "[U1-P3]ビデオ６： なんねんせいですか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-38/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1229",
+      "title": "[U1-P3]ビデオ７：がくぶは？",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-42/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1652",
+      "title": "[U1P3] ドリル ③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1p3-2/607/681/quiz",
+      "icons": []
+     },
+     {
+      "id": "1230",
+      "title": "[U1-P3]ビデオ８：どこからきましたか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-43/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1231",
+      "title": "[U1-P3]ビデオ９：なんさいですか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-44/607/681/activity",
+      "icons": []
+     },
+     {
+      "id": "1653",
+      "title": "[U1P3] ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1p3-3/607/681/quiz",
+      "icons": []
+     },
+     {
+      "id": "1710",
+      "title": "[U1-P3] テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p3-65/607/681/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "682",
+    "title": "Part 4：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/682",
+    "activities": [
+     {
+      "id": "1515",
+      "title": "[U1-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p4-22/607/682/quiz",
+      "icons": []
+     },
+     {
+      "id": "1232",
+      "title": "[U1-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p4-12/607/682/activity",
+      "icons": []
+     },
+     {
+      "id": "1791",
+      "title": "[U1-P4] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u1-p4-23/607/682/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "683",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "608",
+  "title": "Unit 2",
+  "lessons": [
+   {
+    "id": "684",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/684",
+    "activities": [
+     {
+      "id": "1235",
+      "title": "[U2-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p1-9/608/684/activity",
+      "icons": []
+     },
+     {
+      "id": "1236",
+      "title": "[U2P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2p1/608/684/activity",
+      "icons": []
+     },
+     {
+      "id": "2032",
+      "title": "[U2-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p1-22/608/684/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "685",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/685",
+    "activities": [
+     {
+      "id": "1237",
+      "title": "[U2-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p2-12/608/685/activity",
+      "icons": []
+     },
+     {
+      "id": "2014",
+      "title": "[U2-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p2-32/608/685/quiz",
+      "icons": []
+     },
+     {
+      "id": "1800",
+      "title": "[U2-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p2-30/608/685/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "686",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/686",
+    "activities": [
+     {
+      "id": "1238",
+      "title": "[U2-P3]ビデオ１：なんにんですか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-17/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1239",
+      "title": "[U2-P3]ビデオ２：N1とN2",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3n1n2-3/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "2328",
+      "title": "[U2-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-46/608/686/quiz",
+      "icons": []
+     },
+     {
+      "id": "1240",
+      "title": "[U2-P3]ビデオ３：そして",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-18/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1672",
+      "title": "[U2-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-38/608/686/quiz",
+      "icons": []
+     },
+     {
+      "id": "1241",
+      "title": "[U2-P3]ビデオ４：Nがすきです。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3n-9/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1242",
+      "title": "[U2-P3]ビデオ５：なにをしていますか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-19/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1673",
+      "title": "[U2-P3]ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-39/608/686/quiz",
+      "icons": []
+     },
+     {
+      "id": "1243",
+      "title": "[U2-P3]ビデオ６：Nは、いますか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3n-10/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1244",
+      "title": "[U2-P3]ビデオ７：これはNです。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3n-11/608/686/activity",
+      "icons": []
+     },
+     {
+      "id": "1674",
+      "title": "[U2-P3]ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-40/608/686/quiz",
+      "icons": []
+     },
+     {
+      "id": "1801",
+      "title": "[U2-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p3-41/608/686/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "687",
+    "title": "Part 4：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/687",
+    "activities": [
+     {
+      "id": "1717",
+      "title": "[U2-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p4-17/608/687/quiz",
+      "icons": []
+     },
+     {
+      "id": "1245",
+      "title": "[U2-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p4-10/608/687/activity",
+      "icons": []
+     },
+     {
+      "id": "1792",
+      "title": "[U2-P4] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u2-p4-18/608/687/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "688",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "610",
+  "title": "Unit 3",
+  "lessons": [
+   {
+    "id": "689",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/689",
+    "activities": [
+     {
+      "id": "1249",
+      "title": "[U3-P1]ビデオA",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p1a-3/610/689/activity",
+      "icons": []
+     },
+     {
+      "id": "1250",
+      "title": "[U3-P1]ビデオB",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p1b-3/610/689/activity",
+      "icons": []
+     },
+     {
+      "id": "1251",
+      "title": "[U3P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3p1/610/689/activity",
+      "icons": []
+     },
+     {
+      "id": "1871",
+      "title": "[U3-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p1-13/610/689/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "690",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/690",
+    "activities": [
+     {
+      "id": "1252",
+      "title": "[U3-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p2-12/610/690/activity",
+      "icons": []
+     },
+     {
+      "id": "2051",
+      "title": "[U3-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p2-34/610/690/quiz",
+      "icons": []
+     },
+     {
+      "id": "1647",
+      "title": "[U3-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p2-30/610/690/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "691",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/691",
+    "activities": [
+     {
+      "id": "1253",
+      "title": "[U3-P3]ビデオ１：〜すきです・〜すきではありません。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-23/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1254",
+      "title": "[U3-P3]ビデオ２：どんなNがすきですか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3n-9/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1675",
+      "title": "[U3-P3]ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-41/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1255",
+      "title": "[U3-P3]ビデオ３：Vます・Vません。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3vv-6/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1256",
+      "title": "[U3-P3]ビデオ４：なにをVますか・いつVますか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3vv-7/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1257",
+      "title": "[U3-P3]ビデオ５：N１やN2・Nのとき",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3nn2n-3/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1258",
+      "title": "[U3-P3]ビデオ６：Nも",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3n-10/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1259",
+      "title": "[U3-P3]ビデオ７：Nといっしょに",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3n-11/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1260",
+      "title": "[U3-P3]ビデオ８：でも",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-24/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1261",
+      "title": "[U3-P3]ビデオ ９：１日・周・月に～回",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-25/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1262",
+      "title": "[U3-P3]ビデオ１０：いつも・たいてい・よく・ときどき・たまに",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-26/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1263",
+      "title": "[U3-P3]ビデオ１１：すうじの数え方",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-27/610/691/activity",
+      "icons": []
+     },
+     {
+      "id": "1676",
+      "title": "[U3-P3]ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-43/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1755",
+      "title": "[U3-P3]ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-45/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1756",
+      "title": "[U3-P3]ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-46/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1757",
+      "title": "[U3-P3]ドリル⑤",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-47/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1758",
+      "title": "[U3-P3]ドリル⑥",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-48/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "2077",
+      "title": "[U3-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-51/610/691/quiz",
+      "icons": []
+     },
+     {
+      "id": "1534",
+      "title": "[U3-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p3-38/610/691/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "692",
+    "title": "Part 4：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/692",
+    "activities": [
+     {
+      "id": "1535",
+      "title": "[U3-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p4-13/610/692/quiz",
+      "icons": []
+     },
+     {
+      "id": "1264",
+      "title": "[U3-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p4-10/610/692/activity",
+      "icons": []
+     },
+     {
+      "id": "1794",
+      "title": "[U3-P4] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u3-p4-18/610/692/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "693",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "611",
+  "title": "Unit 4",
+  "lessons": [
+   {
+    "id": "694",
+    "title": "Part 1: マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/694",
+    "activities": [
+     {
+      "id": "1267",
+      "title": "[U4-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p1-13/611/694/activity",
+      "icons": []
+     },
+     {
+      "id": "1268",
+      "title": "[U4-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p1-14/611/694/activity",
+      "icons": []
+     },
+     {
+      "id": "1269",
+      "title": "[U4P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4p1/611/694/activity",
+      "icons": []
+     },
+     {
+      "id": "1536",
+      "title": "[U4-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p1-24/611/694/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "695",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/695",
+    "activities": [
+     {
+      "id": "1270",
+      "title": "[U4-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p2-18/611/695/activity",
+      "icons": []
+     },
+     {
+      "id": "2053",
+      "title": "[U4-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p2-32/611/695/quiz",
+      "icons": []
+     },
+     {
+      "id": "1648",
+      "title": "[U4-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p2-31/611/695/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "696",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/696",
+    "activities": [
+     {
+      "id": "1271",
+      "title": "[U4-P3]ビデオ１：〜じ・〜ふん",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-22/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1272",
+      "title": "[U4-P3]ビデオ２：（じかん）にVます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3v-25/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1761",
+      "title": "[U4-P3]ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-38/611/696/quiz",
+      "icons": []
+     },
+     {
+      "id": "1273",
+      "title": "[U4-P3]ビデオ３：N１かN２",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3nn-5/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1274",
+      "title": "[U4-P3]ビデオ４：～から～までVます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3v-26/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1762",
+      "title": "[U4-P3]ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-39/611/696/quiz",
+      "icons": []
+     },
+     {
+      "id": "1275",
+      "title": "[U4-P3]ビデオ５：（ばしょ）にVます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3v-27/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1276",
+      "title": "[U4-P3]ビデオ６：それから・Nのあと",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3n-5/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1763",
+      "title": "[U4-P3]ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-40/611/696/quiz",
+      "icons": []
+     },
+     {
+      "id": "1277",
+      "title": "[U4-P3]ビデオ７：（ばしょ）でVます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3v-28/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1278",
+      "title": "[U4-P3]ビデオ８：（ばしょ）から ばしょまで",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-23/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1279",
+      "title": "[U4-P3]ビデオ９：（しゅだん）で Vます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-v/611/696/activity",
+      "icons": []
+     },
+     {
+      "id": "1764",
+      "title": "[U4-P3]ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-41/611/696/quiz",
+      "icons": []
+     },
+     {
+      "id": "2055",
+      "title": "[U4-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-45/611/696/quiz",
+      "icons": []
+     },
+     {
+      "id": "1663",
+      "title": "[U4-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p3-37/611/696/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "697",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/697",
+    "activities": [
+     {
+      "id": "1280",
+      "title": "[U4-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p4-18/611/697/activity",
+      "icons": []
+     },
+     {
+      "id": "1541",
+      "title": "[U4-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p4-30/611/697/quiz",
+      "icons": []
+     },
+     {
+      "id": "1542",
+      "title": "[U4-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p4-31/611/697/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "698",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/698",
+    "activities": [
+     {
+      "id": "1531",
+      "title": "[U4-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p5-14/611/698/quiz",
+      "icons": []
+     },
+     {
+      "id": "1281",
+      "title": "[U4-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p5-11/611/698/activity",
+      "icons": []
+     },
+     {
+      "id": "1795",
+      "title": "[U4-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u4-p5-15/611/698/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "699",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "613",
+  "title": "Unit 5",
+  "lessons": [
+   {
+    "id": "700",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/700",
+    "activities": [
+     {
+      "id": "1285",
+      "title": "[U5-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p1-13/613/700/activity",
+      "icons": []
+     },
+     {
+      "id": "1286",
+      "title": "[U5-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p1-14/613/700/activity",
+      "icons": []
+     },
+     {
+      "id": "1287",
+      "title": "[U5P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5p1/613/700/activity",
+      "icons": []
+     },
+     {
+      "id": "1418",
+      "title": "[U5-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p1-19/613/700/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "701",
+    "title": "Part 2：ことば",
+    "info": null,
+    "activities": [
+     {
+      "id": "1288",
+      "title": "[U5-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p2-15/613/701/activity",
+      "icons": []
+     },
+     {
+      "id": "2056",
+      "title": "[U5-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p2-27/613/701/quiz",
+      "icons": []
+     },
+     {
+      "id": "1649",
+      "title": "[U5-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p2-26/613/701/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "702",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/702",
+    "activities": [
+     {
+      "id": "1289",
+      "title": "[U5-P3]ビデオ１：い-けいようし・な-けいようし (Adj)（現在形）",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-adj-4/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1999",
+      "title": "[U5-P3]ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-44/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "1290",
+      "title": "[U5-P3]ビデオ２：Vました・Vませんでした（動詞の過去形）",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3vv-4/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1291",
+      "title": "[U5-P3]ビデオ３：Nでした・Nではありませんでした（名詞の過去形）",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3nn-4/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1292",
+      "title": "[U5-P3]ビデオ４：い‐Adjでした（い形容詞の過去形）",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3adj-8/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1293",
+      "title": "[U5-P3]ビデオ５：な‐Adjでした（な形容詞の過去形）",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3adj-9/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1294",
+      "title": "[U5-P3]ビデオ６：ばしょにNがいます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3n-8/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1295",
+      "title": "[U5-P3]ビデオ７：ばしょにNがあります。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3n-9/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1296",
+      "title": "[U5-P3]ビデオ８：ですから",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-22/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1297",
+      "title": "[U5-P3]ビデオ９：日・月の数え方",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-23/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1298",
+      "title": "[U5-P3]ビデオ１０：期間の言い方",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-24/613/702/activity",
+      "icons": []
+     },
+     {
+      "id": "1771",
+      "title": "[U5-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-37/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "1772",
+      "title": "[U5-P3] ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-38/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "1773",
+      "title": "[U5-P3] ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-39/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "1774",
+      "title": "[U5-P3] ドリル⑤",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-40/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "2057",
+      "title": "[U5-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-45/613/702/quiz",
+      "icons": []
+     },
+     {
+      "id": "1665",
+      "title": "[U5-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p3-35/613/702/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "703",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/703",
+    "activities": [
+     {
+      "id": "1299",
+      "title": "[U5-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p4-15/613/703/activity",
+      "icons": []
+     },
+     {
+      "id": "2525",
+      "title": "[U5-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p4-31/613/703/quiz",
+      "icons": []
+     },
+     {
+      "id": "1719",
+      "title": "[U5-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p4-26/613/703/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "704",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/704",
+    "activities": [
+     {
+      "id": "1718",
+      "title": "[U5-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p5-12/613/704/quiz",
+      "icons": []
+     },
+     {
+      "id": "1300",
+      "title": "[U5-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p5-9/613/704/activity",
+      "icons": []
+     },
+     {
+      "id": "1797",
+      "title": "[U5-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u5-p5-13/613/704/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "705",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "614",
+  "title": "Unit 6",
+  "lessons": [
+   {
+    "id": "706",
+    "title": "Part 1：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/706",
+    "activities": [
+     {
+      "id": "1303",
+      "title": "[U6-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p1-11/614/706/activity",
+      "icons": []
+     },
+     {
+      "id": "1304",
+      "title": "[U6P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6p1/614/706/activity",
+      "icons": []
+     },
+     {
+      "id": "1597",
+      "title": "[U6-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p1-19/614/706/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "707",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/707",
+    "activities": [
+     {
+      "id": "1305",
+      "title": "[U6-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p2-15/614/707/activity",
+      "icons": []
+     },
+     {
+      "id": "1654",
+      "title": "[U6-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p2-27/614/707/quiz",
+      "icons": []
+     },
+     {
+      "id": "2063",
+      "title": "[U6-P2] ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p2-31/614/707/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "708",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/708",
+    "activities": [
+     {
+      "id": "1306",
+      "title": "[U6-P3]ビデオ１：い‐Adjくないです・い‐Adjくなかったです。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3adjadj-12/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "2080",
+      "title": "[U6-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-46/614/708/quiz",
+      "icons": []
+     },
+     {
+      "id": "1307",
+      "title": "[U6-P3]ビデオ２：な‐Adjではありません・な‐Adjではありませんでした。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3adjadj-13/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1308",
+      "title": "[U6-P3]ビデオ３：い‐Adjくて・な‐Adjで",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3adjadj-14/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1777",
+      "title": "[U6-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-42/614/708/quiz",
+      "icons": []
+     },
+     {
+      "id": "1309",
+      "title": "[U6-P3]ビデオ４：Nに行きます・V(ます)に行きます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3nv-4/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1310",
+      "title": "[U6-P3]ビデオ５：それで",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-26/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1778",
+      "title": "[U6-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-41/614/708/quiz",
+      "icons": []
+     },
+     {
+      "id": "1311",
+      "title": "[U6-P3]ビデオ６：どうでしたか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-27/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1312",
+      "title": "[U6-P3]ビデオ７：知っています。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-28/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1779",
+      "title": "[U6-P3] ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-43/614/708/quiz",
+      "icons": []
+     },
+     {
+      "id": "1313",
+      "title": "[U6-P3]ビデオ８：まえ・なか・となり・よこ・おく",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-29/614/708/activity",
+      "icons": []
+     },
+     {
+      "id": "1780",
+      "title": "[U6-P3] ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-44/614/708/quiz",
+      "icons": []
+     },
+     {
+      "id": "1667",
+      "title": "[U6-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p3-40/614/708/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "709",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/709",
+    "activities": [
+     {
+      "id": "1314",
+      "title": "[U6-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p4-15/614/709/activity",
+      "icons": []
+     },
+     {
+      "id": "1966",
+      "title": "[U6-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p4-24/614/709/quiz",
+      "icons": []
+     },
+     {
+      "id": "1723",
+      "title": "[U6-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p4-23/614/709/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "710",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/710",
+    "activities": [
+     {
+      "id": "2368",
+      "title": "[U6-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p5-14/614/710/quiz",
+      "icons": []
+     },
+     {
+      "id": "1315",
+      "title": "[U6-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p5-9/614/710/activity",
+      "icons": []
+     },
+     {
+      "id": "1796",
+      "title": "[U6-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u6-p5-13/614/710/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "711",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "616",
+  "title": "Unit 7",
+  "lessons": [
+   {
+    "id": "712",
+    "title": "Part 1：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/712",
+    "activities": [
+     {
+      "id": "1319",
+      "title": "[U7-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p1-11/616/712/activity",
+      "icons": []
+     },
+     {
+      "id": "1320",
+      "title": "[U7P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7p1/616/712/activity",
+      "icons": []
+     },
+     {
+      "id": "1598",
+      "title": "[U7-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p1-18/616/712/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "713",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/713",
+    "activities": [
+     {
+      "id": "1321",
+      "title": "[U7-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p2-13/616/713/activity",
+      "icons": []
+     },
+     {
+      "id": "1571",
+      "title": "[U7-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p2-21/616/713/quiz",
+      "icons": []
+     },
+     {
+      "id": "1655",
+      "title": "[U7-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p2-22/616/713/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "714",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/714",
+    "activities": [
+     {
+      "id": "1322",
+      "title": "[U7-P3]ビデオ１：Vますか・Vませんか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3vv-4/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1323",
+      "title": "[U7-P3]ビデオ２：Vましょうか。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3v-6/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1781",
+      "title": "[U7-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-52/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "1324",
+      "title": "[U7-P3]ビデオ３：どうして・なぜ〜から",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-34/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1325",
+      "title": "[U7-P3]ビデオ４：〜がきこえます・〜がみえます・〜ができます。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-35/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1782",
+      "title": "[U7-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-53/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "1326",
+      "title": "[U7-P3]ビデオ５：〜し、〜",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-36/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1327",
+      "title": "[U7-P3]ビデオ６：〜より〜のほうが〜",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-37/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1783",
+      "title": "[U7-P3] ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-54/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "1328",
+      "title": "[U7-P3]ビデオ７：こ・そ・あ・ど",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-38/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1784",
+      "title": "[U7-P3] ドリル④",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-55/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "1329",
+      "title": "[U7-P3]ビデオ８：Vています",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3v-7/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1330",
+      "title": "[U7-P3]ビデオ９：おしえてください。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-39/616/714/activity",
+      "icons": []
+     },
+     {
+      "id": "1785",
+      "title": "[U7-P3] ドリル⑤",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-56/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "2065",
+      "title": "[U7-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-57/616/714/quiz",
+      "icons": []
+     },
+     {
+      "id": "1696",
+      "title": "[U7-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p3-51/616/714/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "715",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/715",
+    "activities": [
+     {
+      "id": "1331",
+      "title": "[U7-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p4-15/616/715/activity",
+      "icons": []
+     },
+     {
+      "id": "1715",
+      "title": "[U7-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p4-23/616/715/quiz",
+      "icons": []
+     },
+     {
+      "id": "1725",
+      "title": "[U7-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p4-24/616/715/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "716",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/716",
+    "activities": [
+     {
+      "id": "1724",
+      "title": "[U7-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p5-12/616/716/quiz",
+      "icons": []
+     },
+     {
+      "id": "1332",
+      "title": "[U7-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u7-p5-9/616/716/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "717",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "617",
+  "title": "Unit 8",
+  "lessons": [
+   {
+    "id": "718",
+    "title": "Part 1：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/718",
+    "activities": [
+     {
+      "id": "1335",
+      "title": "[U8-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p1-11/617/718/activity",
+      "icons": []
+     },
+     {
+      "id": "1336",
+      "title": "[U8P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8p1/617/718/activity",
+      "icons": []
+     },
+     {
+      "id": "1599",
+      "title": "[U8-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p1-17/617/718/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "719",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/719",
+    "activities": [
+     {
+      "id": "1337",
+      "title": "[U8-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p2-15/617/719/activity",
+      "icons": []
+     },
+     {
+      "id": "1641",
+      "title": "[U8-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p2-23/617/719/quiz",
+      "icons": []
+     },
+     {
+      "id": "1677",
+      "title": "[U8-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p2-24/617/719/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "720",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/720",
+    "activities": [
+     {
+      "id": "1338",
+      "title": "[U8-P3]ビデオ１：動詞の３グループ・て形",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3-14/617/720/activity",
+      "icons": []
+     },
+     {
+      "id": "1786",
+      "title": "[U8-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3-21/617/720/quiz",
+      "icons": []
+     },
+     {
+      "id": "1339",
+      "title": "[U8-P3]ビデオ２：Vています",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3v-4/617/720/activity",
+      "icons": []
+     },
+     {
+      "id": "1340",
+      "title": "[U8-P3]ビデオ３：〜は〜が〜",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3-15/617/720/activity",
+      "icons": []
+     },
+     {
+      "id": "1787",
+      "title": "[U8-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3-22/617/720/quiz",
+      "icons": []
+     },
+     {
+      "id": "2066",
+      "title": "[U8P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8p3-8/617/720/quiz",
+      "icons": []
+     },
+     {
+      "id": "1698",
+      "title": "[U8-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p3-20/617/720/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "721",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/721",
+    "activities": [
+     {
+      "id": "1341",
+      "title": "[U8-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p4-13/617/721/activity",
+      "icons": []
+     },
+     {
+      "id": "1714",
+      "title": "[U8-P4] ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p4-19/617/721/quiz",
+      "icons": []
+     },
+     {
+      "id": "1726",
+      "title": "[U8-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p4-20/617/721/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "722",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/722",
+    "activities": [
+     {
+      "id": "1727",
+      "title": "[U8-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p5-14/617/722/quiz",
+      "icons": []
+     },
+     {
+      "id": "1342",
+      "title": "[U8-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p5-11/617/722/activity",
+      "icons": []
+     },
+     {
+      "id": "1800",
+      "title": "[U8-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u8-p5-15/617/722/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "723",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "619",
+  "title": "Unit 9",
+  "lessons": [
+   {
+    "id": "724",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/724",
+    "activities": [
+     {
+      "id": "1346",
+      "title": "[U9-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p1-15/619/724/activity",
+      "icons": []
+     },
+     {
+      "id": "1347",
+      "title": "[U9-P1]ビデオ B",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p1-b/619/724/activity",
+      "icons": []
+     },
+     {
+      "id": "1348",
+      "title": "[U9P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9p1/619/724/activity",
+      "icons": []
+     },
+     {
+      "id": "1600",
+      "title": "[U9-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p1-23/619/724/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "725",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/725",
+    "activities": [
+     {
+      "id": "1349",
+      "title": "[U9-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p2-15/619/725/activity",
+      "icons": []
+     },
+     {
+      "id": "1678",
+      "title": "[U9-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p2-24/619/725/quiz",
+      "icons": []
+     },
+     {
+      "id": "2038",
+      "title": "[U9-P2] ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p2-30/619/725/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "726",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/726",
+    "activities": [
+     {
+      "id": "1350",
+      "title": "[U9-P3]ビデオ１： ～たいです／～たいと思っています。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-18/619/726/activity",
+      "icons": []
+     },
+     {
+      "id": "1790",
+      "title": "[U9-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-32/619/726/quiz",
+      "icons": []
+     },
+     {
+      "id": "2046",
+      "title": "[U9-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-36/619/726/quiz",
+      "icons": []
+     },
+     {
+      "id": "1351",
+      "title": "[U9-P3]ビデオ２： た形",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-19/619/726/activity",
+      "icons": []
+     },
+     {
+      "id": "1789",
+      "title": "[U9-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-31/619/726/quiz",
+      "icons": []
+     },
+     {
+      "id": "1352",
+      "title": "[U9-P3]ビデオ３： Vたことがあります。／いつか～。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-v-4/619/726/activity",
+      "icons": []
+     },
+     {
+      "id": "1791",
+      "title": "[U9-P3] ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-33/619/726/quiz",
+      "icons": []
+     },
+     {
+      "id": "1703",
+      "title": "[U9-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p3-30/619/726/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "727",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/727",
+    "activities": [
+     {
+      "id": "1353",
+      "title": "[U9-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p4-15/619/727/activity",
+      "icons": []
+     },
+     {
+      "id": "1713",
+      "title": "[U9-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p4-21/619/727/quiz",
+      "icons": []
+     },
+     {
+      "id": "1729",
+      "title": "[U9-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p4-22/619/727/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "728",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/728",
+    "activities": [
+     {
+      "id": "1728",
+      "title": "[U9-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p5-12/619/728/quiz",
+      "icons": []
+     },
+     {
+      "id": "1354",
+      "title": "[U9-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p5-9/619/728/activity",
+      "icons": []
+     },
+     {
+      "id": "1801",
+      "title": "[U9-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u9-p5-13/619/728/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "729",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "620",
+  "title": "Unit 10",
+  "lessons": [
+   {
+    "id": "730",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/730",
+    "activities": [
+     {
+      "id": "1357",
+      "title": "[U10-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p1-7/620/730/activity",
+      "icons": []
+     },
+     {
+      "id": "1358",
+      "title": "[U10P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10p1/620/730/activity",
+      "icons": []
+     },
+     {
+      "id": "1601",
+      "title": "[U10-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p1-8/620/730/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "731",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/731",
+    "activities": [
+     {
+      "id": "1359",
+      "title": "[U10-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p2-15/620/731/activity",
+      "icons": []
+     },
+     {
+      "id": "2044",
+      "title": "[U10-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p2-26/620/731/quiz",
+      "icons": []
+     },
+     {
+      "id": "1679",
+      "title": "[U10-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p2-22/620/731/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "732",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/732",
+    "activities": [
+     {
+      "id": "1360",
+      "title": "[U10-P3]ビデオ１：てください",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-30/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "2371",
+      "title": "[U10-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-56/620/732/quiz",
+      "icons": []
+     },
+     {
+      "id": "1361",
+      "title": "[U10-P3]ビデオ２：～てはいけません",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-31/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "1792",
+      "title": "[U10-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-48/620/732/quiz",
+      "icons": []
+     },
+     {
+      "id": "1362",
+      "title": "[U10-P3]ビデオ３： ～てもいいです",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-32/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "1363",
+      "title": "[U10-P3]ビデオ４：～とき",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-33/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "1793",
+      "title": "[U10-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-49/620/732/quiz",
+      "icons": []
+     },
+     {
+      "id": "1364",
+      "title": "[U10-P3]ビデオ５：～ないでください",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-34/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "1365",
+      "title": "[U10-P3]ビデオ６：～てください・～てくれませんか・～てくださいませんか",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-35/620/732/activity",
+      "icons": []
+     },
+     {
+      "id": "1794",
+      "title": "[U10-P3] ドリル③",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-50/620/732/quiz",
+      "icons": []
+     },
+     {
+      "id": "1708",
+      "title": "[U10-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p3-47/620/732/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "733",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/733",
+    "activities": [
+     {
+      "id": "1366",
+      "title": "[U10-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p4-11/620/733/activity",
+      "icons": []
+     },
+     {
+      "id": "2017",
+      "title": "[U10P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10p4-2/620/733/quiz",
+      "icons": []
+     },
+     {
+      "id": "1733",
+      "title": "[U10-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p4-15/620/733/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "734",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/734",
+    "activities": [
+     {
+      "id": "1730",
+      "title": "[U10-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p5-12/620/734/quiz",
+      "icons": []
+     },
+     {
+      "id": "1367",
+      "title": "[U10-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p5-9/620/734/activity",
+      "icons": []
+     },
+     {
+      "id": "1802",
+      "title": "[U10-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u10-p5-13/620/734/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "735",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "622",
+  "title": "Unit 11",
+  "lessons": [
+   {
+    "id": "736",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/736",
+    "activities": [
+     {
+      "id": "1371",
+      "title": "[U11-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p1-17/622/736/activity",
+      "icons": []
+     },
+     {
+      "id": "1372",
+      "title": "[U11P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11p1/622/736/activity",
+      "icons": []
+     },
+     {
+      "id": "1602",
+      "title": "[U11-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p1-28/622/736/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "737",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/737",
+    "activities": [
+     {
+      "id": "1373",
+      "title": "[U11-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p2-17/622/737/activity",
+      "icons": []
+     },
+     {
+      "id": "2019",
+      "title": "[U11-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p2-31/622/737/quiz",
+      "icons": []
+     },
+     {
+      "id": "2040",
+      "title": "[U11-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p2-32/622/737/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "738",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/738",
+    "activities": [
+     {
+      "id": "1374",
+      "title": "[U11-P3]ビデオ１：ない形",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-32/622/738/activity",
+      "icons": []
+     },
+     {
+      "id": "2020",
+      "title": "[U11-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-48/622/738/quiz",
+      "icons": []
+     },
+     {
+      "id": "1375",
+      "title": "[U11-P3]ビデオ２：～なければなりません",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-33/622/738/activity",
+      "icons": []
+     },
+     {
+      "id": "1376",
+      "title": "[U11-P3]ビデオ３：～ないでください",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-34/622/738/activity",
+      "icons": []
+     },
+     {
+      "id": "1377",
+      "title": "[U11-P3]ビデオ４：～なければなりません、～なくてはなりません、～ないといけません",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-35/622/738/activity",
+      "icons": []
+     },
+     {
+      "id": "2078",
+      "title": "[U11-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-51/622/738/quiz",
+      "icons": []
+     },
+     {
+      "id": "2021",
+      "title": "[U11-P3] ドリル②",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-49/622/738/quiz",
+      "icons": []
+     },
+     {
+      "id": "1707",
+      "title": "[U11-P3] テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p3-45/622/738/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "739",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/739",
+    "activities": [
+     {
+      "id": "1378",
+      "title": "[U11-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p4-17/622/739/activity",
+      "icons": []
+     },
+     {
+      "id": "1712",
+      "title": "[U11-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p4-28/622/739/quiz",
+      "icons": []
+     },
+     {
+      "id": "1735",
+      "title": "[U11-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p4-29/622/739/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "740",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/740",
+    "activities": [
+     {
+      "id": "1731",
+      "title": "[U11-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p5-16/622/740/quiz",
+      "icons": []
+     },
+     {
+      "id": "1379",
+      "title": "[U11-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p5-13/622/740/activity",
+      "icons": []
+     },
+     {
+      "id": "1803",
+      "title": "[U11-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u11-p5-17/622/740/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "741",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ },
+ {
+  "id": "623",
+  "title": "Unit 12",
+  "lessons": [
+   {
+    "id": "742",
+    "title": "Part 1 ：マスターテクスト",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/742",
+    "activities": [
+     {
+      "id": "1382",
+      "title": "[U12-P1]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p1-17/623/742/activity",
+      "icons": []
+     },
+     {
+      "id": "1383",
+      "title": "[U12P1]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12p1/623/742/activity",
+      "icons": []
+     },
+     {
+      "id": "2079",
+      "title": "[U12-P1]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p1-30/623/742/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "743",
+    "title": "Part 2：ことば",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/743",
+    "activities": [
+     {
+      "id": "1384",
+      "title": "[U12-P2]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p2-17/623/743/activity",
+      "icons": []
+     },
+     {
+      "id": "1645",
+      "title": "[U12-P2]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p2-26/623/743/quiz",
+      "icons": []
+     },
+     {
+      "id": "1681",
+      "title": "[U12-P2]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p2-27/623/743/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "744",
+    "title": "Part 3：ぶんぽう",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/744",
+    "activities": [
+     {
+      "id": "1385",
+      "title": "[U12-P3]ビデオ１：～ほうがいいです。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p3-20/623/744/activity",
+      "icons": []
+     },
+     {
+      "id": "1386",
+      "title": "[U12-P3]ビデオ２：～たり. ～たりします。",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p3-21/623/744/activity",
+      "icons": []
+     },
+     {
+      "id": "2022",
+      "title": "[U12-P3] ドリル①",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p3-31/623/744/quiz",
+      "icons": []
+     },
+     {
+      "id": "2047",
+      "title": "[U12-P3]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p3-32/623/744/quiz",
+      "icons": []
+     },
+     {
+      "id": "1706",
+      "title": "[U12-P3]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p3-29/623/744/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "745",
+    "title": "Part 4：かんじ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/745",
+    "activities": [
+     {
+      "id": "1387",
+      "title": "[U12-P4]ビデオ",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p4-17/623/745/activity",
+      "icons": []
+     },
+     {
+      "id": "1711",
+      "title": "[U12-P4]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p4-24/623/745/quiz",
+      "icons": []
+     },
+     {
+      "id": "1734",
+      "title": "[U12-P4]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p4-25/623/745/quiz",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "746",
+    "title": "Part 5：エッセイ",
+    "info": "https://digital.nix.edu.vn/api/learning/m2-n5-tieng-nhat-co-so-1/lesson-description/746",
+    "activities": [
+     {
+      "id": "1732",
+      "title": "[U12-P5]ドリル",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p5-16/623/746/quiz",
+      "icons": []
+     },
+     {
+      "id": "1388",
+      "title": "[U12-P5]テスト",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p5-13/623/746/activity",
+      "icons": []
+     },
+     {
+      "id": "1804",
+      "title": "[U12-P5] アサイメント",
+      "url": "https://digital.nix.edu.vn/learning/m2-n5-tieng-nhat-co-so-1/activity/u12-p5-17/623/746/activity",
+      "icons": []
+     }
+    ]
+   },
+   {
+    "id": "747",
+    "title": "教案",
+    "info": null,
+    "activities": []
+   }
+  ]
+ }
+]

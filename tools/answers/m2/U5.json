@@ -1,0 +1,767 @@
+{
+ "1418/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài Akio A: 「わたしたちは、いつも、駅の近くのやきにくやに行きます」→ đi quán thịt nướng gần ga.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài Akio A: 「その店は、とてもおいしいです」→ quán đó rất ngon.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài Akio B: 「金曜日のよるは、彼女と二人で、晩ごはんを食べました」→ ăn tối với bạn gái.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài Akio A: 「金曜日の夜は、ときどき、研究室の友だちといっしょに、飲みに行きます」→ đi uống với bạn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài Akio B: 「その店は、ちょっと古いです。でも、とてもすてきな店です」→ hơi cũ nhưng rất đẹp.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài Li A: 「たいてい日本語で話します。ときどき、英語で話します」→ không phải lúc nào cũng nói tiếng Anh.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài Li B: 「大学の近くのマレーシア料理の店に行きました」→ đã đi quán món Malaysia.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/1/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài Li A: tối thứ Sáu thường ăn tối cùng bạn ký túc xá và 「いろいろな料理を作ります」→ cùng bạn nấu bữa tối.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài Li A: 「りょうには、いろいろな国の人がいます」→ có.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1418/1/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài Li A: 「そして、少しお酒を飲みます」→ có uống rượu.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2056/0/1": {
+  "type": "single",
+  "answer": null,
+  "explain": "Câu nghe CD: phải nghe lịch tuần (thứ Ba/Năm học tiếng Anh, thứ Sáu/Bảy/CN ăn ngoài, tennis, gặp bạn) rồi chọn lịch a–d khớp; không nghe được file âm thanh.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Tranh: a = Ba/Năm ABC, Sáu ăn, Bảy tennis, CN gặp bạn; b = Ba ABC, Sáu gặp bạn, Bảy ăn, CN tennis; c = Ba/Năm ABC, Sáu ăn, Bảy gặp bạn, CN tennis; d = Ba ABC, Sáu gặp bạn, Bảy tennis, CN ăn. Không có cơ sở để đoán, cần nghe audio."
+ },
+ "2056/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "b",
+   "2": "c",
+   "3": "b",
+   "4": "c",
+   "5": "d"
+  },
+  "explain": "Chọn từ khác nhóm: 1) ごはん không phải giờ (よじ・くじはん・じゅうにじ); 2) らいしゅう không phải thứ trong tuần; 3) いつ (từ hỏi) khác あさ・ひる・よる; 4) まいにち khác せんしゅう・こんしゅう・らいしゅう; 5) やすみ khác きょう・あした・きのう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2056/2/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "explain": "Từ vựng mở rộng: tên món + や = tiệm (うどんやさん、すしやさん…); món theo quốc gia + のみせ (わしょくのみせ、ベトナムりょうりのみせ). Mỗi chip nối đúng với món cùng tên.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "うどん→うどんやさん / すし→すしやさん / ラーメン→ラーメンやさん / ピザ→ピザやさん / てんぷら→てんぷらやさん / やきにく→やきにきやさん / イタリアン→イタリアンや / わしょく→わしょくのみせ / ベトナムりょうり→ベトナムりょうりのみせ / マレーシアりょうり→マレーシアりょうりのみせ"
+ },
+ "2056/2/2": {
+  "type": "matching",
+  "answer": {
+   "①": "f",
+   "②": "a",
+   "③": "c",
+   "④": "b",
+   "⑤": "h",
+   "⑥": "g",
+   "⑦": "d",
+   "⑧": "e"
+  },
+  "explain": "Nhìn tranh: 1 cơm cà ri = カレー(f), 2 sushi = すし(a), 3 mì udon = うどん(c), 4 mì soba = そば(b), 5 ramen = ラーメン(h), 6 pizza = ピザ(g), 7 hamburger = ハンバーガー(d), 8 sandwich = サンドイッチ(e).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2056/3/1": {
+  "type": "order",
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Tranh gồm 5 cửa hàng (ラーメンや、カレーや、そばや、うどんや、ピザや) nhưng các chip lại là tính từ (やすい、たかい、はやい、おいしい、おそいい) nên không có cách nối hợp lý; giữ nguyên thứ tự chip.",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Dữ liệu câu hỏi có vẻ không khớp giữa tranh và chip; không xác định được đáp án."
+ },
+ "2056/3/2": {
+  "type": "order",
+  "answer": [
+   3,
+   5,
+   1,
+   6,
+   0,
+   2,
+   4
+  ],
+  "explain": "Bảng thời gian: hàng ngày きのう・きょう・(2)あした; hàng tuần せんしゅう・(3)こんしゅう・(4)らいしゅう; hàng tháng (5)せんげつ・こんげつ・(6)らいげつ; hàng năm (7)きょねん・(8)ことし・らいねん (từ vựng mở rộng U5).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "2 あした / 3 こんしゅう / 4 らいしゅう / 5 せんげつ / 6 らいげつ / 7 きょねん / 8 ことし"
+ },
+ "1649/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: cô gái nhường ghế cho cụ già trên tàu → しんせつ (thân thiện, tốt bụng), như 「店の人も、とても親切でした」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: nhân viên ghi món, khách giơ tay gọi món → ちゅうもんします (「前菜とワインを注文しました」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: đậu edamame và bia = món khai vị → ぜんさい (「最初に、前菜とワインを注文しました」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trái nghĩa: しろい (trắng) ↔ くろい (đen); bài đọc có 「黒いソース」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trái nghĩa: ちかい (gần) ↔ とおい (xa).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trái nghĩa: ちいさい (nhỏ) ↔ おおきい (to); ngữ pháp 1 「大きいみせ／小さいみせ」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/2/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "やさい là nguyên liệu (rau), còn さしみ・てんぷら・すし đều là món ăn Nhật.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "やさいいため là món xào, còn やきにく・やきざかな・やきとり đều là món nướng (やき～).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/2/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "せんしゅう (tuần trước) không phải thứ trong tuần như にちようび・もくようび・げつようび.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1649/3/1": {
+  "type": "dragtext",
+  "answer": [
+   1
+  ],
+  "explain": "Bài Li B: 「おいしいマレーシア料理を楽しみました」→ たのしみました (thưởng thức).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "おいしい料理をたのしみました。"
+ },
+ "1649/3/2": {
+  "type": "dragtext",
+  "answer": [
+   2
+  ],
+  "explain": "Bài Akio B: 「最初に、前菜とワインを注文しました」→ さいしょに (đầu tiên).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "さいしょに、ぜんさいとワインをちゅうもんしました。"
+ },
+ "1649/3/3": {
+  "type": "dragtext",
+  "answer": [
+   1
+  ],
+  "explain": "Mẫu 「Nのちかくに Nがあります」: 「大学の近くに小さいイタリアンの店があります」→ ちかく (danh từ), không dùng tính từ ちかい sau の.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "だいがくのちかくにベトナム料理のみせがあります。"
+ },
+ "1999/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 1: tính từ đuôi い giữ nguyên い trước danh từ → ちいさいほん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1999/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 1: tính từ đuôi な phải có な trước danh từ → しんせつなひと.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1999/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 1: すてき là tính từ đuôi な → すてきなひと (「すてきな店」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1999/1/1": {
+  "type": "dragtext",
+  "answer": [
+   "な",
+   "な",
+   "い",
+   "い",
+   "な",
+   "い",
+   "な",
+   "い"
+  ],
+  "explain": "Phân loại: じょうず(な)・へた(な)・すてき(な)・しんせつ(な) là tính từ đuôi な; ふるい・たのしい・やすい・ちいさい là tính từ đuôi い.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1771/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Vế sau 「こうはいです」 ở hiện tại nên vế trước là phủ định hiện tại của danh từ: せんぱいではありません (ngữ pháp 3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1771/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "せんしゅう (tuần trước) → động từ thì quá khứ Vました: つくりました (ngữ pháp 2). つくりませんでした cũng đúng ngữ pháp nhưng câu khẳng định là đáp án thông thường.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1771/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "あした (ngày mai) → thì hiện tại/tương lai Vます: いきます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1771/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "きょねん (năm ngoái) → Nでした: こうこうせいでした (ngữ pháp 3, ví dụ 「きょねん、リさんはこうこうせいでした」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1771/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "きのう + なにも → phủ định quá khứ Vませんでした: なにもしませんでした.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1771/1/1": {
+  "type": "matching",
+  "answer": {
+   "Vます": "Động từ ở thì HT dạng khẳng định ( + )",
+   "Vません": "Động từ ở thì HT dạng phủ định ( - )",
+   "Vました": "Động từ ở thì QK dạng khẳng định ( + )",
+   "Vませんでした": "Động từ ở thì QK dạng phủ định ( - )",
+   "Nです": "Danh từ ở thì HT dạng khẳng định ( + )",
+   "Nではありません": "Danh từ ở thì HT dạng phủ định ( - )",
+   "Nでした": "Danh từ ở thì QK dạng khẳng định ( + )",
+   "Nではありませんでした": "Danh từ ở thì QK quá dạng phủ định ( - )"
+  },
+  "explain": "Ngữ pháp 2–3: Vます/Vません (hiện tại +/−) ⇒ Vました/Vませんでした (quá khứ +/−); Nです/Nではありません ⇒ Nでした/Nではありませんでした.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1772/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "きのう → quá khứ của tính từ い; おいしいでした sai, おいしいです là hiện tại → chỉ おいしくなかったです đúng (ngữ pháp 4).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1772/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "きのう → Aかったです: たのしかったです (ngữ pháp 4).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1772/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "せんしゅう + tính từ đuôi な → Aでした: すてきでした (ngữ pháp 5).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1772/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「店の人も、とても親切でした」; とても không đi với phủ định, drill về thì quá khứ → しんせつでした (ngữ pháp 5).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1772/1/1": {
+  "type": "matching",
+  "answer": {
+   "～です": "Tính từ đuôi い・な ở thì HT/TL",
+   "～かったです": "Tính từ đuôi い ở thì QK",
+   "～でした": "Tính từ đuôi な ở thì QK"
+  },
+  "explain": "Ngữ pháp 4–5: Aいです/Aです (hiện tại) ⇒ Aかったです (い-A quá khứ), Aでした (な-A quá khứ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1773/0/1": {
+  "type": "matching",
+  "answer": {
+   "ばしょにNがいます": "Dùng để diễn đạt sự tồn tại của 1 người, sinh vật sống ở 1 địa điểm nào đó",
+   "ばしょにNがあります": "Dùng để diễn đạt sự tồn tại của đồ vật, vật không có sự sống ở 1 địa điểm nào đó",
+   "ですから": "“.... Vì vậy,....”(nối 2 vế câu mang tính nguyên nhân - kết quả)"
+  },
+  "explain": "Ngữ pháp 6–8: います cho người/động vật, あります cho đồ vật, ですから nối lý do – kết quả.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1773/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "ほん là đồ vật → あります (ngữ pháp 7).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1773/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "き (cây) là vật không có sự sống → あります (ngữ pháp 7: cây cối → あります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1773/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「りょうには、いろいろな国の人がいます。ですから、いろいろな料理を作ります」(ngữ pháp 8).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1773/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "せんせい là người → います (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 9: 七日 = なのか (むいか = mùng 6, ようか = mùng 8).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 9: 十日 = とおか.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Ngữ pháp 10: 一週間 = いっしゅうかん (1 tuần).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ngữ pháp 10: 一年 = いちねん (1 năm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ngữ pháp 10: 三か月 = さんかげつ (3 tháng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1774/1/1": {
+  "type": "matching",
+  "answer": {
+   "～週間": "Tuần~",
+   "～か月": "Tháng~",
+   "年（間）": "~Năm",
+   "ついたち": "Ngày mồng 1",
+   "ふつか": "Ngày mồng 2",
+   "みっか": "Ngày mồng 3",
+   "よっか": "Ngày mồng 4",
+   "いつか": "Ngày mồng 5",
+   "むいか": "Ngày mồng 6",
+   "なのか": "Ngày mồng 7",
+   "ようか": "Ngày mồng 8",
+   "ここのか": "Ngày mồng 9",
+   "とおか": "Ngày mồng 10"
+  },
+  "explain": "Ngữ pháp 9–10: ついたち〜とおか là cách đọc đặc biệt ngày 1–10; 週間 = tuần, か月 = tháng, 年（間） = năm (khoảng thời gian).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2057/0/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Phải nghe 3 đoạn audio (ビサルさん・アルニさん・前田さん) để biết mỗi người ở đâu (お寺・学校・公園); không nghe được file.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Lựa chọn hợp lệ theo tranh: おてら (ア), がっこう (イ), こうえん (ウ); các nhãn てら・桜こうえん・えき là nhiễu. Không đoán được thứ tự nếu không nghe."
+ },
+ "2057/1/1": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Phải nghe audio để chọn tháng/ngày a hay b cho các mục 2)–9) (vd 7月 hay 8月, 3日 hay 6日…); không nghe được file.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Mục 1 đã cho sẵn đáp án a (1月). Các cặp: 2) 7月/8月, 3) 2月/4月, 4) 3日/6日, 5) 4日/8日, 6) 5日/20日, 7) 7月7日/8月7日, 8) 5月11日/9月21日, 9) 11月23日/12月13日. Ôn cách đọc: しちがつ/はちがつ, にがつ/しがつ, みっか/むいか, よっか/ようか, いつか/はつか."
+ },
+ "2057/1/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "a",
+   "2": "a",
+   "3": "b",
+   "4": "a"
+  },
+  "explain": "Ngữ pháp 2: 2) 「いま あさです」+ きょうのごご (chưa xảy ra) → いきます; 3) あした → みます; 4) きのう… いいえ → いきませんでした; 5) まいにち (thói quen) → おきます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2057/2/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Phải nghe 5 đoạn hội thoại (12-05〜12-09) để điền いつ/どこで cho タイフェスティバル・夏祭り・交流パーティー・空手の試合・忘年会; không nghe được file.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "7 ô theo thứ tự: ①いつ, ①どこで, ②いつ, ③いつ, ③どこで, ④いつ, ⑤いつ. Hai chip địa điểm (さくらこうえん, かいしゃのホール) chỉ vào ô どこで của ① và ③; đoán hợp lý: タイフェスティバル ở さくらこうえん, 交流パーティー ở かいしゃのホール. Thời gian (８か, にちようび, らいしゅう, あした, こんしゅうのきんようび) không đoán được nếu không nghe. Đoán thử: [6,2,1,4,0,3,5]."
+ },
+ "1665/0/1": {
+  "type": "dragtext",
+  "answer": [
+   3,
+   2
+  ],
+  "explain": "Bài Akio B: 「5時半に店に入りました」「奥のテーブルに座りました」→ はいります/すわります đi với に chỉ nơi vào/ngồi.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "あきおさんたちは、5時半にイタリアンのみせにはいりました。そして、おくのテーブルにすわりました。"
+ },
+ "1665/0/2": {
+  "type": "dragtext",
+  "answer": [
+   0
+  ],
+  "explain": "Ngữ pháp 6: ばしょに Nが います → 「りょうには、いろいろな国の人がいます」.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "りょうには、いろいろな国の人がいます。"
+ },
+ "1665/0/3": {
+  "type": "dragtext",
+  "answer": [
+   1
+  ],
+  "explain": "Mẫu 「Nのちかくのみせ」: 「大学の近くのマレーシア料理の店」→ ちかく＋の＋みせ.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "だいがくにちかくのみせは、やすいです。"
+ },
+ "1665/0/4": {
+  "type": "dragtext",
+  "answer": [
+   3,
+   0
+  ],
+  "explain": "Bài Akio A: 「学校の近くには、安い店がたくさんあります」→ ちかく＋に(は), みせ＋が＋あります (ngữ pháp 7).",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "がっこうのちかくには、やすいみせがたくさんあります。"
+ },
+ "1665/0/5": {
+  "type": "dragtext",
+  "answer": [
+   2
+  ],
+  "explain": "Bài đọc: 「たいてい日本語で話します」 dùng で (phương tiện), nhưng chip không có で; trong に・が・を thì 「にほんごをはなします」 (nói tiếng Nhật) là câu đúng ngữ pháp nhất.",
+  "confidence": "low",
+  "needs_audio": false,
+  "sentence": "たいてい、りょうのともだちと にほんごをはなします。",
+  "note": "Có thể dữ liệu chip bị lỗi (thiếu で). Nếu có で thì chọn で."
+ },
+ "2525/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "a",
+   "2": "b",
+   "3": "a",
+   "4": "b",
+   "5": "b"
+  },
+  "explain": "Okurigana của 八・大・小: 八つ(やっつ), 大きく(おおきく), 小さな(ちいさな), 大いに(おおいに), 小さく(ちいさく).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2525/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "ひと",
+   "2": "だいがく",
+   "3": "せんえん",
+   "4": "げつようび",
+   "5": "もくようび",
+   "6": "おおきい",
+   "7": "すこし"
+  },
+  "explain": "Kanji U5: 人=ひと, 大学=だいがく, 1000円=せんえん, 月よう日=げつようび, 木よう日=もくようび, 大きい=おおきい, 少し=すこし.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô 3 có thể chỉ cần 'えん' nếu đề chỉ hỏi cách đọc 円."
+ },
+ "1719/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "水よう日 = すいようび (thứ Tư); kanji 水 âm on スイ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "おとうさん = お父さん (kanji 父, ví dụ 「お父さん：おとうさん」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "1000円 = せんえん (1000 đọc là せん, không có いち).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "大学 = だいがく (kanji 大 âm on ダイ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "さんぼん = 三本 (本 đếm vật dài như bút chì).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "げつようび = 月よう日 (kanji 月 âm on ゲツ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/7": {
+  "type": "single",
+  "answer": 3,
+  "explain": "日本人 = にほんじん (kanji 人 âm on ジン, ví dụ 「日本人：にほんじん」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/8": {
+  "type": "single",
+  "answer": 2,
+  "explain": "おおきい = 大きい (kanji 大 kun おお + okurigana きい).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/9": {
+  "type": "single",
+  "answer": 3,
+  "explain": "５分 = ごふん; 分 đọc ふん sau 5 (ぷん dùng sau 1,3,4,6,8,10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1719/0/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "しょうがくせい = 小学生 (kanji 小 âm on ショウ, ví dụ 「小学生：しょうがくせい」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/1": {
+  "type": "short",
+  "answer": "そのみせは、とてもおいしいです。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio A 「その店は、とてもおいしいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/2": {
+  "type": "short",
+  "answer": "わたしたちは、いつも、えきのちかくのやきにくやにいきます。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio A 「わたしたちは、いつも、駅の近くのやきにくやに行きます」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/3": {
+  "type": "short",
+  "answer": "とてもいいじかんでした。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「とてもいい時間でした」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/4": {
+  "type": "short",
+  "answer": "だいがくのちかくに小さいイタリアンのみせがあります。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「大学の近くに小さいイタリアンの店があります」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/5": {
+  "type": "short",
+  "answer": "５じはんにみせにはいりました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「5時半に店に入りました」.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số 5 trong tranh có vẻ là chữ full-width ５; nếu hệ thống chấm nửa độ rộng thì gõ 5じはん…"
+ },
+ "1718/0/6": {
+  "type": "short",
+  "answer": "きんようびのよるは、かのじょと二人で、ばんごはんをたべました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「金曜日のよるは、彼女と二人で、晩ごはんを食べました」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/7": {
+  "type": "short",
+  "answer": "そして、さいごに、ティラミスをたべました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「そして、最後に、ティラミスを食べました」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/8": {
+  "type": "short",
+  "answer": "サラダもたべました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「サラダも食べました」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/9": {
+  "type": "short",
+  "answer": "きんようびのよるは、ときどき、けんきゅうしつのともだちといっしょに、のみにいきます。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio A 「金曜日の夜は、ときどき、研究室の友だちといっしょに、飲みに行きます」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/10": {
+  "type": "short",
+  "answer": "そして、さかなりょうりとパスタとリゾットをたべました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「そして、魚料理とパスタとリゾットを食べました」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/11": {
+  "type": "short",
+  "answer": "さいしょに、ぜんさいとワインをちゅうもんしました。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「最初に、前菜とワインを注文しました」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/12": {
+  "type": "short",
+  "answer": "そして、やすいです。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio A 「そして、安いです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/13": {
+  "type": "short",
+  "answer": "とくに、さかなりょうりは、さいこうでした。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「特に、魚料理は、最高でした」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/14": {
+  "type": "short",
+  "answer": "がっこうのちかくには、やすいみせがたくさんあります。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio A 「学校の近くには、安い店がたくさんあります」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1718/0/15": {
+  "type": "short",
+  "answer": "そして、みせの人も、とてもしんせつでした。",
+  "explain": "Gõ lại đúng câu trong tranh (viết bằng kana như tranh); câu lấy từ bài đọc Akio B 「そして、店の人も、とても親切でした」.",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

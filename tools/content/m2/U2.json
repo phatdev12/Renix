@@ -1,0 +1,203 @@
+{
+ "text": {
+  "title": "{家族|かぞく}",
+  "titleVi": "Gia đình",
+  "titleNote": null,
+  "sections": [
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "リアイリンです。", "vi": "Tôi là Li Ailin."},
+      {"jp": "わたしの{家族|かぞく}を{紹介|しょうかい}します。", "vi": "Tôi xin giới thiệu gia đình tôi."}
+     ],
+     [
+      {"jp": "これは、{父|ちち}です。", "vi": "Đây là bố tôi."},
+      {"jp": "{父|ちち}は、ごじゅうごさいです。", "vi": "Bố tôi 55 tuổi."},
+      {"jp": "ビジネスのコンサルタントです。", "vi": "Bố là chuyên viên tư vấn kinh doanh."}
+     ],
+     [
+      {"jp": "これは、{母|はは}です。", "vi": "Đây là mẹ tôi."},
+      {"jp": "{母|はは}は、ごじゅうさんさいです。", "vi": "Mẹ tôi 53 tuổi."},
+      {"jp": "{大学|だいがく}の{先生|せんせい}です。", "vi": "Mẹ là giảng viên đại học."},
+      {"jp": "{中国語|ちゅうごくご}の{先生|せんせい}です。", "vi": "Mẹ dạy tiếng Trung."}
+     ],
+     [
+      {"jp": "{兄|あに}と{姉|あね}です。", "vi": "Đây là anh trai và chị gái tôi."},
+      {"jp": "{兄|あに}は、{銀行員|ぎんこういん}です。", "vi": "Anh tôi là nhân viên ngân hàng."},
+      {"jp": "{姉|あね}は、{大学院生|だいがくいんせい}です。", "vi": "Chị tôi là học viên cao học."}
+     ],
+     [
+      {"jp": "これは、{妹|いもうと}と{弟|おとうと}です。", "vi": "Đây là em gái và em trai tôi."},
+      {"jp": "{妹|いもうと}は、じゅうななさいです。", "vi": "Em gái tôi 17 tuổi."},
+      {"jp": "{弟|おとうと}は、じゅうごさいです。", "vi": "Em trai tôi 15 tuổi."},
+      {"jp": "{高校生|こうこうせい}です。", "vi": "Hai em đều là học sinh cấp ba."}
+     ]
+    ]
+   },
+   {"speaker": "akio", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{山川|やまかわ}あきおです。", "vi": "Tôi là Yamakawa Akio."},
+      {"jp": "わたしの{家族|かぞく}をしょうかいします。", "vi": "Tôi xin giới thiệu gia đình tôi."}
+     ],
+     [
+      {"jp": "これは、{父|ちち}です。", "vi": "Đây là bố tôi."},
+      {"jp": "{父|ちち}は、ごじゅうろくさいです。", "vi": "Bố tôi 56 tuổi."},
+      {"jp": "ぎんこういんです。", "vi": "Bố là nhân viên ngân hàng."}
+     ],
+     [
+      {"jp": "そして、これは、{母|はは}です。", "vi": "Và đây là mẹ tôi."},
+      {"jp": "{母|はは}は、ごじゅうごさいです。", "vi": "Mẹ tôi 55 tuổi."},
+      {"jp": "{高校|こうこう}の{先生|せんせい}です。", "vi": "Mẹ là giáo viên cấp ba."},
+      {"jp": "えいごの{先生|せんせい}です。", "vi": "Mẹ dạy tiếng Anh."}
+     ],
+     [
+      {"jp": "これは、{兄|あに}です。", "vi": "Đây là anh trai tôi."},
+      {"jp": "{兄|あに}は、にじゅうきゅうさいです。", "vi": "Anh tôi 29 tuổi."},
+      {"jp": "{会社員|かいしゃいん}です。", "vi": "Anh là nhân viên công ty."}
+     ],
+     [
+      {"jp": "そして、{姉|あね}です。", "vi": "Và đây là chị gái tôi."},
+      {"jp": "{姉|あね}は、にじゅうごさいです。", "vi": "Chị tôi 25 tuổi."},
+      {"jp": "{会社員|かいしゃいん}です。", "vi": "Chị cũng là nhân viên công ty."}
+     ],
+     [
+      {"jp": "これは、{妹|いもうと}です。", "vi": "Đây là em gái tôi."},
+      {"jp": "{妹|いもうと}は、じゅうきゅうさいです。", "vi": "Em gái tôi 19 tuổi."},
+      {"jp": "{大学生|だいがくせい}です。", "vi": "Em là sinh viên."},
+      {"jp": "{大学|だいがく}{2年生|にねんせい}です。", "vi": "Em là sinh viên năm hai."}
+     ]
+    ]
+   },
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "{大京大学|だいきょうだいがく}の{西山|にしやま}です。", "vi": "Tôi là Nishiyama, ở Đại học Daikyo."},
+      {"jp": "{大京大学|だいきょうだいがく}の{日本語|にほんご}の{先生|せんせい}です。", "vi": "Tôi là giáo viên tiếng Nhật của Đại học Daikyo."}
+     ],
+     [
+      {"jp": "つまも、{大学|だいがく}の{先生|せんせい}です。", "vi": "Vợ tôi cũng là giảng viên đại học."},
+      {"jp": "つまは、{日本学|にほんがく}の{先生|せんせい}です。", "vi": "Vợ tôi dạy Nhật Bản học."}
+     ],
+     [
+      {"jp": "こどもは、{2人|ふたり}です。", "vi": "Tôi có hai con."},
+      {"jp": "{女の子|おんなのこ}と{男の子|おとこのこ}です。", "vi": "Một con gái và một con trai."},
+      {"jp": "{女の子|おんなのこ}は、{高校生|こうこうせい}です。", "vi": "Con gái tôi là học sinh cấp ba."},
+      {"jp": "{高校|こうこう}{2年生|にねんせい}です。", "vi": "Cháu học năm hai cấp ba (lớp 11)."},
+      {"jp": "{男の子|おとこのこ}は、{中学生|ちゅうがくせい}です。", "vi": "Con trai tôi là học sinh cấp hai."},
+      {"jp": "{中学|ちゅうがく}{1年生|いちねんせい}です。", "vi": "Cháu học năm nhất cấp hai (lớp 7)."},
+      {"jp": "サッカーが{好|す}きです。", "vi": "Cháu thích bóng đá."}
+     ]
+    ]
+   }
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1238,
+   "title": "なんにんですか？", "sub": null,
+   "meaning": "Có bao nhiêu người?",
+   "usage": ["Dùng để hỏi và trả lời về số người."],
+   "formulas": ["N ＋ は ＋ なんにんですか", "→ 〔số〕＋ にんです"],
+   "examples": [
+    {"jp": "かぞくは なんにんですか。", "vi": "Gia đình bạn có mấy người?"},
+    {"jp": "７にんです。", "vi": "Có 7 người."},
+    {"jp": "こどもは、{2人|ふたり}です。", "vi": "Tôi có hai con.", "src": "text"}
+   ],
+   "extra": ["Đếm người: ひとり（1）, ふたり（2）, さんにん（3）, よにん（4）, ごにん（5）, ろくにん（6）, ななにん／しちにん（7）, はちにん（8）, きゅうにん（9）, じゅうにん（10）."],
+   "notes": ["1 người và 2 người là ngoại lệ: ひとり, ふたり (không dùng にん). Từ 3 người trở lên: số ＋ にん."],
+   "table": null
+  },
+  {"no": "2", "group": "A", "video": 1239,
+   "title": "N1とN2", "sub": null,
+   "meaning": "N1 và N2",
+   "usage": ["Dùng để nối 2 danh từ có mặt tương đồng về nghĩa với nhau."],
+   "formulas": ["N1 ＋ と ＋ N2"],
+   "examples": [
+    {"jp": "{西山先生|にしやませんせい}のごかぞくは、なんにんですか。", "vi": "Gia đình thầy Nishiyama có bao nhiêu người?"},
+    {"jp": "４にんです。こどもはふたり（{２人|ふたり}）です。{女の子|おんなのこ}と{男の子|おとこのこ}です。", "vi": "Có 4 người. Có 2 con nhỏ. Một gái và một trai."},
+    {"jp": "{兄|あに}と{姉|あね}です。", "vi": "Đây là anh trai và chị gái tôi.", "src": "text"},
+    {"jp": "これは、{妹|いもうと}と{弟|おとうと}です。", "vi": "Đây là em gái và em trai tôi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["と chỉ dùng để nối danh từ với danh từ, không dùng để nối hai câu (nối câu dùng そして)."],
+   "table": null
+  },
+  {"no": "3", "group": "A", "video": 1240,
+   "title": "そして", "sub": null,
+   "meaning": "…. Và, …",
+   "usage": ["Dùng để nối 2 câu văn lại với nhau."],
+   "formulas": ["Câu 1。＋ そして、＋ Câu 2。"],
+   "examples": [
+    {"jp": "これは{父|ちち}です。ぎんこういんです。そして、これは{母|はは}です。", "vi": "Đây là bố của tôi. Bố tôi là nhân viên ngân hàng. Và đây là mẹ của tôi."},
+    {"jp": "そして、これは、{母|はは}です。", "vi": "Và đây là mẹ tôi.", "src": "text"},
+    {"jp": "そして、{姉|あね}です。", "vi": "Và đây là chị gái tôi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["そして đứng đầu câu sau, thường có dấu 、 ngay sau nó."],
+   "table": null
+  },
+  {"no": "4", "group": "B", "video": 1241,
+   "title": "Nがすきです。", "sub": null,
+   "meaning": "Thích …",
+   "usage": ["Dùng để diễn tả nghĩa yêu/thích N."],
+   "formulas": ["N ＋ が ＋ すきです"],
+   "examples": [
+    {"jp": "こどもは サッカーが すきです。", "vi": "Trẻ con thì thích bóng đá."},
+    {"jp": "サッカーが{好|す}きです。", "vi": "Cháu thích bóng đá.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["Đối tượng được thích đi với trợ từ が (không dùng を)."],
+   "table": null
+  },
+  {"no": "5", "group": "B", "video": 1242,
+   "title": "なにをしていますか。", "sub": null,
+   "meaning": "Đang làm nghề gì?",
+   "usage": ["Dùng để hỏi và đáp về nghề nghiệp của ai đó."],
+   "formulas": ["N（người）＋ は ＋ なにを ＋ していますか", "→ N（nghề nghiệp）＋ です"],
+   "examples": [
+    {"jp": "お{兄|にい}さんは、なにをしていますか。", "vi": "Anh bạn làm nghề gì?"},
+    {"jp": "かいしゃいんです。", "vi": "Anh tôi là nhân viên công ty."},
+    {"jp": "{兄|あに}は、{銀行員|ぎんこういん}です。", "vi": "Anh tôi là nhân viên ngân hàng.", "src": "text"}
+   ],
+   "extra": ["Nói về người nhà của người khác dùng từ kính ngữ: お{父|とう}さん, お{母|かあ}さん, お{兄|にい}さん, おねえさん, {弟|おとうと}さん, {妹|いもうと}さん, ご{主人|しゅじん}, {奥|おく}さん."],
+   "notes": [],
+   "table": null
+  },
+  {"no": "6", "group": "B", "video": 1243,
+   "title": "Nは、いますか。", "sub": null,
+   "meaning": "Có (người/động vật) … không?",
+   "usage": ["Dùng để hỏi về sự tồn tại của người hoặc động vật."],
+   "formulas": ["N（người／động vật）＋ は ＋ いますか"],
+   "examples": [
+    {"jp": "ごきょうだいは いますか。", "vi": "Nhà bạn có anh chị em không?"}
+   ],
+   "extra": [],
+   "notes": ["Trả lời: はい、います。／ いいえ、いません。"],
+   "table": null
+  },
+  {"no": "7", "group": "B", "video": 1244,
+   "title": "これはNです。", "sub": null,
+   "meaning": "Đây là …",
+   "usage": ["Dùng để giới thiệu N đứng sau は."],
+   "formulas": ["これ／それ／あれ ＋ は ＋ N ＋ です"],
+   "examples": [
+    {"jp": "これは ちちです。", "vi": "Đây là bố tôi."},
+    {"jp": "これは、{父|ちち}です。", "vi": "Đây là bố tôi.", "src": "text"},
+    {"jp": "これは、{妹|いもうと}と{弟|おとうと}です。", "vi": "Đây là em gái và em trai tôi.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": ["これ: đây là (gần cả 2 người).", "それ: đó là (gần người nghe, xa người nói).", "あれ: kia là (xa cả 2 người)."],
+   "table": null
+  }
+ ],
+ "essay": {
+  "title": "わたしの{家族|かぞく}",
+  "vi": "Gia đình tôi",
+  "use": ["これはNです", "N1とN2", "そして", "～さいです", "Nがすきです"],
+  "ideas": ["Gia đình có mấy người (なんにん／～にんです)", "Từng người: bố, mẹ, anh chị em – tuổi, nghề nghiệp, trường học", "Sở thích của một người trong nhà (Nがすきです)"]
+ },
+ "verbs": [
+  {"m": "しょうかいします", "k": "紹介します", "g": 3, "vi": "giới thiệu"}
+ ]
+}

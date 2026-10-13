@@ -1,0 +1,759 @@
+{
+ "1599/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc của Akio: 「兄は…まだ、結婚していません。」→ anh trai chưa kết hôn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Akio: 「父は、銀行に勤めています。」→ bố làm ở ngân hàng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Akio: 「姉は…子どものときから、英語がよくできました。」→ はい、よくできました.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Akio: 「父も母も、山登りが好きです。」→ はい、好きです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Akio: 「父は、銀行に勤めています。」→ 銀行.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Li: 「大学生のときは、近所の子どもにサッカーを教えていました。」→ trẻ em hàng xóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Li: 「父は、小さい会社を経営しています。」→ công ty nhỏ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/1/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Li: 「父も母も兄弟も、マレーシアに住んでいます。」→ Malaysia.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Li: 「大学で中国語と中国の歴史を教えています。」→ tiếng Trung.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1599/1/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Li: 「大学院で薬の研究をしています。」→ nghiên cứu thuốc (薬).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1641/0/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe: nối ① ② ③ với tranh a/b/c (a: nhà vườn, gia đình 4 người có chó; b: căn hộ, bố mẹ và một con nhỏ; c: một người đứng trước chung cư, cây trụi lá). Cần nghe file mp3.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo thứ tự tranh: ①=a, ②=b, ③=c; không nghe được audio nên không chắc."
+ },
+ "1641/1/1": {
+  "type": "dragtext",
+  "answer": [
+   2,
+   4,
+   6,
+   5
+  ],
+  "explain": "日本語を教えます／ラジオを聞きます／銀行に勤めます／話をします – theo bảng động từ của bài (おしえます、ききます、つとめます、はなしをします).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1641/1/2": {
+  "type": "dragtext",
+  "answer": [
+   4,
+   5,
+   3,
+   2
+  ],
+  "explain": "お皿を洗います／水を飲みます／学生に教えます／花を育てます (あらいます、のみます、おしえます、そだてます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1641/2/1": {
+  "type": "dragtext",
+  "answer": [
+   "の",
+   "と",
+   "の",
+   "で"
+  ],
+  "explain": "わたし「の」いえ (sở hữu)、かぞく「と」すんでいます (cùng với)、わたし「の」ともだち、ひとり「で」すんでいます (một mình). Chip の dùng 2 lần (thẻ dùng lại).",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Có audio nhưng câu đã in đầy đủ nên xác định được bằng ngữ pháp trợ từ."
+ },
+ "1677/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: em bé đang sút bóng → サッカーができます (chơi được bóng đá).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: cô gái cầm bảng ✕ trước các môn thể thao → スポーツがへたです (kém thể thao).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: cô gái nấu ăn vui vẻ → りょうりがじょうずです (nấu ăn giỏi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: người nước ngoài nhìn biển 案内 với dấu hỏi → かんじがむずかしいです (chữ Hán khó).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cô gái nằm đọc sách → 本をよみます (よみます: đọc).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: ba đứa trẻ nhảy nhót vui vẻ → 元気 (khỏe mạnh, năng động).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: người đàn ông ngồi trên ghế → すわります (座ります: ngồi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cô gái biến thành xinh đẹp (mũi tên) → きれい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: cô gái đang xào nấu → りょうりをつくります (作ります: nấu).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: mấy người đang bắt tay, trò chuyện → はなします (話します: nói chuyện).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: cô gái nấu cháy khét, mặt mệt mỏi → へた (vụng, kém).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1677/1/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: mẹ đẩy xích đu cho con → 子どもとあそびます (遊びます: chơi).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1786/0/1": {
+  "type": "matching",
+  "answer": {
+   "はいります": "はいって",
+   "みます": "みて",
+   "あらいます": "あらって",
+   "たちます": "たって",
+   "あそびます": "あそんで",
+   "はなします": "はなして",
+   "おしえます": "おしえて",
+   "つとめます": "つとめて",
+   "たべます": "たべて",
+   "そだてます": "そだてて",
+   "ちゅうもんします": "ちゅうもんして",
+   "します": "して",
+   "けっこんします": "けっこんして",
+   "べんきょうします": "べんきょうして"
+  },
+  "explain": "Thể て (ngữ pháp 1-2): nhóm I り→って (はいって、たって、あらって), び→んで (あそんで), し→して (はなして); nhóm II bỏ ます＋て (みて、おしえて、つとめて、たべて、そだてて); nhóm III します→して.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1787/0/1": {
+  "type": "matching",
+  "answer": {
+   "Vています。": "Diễn tả hành động đang diễn ra (hiện tại tiếp diễn) hoặc Diễn tả trạng thái kéo dài (thể hiện tình trạng hiện tại)",
+   "N1は N2が~": "は để chỉ chủ đề, が để nhấn mạnh chủ ngữ cụ thể"
+  },
+  "explain": "Ngữ pháp 2-1/2-2: Vています = đang… (tiếp diễn / trạng thái kéo dài); ngữ pháp 3: ～は～が (は chủ đề, が chủ ngữ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1787/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Mẫu ～は～が: 「兄は、あたまがいいです。」→ あたまがいい (thông minh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1787/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「父は、銀行に勤めています。」– 銀行に＋つとめています (làm việc ở).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1787/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「母は、大学で…教えています。」– 大学で＋おしえています (dạy).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1787/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Mẫu N1はN2が好きです: 私はピアノが好きです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2066/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "けいえいして",
+   "2": "しごとをして",
+   "3": "みて",
+   "4": "きいて",
+   "5": "すわって",
+   "6": "そだてて",
+   "7": "あそんで",
+   "8": "けっこんして",
+   "9": "いって",
+   "10": "よんで",
+   "11": "のんで",
+   "12": "あらって",
+   "13": "つくって",
+   "14": "たって"
+  },
+  "explain": "Thể て (ngữ pháp 1-2): します→して; nhóm II bỏ ます＋て (みて、そだてて); き→いて (きいて), り/い/ち→って (すわって、あらって、つくって、たって), び/み→んで (あそんで、よんで、のんで); ngoại lệ いきます→いって.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2066/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "はどうですか",
+   "2": "きれいです"
+  },
+  "explain": "Tranh gợi ý 「姉・どう」→ Q: 姉はどうですか。 và 「きれい」→ A: きれいです。 (bài đọc: 「姉は、とてもきれいです。」).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô trống tự do; có thể LMS chấp nhận 「は、どうですか」 hoặc 「とてもきれいです」."
+ },
+ "2066/2/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe (giống 聴解 Minna L12): nối キムさん(2)、あべさん(3)、ジョイさん(4) với a たのしかったです／b きれいでした／c たいへんでした／d おもしろくなかったです; ホセさん=a đã cho sẵn. Cần nghe 4 file mp3.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo thứ tự: 2=b, 3=c, 4=d; không nghe được audio."
+ },
+ "2066/3/1": {
+  "type": "order",
+  "answer": [
+   1,
+   0,
+   0,
+   0
+  ],
+  "explain": "Bài 「山田さんとダンス」: 1) ダンスが好きで毎晩学校へ行く → ◯; 2) 上手ではありません nên không dạy → ❌; 3) チケットを「あげました」 chứ không phải もらいました → ❌; 4) 先生は友達と行きました → ❌.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Thẻ ◯/❌ dùng lại được, kéo vào 4 ô trước câu 1)–4) theo thứ tự: ◯ ❌ ❌ ❌."
+ },
+ "2066/4/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "住んで",
+   "2": "作って",
+   "3": "結婚して",
+   "4": "持って"
+  },
+  "explain": "Vています (trạng thái kéo dài): 大阪に住んでいます、コンピューターを作っています、結婚していません (独身)、パソコンを持っています – chọn từ bảng 持ちます／作ります／働きます／結婚します／住みます.",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Viết hiragana (すんで、つくって、けっこんして、もって) cũng có thể được chấp nhận."
+ },
+ "2066/5/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe (聴解 「何ができますか」): điền cho アリさん・アニスさん・パウロさん cái gì ができます／はできません từ các thẻ スペインご・ギター・ダンス・ピアノ (ví dụ さとうさん: ドイツ語ができます、フランス語はできません). File audio ① không có trong đề nên không nghe được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không có file audio kèm theo; không thể đoán chắc. Thẻ dùng lại được, mỗi người 2 ô (できます／できません)."
+ },
+ "1698/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「母は、大学の先生です。」– は đánh dấu chủ đề.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Hỏi 「おおさかはどうですか」→ trả lời tính chất hiện tại: とてもきれいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「よくパソコンで遊んでいます。」→ あそんでいます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「日本の会社とよく仕事をしています。」– と: làm việc với.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「うちで、ピアノ教室をしています。」→ ピアノきょうしつをしています.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Nơi sinh sống dùng に: おおさかに住んでいます (ngữ pháp 2-1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「ずっとコンピュータの前に座っています。」→ すわっています.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「同じ学校に行っています。」– Vています chỉ việc lặp lại/hiện nay.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/9": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Hiện tại đang học cao học → 「大学院で薬の研究をしています」→ けんきゅうしています.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1698/0/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「大学生のときは…サッカーを教えていました。」– quá khứ Vていました.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「弟と妹は、高校生です。」– 高校生 (học sinh cấp ba); 弟 là nam nên không phải 女の子.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "学校へ行きます (đi đến trường); 見ます không đi với へ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "小さいかばん (cái túi nhỏ) – 小さい là tính từ bổ nghĩa danh từ; 少し là phó từ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "今日は金よう日です – 金 (thứ sáu); 「今よう日」 không tồn tại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "兄はとても元気です (khỏe, năng động); 古い (cũ) không dùng cho người.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "なんの本ですか – 本 (sách); 木 là cây.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "学校で外国語を学びます – học ở trường (学校).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "銀行でお金をだします – 銀行 (ngân hàng); 銀高 sai chữ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "日本語が分かります (hiểu tiếng Nhật); 会います là gặp.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1714/0/10": {
+  "type": "single",
+  "answer": 0,
+  "explain": "母のお金 (tiền của mẹ); 「お今」 không tồn tại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "高校生 đọc こうこうせい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "かいしゃ = 会社 (công ty); 社会 là しゃかい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "がっこう = 学校.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "仕事 đọc しごと.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "姉 đọc あね (chị gái); 兄 là あに.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "国 đọc くに (đất nước).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "明るい đọc あかるい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/8": {
+  "type": "single",
+  "answer": 3,
+  "explain": "元気 đọc げんき.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "ちゅうごくご = 中国語.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1726/0/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "ぎんこういん = 銀行員 (nhân viên ngân hàng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/1": {
+  "type": "short",
+  "answer": "にわで、いろいろなはなをそだてています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「にわで、いろいろなはなをそだてています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/2": {
+  "type": "short",
+  "answer": "まだ、けっこんしていません。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「まだ、けっこんしていません。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/3": {
+  "type": "short",
+  "answer": "父と母と兄と姉と妹とわたしです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「父と母と兄と姉と妹とわたしです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/4": {
+  "type": "short",
+  "answer": "今でも、よく、２人で山に行きます。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「今でも、よく、２人で山に行きます。」",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh có vẻ là số full-width 「２」; nếu LMS so khớp chặt, thử cả 「2」 half-width."
+ },
+ "1727/0/5": {
+  "type": "short",
+  "answer": "子どものときから、えい語がよくできました。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「子どものときから、えい語がよくできました。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/6": {
+  "type": "short",
+  "answer": "母は、はなが好きです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「母は、はなが好きです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/7": {
+  "type": "short",
+  "answer": "妹は、大学生です。大学２年生です。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「妹は、大学生です。大学２年生です。」",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh có vẻ là số full-width 「２」; nếu LMS so khớp chặt, thử cả 「2」 half-width."
+ },
+ "1727/0/8": {
+  "type": "short",
+  "answer": "父も母も、山のぼりが好きです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「父も母も、山のぼりが好きです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/9": {
+  "type": "short",
+  "answer": "大学で、しんり学をべんきょうしています。妹は、とてもまじめです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「大学で、しんり学をべんきょうしています。妹は、とてもまじめです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/10": {
+  "type": "short",
+  "answer": "母は、前は、しゅふでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「母は、前は、しゅふでした。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/11": {
+  "type": "short",
+  "answer": "子どものときは、かぞくで、よく山に行きました。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「子どものときは、かぞくで、よく山に行きました。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/12": {
+  "type": "short",
+  "answer": "えい語をおしえています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「えい語をおしえています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/13": {
+  "type": "short",
+  "answer": "母は、とてもやさしくて明るいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「母は、とてもやさしくて明るいです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/14": {
+  "type": "short",
+  "answer": "でも、ときどき、きびしいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「でも、ときどき、きびしいです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/15": {
+  "type": "short",
+  "answer": "でも、今は、こうこうの先生です。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「でも、今は、こうこうの先生です。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/16": {
+  "type": "short",
+  "answer": "大学の山の会のメンバーでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「大学の山の会のメンバーでした。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/17": {
+  "type": "short",
+  "answer": "今は、会社でも、うちでも、ずっとコンピュータの前にすわっています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「今は、会社でも、うちでも、ずっとコンピュータの前にすわっています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/18": {
+  "type": "short",
+  "answer": "今は、いろいろな外国語ができます。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「今は、いろいろな外国語ができます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/19": {
+  "type": "short",
+  "answer": "子どものときから、コンピュータが大好きでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「子どものときから、コンピュータが大好きでした。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/20": {
+  "type": "short",
+  "answer": "父は、銀行につとめています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「父は、銀行につとめています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/21": {
+  "type": "short",
+  "answer": "姉は、いつも明るくて元気です。どくしんです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「姉は、いつも明るくて元気です。どくしんです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/22": {
+  "type": "short",
+  "answer": "姉は、りょこうがいしゃにつとめています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「姉は、りょこうがいしゃにつとめています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/23": {
+  "type": "short",
+  "answer": "ずっと、おなじ銀行につとめています。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「ずっと、おなじ銀行につとめています。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/24": {
+  "type": "short",
+  "answer": "兄は、コンピュータのエンジニアです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「兄は、コンピュータのエンジニアです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/25": {
+  "type": "short",
+  "answer": "外国人の友だちもたくさんいます。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「外国人の友だちもたくさんいます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/26": {
+  "type": "short",
+  "answer": "うちは、6人かぞくです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「うちは、6人かぞくです。」",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Số 6 trong ảnh là half-width."
+ },
+ "1727/0/27": {
+  "type": "short",
+  "answer": "父は、やさしいです。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「父は、やさしいです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/28": {
+  "type": "short",
+  "answer": "兄は、あまり話しません。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「兄は、あまり話しません。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/29": {
+  "type": "short",
+  "answer": "よく外国に行きます。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「よく外国に行きます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1727/0/30": {
+  "type": "short",
+  "answer": "父と母は、大学のときから、友だちでした。",
+  "explain": "Gõ lại đúng câu trong ảnh (bài đọc của Akio, Unit 8): 「父と母は、大学のときから、友だちでした。」",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

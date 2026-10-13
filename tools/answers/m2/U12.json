@@ -1,0 +1,643 @@
+{
+ "2079/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「土曜日は、いろいろな用事をします。銀行に行ったり、買い物に行ったりします。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc: 「授業は、週に12コマあります。」→ はい、12コマあります。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Câu cuối đoạn Lý: 「少し休んだほうがいいと思います。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thầy Nishiyama: 「自転車は、乗らないほうがいいです。」→ いいえ、乗りません。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「家の窓は、ぜんぶしめてください。」→ はい、ぜんぶしめます。",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/1/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "「日本の気候は、おだやかです。でも台風が来ます。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "「台風のときは、かさは役に立ちません。ですから、雨具を使ったほうがいいです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/2/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Akio: 「うちに帰ったら、すぐに手を洗ってください。石けんで洗ったほうがいいです。」→ dùng xà phòng (lựa chọn bị mất chữ 「石けん」を つかってください). うがい là việc làm sau đó (そして).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Lựa chọn [2] trong dump bị mất danh từ (có lẽ 「石けん」). Nếu đề thực tế không có 石けん thì đáp án thay thế là [0] うがいをしてください."
+ },
+ "2079/2/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「寒い日は、手ぶくろをしたほうがいいです。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2079/2/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「日本の冬は、さむいです。そして、乾燥します。」",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1645/0/1": {
+  "type": "order",
+  "answer": [
+   2,
+   1,
+   5,
+   3,
+   4,
+   6,
+   7,
+   0
+  ],
+  "explain": "Câu ví dụ (例) của bài nghe: xếp các từ theo nhãn a→h: a.春, b.夏, c.秋, d.冬, e.スキー, f.くだもの, g.ながい休み, h.さむいのがにがてです.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "a.春 b.夏 c.秋 d.冬 e.スキー f.くだもの g.ながい休み h.さむいのがにがてです",
+  "note": "Đây là câu mẫu (例); thứ tự theo chữ cái a–h là cách sắp xếp hợp lý nhất. Tranh cho thấy Aさん thích 冬 (d) vì スキー (e)."
+ },
+ "1645/1/1": {
+  "type": "dragtext",
+  "answer": [
+   "します",
+   2,
+   3,
+   8,
+   "します",
+   1,
+   4,
+   0
+  ],
+  "explain": "Cụm động từ trong bài: うがいをします, かぜをひきます, 手を洗います, 雨が降ります, 手ぶくろをします, 友だちを待ちます, 役に立ちます, おふろに入ります.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "①うがいをします ②かぜをひきます ③手をあらいます ④あめがふります ⑤手ぶくろをします ⑥友だちをまちます ⑦やくにたちます ⑧おふろにはいります",
+  "note": "Chip します (index 10) phải dùng 2 lần (① và ⑤) nên ghi bằng chữ."
+ },
+ "1645/2/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "春",
+   "2": "あたたかいの",
+   "3": "さむい",
+   "4": "にぎやかなの"
+  },
+  "explain": "Ngữ pháp の thay danh từ: 春が好きです (danh từ, không cần の); あたたかいのが好きです (tính từ い + の); さむいきせつ (tính từ đứng trước danh từ きせつ không cần の); にぎやかなのは好きじゃないです (tính từ な + な + の).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Có file audio nhưng đáp án suy ra được từ ngữ pháp; chưa nghe kiểm chứng."
+ },
+ "1681/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người phụ nữ đang kéo đóng cửa chớp (雨戸) khi gió thổi → あまどをしめます (bài đọc: 雨戸も、しめたほうがいいです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh trong dump bị trống (file rỗng) nên không xem được; đoán せんたくします vì 洗濯 là từ vựng bài 12 và そうじ đã dùng ở câu sau.",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee5e6b4b0d.png rỗng. Cần kiểm tra lại trên LMS."
+ },
+ "1681/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cậu bé đang lau sàn bằng khăn → そうじします.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: người đàn ông ngả lưng thư giãn với cà phê và sách → やすみます (休みます: nghỉ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người đang vò đầu, mồ hôi, bối rối trước tờ giấy → むずかしい (khó).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh: cậu bé toát mồ hôi, không nhấc nổi thùng → よわい (yếu; từ mở rộng 弱い).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "1681/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: người phụ nữ vui vẻ xách túi mua sắm → 買い物に行きます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: cô gái ngâm mình trong bồn tắm → おふろ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/9": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: bé gái cầm cốc nước, súc miệng → うがいをします.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/0/10": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: người đàn ông đi trong gió mạnh, cây nghiêng, lá bay → つよい風 (強い風が吹きます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh trong dump bị trống (file rỗng) nên không xem được; đoán ①ふるい.",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee5e6b4b0d.png rỗng. Cần kiểm tra lại trên LMS."
+ },
+ "1681/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: cô gái nhường ghế trên tàu cho cụ già → しんせつな人 (tốt bụng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: người mặt đỏ, phun lửa từ miệng → ăn đồ cay: からいものを食べました.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1681/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: cậu bé chỉ về ngôi nhà ở xa cuối con đường → うちがとおいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2022/0/1": {
+  "type": "matching",
+  "answer": {
+   "～ほうがいいです。": "Nên làm ~",
+   "～たり. ～たりします。": "Làm~ và làm ~"
+  },
+  "explain": "Ngữ pháp 1: Vたほうがいいです = Nên làm ~ (lời khuyên); ngữ pháp 2: ～たり、～たりします = liệt kê hành động (làm ~ và làm ~).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2022/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Hỏi ở hiện tại どうしますか → 家にいたり、ニュースを見たりします (cả hai vế たり, kết bằng します).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2022/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Lời khuyên dùng Vた＋ほうがいい: 手を洗ったほうがいい (洗う→洗った; 洗うほうがいい sai, 洗らない sai chính tả).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2022/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "～たり、～たりします: くすりを飲んだり、休んだりします (hiện tại, thói quen).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2022/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trời đang mưa → không nên ra ngoài: Vない＋ほうがいいです → 外に出ないほうがいいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "したり",
+   "2": "したり",
+   "3": "します"
+  },
+  "explain": "～たり、～たりします: 毎日、勉強したり、サッカーをしたりします。(tranh: học tiếng Nhật, tập bóng đá).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "寝たほうがいい"
+  },
+  "explain": "Vた＋ほうがいいです: はやく寝たほうがいいです (tranh: You'd better…; đề viết kanji 寝ます nên giữ 寝).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/3": {
+  "type": "blanks",
+  "answer": {
+   "1": "つりに　行ったり",
+   "2": "スキーに　行ったり",
+   "3": "します"
+  },
+  "explain": "～たり、～たりします: 冬休みに つりに行ったり、スキーに行ったりします (tranh: câu cá, trượt tuyết; kỳ nghỉ sắp tới → します).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Khoảng trắng: đề dùng dấu cách toàn角 「つりに　行きます」 nên giữ theo đề; nếu LMS so khớp chặt có thể cần 「つりに行ったり」 không dấu cách."
+ },
+ "2047/0/4": {
+  "type": "blanks",
+  "answer": {
+   "1": "したり",
+   "2": "行ったり",
+   "3": "しました"
+  },
+  "explain": "きのう (quá khứ) → きのう 買い物をしたり、おてらへ行ったりしました (tranh: mua sắm, tham quan chùa).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/5": {
+  "type": "blanks",
+  "answer": {
+   "1": "食べないほうがいい"
+  },
+  "explain": "Vない＋ほうがいいです: ケーキを食べないほうがいいです (tranh: You'd better not…).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/6": {
+  "type": "blanks",
+  "answer": {
+   "1": "洗ったり",
+   "2": "つれて行ったり",
+   "3": "します"
+  },
+  "explain": "休みの日に (thói quen) → 車を洗ったり、犬をこうえんへつれて行ったりします (tranh: rửa xe, dắt chó).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/7": {
+  "type": "blanks",
+  "answer": {
+   "1": "およいだり",
+   "2": "飲んだり",
+   "3": "します"
+  },
+  "explain": "およぎます→およいだり, 飲みます→飲んだり; 日曜日 thói quen → します (tranh: bơi, uống bia).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/0/8": {
+  "type": "blanks",
+  "answer": {
+   "1": "行ったほうがいい"
+  },
+  "explain": "Vた＋ほうがいいです: mất ví → こうばんへ行ったほうがいいです (tranh: advice → Police box).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2047/1/1": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Bài nghe (CD A-28): サントスさん chuẩn bị gì cho động đất và phải làm gì khi có động đất; đánh 〇/× vào 6 tranh. Cần nghe audio.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo tranh/kiến thức phòng động đất: 1a 〇 (trữ nước, đồ ăn), 1b 〇 (đèn pin, radio cạnh giường), 1c 〇 (cố định tủ), 2a 〇 (chui xuống gầm bàn), 2b × (chạy ra ngoài), 2c 〇 (tắt ga)."
+ },
+ "2047/1/2": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe: チンさん sẽ làm gì (大掃除に さんかする/しない, 駅から タクシー/バスに のる, 田中さんに しごとをしょうかいしてもらう/しごとのことをそうだんする). Cần nghe audio.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo ngữ pháp: 1 = さんかする, 2 = バスに (khớp với 「のる」 vì 「タクシー」 không có trợ từ), 3 = しごとのことをそうだんする."
+ },
+ "1706/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「かさは役に立ちません。ですから、雨具を使ったほうがいいです。」 ですから = vì vậy.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "おふろに入ります: 「お風呂も、長い時間、入ったほうがいいです。」 → に.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài 11: 「授業のほかに、いろいろなことをしなければなりません。」 N のほかに = ngoài N ra.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài 11: 「朝のパンや牛乳やヨーグルトなども、買わなければなりません。」 → や・や・なども.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「うちに帰ったら、すぐに手を洗ってください。」 → V たら: かえったら.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「毎日、2時くらいまで勉強しています。」 → くらいまで.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "自分で = tự mình: 朝は自分でおきなければなりません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài 7: 「よかったら、いっしょに行きませんか。」 → よかったら.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/9": {
+  "type": "single",
+  "answer": 2,
+  "explain": "うちのちかくに～があります: N のちかくに = ở gần N.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/10": {
+  "type": "single",
+  "answer": 0,
+  "explain": "「台風のときは、とても強い風が吹きます。」 → が.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/11": {
+  "type": "single",
+  "answer": 3,
+  "explain": "「外には、風邪のウィルスがいます。」 → には.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/12": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài 7: 「ビルもたくさんありますし、大きいショッピングモールもあります。」 → し (liệt kê lý do/tính chất).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/13": {
+  "type": "single",
+  "answer": 3,
+  "explain": "「毎年、夏から秋に、台風が来ます。」 → に.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/14": {
+  "type": "single",
+  "answer": 2,
+  "explain": "～たり、～たりします: そうじをしたり、せんたくしたりします (vế cuối phải có たりします).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1706/0/15": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Hẹn giờ, chỗ gặp (bài 7): 「～時ごろに～で会いましょうか」 → あした6時にえきで会いましょうか.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "会いませんか cũng là lời mời hợp ngữ pháp, nhưng mẫu hẹn giờ/địa điểm trong giáo trình là 会いましょうか."
+ },
+ "1711/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "せんたく",
+   "2": "あめ",
+   "3": "たいふう",
+   "4": "いっしゅうかん",
+   "5": "てんき",
+   "6": "はいります",
+   "7": "あらいます",
+   "8": "はやい",
+   "9": "のります",
+   "10": "かぜ",
+   "11": "じかん",
+   "12": "まど"
+  },
+  "explain": "Cách đọc kanji bài 12: 洗濯=せんたく, 雨=あめ, 台風=たいふう, 一週間=いっしゅうかん, 天気=てんき, 入ります=はいります, 洗います=あらいます, 早い=はやい, 乗ります=のります, 風=かぜ, 時間=じかん, 窓=まど.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1711/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "時間",
+   "2": "入ります",
+   "3": "天気",
+   "4": "洗います",
+   "5": "早く",
+   "6": "雨",
+   "7": "自転車",
+   "8": "週間",
+   "9": "日曜日",
+   "10": "風"
+  },
+  "explain": "Chọn kanji đúng (loại chữ gần giống): 2時間待ちます, 部屋に入ります, 天気がいい, 手を洗います, 早く行きます, 雨がふります, 自転車で来ました, 1週間勉強しました, 日曜日, 風がふきます (風邪 là 'cảm', không 'thổi').",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "月曜日 = げつようび.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "雨 = あめ (雨がたくさんふります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "乗ります = のります (電車に乗ります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "用事 = ようじ (việc lặt vặt).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "台風 = たいふう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "そと = 外 (外には、風邪のウィルスがいます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/1/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "せんたく = 洗濯 (bộ thủy 氵 ở cả hai chữ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "ながいじかん = 長い時間 (時 bộ nhật, 間 bộ môn).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "しゅう = 週 (週に12コマ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1734/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "あらった = 洗った (洗 bộ thủy; 先・千・午 là chữ khác).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/1": {
+  "type": "short",
+  "answer": "日本の冬は、さむいです。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/2": {
+  "type": "short",
+  "answer": "そして、マフラーも、したほうがいいです。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/3": {
+  "type": "short",
+  "answer": "石けんで洗ったほうがいいです。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/4": {
+  "type": "short",
+  "answer": "そして、うがいをしてください。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/5": {
+  "type": "short",
+  "answer": "ですから、よくカゼをひきます。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/6": {
+  "type": "short",
+  "answer": "冬は、とてもかんそうします。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/7": {
+  "type": "short",
+  "answer": "ですから、うちにかえったら、すぐに手を洗ってください。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/8": {
+  "type": "short",
+  "answer": "さむい日は、手ぶくろをしたほうがいいです。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/9": {
+  "type": "short",
+  "answer": "おふろも、長い時間、入ったほうがいいです。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1732/0/10": {
+  "type": "short",
+  "answer": "外には、カゼのウィルスがいます。",
+  "explain": "Bài gõ lại: gõ đúng y nguyên câu đề (câu trong bài đọc của Akio về mùa đông Nhật Bản).",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

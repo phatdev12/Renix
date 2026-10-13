@@ -11,8 +11,8 @@ const { active } = Astro.props;
 const idx = NAV.findIndex((n) => n.key === active);
 ---
 <aside id="sidebar" aria-label="Điều hướng">
-  <a class="brand" href="/" title="Ôn tập tiếng Nhật · Unit 13–17">
-    <span class="brand-text"><b class="wordmark">Renix</b><small>Ôn tập N4 · Unit 13–17</small></span>
+  <a class="brand" href="/" title="Ôn tập tiếng Nhật · N5 Unit 1–12 · N4 Unit 13–17 · bài đọc chuyên ngành">
+    <span class="brand-text"><b class="wordmark">Renix</b><small>Ôn tập N5–N4 · Unit 1–17</small></span>
   </a>
   <nav id="nav">
     <span class={'nav-ind' + (idx >= 0 ? ' on' : '')} style={`--i: ${Math.max(0, idx)}`} aria-hidden="true"></span>

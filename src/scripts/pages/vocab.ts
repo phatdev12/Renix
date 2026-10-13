@@ -17,7 +17,7 @@ import { uTag } from '../../lib/widgets';
 type V = WithUnit<Vocab>;
 
 const say = (v: Vocab) => v.kana.replace(/[～〜]/g, '');        // text for speech
-const wordHtml = (v: Vocab) => (v.pre ? `<span class="muted">${esc(v.pre)}</span>` : '') + ruby(v.ruby) + (v.note ? `<span class="muted small">${esc(v.note)}</span>` : '');
+const wordHtml = (v: Vocab) => (v.pre ? `<span class="muted">${esc(v.pre)}</span>` : '') + ruby(v.ruby) + (v.note ? `<span class="muted small">${esc(v.note)}</span>` : '') + (v.ext ? '<span class="tag" title="Bảng từ vựng mở rộng">mở rộng</span>' : '');
 const boxes = (id: string) => { const b = SRS.box(id); return h('span', { class: 'boxes', title: 'Mức ghi nhớ ' + b + '/5' }, [1, 2, 3, 4, 5].map((i) => h('i', { class: i <= b ? 'f' : '' }))); };
 
 // a sentence of the master text that contains the word (for context)

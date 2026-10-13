@@ -1,0 +1,737 @@
+{
+ "1602/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「朝は、自分で起きなければなりません。そして、あさごはんを作らなければなりません。」→ buổi sáng phải tự dậy và tự nấu bữa sáng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「授業登録…最初に、カリキュラムを理解しなければなりません。」→ việc đầu tiên khi đăng ký môn là phải hiểu chương trình học.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「日本に来てから、新しい銀行口座を作りました。電話番号も、契約しました。」→ mở tài khoản ngân hàng và ký hợp đồng điện thoại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「石けんやシャンプーやティッシュペーパーなども、買わなければなりません。」→ phải mua xà phòng, dầu gội, khăn giấy.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「食材も、買いに行かなければなりません。朝のパンや牛乳やヨーグルトなども、買わなければなりません。」→ phải tự đi mua.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「学校の運営の仕事もしなければなりません。いろいろな会議にでなければなりません。」→ việc điều hành là phải dự nhiều cuộc họp.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「学校の先生の仕事は、楽しいです。でも、なかなかたいへんです。」→ vui nhưng vất vả.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「評価がたいへんです。最初に、テストを作らなければなりません。」→ việc đầu tiên của đánh giá là soạn bài kiểm tra.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1602/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa kết: 「でも、わたしは、今の仕事が好きです。」→ bận nhưng thích công việc.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "しごとをやすみます = nghỉ làm → không làm việc (しごとをしません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "せんたくします = giặt (quần áo: シャツ、ズボンをあらいました).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "そうじ = dọn dẹp → làm cho phòng sạch (へやをきれいにしてください).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「学校も、大変でした。いろいろな手続きをしなければなりませんでした。」→ てつづき (thủ tục).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「新しい銀行口座を作りました。」→ ぎんこうこうざを作ります (mở tài khoản ngân hàng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "どんなしごとをしたいですか = muốn làm công việc gì; しごとをします là cụm đúng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「晩ごはんも、自分で作らなければなりません。」→ じぶんで (tự mình).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「学生の相談も受けなければなりません。」→ そうだんをうけます (tiếp nhận tư vấn).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài khóa: 「楽しいです。でも、なかなかたいへんです。」→ なかなか (khá là).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/1/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「勉強したい科目を選ばなければなりません。」→ かもくをえらびます (chọn môn).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/2/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: các tờ giấy có biểu đồ, số liệu → レポート (báo cáo).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2019/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cậu bé căng thẳng làm bài trên giấy → テスト (bài kiểm tra).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2019/2/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh: cô gái ôm đầu bên laptop, giấy tờ bay tứ tung → たいへん (vất vả).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2019/2/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: hai chai bơm ghi 'Sampoo' và 'treatment' → シャンプー (dầu gội).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2019/2/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "File ảnh trống (ảnh gốc hỏng), không nhìn được; các lựa chọn せんたく/けいたい/りかい/そうじ — đoán từ tranh minh họa trong bài là せんたく (giặt).",
+  "confidence": "low",
+  "needs_audio": false,
+  "note": "Ảnh da39a3ee… là file rỗng; đoán ngẫu nhiên giữa せんたく và そうじ. Cần kiểm tra lại trên LMS."
+ },
+ "2040/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "じゅぎょう",
+   "2": "しやくしょ",
+   "3": "ひょうか",
+   "4": "しゅくだい",
+   "5": "ぎんこうこうざ"
+  },
+  "explain": "Tranh ⑥ thầy giáo giảng bài → じゅぎょう; ⑦ tòa nhà 市役所 → しやくしょにいきます; ⑧ phiếu EVALUATION → ひょうか; ⑨ học sinh nộp bài (bảng ghi しゅくだい) → しゅくだいをだします; ⑩ sổ và thẻ BANK → ぎんこうこうざをつくります.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "⑥ và ③ (câu sau) dùng cùng một tranh; ⑨ có thể chấp nhận レポート."
+ },
+ "2040/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "そうじ",
+   "2": "かいぎ",
+   "3": "じゅぎょう",
+   "4": "せんたく",
+   "5": "かいもの"
+  },
+  "explain": "Tranh ① lau nhà → そうじ; ② mọi người họp quanh bàn → かいぎ; ③ thầy giáo giảng bài → じゅぎょう; ④ phơi/giặt quần áo → せんたく; ⑤ mua hàng ở siêu thị → かいもの.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2040/1/1": {
+  "type": "dragtext",
+  "answer": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "explain": "かいぎに出ます (dự họp), そうだんを受けます (nhận tư vấn), ぎんこうこうざを作ります (mở tài khoản), しゅくだいをします (làm bài tập) — đúng các cụm trong bài khóa.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "①かいぎにでます ②そうだんをうけます ③ぎんこうこうざをつくります ④しゅくだいをします"
+ },
+ "2040/2/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "せんたくします・そうじします là việc nhà; りかいします (hiểu) là hoạt động trí óc → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2040/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "しゅくだい・じゅぎょう thuộc việc học ở trường; かいぎ (cuộc họp) thuộc công việc → khác nhóm.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2040/2/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "シラバス・カリキュラム là tài liệu chương trình học do trường đưa ra; レポート là bài học sinh viết → khác nhóm.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2040/2/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "せっけん・シャンプー là đồ dùng tắm rửa; シラバス (đề cương môn học) → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2040/2/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "そうだん(をうけます)・ひょうか(をします) là công việc của giáo viên; てつづき (thủ tục) là việc hành chính của Li → khác nhóm.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2020/0/1": {
+  "type": "matching",
+  "answer": {
+   "とります": "とらない",
+   "はしります": "はしらない",
+   "えらびます": "えらばない",
+   "はなします": "はなさない",
+   "あけます": "あけない",
+   "すてます": "すてない",
+   "たべます": "たべない",
+   "うけます": "うけない",
+   "そうじします": "そうじしない",
+   "せんたくします": "せんたくしない",
+   "りかいします": "りかいしない",
+   "べんきょうします": "べんきょうしない"
+  },
+  "explain": "Ngữ pháp 1 (thể ない): nhóm I đổi âm い→あ + ない (とります→とらない、はなします→はなさない); nhóm II bỏ ます + ない (あけます→あけない); nhóm III します→しない.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2078/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "飲まない",
+   "2": "食べない",
+   "3": "見ない",
+   "4": "書かない",
+   "5": "勉強しない",
+   "6": "旅行しない",
+   "7": "結婚しない",
+   "8": "散歩しない"
+  },
+  "explain": "Thể ない: nhóm I 飲みます→飲まない、書きます→書かない; nhóm II 食べます→食べない、見ます→見ない; nhóm III ～します→～しない.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Giữ kanji như đề; nếu LMS yêu cầu hiragana thì のまない/たべない/みない/かかない/べんきょうしない/りょこうしない/けっこんしない/さんぽしない."
+ },
+ "2078/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "すわない",
+   "2": "なくさない",
+   "3": "あけない",
+   "4": "入らない"
+  },
+  "explain": "～ないでください (xin đừng): 禁煙 → たばこをすわないでください; 大切な資料 → なくさないでください; 寒い → 窓をあけないでください; 熱がある → おふろに入らないでください.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chip gốc: すいます・なくします・あけます・入ります; slot 4 có thể viết はいらない."
+ },
+ "2078/2/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe: サントスさんはどうして一緒に行きませんか — cần nghe audio mới nối được ①② với tranh b (đón bố mẹ ở sân bay) / d (đi công tác châu Âu).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio. Đoán theo bài nghe Minna L17: ① = b (両親が来ますから), ② = d (ヨーロッパへ出張しますから)."
+ },
+ "2078/2/2": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Bài nghe: 女の人はなんと言いますか — cần nghe audio để chọn a/b/c cho 3 tình huống.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không nghe được audio; không có tranh/đáp án để suy luận."
+ },
+ "2078/3/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "のまないでください"
+  },
+  "explain": "Tranh: người kia định uống rượu rồi lái xe, bong bóng 「あぶないです」→ ワインをのまないでください (～ないでください: xin đừng).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Có thể chấp nhận あぶないですから、ワインをのまないでください."
+ },
+ "2078/3/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "あげなければなりません"
+  },
+  "explain": "Tranh: hoa héo, cô gái nghĩ phải tưới nước → はなに水をあげなければなりません (～なければなりません: phải).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2078/3/3": {
+  "type": "blanks",
+  "answer": {
+   "1": "とらないでください"
+  },
+  "explain": "Tranh: nhân viên bảo tàng ngăn chụp ảnh, 「びじゅつかんのえです」→ しゃしんをとらないでください.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2078/3/4": {
+  "type": "blanks",
+  "answer": {
+   "1": "べんきょうしなければなりません"
+  },
+  "explain": "Tranh: lịch có テスト, cậu bé nghĩ phải học → たくさんべんきょうしなければなりません.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2078/3/5": {
+  "type": "blanks",
+  "answer": {
+   "1": "おきなければなりません"
+  },
+  "explain": "Tranh: chuyến bay 6:00, đồng hồ AM 5:00 → ５時におきなければなりません.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2078/4/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "explain": "Thông báo thi: ① 8時40分までに教室に入ってください → ○; ② 机の番号を見て…座ってください → ○; ③ chỉ bút chì và tẩy để trên bàn, cặp để dưới bàn được → ○; ④ 「いちばん上の紙にあなたの番号と名前を書いてください」→ phải viết số → ×; ⑤ 答えは鉛筆で書いてください → ○.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "③ hơi mơ hồ (đề chỉ nói chỉ đặt bút chì, tẩy trên bàn)."
+ },
+ "2078/4/2": {
+  "type": "order",
+  "answer": null,
+  "explain": "Mục ○/× theo tranh (れい: a×, b×, c○; ①②③ mỗi mục a,b,c) là bài nghe Minna L17 — không có audio nên không xác định được; câu hỏi dạng order với 2 chip ❌/◯ cũng không tương ứng với 9 ô trống.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Item có vẻ lỗi (order 2 chip cho 9 ô). Đoán theo tranh quy tắc: ① a× b× c○; ② a× b× c×?; ③ không rõ. Cần kiểm tra trên LMS."
+ },
+ "2021/0/1": {
+  "type": "matching",
+  "answer": {
+   "～なければなりません、～なくてはなりません、～ないといけません": "“Phải làm gì đó~”",
+   "～ないでください": "“Đừng làm ...”"
+  },
+  "explain": "Ngữ pháp 2/4: ～なければなりません・～なくてはなりません・～ないといけません = phải làm; ngữ pháp 3: ～ないでください = xin đừng làm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2021/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Giờ học bắt đầu 8 giờ → おくれないでください (xin đừng đến muộn), như ví dụ 「ちこくしないでください」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2021/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "毎日、せっけんで手を洗わなければなりません (phải rửa tay bằng xà phòng mỗi ngày).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2021/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Mai có bài kiểm tra nên hôm nay phải học → べんきょうしないといけません (= なければなりません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2021/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "自分で部屋をそうじしなくてはなりません (phải tự dọn phòng), theo bài khóa 「そうじや洗濯も、自分でしなければなりません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2021/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trong thư viện không được nói to → 大きいこえで話さないでください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thịt cá phải cho vào tủ lạnh → 入れなければなりません (phải).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "すみませんが、ちょっと手伝ってください (nhờ giúp một chút) — thể て＋ください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trước khi viết báo cáo phải thu thập tài liệu → しりょうをあつめなければなりません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Giờ học bắt đầu 8:50 → おくれないでください (ví dụ ngữ pháp 3: ちこくしないでください).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "つかいます → つかわない (～います→～わない) + でください → つかわないでください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "たべます (nhóm II) → たべない + でください → たべないでください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/7": {
+  "type": "single",
+  "answer": 2,
+  "explain": "ざんぎょうします → ざんぎょうしない → ざんぎょうしなければなりません (bỏ い thêm ければなりません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/8": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Muốn làm ở công ty Nhật nên bây giờ phải học tiếng Nhật → べんきょうしなければなりません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/9": {
+  "type": "single",
+  "answer": 2,
+  "explain": "おきます (nhóm I) → おかない → おかないでください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/10": {
+  "type": "single",
+  "answer": 3,
+  "explain": "はしります → はしらない + でください → はしらないでください.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/11": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Ở nhà Nhật phải cởi giày → ぬがなければなりません (câu hoàn chỉnh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/12": {
+  "type": "single",
+  "answer": 3,
+  "explain": "きます (nhóm III) → こない → こなければなりません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/13": {
+  "type": "single",
+  "answer": 3,
+  "explain": "あまり đi với phủ định → あまりよみません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/14": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「いろいろな会議にでなければなりません」— かいぎに出ます(でます) → でなければなりません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1707/0/15": {
+  "type": "single",
+  "answer": 0,
+  "explain": "一人で (một mình) — trợ từ で chỉ cách thức, như 「自分で作らなければなりません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1712/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "後ろ",
+   "2": "強い",
+   "3": "強まる",
+   "4": "起きる"
+  },
+  "explain": "Chọn okurigana đúng: 後ろ (うしろ), 強い (つよい), 強まる (つよまる), 起きる (おきる).",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Số thứ tự câu và slot không khớp nhau trong đề, nhưng mỗi slot chỉ có một cách viết đúng."
+ },
+ "1712/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "べんきょう",
+   "2": "おきます",
+   "3": "つくります",
+   "4": "よみます",
+   "5": "かきます",
+   "6": "でます",
+   "7": "あと",
+   "8": "あさ",
+   "9": "ばんごはん",
+   "10": "かいもの"
+  },
+  "explain": "Cách đọc kanji bài 11: 勉強 べんきょう, 起きます おきます, 作ります つくります, 読みます よみます, 書きます かきます, 出ます でます, 〜の後 あと, 朝 あさ, 晩ごはん ばんごはん, 買い物 かいもの.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Slot 7 có thể cần viết 「〜のあと」."
+ },
+ "1735/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "おきます = 起きます (起: KHỞI, kun お.きる).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "かいもの = 買い物 (買: MÃI kun か.う; 物: VẬT もの).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/0/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "よみます = 読みます (読: ĐỘC, kun よ.む).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "さくぶん = 作文 (作: TÁC, on サク).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "どくしょ = 読書 (読: ドク + 書: ショ), ví dụ trong bảng kanji.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "強い đọc つよい (mạnh).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "買って đọc かって (買います → 買って).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "勉強 đọc べんきょう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "晩ごはん đọc ばんごはん (晩: バン).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "出ない đọc でない (出ます → 出ない).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "読んで đọc よんで (読みます → 読んで).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "出口 đọc でぐち (ví dụ trong bảng kanji 出).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/8": {
+  "type": "single",
+  "answer": 0,
+  "explain": "毎朝 đọc まいあさ (朝: あさ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/9": {
+  "type": "single",
+  "answer": 3,
+  "explain": "後で đọc あとで (後: あと).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1735/1/10": {
+  "type": "single",
+  "answer": 3,
+  "explain": "後ろ đọc うしろ (ví dụ trong bảng kanji 後).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/1": {
+  "type": "short",
+  "answer": "学生のそうだんも、うけなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/2": {
+  "type": "short",
+  "answer": "でも、わたしは、今のしごとが好きです。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/3": {
+  "type": "short",
+  "answer": "そして、ひょうかをしなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/4": {
+  "type": "short",
+  "answer": "いろいろなかいぎに出なければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/5": {
+  "type": "short",
+  "answer": "学生のレポートも、読まなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/6": {
+  "type": "short",
+  "answer": "そして、いろいろなしょるいを書かなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/7": {
+  "type": "short",
+  "answer": "じゅぎょうは、たのしいです。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/8": {
+  "type": "short",
+  "answer": "そして、テストの後は、さいてんをしなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/9": {
+  "type": "short",
+  "answer": "でも、ひょうかがたいへんです。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1731/0/10": {
+  "type": "short",
+  "answer": "学校のうんえいのしごともしなければなりません。",
+  "explain": "Gõ lại nguyên văn câu trong bài khóa của thầy Nishiyama (kể cả dấu phẩy và dấu chấm).",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

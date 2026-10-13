@@ -1,8 +1,13 @@
-# Ôn tập tiếng Nhật – Unit 13 → 17 (M3 – N4: Tiếng Nhật cơ sở 2)
+# Ôn tập tiếng Nhật – Unit 1 → 17 (M2 – N5 cơ sở 1, M3 – N4 cơ sở 2) + bài đọc chuyên ngành (M17)
 
 Website ôn thi giữa kỳ (tên: **Renix**) chạy **trên máy của bạn**, viết bằng [Astro](https://astro.build) + TypeScript.
-Nội dung được tổng hợp từ lớp `learning/m3-n4-tieng-nhat-co-so-2` trên digital.nix.edu.vn
-(giáo trình NEJ Vol.2 – テーマで学ぶ基礎日本語).
+Nội dung được tổng hợp từ ba lớp trên digital.nix.edu.vn:
+
+| Khóa | Lớp | Phạm vi lấy |
+|---|---|---|
+| **N5** – M2: Tiếng Nhật cơ sở 1 (NEJ Vol.1) | `learning/m2-n5-tieng-nhat-co-so-1` | toàn bộ Unit 1–12 |
+| **N4** – M3: Tiếng Nhật cơ sở 2 (NEJ Vol.2) | `learning/m3-n4-tieng-nhat-co-so-2` | Unit 13–17 (giữa kỳ) |
+| **SE** – M17: Tiếng Nhật chuyên ngành 2 | `learning/m17-n4-tieng-nhat-chuyen-nganh-2-2026` | bài đọc 読み物 SE Unit 13–18 (dừng ở mục “SE Unit 17&18”) |
 
 ## Cách mở
 
@@ -11,8 +16,8 @@ Nội dung được tổng hợp từ lớp `learning/m3-n4-tieng-nhat-co-so-2` 
   server trên máy và mở **http://localhost:4321** bằng Microsoft Edge. Cửa sổ thu nhỏ “Renix server”
   là server — đóng nó khi học xong.
 - Hoặc dùng dòng lệnh: `npm install` (một lần) → `npm run build` → `npm run preview`.
-- **Giọng đọc thật**: 161/162 câu bài khóa và 93/94 từ vựng phát bằng giọng người đọc trong video của lớp
-  (cắt sẵn trong `public/media/voice/`, chạy offline). Những câu khác (ví dụ ngữ pháp, câu tự gõ…) dùng giọng máy —
+- **Giọng đọc thật** (chỉ Unit 13–17): 161/162 câu bài khóa và 93/94 từ vựng phát bằng giọng người đọc trong video của lớp
+  (cắt sẵn trong `public/media/voice/`, chạy offline). Những câu khác (Unit 1–12, bài đọc chuyên ngành, ngữ pháp, câu tự gõ…) dùng giọng máy —
   nên mở bằng **Microsoft Edge** để có giọng *Microsoft Nanami (Natural)* (cần Internet).
   Bật/tắt giọng thật và chỉnh giọng máy ở nút loa góc trên bên phải.
 - Mọi thứ khác chạy offline, trừ video bài giảng (phát trực tuyến từ kho của trường — xem phần *Video offline*).
@@ -22,23 +27,29 @@ Nội dung được tổng hợp từ lớp `learning/m3-n4-tieng-nhat-co-so-2` 
 | Mục | Nội dung |
 |---|---|
 | Tổng quan | Đếm ngược ngày thi, việc cần ôn hôm nay (kèm tiến độ), **Hán tự hôm nay** (tự viết từng nét), mức sẵn sàng, ghi nhớ từ vựng, tiến độ từng Unit |
-| Bài khóa | 5 bài マスターテクスト có furigana cho mọi chữ Hán (hiện / ẩn / chỉ khi rê chuột), dịch tiếng Việt từng câu, nghe từng câu hoặc cả bài, **shadowing tự động**, ghi âm giọng mình để so sánh, bấm chữ Hán để xem cách viết, đánh dấu đoạn phải quay video nộp LMS, ảnh hướng dẫn ngữ điệu (pitch accent) |
-| Từ vựng | 94 từ: danh sách (thẻ/bảng), **flashcard lặp lại ngắt quãng**, trắc nghiệm (nghĩa, cách đọc, nghe, gõ từ), trò ghép cặp |
-| Ngữ pháp | 40 mẫu: công thức tô màu theo loại từ, bảng chia (て形, 辞書形, 普通形, 可能形), sơ đồ cho–nhận あげる/くれる/もらう, sơ đồ mệnh đề bổ nghĩa, ví dụ có âm thanh + câu trong bài khóa, video bài giảng |
-| Kanji | 88 chữ: Hán Việt, On/Kun, nghĩa, ví dụ, **animation thứ tự nét**, trắc nghiệm (Hán Việt, mặt chữ, cách đọc, nghĩa) |
+| Bài khóa | 17 bài マスターテクスト (Unit 1–12: 533 câu, Unit 13–17: 162 câu) có furigana cho mọi chữ Hán (hiện / ẩn / chỉ khi rê chuột), dịch tiếng Việt từng câu, nghe từng câu hoặc cả bài, **shadowing tự động**, ghi âm giọng mình để so sánh, bấm chữ Hán để xem cách viết, đánh dấu đoạn phải quay video nộp LMS, ảnh hướng dẫn ngữ điệu (pitch accent) |
+| Chuyên ngành | 6 bài đọc 読み物 của lớp M17 (SE Unit 13–18, 121 câu): furigana, dịch từng câu, nghe / shadowing, bảng 101 từ chuyên ngành kèm Hán Việt, chế độ che nghĩa để tự kiểm tra |
+| Từ vựng | 862 từ (768 từ N5 kể cả bảng mở rộng + 94 từ N4): danh sách (thẻ/bảng), **flashcard lặp lại ngắt quãng**, trắc nghiệm (nghĩa, cách đọc, nghe, gõ từ), trò ghép cặp |
+| Ngữ pháp | 128 mẫu (88 N5 + 40 N4): công thức tô màu theo loại từ, bảng chia (て形, 辞書形, 普通形, 可能形), sơ đồ cho–nhận あげる/くれる/もらう, sơ đồ mệnh đề bổ nghĩa, ví dụ có âm thanh + câu trong bài khóa, video bài giảng |
+| Kanji | 218 chữ (130 N5 từ Unit 4 + 88 N4): Hán Việt, On/Kun, nghĩa, ví dụ, **animation thứ tự nét**, trắc nghiệm (Hán Việt, mặt chữ, cách đọc, nghĩa) |
 | Tập viết | Viết bằng chuột / bút / ngón tay: xem nét, tô theo mẫu, **tự viết có chấm từng nét** (sai vị trí, ngược chiều, sai thứ tự), viết tự do, luyện liên tục cả bài |
-| Chia động từ | Bảng chia 92 động từ + luyện chia (gõ romaji tự chuyển sang hiragana, hoặc trắc nghiệm) kèm giải thích quy tắc |
-| Đề luyện LMS | 60 bài ドリル/テスト gốc (660 câu: trắc nghiệm, sắp xếp câu, điền chỗ trống, nối, luyện gõ, nghe) có đáp án + giải thích |
+| Chia động từ | Bảng chia 130 động từ + luyện chia (gõ romaji tự chuyển sang hiragana, hoặc trắc nghiệm) kèm giải thích quy tắc |
+| Đề luyện LMS | 192 bài ドリル/テスト gốc (1.766 câu – 1.106 câu N5 + 660 câu N4: trắc nghiệm, sắp xếp câu, điền chỗ trống, nối, luyện gõ, nghe) có đáp án + giải thích |
 | Thi thử | Đề tổng hợp tự sinh, có đồng hồ, chấm theo từng phần, lưu lịch sử |
 | Viết luận | Đề gợi ý theo chủ đề bài, checklist mẫu ngữ pháp tự đánh dấu khi bạn dùng, bài văn mẫu |
 | Tiến độ | Thống kê, **sao lưu / khôi phục** tiến độ (file .json) |
 
 Mẹo: gõ `/` để tìm nhanh (từ, kanji, ngữ pháp, câu — gõ được cả romaji hoặc tiếng Việt không dấu).
-Chọn phạm vi ôn ở dãy nút **Tất cả · 13 … 17** trên thanh trên cùng (điện thoại: trong menu ☰) — mọi trang đều lọc theo đó.
+Chọn phạm vi ôn bằng nút **Phạm vi ôn** trên thanh trên cùng (điện thoại: trong menu **Thêm**): bấm **N5** / **N4** để chọn cả khóa,
+hoặc bấm từng số Unit — mọi trang (từ vựng, kanji, ngữ pháp, đề luyện, thi thử…) đều lọc theo đó.
 Giao diện đen – trắng – xám, thanh trên và thanh bên dạng kính mờ nổi; thanh bên chỉ có biểu tượng — rê chuột vào để xem tên mục. Tên trang: **Renix**. Nút mặt trăng / mặt trời góc trên phải đổi nền tối / sáng, nút **ふ** bật/tắt furigana.
 Đặt ngày thi bằng nút lịch ở ô đếm ngược trên trang Tổng quan.
 
 ## Về đáp án các bài ドリル/テスト
+
+- **Unit 1–12 (N5)**: 65 câu lấy từ các lần bạn đã làm trên LMS (✔ xác nhận); các câu còn lại do AI giải từ bài khóa / ngữ pháp,
+  có ghi mức tin cậy và giải thích. 35 câu nghe không có đáp án (chỉ có gợi ý trong ghi chú).
+  Vài ảnh câu hỏi trên LMS bị hỏng (file rỗng) nên đáp án câu đó chỉ là phỏng đoán (mức tin cậy thấp).
 
 - **[U13-P1]テスト (24 câu)**: đáp án lấy từ bài làm 10/10 của bạn trên LMS (✔ xác nhận).
   Riêng 2 câu (Akio ngủ lúc mấy giờ / làm gì sau bữa sáng) LMS chấm khác với nội dung bài khóa —
@@ -101,6 +112,6 @@ thanh bên trượt sang mục mới (View Transitions).
 
 ## Ghi công & bản quyền
 
-- Tài liệu học tập thuộc về NIX / giáo trình NEJ (Koichi Nishiguchi) — chỉ dùng để tự học cá nhân, không chia sẻ công khai.
+- Tài liệu học tập thuộc về NIX / giáo trình NEJ (Koichi Nishiguchi) và bài đọc chuyên ngành của lớp M17 — chỉ dùng để tự học cá nhân, không chia sẻ công khai.
 - Dữ liệu thứ tự nét chữ Hán: [KanjiVG](https://kanjivg.tagaini.net) © Ulrich Apel, giấy phép CC BY-SA 3.0.
 - Hướng dẫn ngữ điệu trong tài liệu được tạo bằng OJAD (Đại học Tokyo).

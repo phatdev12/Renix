@@ -1,0 +1,294 @@
+{
+ "text": {
+  "title": "{好|す}きなもの、{好|す}きなこと",
+  "titleVi": "Những thứ tôi thích, những việc tôi thích",
+  "titleNote": "Bài khóa gồm hai video: A (bữa sáng hằng ngày) và B (những thứ mình thích).",
+  "sections": [
+   {"speaker": "akio", "heading": "ビデオA", "headingVi": "Video A – Bữa sáng hằng ngày",
+    "paragraphs": [
+     [
+      {"jp": "わたしは、{毎日|まいにち}、{朝|あさ}ごはんを{食|た}べます。", "vi": "Tôi ăn sáng mỗi ngày."},
+      {"jp": "たいてい、ごはんを{食|た}べます。", "vi": "Thường thì tôi ăn cơm."},
+      {"jp": "ときどき、パンを{食|た}べます。", "vi": "Thỉnh thoảng tôi ăn bánh mì."},
+      {"jp": "ごはんのときは、{魚|さかな}とたまごとのりも、{食|た}べます。", "vi": "Khi ăn cơm, tôi ăn cả cá, trứng và rong biển."},
+      {"jp": "そして、みそしるを{飲|の}みます。", "vi": "Và tôi uống súp miso."}
+     ],
+     [
+      {"jp": "わたしは、{魚|さかな}が{大好|だいす}きです。", "vi": "Tôi rất thích cá."},
+      {"jp": "さしみも、{好|す}きです。", "vi": "Sashimi tôi cũng thích."},
+      {"jp": "{焼|や}き{魚|ざかな}も、{好|す}きです。", "vi": "Cá nướng tôi cũng thích."},
+      {"jp": "すしも、{大好|だいす}きです。", "vi": "Sushi tôi cũng rất thích."}
+     ],
+     [
+      {"jp": "パンのときは、パンとコーヒーとぎゅうにゅうとサラダです。", "vi": "Khi ăn bánh mì thì là bánh mì, cà phê, sữa và salad."},
+      {"jp": "ときどき、ヨーグルトも、{食|た}べます。", "vi": "Thỉnh thoảng tôi ăn cả sữa chua."}
+     ],
+     [
+      {"jp": "わたしは、コーヒーが{大好|だいす}きです。", "vi": "Tôi rất thích cà phê."},
+      {"jp": "{朝|あさ}ごはんのときは、いつも、コーヒーを{飲|の}みます。", "vi": "Khi ăn sáng, tôi luôn uống cà phê."},
+      {"jp": "そして、{1日|いちにち}に2・3{回|かい}、コーヒーを{飲|の}みます。", "vi": "Và một ngày tôi uống cà phê hai, ba lần."},
+      {"jp": "{紅茶|こうちゃ}は、{飲|の}みません。", "vi": "Hồng trà thì tôi không uống."},
+      {"jp": "{紅茶|こうちゃ}は、あまり{好|す}きではありません。", "vi": "Tôi không thích hồng trà lắm."}
+     ]
+    ]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしは、{毎日|まいにち}、{朝|あさ}ごはんをたべます。", "vi": "Tôi ăn sáng mỗi ngày."},
+      {"jp": "いつもパンをたべます。", "vi": "Tôi luôn ăn bánh mì."}
+     ],
+     [
+      {"jp": "わたしは、パンが{好|す}きです。", "vi": "Tôi thích bánh mì."},
+      {"jp": "ふつうは、トーストを{食|た}べます。", "vi": "Bình thường tôi ăn bánh mì nướng."},
+      {"jp": "ときどき、クロワッサンやベーグルを{食|た}べます。", "vi": "Thỉnh thoảng tôi ăn bánh sừng bò hay bánh mì vòng."},
+      {"jp": "ときどき、サンドイッチも、{作|つく}ります。", "vi": "Thỉnh thoảng tôi cũng làm bánh mì kẹp."},
+      {"jp": "ハムと{野菜|やさい}のサンドイッチが{大好|だいす}きです。", "vi": "Tôi rất thích bánh mì kẹp thịt nguội và rau."}
+     ],
+     [
+      {"jp": "サラダとフルーツも、たくさん{食|た}べます。", "vi": "Salad và trái cây tôi cũng ăn nhiều."},
+      {"jp": "そして、いつもオレンジジュースを{飲|の}みます。", "vi": "Và tôi luôn uống nước cam."},
+      {"jp": "{紅茶|こうちゃ}も、{飲|の}みます。", "vi": "Tôi cũng uống hồng trà."},
+      {"jp": "ミルクティーが{好|す}きです。", "vi": "Tôi thích trà sữa."}
+     ]
+    ]},
+   {"speaker": "akio", "heading": "ビデオB", "headingVi": "Video B – Những thứ tôi thích",
+    "paragraphs": [
+     [
+      {"jp": "わたしは、フルーツが{大好|だいす}きです。", "vi": "Tôi rất thích trái cây."},
+      {"jp": "パイナップルとマンゴーが{一番|いちばん}{好|す}きです。", "vi": "Tôi thích nhất là dứa và xoài."},
+      {"jp": "りんごやみかんやナシも、{好|す}きです。", "vi": "Táo, quýt hay lê tôi cũng thích."},
+      {"jp": "{日本|にほん}のナシは、とてもおいしいです。", "vi": "Lê Nhật Bản rất ngon."},
+      {"jp": "モモも、{好|す}きです。", "vi": "Tôi cũng thích đào."},
+      {"jp": "{日本|にほん}のモモは、とてもおいしいです。", "vi": "Đào Nhật Bản rất ngon."}
+     ],
+     [
+      {"jp": "わたしは、あまいものも、{好|す}きです。", "vi": "Tôi cũng thích đồ ngọt."},
+      {"jp": "シュークリームが{大好|だいす}きです。", "vi": "Tôi rất thích bánh su kem."},
+      {"jp": "チョコレートも、{好|す}きです。", "vi": "Sô cô la tôi cũng thích."},
+      {"jp": "クッキーも、{好|す}きです。", "vi": "Bánh quy tôi cũng thích."},
+      {"jp": "でも、あまりたくさんたべません。", "vi": "Nhưng tôi không ăn nhiều lắm."}
+     ]
+    ]},
+   {"speaker": "li", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしは、スポーツが{大好|だいす}きです。", "vi": "Tôi rất thích thể thao."},
+      {"jp": "{特|とく}に、サッカーが{好|す}きです。", "vi": "Đặc biệt là tôi thích bóng đá."},
+      {"jp": "よく、{友|とも}だちとサッカーをします。", "vi": "Tôi hay chơi bóng đá với bạn bè."},
+      {"jp": "そして、よく、サッカーを{見|み}ます。", "vi": "Và tôi cũng hay xem bóng đá."}
+     ],
+     [
+      {"jp": "テニスも、{好|す}きです。", "vi": "Tôi cũng thích quần vợt."},
+      {"jp": "{中学生|ちゅうがくせい}のときは、テニス{部|ぶ}でした。", "vi": "Hồi học cấp hai, tôi ở câu lạc bộ quần vợt."}
+     ],
+     [
+      {"jp": "{水泳|すいえい}もします。", "vi": "Tôi cũng đi bơi."},
+      {"jp": "{週|しゅう}に２・３{回|かい}、{水泳|すいえい}をします。", "vi": "Một tuần tôi bơi hai, ba lần."},
+      {"jp": "ハイキングも、{好|す}きです。", "vi": "Tôi cũng thích đi bộ đường dài."},
+      {"jp": "{月|つき}に１・２{回|かい}、{山|やま}に{行|い}きます。", "vi": "Một tháng tôi lên núi một, hai lần."}
+     ]
+    ]},
+   {"speaker": "nishiyama", "heading": null, "headingVi": null,
+    "paragraphs": [
+     [
+      {"jp": "わたしは、{音楽|おんがく}が{好|す}きです。", "vi": "Tôi thích âm nhạc."},
+      {"jp": "ジャズとクラシックが{好|す}きです。", "vi": "Tôi thích nhạc jazz và nhạc cổ điển."},
+      {"jp": "つまも、{音楽|おんがく}が{好|す}きです。", "vi": "Vợ tôi cũng thích âm nhạc."}
+     ],
+     [
+      {"jp": "{金曜日|きんようび}の{夜|よる}は、つまといっしょに、{音楽|おんがく}を{聞|き}きます。", "vi": "Tối thứ sáu, tôi nghe nhạc cùng với vợ."},
+      {"jp": "そして、{少|すこ}しお{酒|さけ}を{飲|の}みます。", "vi": "Và tôi uống một chút rượu."}
+     ]
+    ]}
+  ]
+ },
+ "speakers": {},
+ "grammar": [
+  {"no": "1", "group": "A", "video": 1253,
+   "title": "～すきです・～すきではありません", "sub": null,
+   "meaning": "Thích / không thích cái gì",
+   "usage": ["Dùng để nói về sở thích.", "Đối tượng được thích đi với trợ từ が."],
+   "formulas": ["N ＋ が ＋ すきです", "N ＋ が ＋ すきではありません", "なにが ＋ すきですか → N ＋ が ＋ すきです", "N ＋ が ＋ すきですか → はい、すきです ／ いいえ、すきではありません"],
+   "examples": [
+    {"jp": "コーヒーが すきです。", "vi": "Tôi thích cà phê."},
+    {"jp": "こうちゃが すきではありません。", "vi": "Tôi không thích trà."},
+    {"jp": "なにが すきですか。", "vi": "Bạn thích cái gì?"},
+    {"jp": "コーヒーが すきですか。 → はい、すきです。／ いいえ、すきではありません。", "vi": "Bạn có thích cà phê không? → Có, tôi thích. / Không, tôi không thích."},
+    {"jp": "わたしは、{魚|さかな}が{大好|だいす}きです。", "vi": "Tôi rất thích cá.", "src": "text"},
+    {"jp": "{紅茶|こうちゃ}は、あまり{好|す}きではありません。", "vi": "Tôi không thích hồng trà lắm.", "src": "text"}
+   ],
+   "extra": ["Câu hỏi có từ để hỏi: なにが すきですか (Thích cái gì?). Câu hỏi Có/không: Nが すきですか (Có thích N hay không?).", "だいすきです = rất thích; あまり～すきではありません = không thích ～ lắm."],
+   "notes": [],
+   "table": null},
+  {"no": "2-1", "group": "A", "video": 1254,
+   "title": "どんなNがすきですか", "sub": null,
+   "meaning": "Thích N gì / nào",
+   "usage": ["Dùng để hỏi cụ thể về N yêu thích.", "N đứng sau どんな là danh từ chung (スポーツ, フルーツ, おんがく…)."],
+   "formulas": ["どんな ＋ N ＋ が ＋ すきですか → N1 ＋ が ＋ すきです"],
+   "examples": [
+    {"jp": "どんなスポーツが すきですか。", "vi": "Bạn thích môn thể thao nào?"},
+    {"jp": "サッカーが すきです。", "vi": "Tôi thích bóng đá."}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "2-2", "group": "A", "video": 1254,
+   "title": "とくに", "sub": null,
+   "meaning": "Đặc biệt là…",
+   "usage": ["Dùng để nhấn mạnh đồ vật, việc làm mình thích nhất.", "Đứng đầu câu sau, sau khi đã nêu sở thích chung."],
+   "formulas": ["～。とくに、～"],
+   "examples": [
+    {"jp": "スポーツがすきです。とくに、サッカーがすきです。", "vi": "Tôi thích thể thao. Đặc biệt là bóng đá."},
+    {"jp": "わたしは、スポーツが{大好|だいす}きです。{特|とく}に、サッカーが{好|す}きです。", "vi": "Tôi rất thích thể thao. Đặc biệt là tôi thích bóng đá.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "3", "group": "A", "video": 1255,
+   "title": "Vます・Vません", "sub": null,
+   "meaning": "Làm ～ / không làm ～",
+   "usage": ["Dùng diễn tả làm / không làm một hành động nào đó.", "Tân ngữ của động từ đi với trợ từ を."],
+   "formulas": ["N ＋ を ＋ Vます", "N ＋ を ＋ Vません"],
+   "examples": [
+    {"jp": "あさ、パンを たべます。", "vi": "Buổi sáng tôi ăn bánh mì."},
+    {"jp": "ごはんを たべません。", "vi": "Tôi không ăn cơm."},
+    {"jp": "そして、みそしるを{飲|の}みます。", "vi": "Và tôi uống súp miso.", "src": "text"},
+    {"jp": "{紅茶|こうちゃ}は、{飲|の}みません。", "vi": "Hồng trà thì tôi không uống.", "src": "text"}
+   ],
+   "extra": ["Động từ của bài: たべます, のみます, つくります, みます, します, いきます, ききます."],
+   "notes": [],
+   "table": null},
+  {"no": "4", "group": "A", "video": 1256,
+   "title": "なにをVますか・いつVますか", "sub": null,
+   "meaning": "Làm (V) gì? / Làm (V) khi nào?",
+   "usage": ["なにを Vますか: câu hỏi có từ để hỏi \"cái gì?\" về đối tượng của hành động.", "いつ Vますか: câu hỏi có từ để hỏi về thời gian diễn ra hành động."],
+   "formulas": ["なにを ＋ Vますか", "いつ ＋ Vますか"],
+   "examples": [
+    {"jp": "{西山先生|にしやませんせい}は、{何|なに}をのみますか。", "vi": "Thầy Nishiyama uống gì?"},
+    {"jp": "コーヒーを のみます。", "vi": "Tôi uống cà phê."},
+    {"jp": "{西山先生|にしやませんせい}は、いつコーヒーをのみますか。", "vi": "Thầy Nishiyama uống cà phê khi nào?"},
+    {"jp": "あさに コーヒーをのみます。", "vi": "Tôi uống cà phê vào buổi sáng."}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "5-1", "group": "A", "video": 1257,
+   "title": "N1やN2", "sub": null,
+   "meaning": "Như là N1, N2…",
+   "usage": ["Dùng để liệt kê các đồ vật, sự việc.", "Hàm ý: ngoài những vật này ra vẫn còn những vật khác không kể đến (khác với と liệt kê đủ)."],
+   "formulas": ["N1 ＋ や ＋ N2"],
+   "examples": [
+    {"jp": "リさんは、あさごはんのときは、{何|なに}を{食|た}べますか。", "vi": "Bữa sáng Li ăn gì?"},
+    {"jp": "トーストや、サラダを{食|た}べます。", "vi": "Tôi ăn mấy món như là bánh mì nướng, salad."},
+    {"jp": "ときどき、クロワッサンやベーグルを{食|た}べます。", "vi": "Thỉnh thoảng tôi ăn bánh sừng bò hay bánh mì vòng.", "src": "text"},
+    {"jp": "りんごやみかんやナシも、{好|す}きです。", "vi": "Táo, quýt hay lê tôi cũng thích.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "5-2", "group": "A", "video": 1257,
+   "title": "Nのとき", "sub": null,
+   "meaning": "Khi…, lúc…",
+   "usage": ["Dùng để nói về thời điểm, hoàn cảnh (khi ăn cơm, khi còn là học sinh…)."],
+   "formulas": ["N ＋ の ＋ とき（は）"],
+   "examples": [
+    {"jp": "ごはんのときは、{魚|さかな}とたまごを{食|た}べます。", "vi": "Khi ăn cơm, tôi ăn cá và trứng."},
+    {"jp": "パンのときは、パンとコーヒーとサラダです。", "vi": "Khi ăn bánh mì thì là bánh mì, cà phê và salad."},
+    {"jp": "{中学生|ちゅうがくせい}のときは、テニス{部|ぶ}でした。", "vi": "Hồi học cấp hai, tôi ở câu lạc bộ quần vợt.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "6", "group": "A", "video": 1258,
+   "title": "Nも", "sub": null,
+   "meaning": "N2 cũng là N",
+   "usage": ["Trợ từ も thể hiện ý nghĩa N2 cũng là N giống như N1.", "も thay cho は／が／を khi muốn nói \"cũng\"."],
+   "formulas": ["N1 ＋ は ＋ N ＋ です", "N2 ＋ も ＋ N ＋ です"],
+   "examples": [
+    {"jp": "リさんは、がくせいです。", "vi": "Li là học sinh."},
+    {"jp": "あきおさんも、がくせいです。", "vi": "Akio cũng là học sinh."},
+    {"jp": "さしみも、{好|す}きです。", "vi": "Sashimi tôi cũng thích.", "src": "text"},
+    {"jp": "つまも、{音楽|おんがく}が{好|す}きです。", "vi": "Vợ tôi cũng thích âm nhạc.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "7", "group": "A", "video": 1259,
+   "title": "Nといっしょに", "sub": null,
+   "meaning": "Cùng với N",
+   "usage": ["「いっしょに」 thể hiện ý nghĩa \"làm hành động cùng với N\" (N là người)."],
+   "formulas": ["N（人）＋ と ＋ いっしょに ＋ V"],
+   "examples": [
+    {"jp": "つまといっしょに おんがくを{聞|き}きます。", "vi": "Tôi nghe nhạc cùng vợ."},
+    {"jp": "{金曜日|きんようび}の{夜|よる}は、つまといっしょに、{音楽|おんがく}を{聞|き}きます。", "vi": "Tối thứ sáu, tôi nghe nhạc cùng với vợ.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "8", "group": "A", "video": 1260,
+   "title": "でも", "sub": null,
+   "meaning": "Nhưng mà, tuy nhiên, tuy vậy",
+   "usage": ["「でも」 thể hiện ý nghĩa \"nhưng mà\", diễn đạt ý trái ngược giữa hai vế.", "Đứng đầu câu sau."],
+   "formulas": ["（Câu 1）。でも、（Câu 2）"],
+   "examples": [
+    {"jp": "あまいものが{好|す}きです。でも、あまりたくさん{食|た}べません。", "vi": "Tôi thích đồ ngọt, nhưng mà tôi không ăn nhiều lắm."},
+    {"jp": "クッキーも、{好|す}きです。でも、あまりたくさんたべません。", "vi": "Bánh quy tôi cũng thích. Nhưng tôi không ăn nhiều lắm.", "src": "text"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null},
+  {"no": "9", "group": "B", "video": 1261,
+   "title": "1日・週・月に～回", "sub": null,
+   "meaning": "～ lần một ngày / một tuần / một tháng",
+   "usage": ["Dùng để diễn tả tần suất: trong một khoảng thời gian thì thực hiện V bao nhiêu lần."],
+   "formulas": ["～日・週・月 ＋ に ＋ ～回（かい）＋ Vます"],
+   "examples": [
+    {"jp": "わたしは、{1日|いちにち}に2・3{回|かい}、コーヒーをのみます。", "vi": "Một ngày tôi uống cà phê 2, 3 lần."},
+    {"jp": "{週|しゅう}に２・３{回|かい}、{水泳|すいえい}をします。", "vi": "Một tuần tôi bơi hai, ba lần.", "src": "text"},
+    {"jp": "{月|つき}に１・２{回|かい}、{山|やま}に{行|い}きます。", "vi": "Một tháng tôi lên núi một, hai lần.", "src": "text"}
+   ],
+   "extra": ["Đọc số lần: いっかい (1回), にかい (2回), さんかい (3回), よんかい (4回), ごかい (5回), ろっかい (6回), ななかい (7回), はっかい (8回), きゅうかい (9回), じゅっかい (10回), なんかい (何回)."],
+   "notes": [],
+   "table": null},
+  {"no": "10", "group": "B", "video": 1262,
+   "title": "いつも・たいてい・よく・ときどき・たまに", "sub": "Phó từ chỉ tần suất",
+   "meaning": "Luôn luôn / thường / hay / thỉnh thoảng / thi thoảng",
+   "usage": ["Dùng những từ này để thể hiện mức độ thường xuyên của hành động.", "いつも (100%) ＞ たいてい (80%) ＞ よく (60%) ＞ ときどき (50%) ＞ たまに (30%)."],
+   "formulas": ["いつも／たいてい／よく／ときどき／たまに ＋ Vます"],
+   "examples": [
+    {"jp": "わたしは、まいにち、あさごはんを{食|た}べます。いつもパンを{食|た}べます。", "vi": "Hằng ngày tôi đều ăn sáng. Tôi luôn luôn ăn bánh mì."},
+    {"jp": "たいてい、ごはんを{食|た}べます。", "vi": "Thường thì tôi ăn cơm.", "src": "text"},
+    {"jp": "よく、{友|とも}だちとサッカーをします。", "vi": "Tôi hay chơi bóng đá với bạn bè.", "src": "text"}
+   ],
+   "extra": ["あまり ＋ Vません = không ～ lắm (あまりたくさんたべません)."],
+   "notes": [],
+   "table": null},
+  {"no": "11", "group": "B", "video": 1263,
+   "title": "すうじのかぞえかた", "sub": "Cách đếm số",
+   "meaning": "Cách đọc số đếm (tham khảo SGK trang 44)",
+   "usage": ["Ôn cách đọc số và các từ đếm hay gặp trong bài: ～回 (lần), ～本 (cây, chai), ～杯 (ly, cốc)."],
+   "formulas": ["数字 ＋ 回／本／杯"],
+   "examples": [
+    {"jp": "いっぽん、にほん、さんぼん、よんほん、ごほん、ろっぽん、ななほん、はっぽん、きゅうほん、じゅっぽん", "vi": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10 cây / chai"},
+    {"jp": "いっぱい、にはい、さんばい、よんはい、ごはい、ろっぱい、ななはい、はっぱい、きゅうはい、じゅっぱい", "vi": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ly / cốc"}
+   ],
+   "extra": [],
+   "notes": [],
+   "table": null}
+ ],
+ "essay": {
+  "title": "{好|す}きなもの、{好|す}きなこと",
+  "vi": "Những thứ tôi thích, những việc tôi thích",
+  "use": ["～がすきです・～がすきではありません", "Vます・Vません", "N1やN2", "Nのとき", "Nも", "とくに", "でも", "1日・週・月に～回", "いつも・たいてい・よく・ときどき"],
+  "ideas": ["Bữa sáng hằng ngày: ăn gì, uống gì (いつも／たいてい／ときどき)", "Món ăn, trái cây, đồ ngọt mình thích / không thích lắm", "Thể thao, âm nhạc mình thích; đặc biệt thích gì (とくに)", "Làm bao nhiêu lần một tuần / một tháng, làm cùng ai (～といっしょに)"]
+ },
+ "verbs": [
+  {"m": "たべます", "k": "食べます", "g": 2, "vi": "ăn"},
+  {"m": "つくります", "k": "作ります", "g": 1, "vi": "làm, chuẩn bị, nấu"},
+  {"m": "のみます", "k": "飲みます", "g": 1, "vi": "uống"},
+  {"m": "みます", "k": "見ます", "g": 2, "vi": "xem (bóng đá)"},
+  {"m": "します", "k": "します", "g": 3, "vi": "làm, chơi (bơi lội, bóng đá)"},
+  {"m": "いきます", "k": "行きます", "g": 1, "vi": "đi"},
+  {"m": "ききます", "k": "聞きます", "g": 1, "vi": "nghe"}
+ ]
+}

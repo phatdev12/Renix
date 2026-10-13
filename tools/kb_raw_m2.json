@@ -1,0 +1,6608 @@
+{
+ "1": {
+  "vocab_p1": [
+   {
+    "kana": "はじめまして",
+    "kanji": "",
+    "vi": "Rất vui được gặp bạn (nói trong lần đầu gặp)"
+   },
+   {
+    "kana": "わたし",
+    "kanji": "私",
+    "vi": "Tôi"
+   },
+   {
+    "kana": "だいがく",
+    "kanji": "大学",
+    "vi": "Đại học"
+   },
+   {
+    "kana": "がくせい",
+    "kanji": "学生",
+    "vi": "Học sinh"
+   },
+   {
+    "kana": "こうがく",
+    "kanji": "工学",
+    "vi": "Cơ khí"
+   },
+   {
+    "kana": "～がくぶ",
+    "kanji": "～学部",
+    "vi": "Khoa ~"
+   },
+   {
+    "kana": "～ねんせい",
+    "kanji": "～年生",
+    "vi": "Sinh viên năm ~"
+   },
+   {
+    "kana": "マレーシア",
+    "kanji": "",
+    "vi": "Malaysia"
+   },
+   {
+    "kana": "～からきました",
+    "kanji": "～から来ました",
+    "vi": "Đến từ ~"
+   },
+   {
+    "kana": "きます",
+    "kanji": "来ます",
+    "vi": "Đến"
+   },
+   {
+    "kana": "どうぞ よろしく おねがいします",
+    "kanji": "",
+    "vi": "Rất vui được gặp bạn"
+   },
+   {
+    "kana": "～さい",
+    "kanji": "～歳",
+    "vi": "~ tuổi"
+   },
+   {
+    "kana": "よろしく おねがいします",
+    "kanji": "",
+    "vi": "Mong được bạn chiếu cố/giúp đỡ"
+   },
+   {
+    "kana": "こんにちは",
+    "kanji": "",
+    "vi": "Xin chào"
+   },
+   {
+    "kana": "せんせい",
+    "kanji": "先生",
+    "vi": "Giáo viên, giảng viên"
+   },
+   {
+    "kana": "にほんご",
+    "kanji": "日本語",
+    "vi": "Tiếng Nhật"
+   },
+   {
+    "kana": "～ご",
+    "kanji": "～語",
+    "vi": "Tiếng ~"
+   },
+   {
+    "kana": "どうぞ、よろしく",
+    "kanji": "",
+    "vi": "Rất vui được gặp bạn (cách nói thân mật)"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "ともだち",
+    "kanji": "友だち",
+    "vi": "bạn bè"
+   },
+   {
+    "kana": "だいがくせい",
+    "kanji": "大学生",
+    "vi": "sinh viên (đại học, cao đẳng)"
+   },
+   {
+    "kana": "だいがくいんせい",
+    "kanji": "大学院生",
+    "vi": "học viên cao học"
+   },
+   {
+    "kana": "がくぶせい",
+    "kanji": "学部生",
+    "vi": "sinh viên đại học"
+   },
+   {
+    "kana": "いんせい",
+    "kanji": "院生",
+    "vi": "học viên cao học"
+   },
+   {
+    "kana": "けんきゅうせい",
+    "kanji": "研究生",
+    "vi": "nghiên cứu sinh"
+   },
+   {
+    "kana": "りゅうがくせい",
+    "kanji": "留学生",
+    "vi": "du học sinh"
+   },
+   {
+    "kana": "たんきりゅうがくせい",
+    "kanji": "短期留学生",
+    "vi": "du học sinh trao đổi ngắn hạn"
+   }
+  ],
+  "kanji": [],
+  "videos": {
+   "text": [
+    1220
+   ],
+   "vocab": 1222,
+   "kanji": null
+  }
+ },
+ "2": {
+  "vocab_p1": [
+   {
+    "kana": "かぞく",
+    "kanji": "家族",
+    "vi": "Gia đình"
+   },
+   {
+    "kana": "しょうかいします",
+    "kanji": "紹介します",
+    "vi": "Giới thiệu"
+   },
+   {
+    "kana": "これ",
+    "kanji": "",
+    "vi": "Đây là, cái này"
+   },
+   {
+    "kana": "ちち",
+    "kanji": "父",
+    "vi": "Ba, bố"
+   },
+   {
+    "kana": "ビジネス",
+    "kanji": "",
+    "vi": "Kinh doanh"
+   },
+   {
+    "kana": "コンサルタント",
+    "kanji": "",
+    "vi": "Tư vấn"
+   },
+   {
+    "kana": "はは",
+    "kanji": "母",
+    "vi": "Mẹ, má"
+   },
+   {
+    "kana": "ちゅうごくご",
+    "kanji": "中国語",
+    "vi": "Tiếng Trung Quốc"
+   },
+   {
+    "kana": "あに",
+    "kanji": "兄",
+    "vi": "Anh trai"
+   },
+   {
+    "kana": "あね",
+    "kanji": "姉",
+    "vi": "Chị gái"
+   },
+   {
+    "kana": "ぎんこういん",
+    "kanji": "銀行員",
+    "vi": "Nhân viên ngân hàng"
+   },
+   {
+    "kana": "だいがくいんせい",
+    "kanji": "大学院生",
+    "vi": "Học viên cao học"
+   },
+   {
+    "kana": "いもうと",
+    "kanji": "妹",
+    "vi": "Em gái"
+   },
+   {
+    "kana": "おとうと",
+    "kanji": "弟",
+    "vi": "Em trai"
+   },
+   {
+    "kana": "こうこうせい",
+    "kanji": "高校生",
+    "vi": "Học sinh cấp ba"
+   },
+   {
+    "kana": "そして",
+    "kanji": "",
+    "vi": "Và rồi"
+   },
+   {
+    "kana": "こうこう",
+    "kanji": "高校",
+    "vi": "Trường cấp ba, trường THPT"
+   },
+   {
+    "kana": "えいご",
+    "kanji": "英語",
+    "vi": "Tiếng Anh"
+   },
+   {
+    "kana": "かいしゃいん",
+    "kanji": "会社員",
+    "vi": "Nhân viên công ty"
+   },
+   {
+    "kana": "だいがくせい",
+    "kanji": "大学生",
+    "vi": "Sinh viên"
+   },
+   {
+    "kana": "つま",
+    "kanji": "妻",
+    "vi": "Vợ"
+   },
+   {
+    "kana": "にほんがく",
+    "kanji": "日本学",
+    "vi": "Nhật bản học"
+   },
+   {
+    "kana": "こども",
+    "kanji": "子ども",
+    "vi": "Con nít, con, trẻ em"
+   },
+   {
+    "kana": "ふたり",
+    "kanji": "二人",
+    "vi": "Hai người"
+   },
+   {
+    "kana": "おんなのこ",
+    "kanji": "女の子",
+    "vi": "Con gái"
+   },
+   {
+    "kana": "おとこのこ",
+    "kanji": "男の子",
+    "vi": "Con trai"
+   },
+   {
+    "kana": "ちゅうがくせい",
+    "kanji": "中学生",
+    "vi": "Học sinh cấp 2, học sinh trung học"
+   },
+   {
+    "kana": "ちゅうがく",
+    "kanji": "中学",
+    "vi": "Trường cấp 2, THCS"
+   },
+   {
+    "kana": "サッカー",
+    "kanji": "",
+    "vi": "Đá bóng"
+   },
+   {
+    "kana": "すきな",
+    "kanji": "好きな",
+    "vi": "Thích"
+   },
+   {
+    "kana": "～にん",
+    "kanji": "～人",
+    "vi": "~ người (mấy người?)"
+   },
+   {
+    "kana": "おっと",
+    "kanji": "夫",
+    "vi": "Chồng"
+   },
+   {
+    "kana": "うえ",
+    "kanji": "上",
+    "vi": "Trên"
+   },
+   {
+    "kana": "いま",
+    "kanji": "今",
+    "vi": "Bây giờ"
+   },
+   {
+    "kana": "した",
+    "kanji": "下",
+    "vi": "Dưới"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "おじいさん",
+    "kanji": "",
+    "vi": "ông"
+   },
+   {
+    "kana": "おばあさん",
+    "kanji": "",
+    "vi": "bà"
+   },
+   {
+    "kana": "おじさん",
+    "kanji": "",
+    "vi": "chú, bác, cậu"
+   },
+   {
+    "kana": "おばさん",
+    "kanji": "",
+    "vi": "cô, bác, dì"
+   },
+   {
+    "kana": "ごかぞく",
+    "kanji": "ご家族",
+    "vi": "gia đình (người khác)"
+   },
+   {
+    "kana": "ごしゅじん",
+    "kanji": "ご主人",
+    "vi": "chồng (người khác)"
+   },
+   {
+    "kana": "おくさん",
+    "kanji": "奥さん",
+    "vi": "vợ (người khác)"
+   },
+   {
+    "kana": "おとうさん",
+    "kanji": "お父さん",
+    "vi": "ba, bố, cha (người khác) dùng khi gọi ba, bố, cha (của mình)"
+   },
+   {
+    "kana": "おかあさん",
+    "kanji": "お母さん",
+    "vi": "mẹ, má (người khác) dùng khi gọi mẹ, má (của mình)"
+   },
+   {
+    "kana": "おにいさん",
+    "kanji": "お兄さん",
+    "vi": "anh trai (người khác) anh (dùng khi gọi anh của mình)"
+   },
+   {
+    "kana": "おねえさん",
+    "kanji": "おねえさん",
+    "vi": "chị gái (người khác) chị (dùng khi gọi chị của mình)"
+   },
+   {
+    "kana": "おとうとさん",
+    "kanji": "弟さん",
+    "vi": "em trai (người khác)"
+   },
+   {
+    "kana": "いもうとさん",
+    "kanji": "妹さん",
+    "vi": "em gái (người khác)"
+   },
+   {
+    "kana": "ごきょうだい",
+    "kanji": "ご兄弟",
+    "vi": "anh chị em (người khác)"
+   },
+   {
+    "kana": "むすこさん",
+    "kanji": "息子さん",
+    "vi": "con trai (người khác)"
+   },
+   {
+    "kana": "むすめさん",
+    "kanji": "娘さん",
+    "vi": "con gái (người khác)"
+   },
+   {
+    "kana": "ごりょうしん",
+    "kanji": "ご両親",
+    "vi": "bố mẹ, ba mẹ (người khác)"
+   },
+   {
+    "kana": "しょうがっこう",
+    "kanji": "小学校",
+    "vi": "trường tiểu học, trường cấp 1"
+   },
+   {
+    "kana": "しょうがくせい",
+    "kanji": "小学生",
+    "vi": "học sinh tiểu học, học sinh cấp 1"
+   },
+   {
+    "kana": "ちゅうがっこう",
+    "kanji": "中学校",
+    "vi": "trường trung học, trường cấp 2"
+   },
+   {
+    "kana": "だいがくいん",
+    "kanji": "大学院",
+    "vi": "cao học"
+   },
+   {
+    "kana": "かんこくご",
+    "kanji": "韓国語",
+    "vi": "tiếng Hàn Quốc"
+   },
+   {
+    "kana": "フランスご",
+    "kanji": "フランス語",
+    "vi": "tiếng Pháp"
+   },
+   {
+    "kana": "ドイツご",
+    "kanji": "ドイツ語",
+    "vi": "tiếng Đức"
+   },
+   {
+    "kana": "イタリアご",
+    "kanji": "イタリア語",
+    "vi": "tiếng Ý"
+   },
+   {
+    "kana": "スペインご",
+    "kanji": "スペイン語",
+    "vi": "tiếng Tây Ban Nha"
+   },
+   {
+    "kana": "ポルトガルご",
+    "kanji": "ポルトガル語",
+    "vi": "tiếng Bồ Đào Nha"
+   },
+   {
+    "kana": "ロシアご",
+    "kanji": "ロシア語",
+    "vi": "tiếng Nga"
+   },
+   {
+    "kana": "タイご",
+    "kanji": "タイ語",
+    "vi": "tiếng Thái"
+   },
+   {
+    "kana": "ベトナムご",
+    "kanji": "ベトナム語",
+    "vi": "tiếng Việt"
+   },
+   {
+    "kana": "マレーシアご",
+    "kanji": "マレーシア語",
+    "vi": "tiếng Malaysia"
+   },
+   {
+    "kana": "インドネシアご",
+    "kanji": "インドネシア語",
+    "vi": "tiếng Indonesia"
+   },
+   {
+    "kana": "トルコご",
+    "kanji": "トルコ語",
+    "vi": "tiếng Thổ Nhĩ Kỳ"
+   },
+   {
+    "kana": "ヒンディーご",
+    "kanji": "ヒンディー語",
+    "vi": "tiếng Ấn Độ"
+   },
+   {
+    "kana": "モンゴルご",
+    "kanji": "モンゴル語",
+    "vi": "tiếng Mông Cổ"
+   },
+   {
+    "kana": "アラビアご",
+    "kanji": "アラビア語",
+    "vi": "tiếng Ả Rập"
+   },
+   {
+    "kana": "がっこうのせんせい",
+    "kanji": "学校の先生",
+    "vi": "giáo viên"
+   },
+   {
+    "kana": "いしゃ",
+    "kanji": "医者",
+    "vi": "bác sĩ"
+   },
+   {
+    "kana": "べんごし",
+    "kanji": "弁護士",
+    "vi": "luật sư"
+   },
+   {
+    "kana": "かいけいし",
+    "kanji": "会計士",
+    "vi": "kế toán"
+   },
+   {
+    "kana": "こうむういん",
+    "kanji": "公務員",
+    "vi": "công chức viên (nhân viên nhà nước)"
+   },
+   {
+    "kana": "しゃちょう",
+    "kanji": "社長",
+    "vi": "giám đốc"
+   },
+   {
+    "kana": "しゅふ",
+    "kanji": "主夫",
+    "vi": "nội trợ"
+   }
+  ],
+  "kanji": [],
+  "videos": {
+   "text": [
+    1235
+   ],
+   "vocab": 1237,
+   "kanji": null
+  }
+ },
+ "3": {
+  "vocab_p1": [
+   {
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "vi": "Mỗi ngày"
+   },
+   {
+    "kana": "あさごはん",
+    "kanji": "朝ごはん",
+    "vi": "Bữa sáng"
+   },
+   {
+    "kana": "たべます",
+    "kanji": "食べます",
+    "vi": "Ăn"
+   },
+   {
+    "kana": "いつも",
+    "kanji": "",
+    "vi": "Thường, lúc nào cũng"
+   },
+   {
+    "kana": "パン",
+    "kanji": "",
+    "vi": "Bánh mì"
+   },
+   {
+    "kana": "ふつう",
+    "kanji": "普通",
+    "vi": "Thường"
+   },
+   {
+    "kana": "トースト",
+    "kanji": "",
+    "vi": "Bánh mì nướng"
+   },
+   {
+    "kana": "ときどき",
+    "kanji": "時々",
+    "vi": "Thỉnh thoảng, đôi khi"
+   },
+   {
+    "kana": "クロワッサン",
+    "kanji": "",
+    "vi": "Bánh con cua"
+   },
+   {
+    "kana": "ベーグル",
+    "kanji": "",
+    "vi": "Bánh mì vòng"
+   },
+   {
+    "kana": "サンドイッチ",
+    "kanji": "",
+    "vi": "Bánh mì xăng uých"
+   },
+   {
+    "kana": "つくります",
+    "kanji": "作ります",
+    "vi": "Làm, chuẩn bị, nấu"
+   },
+   {
+    "kana": "ハム",
+    "kanji": "",
+    "vi": "Thịt nguội"
+   },
+   {
+    "kana": "やさい",
+    "kanji": "野菜",
+    "vi": "Rau"
+   },
+   {
+    "kana": "だいすきな",
+    "kanji": "大好きな",
+    "vi": "Thích"
+   },
+   {
+    "kana": "サラダ",
+    "kanji": "",
+    "vi": "Rau sống, rau xà lách, rau trộn"
+   },
+   {
+    "kana": "フルーツ",
+    "kanji": "",
+    "vi": "Trái cây, hoa quả"
+   },
+   {
+    "kana": "たくさん",
+    "kanji": "",
+    "vi": "Nhiều"
+   },
+   {
+    "kana": "オレンジジュース",
+    "kanji": "",
+    "vi": "Nước cam"
+   },
+   {
+    "kana": "のみます",
+    "kanji": "飲みます",
+    "vi": "Uống"
+   },
+   {
+    "kana": "こうちゃ",
+    "kanji": "紅茶",
+    "vi": "Hồng trà, trà đen"
+   },
+   {
+    "kana": "ミルクティー",
+    "kanji": "",
+    "vi": "Trà sữa"
+   },
+   {
+    "kana": "たいてい",
+    "kanji": "",
+    "vi": "Thường"
+   },
+   {
+    "kana": "ごはん",
+    "kanji": "ご飯",
+    "vi": "Cơm"
+   },
+   {
+    "kana": "とき",
+    "kanji": "時",
+    "vi": "Khi"
+   },
+   {
+    "kana": "さかな",
+    "kanji": "魚",
+    "vi": "Cá"
+   },
+   {
+    "kana": "たまご",
+    "kanji": "卵",
+    "vi": "Trứng"
+   },
+   {
+    "kana": "のり",
+    "kanji": "",
+    "vi": "Rong biển"
+   },
+   {
+    "kana": "みそしる",
+    "kanji": "みそ汁",
+    "vi": "Súp miso"
+   },
+   {
+    "kana": "さしみ",
+    "kanji": "刺身",
+    "vi": "Sashimi"
+   },
+   {
+    "kana": "やきざかな",
+    "kanji": "焼き魚",
+    "vi": "Cá nướng"
+   },
+   {
+    "kana": "すし",
+    "kanji": "寿司",
+    "vi": "Sushi"
+   },
+   {
+    "kana": "コーヒー",
+    "kanji": "",
+    "vi": "Cà phê"
+   },
+   {
+    "kana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "vi": "Sữa"
+   },
+   {
+    "kana": "ヨーグルト",
+    "kanji": "",
+    "vi": "Sữa chua"
+   },
+   {
+    "kana": "１にちに",
+    "kanji": "1日に",
+    "vi": "Một ngày"
+   },
+   {
+    "kana": "２・３～",
+    "kanji": "",
+    "vi": "Hai hoặc ba"
+   },
+   {
+    "kana": "～かい",
+    "kanji": "～回",
+    "vi": "～ lần"
+   },
+   {
+    "kana": "あまり",
+    "kanji": "",
+    "vi": "Không ～lắm"
+   },
+   {
+    "kana": "パイナップル",
+    "kanji": "",
+    "vi": "Dứa, thơm"
+   },
+   {
+    "kana": "マンゴー",
+    "kanji": "",
+    "vi": "Trái xoài"
+   },
+   {
+    "kana": "いちばん",
+    "kanji": "一番",
+    "vi": "Nhất"
+   },
+   {
+    "kana": "りんご",
+    "kanji": "",
+    "vi": "Trái táo"
+   },
+   {
+    "kana": "みかん",
+    "kanji": "",
+    "vi": "Trái quýt"
+   },
+   {
+    "kana": "ナシ",
+    "kanji": "",
+    "vi": "Trái lê"
+   },
+   {
+    "kana": "にほん",
+    "kanji": "日本",
+    "vi": "Nhật Bản"
+   },
+   {
+    "kana": "とても",
+    "kanji": "",
+    "vi": "Rất"
+   },
+   {
+    "kana": "おいしい",
+    "kanji": "",
+    "vi": "Ngon"
+   },
+   {
+    "kana": "モモ",
+    "kanji": "",
+    "vi": "Trái đào"
+   },
+   {
+    "kana": "カキ",
+    "kanji": "",
+    "vi": "Trái hồng"
+   },
+   {
+    "kana": "あまい",
+    "kanji": "甘い",
+    "vi": "Ngọt"
+   },
+   {
+    "kana": "もの",
+    "kanji": "",
+    "vi": "Món, thứ, đồ"
+   },
+   {
+    "kana": "シュークリーム",
+    "kanji": "",
+    "vi": "Kem sữa, bánh su kem"
+   },
+   {
+    "kana": "チョコレート",
+    "kanji": "",
+    "vi": "Sô cô la"
+   },
+   {
+    "kana": "クッキー",
+    "kanji": "",
+    "vi": "Bánh quy"
+   },
+   {
+    "kana": "でも",
+    "kanji": "",
+    "vi": "Nhưng"
+   },
+   {
+    "kana": "スポーツ",
+    "kanji": "",
+    "vi": "Thể thao"
+   },
+   {
+    "kana": "とくに",
+    "kanji": "特に",
+    "vi": "Đặc biệt"
+   },
+   {
+    "kana": "よく",
+    "kanji": "",
+    "vi": "Thường"
+   },
+   {
+    "kana": "ともだち",
+    "kanji": "友だち",
+    "vi": "Bạn"
+   },
+   {
+    "kana": "みます（サッカーを）",
+    "kanji": "見ます（サッカーを）",
+    "vi": "Xem (đá banh)"
+   },
+   {
+    "kana": "テニス",
+    "kanji": "",
+    "vi": "Tenis"
+   },
+   {
+    "kana": "～ぶ",
+    "kanji": "～部",
+    "vi": "Câu lạc bộ ～"
+   },
+   {
+    "kana": "すいえい",
+    "kanji": "水泳",
+    "vi": "Bơi lội"
+   },
+   {
+    "kana": "します（すいえいを～）",
+    "kanji": "します（水泳を～）",
+    "vi": "Làm, chơi, bơi"
+   },
+   {
+    "kana": "しゅうに",
+    "kanji": "週に",
+    "vi": "Một tuần"
+   },
+   {
+    "kana": "ハイキング",
+    "kanji": "",
+    "vi": "Đi bộ đường dài"
+   },
+   {
+    "kana": "つきに",
+    "kanji": "月に",
+    "vi": "Một tháng"
+   },
+   {
+    "kana": "１・２",
+    "kanji": "",
+    "vi": "Một hoặc hai"
+   },
+   {
+    "kana": "やま",
+    "kanji": "山",
+    "vi": "Núi"
+   },
+   {
+    "kana": "いきます",
+    "kanji": "行きます",
+    "vi": "Đi"
+   },
+   {
+    "kana": "おんがく",
+    "kanji": "音楽",
+    "vi": "Nhạc"
+   },
+   {
+    "kana": "ジャズ",
+    "kanji": "",
+    "vi": "Jazz"
+   },
+   {
+    "kana": "クラシック",
+    "kanji": "",
+    "vi": "Nhạc cổ điển"
+   },
+   {
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "vi": "Thứ sáu"
+   },
+   {
+    "kana": "よる",
+    "kanji": "夜",
+    "vi": "Tối"
+   },
+   {
+    "kana": "いっしょに",
+    "kanji": "",
+    "vi": "Với, cùng với"
+   },
+   {
+    "kana": "ききます",
+    "kanji": "聞きます",
+    "vi": "Nghe"
+   },
+   {
+    "kana": "すこし",
+    "kanji": "少し",
+    "vi": "Một chút"
+   },
+   {
+    "kana": "（お）さけ",
+    "kanji": "お酒",
+    "vi": "Rượu"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "にく",
+    "kanji": "肉",
+    "vi": "thịt"
+   },
+   {
+    "kana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "vi": "thịt bò"
+   },
+   {
+    "kana": "ぶたにく",
+    "kanji": "豚肉",
+    "vi": "thịt heo"
+   },
+   {
+    "kana": "とりにく",
+    "kanji": "鶏肉",
+    "vi": "thịt gà"
+   },
+   {
+    "kana": "バナナ",
+    "kanji": "",
+    "vi": "chuối"
+   },
+   {
+    "kana": "キウイ",
+    "kanji": "",
+    "vi": "kiwi"
+   },
+   {
+    "kana": "アイスクリーム",
+    "kanji": "",
+    "vi": "kem"
+   },
+   {
+    "kana": "スープ",
+    "kanji": "",
+    "vi": "súp"
+   },
+   {
+    "kana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "vi": "sữa bò"
+   },
+   {
+    "kana": "コーラ",
+    "kanji": "",
+    "vi": "cola"
+   },
+   {
+    "kana": "ソフトドリンク",
+    "kanji": "",
+    "vi": "thức uống không cồn"
+   },
+   {
+    "kana": "おみず",
+    "kanji": "お水",
+    "vi": "nước"
+   },
+   {
+    "kana": "ミネラルウォーター",
+    "kanji": "",
+    "vi": "nước khoáng"
+   },
+   {
+    "kana": "ビール",
+    "kanji": "",
+    "vi": "bia"
+   },
+   {
+    "kana": "ワイン",
+    "kanji": "",
+    "vi": "rượu"
+   },
+   {
+    "kana": "ウイスキー",
+    "kanji": "",
+    "vi": "rượu whisky"
+   },
+   {
+    "kana": "にほんしゅ",
+    "kanji": "日本酒",
+    "vi": "rượu Nhật"
+   },
+   {
+    "kana": "しょうちゅう",
+    "kanji": "",
+    "vi": "rượu Shochu"
+   },
+   {
+    "kana": "チューハイ",
+    "kanji": "",
+    "vi": "rượu Chuhai"
+   },
+   {
+    "kana": "DVDをみます",
+    "kanji": "DVDを見ます",
+    "vi": "xem DVD"
+   },
+   {
+    "kana": "えいがをみます",
+    "kanji": "映画を見ます",
+    "vi": "xem phim"
+   },
+   {
+    "kana": "たまに",
+    "kanji": "",
+    "vi": "thỉnh thoảng"
+   },
+   {
+    "kana": "まいしゅう",
+    "kanji": "毎週",
+    "vi": "mỗi tuần"
+   },
+   {
+    "kana": "まいつき",
+    "kanji": "毎月",
+    "vi": "mỗi tháng"
+   },
+   {
+    "kana": "まいとし／まいねん",
+    "kanji": "毎年／毎年",
+    "vi": "mỗi năm"
+   },
+   {
+    "kana": "いちじかんごとに",
+    "kanji": "一時間ごとに",
+    "vi": "cứ mỗi một giờ"
+   },
+   {
+    "kana": "いっぽん",
+    "kanji": "一本",
+    "vi": "1 cây/chai (đếm đồ vật thon dài như bút, dù, chai lọ)"
+   },
+   {
+    "kana": "にほん",
+    "kanji": "二本",
+    "vi": "2 cây/chai"
+   },
+   {
+    "kana": "さんぼん",
+    "kanji": "三本",
+    "vi": "3 cây/chai"
+   },
+   {
+    "kana": "よんほん",
+    "kanji": "四本",
+    "vi": "4 cây/chai"
+   },
+   {
+    "kana": "ごほん",
+    "kanji": "五本",
+    "vi": "5 cây/chai"
+   },
+   {
+    "kana": "ろっぽん",
+    "kanji": "六本",
+    "vi": "6 cây/chai"
+   },
+   {
+    "kana": "ななほん",
+    "kanji": "七本",
+    "vi": "7 cây/chai"
+   },
+   {
+    "kana": "はっぽん",
+    "kanji": "八本",
+    "vi": "8 cây/chai"
+   },
+   {
+    "kana": "きゅうほん",
+    "kanji": "九本",
+    "vi": "9 cây/chai"
+   },
+   {
+    "kana": "じゅっぽん",
+    "kanji": "十本",
+    "vi": "10 cây/chai"
+   },
+   {
+    "kana": "いっぱい",
+    "kanji": "一杯",
+    "vi": "1 ly (dùng để đếm ly, cốc)"
+   },
+   {
+    "kana": "にはい",
+    "kanji": "二杯",
+    "vi": "2 ly"
+   },
+   {
+    "kana": "さんばい",
+    "kanji": "三杯",
+    "vi": "3 ly"
+   },
+   {
+    "kana": "よんはい",
+    "kanji": "四杯",
+    "vi": "4 ly"
+   },
+   {
+    "kana": "ごはい",
+    "kanji": "五杯",
+    "vi": "5 ly"
+   },
+   {
+    "kana": "ろっぱい",
+    "kanji": "六杯",
+    "vi": "6 ly"
+   },
+   {
+    "kana": "ななはい",
+    "kanji": "七杯",
+    "vi": "7 ly"
+   },
+   {
+    "kana": "はっぱい",
+    "kanji": "八杯",
+    "vi": "8 ly"
+   },
+   {
+    "kana": "きゅうはい",
+    "kanji": "九杯",
+    "vi": "9 ly"
+   },
+   {
+    "kana": "じゅっぱい",
+    "kanji": "十杯",
+    "vi": "10 ly"
+   },
+   {
+    "kana": "バドミントン",
+    "kanji": "",
+    "vi": "cầu lông"
+   },
+   {
+    "kana": "バスケット（ボール）",
+    "kanji": "",
+    "vi": "bóng rổ"
+   },
+   {
+    "kana": "バレーボール",
+    "kanji": "",
+    "vi": "bóng chuyền"
+   },
+   {
+    "kana": "やきゅう",
+    "kanji": "野球",
+    "vi": "bóng chày"
+   },
+   {
+    "kana": "たっきゅう",
+    "kanji": "卓球",
+    "vi": "bóng bàn"
+   },
+   {
+    "kana": "ロック",
+    "kanji": "",
+    "vi": "nhạc rock"
+   },
+   {
+    "kana": "ラテン",
+    "kanji": "",
+    "vi": "nhạc Latinh"
+   },
+   {
+    "kana": "ポップス",
+    "kanji": "",
+    "vi": "nhạc Pop"
+   },
+   {
+    "kana": "Ｊポップ",
+    "kanji": "",
+    "vi": "nhạc J-Pop"
+   },
+   {
+    "kana": "ひとりで",
+    "kanji": "一人で",
+    "vi": "một mình"
+   },
+   {
+    "kana": "じぶんで",
+    "kanji": "自分で",
+    "vi": "tự mình"
+   }
+  ],
+  "kanji": [],
+  "videos": {
+   "text": [
+    1249,
+    1250
+   ],
+   "vocab": 1252,
+   "kanji": null
+  }
+ },
+ "4": {
+  "vocab_p1": [
+   {
+    "kana": "あさ",
+    "kanji": "朝",
+    "vi": "Sáng"
+   },
+   {
+    "kana": "～じ",
+    "kanji": "～時",
+    "vi": "～ giờ"
+   },
+   {
+    "kana": "～はん",
+    "kanji": "～半",
+    "vi": "Rưỡi"
+   },
+   {
+    "kana": "おきます",
+    "kanji": "起きます",
+    "vi": "Thức dậy"
+   },
+   {
+    "kana": "がっこう",
+    "kanji": "学校",
+    "vi": "Trường"
+   },
+   {
+    "kana": "じてんしゃ",
+    "kanji": "自転車",
+    "vi": "Xe đạp"
+   },
+   {
+    "kana": "ちかい",
+    "kanji": "近い",
+    "vi": "Gần"
+   },
+   {
+    "kana": "～ふん",
+    "kanji": "～分",
+    "vi": "～ phút"
+   },
+   {
+    "kana": "～くらい",
+    "kanji": "",
+    "vi": "Khoảng～"
+   },
+   {
+    "kana": "じゅぎょう",
+    "kanji": "授業",
+    "vi": "Giờ học, tiết học"
+   },
+   {
+    "kana": "はじまります",
+    "kanji": "始まります",
+    "vi": "Bắt đầu"
+   },
+   {
+    "kana": "ひるごはん",
+    "kanji": "昼ごはん",
+    "vi": "Bữa trưa"
+   },
+   {
+    "kana": "しょくどう",
+    "kanji": "食堂",
+    "vi": "Nhà ăn, căn tin"
+   },
+   {
+    "kana": "おわります",
+    "kanji": "終わります",
+    "vi": "Kết thúc"
+   },
+   {
+    "kana": "それから",
+    "kanji": "",
+    "vi": "Sau đó"
+   },
+   {
+    "kana": "としょかん",
+    "kanji": "図書館",
+    "vi": "Thư viện"
+   },
+   {
+    "kana": "～ごろ",
+    "kanji": "",
+    "vi": "Khoảng ～"
+   },
+   {
+    "kana": "うち",
+    "kanji": "",
+    "vi": "Nhà"
+   },
+   {
+    "kana": "かえります",
+    "kanji": "帰ります",
+    "vi": "Về"
+   },
+   {
+    "kana": "テレビ",
+    "kanji": "",
+    "vi": "Ti vi"
+   },
+   {
+    "kana": "ニュース",
+    "kanji": "",
+    "vi": "Tin tức"
+   },
+   {
+    "kana": "でんしゃ",
+    "kanji": "電車",
+    "vi": "Xe điện"
+   },
+   {
+    "kana": "（お）べんとう",
+    "kanji": "（お）弁当",
+    "vi": "Cơm hộp"
+   },
+   {
+    "kana": "かいます",
+    "kanji": "買います",
+    "vi": "Mua"
+   },
+   {
+    "kana": "けんきゅうしつ",
+    "kanji": "研究室",
+    "vi": "Phòng nghiên cứu"
+   },
+   {
+    "kana": "じっけん",
+    "kanji": "実験",
+    "vi": "Thí nghiệm"
+   },
+   {
+    "kana": "べんきょう（を）します",
+    "kanji": "勉強（を）します",
+    "vi": "Học"
+   },
+   {
+    "kana": "ジョギング（を）します",
+    "kanji": "",
+    "vi": "Đi bộ"
+   },
+   {
+    "kana": "しんぶん",
+    "kanji": "新聞",
+    "vi": "Báo"
+   },
+   {
+    "kana": "よみます",
+    "kanji": "読みます",
+    "vi": "Đọc"
+   },
+   {
+    "kana": "～じかん",
+    "kanji": "～時間",
+    "vi": "～ giờ, ～ tiếng"
+   },
+   {
+    "kana": "とおい",
+    "kanji": "遠い",
+    "vi": "Xa"
+   },
+   {
+    "kana": "ごご",
+    "kanji": "午後",
+    "vi": "Buổi chiều"
+   },
+   {
+    "kana": "しごと",
+    "kanji": "仕事",
+    "vi": "Công việc"
+   },
+   {
+    "kana": "しごと（を）します",
+    "kanji": "仕事（を）します",
+    "vi": "Làm việc"
+   },
+   {
+    "kana": "かいぎ",
+    "kanji": "会議",
+    "vi": "Họp"
+   },
+   {
+    "kana": "あります（かいぎが）",
+    "kanji": "あります（会議が）",
+    "vi": "Có"
+   },
+   {
+    "kana": "ばんごはん",
+    "kanji": "晩ごはん",
+    "vi": "Bữa tối"
+   },
+   {
+    "kana": "あと",
+    "kanji": "後",
+    "vi": "Sau"
+   },
+   {
+    "kana": "へや",
+    "kanji": "部屋",
+    "vi": "Phòng"
+   },
+   {
+    "kana": "メール",
+    "kanji": "",
+    "vi": "Email"
+   },
+   {
+    "kana": "チェック（を）します",
+    "kanji": "",
+    "vi": "Kiểm tra, check"
+   },
+   {
+    "kana": "（お）ふろ",
+    "kanji": "（お）風呂",
+    "vi": "Bồn tắm"
+   },
+   {
+    "kana": "はいります（おふろに）",
+    "kanji": "入ります（お風呂に）",
+    "vi": "Tắm bồn"
+   },
+   {
+    "kana": "ねます",
+    "kanji": "寝ます",
+    "vi": "Ngủ"
+   },
+   {
+    "kana": "ハンバーガー",
+    "kanji": "",
+    "vi": "Ham ba gơ"
+   },
+   {
+    "kana": "カップラーメン",
+    "kanji": "",
+    "vi": "Mỳ ly ăn liền"
+   },
+   {
+    "kana": "インターネット",
+    "kanji": "",
+    "vi": "Internet"
+   },
+   {
+    "kana": "ドラマ",
+    "kanji": "",
+    "vi": "Kịch"
+   },
+   {
+    "kana": "えいが",
+    "kanji": "映画",
+    "vi": "Phim"
+   },
+   {
+    "kana": "～たち",
+    "kanji": "",
+    "vi": "Hậu tố chỉ số nhiều dùng cho người"
+   },
+   {
+    "kana": "ほん",
+    "kanji": "本",
+    "vi": "Sách"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "パソコンでニュースをみます",
+    "kanji": "パソコンでニュースを見ます",
+    "vi": "xem thời sự bằng máy tính"
+   },
+   {
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "vi": "ngân hàng"
+   },
+   {
+    "kana": "ちかてつ",
+    "kanji": "地下鉄",
+    "vi": "tàu điện ngầm"
+   },
+   {
+    "kana": "バス",
+    "kanji": "",
+    "vi": "xe buýt"
+   },
+   {
+    "kana": "モノレール",
+    "kanji": "",
+    "vi": "tàu một ray"
+   },
+   {
+    "kana": "タクシー",
+    "kanji": "",
+    "vi": "xe taxi"
+   },
+   {
+    "kana": "くるま",
+    "kanji": "車",
+    "vi": "xe ô tô"
+   },
+   {
+    "kana": "あるいて",
+    "kanji": "歩いて",
+    "vi": "đi bộ"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "一",
+      "hv": [
+       "NHẤT"
+      ],
+      "on": [
+       "イチ"
+      ],
+      "kun": [
+       "ひと"
+      ],
+      "meaning": [
+       "Một"
+      ],
+      "examples": [
+       "①　一つ：ひとつ (một cái)",
+       "②　一日：いちにち (một ngày/ngày mùng 1)"
+      ]
+     },
+     {
+      "char": "二",
+      "hv": [
+       "NHỊ"
+      ],
+      "on": [
+       "ニ"
+      ],
+      "kun": [
+       "ふた"
+      ],
+      "meaning": [
+       "Hai"
+      ],
+      "examples": [
+       "①　二つ：ふたつ (hai cái)",
+       "②　二日：ふつか (hai ngày/ngày mùng 2)"
+      ]
+     },
+     {
+      "char": "三",
+      "hv": [
+       "TAM"
+      ],
+      "on": [
+       "サン"
+      ],
+      "kun": [
+       "* み、",
+       "みっ"
+      ],
+      "meaning": [
+       "Ba"
+      ],
+      "examples": [
+       "①　三つ：みっつ (ba cái)",
+       "②　三日：みっか (ba ngày/ngày mùng 3)"
+      ]
+     },
+     {
+      "char": "十",
+      "hv": [
+       "THẬP"
+      ],
+      "on": [
+       "ジュウ"
+      ],
+      "kun": [
+       "とお、",
+       "と"
+      ],
+      "meaning": [
+       "Mười"
+      ],
+      "examples": [
+       "①　十日：とおか (mười ngày/ngày mùng 10)",
+       "②　十分：じゅうぶん (đầy đủ)"
+      ]
+     },
+     {
+      "char": "土",
+      "hv": [
+       "THỔ"
+      ],
+      "on": [
+       "ド、",
+       "ト"
+      ],
+      "kun": [
+       "つち"
+      ],
+      "meaning": [
+       "Đất"
+      ],
+      "examples": [
+       "①　土：つち (đất)",
+       "②　土よう日：どようび (thứ bảy)"
+      ]
+     },
+     {
+      "char": "口",
+      "hv": [
+       "KHẨU"
+      ],
+      "on": [
+       "コウ"
+      ],
+      "kun": [
+       "くち"
+      ],
+      "meaning": [
+       "Miệng"
+      ],
+      "examples": [
+       "①　口：くち (miệng)",
+       "②　* 人口：じんこう (dân số)"
+      ]
+     },
+     {
+      "char": "古",
+      "hv": [
+       "CŨ"
+      ],
+      "on": [
+       "コ"
+      ],
+      "kun": [
+       "ふる（ふる.い）"
+      ],
+      "meaning": [
+       "Cũ"
+      ],
+      "examples": [
+       "①　古い：ふるい (cũ)",
+       "②　* 中古：ちゅうこ (hàng cũ)"
+      ]
+     },
+     {
+      "char": "日",
+      "hv": [
+       "NHẬT"
+      ],
+      "on": [
+       "ニチ"
+      ],
+      "kun": [
+       "ひ、",
+       "び（にちようび）、",
+       "か（とおか）"
+      ],
+      "meaning": [
+       "Ngày"
+      ],
+      "examples": [
+       "①　日よう日：にちようび (chủ nhật)",
+       "②　日本：にほん (Nhật Bản)"
+      ]
+     },
+     {
+      "char": "目",
+      "hv": [
+       "MỤC"
+      ],
+      "on": [
+       "モク"
+      ],
+      "kun": [
+       "め"
+      ],
+      "meaning": [
+       "Mắt"
+      ],
+      "examples": [
+       "①　目：め (mắt)",
+       "②　目次：もくじ (mục lục)"
+      ]
+     },
+     {
+      "char": "中",
+      "hv": [
+       "TRUNG"
+      ],
+      "on": [
+       "チュウ"
+      ],
+      "kun": [
+       "なか"
+      ],
+      "meaning": [
+       "Bên trong"
+      ],
+      "examples": [
+       "①　中：なか (bên trong)",
+       "②　中国：ちゅうごく (Trung Quốc)"
+      ]
+     },
+     {
+      "char": "車",
+      "hv": [
+       "XA"
+      ],
+      "on": [
+       "シャ"
+      ],
+      "kun": [
+       "くるま"
+      ],
+      "meaning": [
+       "Xe"
+      ],
+      "examples": [
+       "①　車：くるま (xe)",
+       "②　電車：でんしゃ (tàu điện)"
+      ]
+     },
+     {
+      "char": "山",
+      "hv": [
+       "SƠN"
+      ],
+      "on": [
+       "サン"
+      ],
+      "kun": [
+       "やま"
+      ],
+      "meaning": [
+       "Núi"
+      ],
+      "examples": [
+       "①　山：やま (núi)",
+       "②　火山：かざん (núi lửa)"
+      ]
+     },
+     {
+      "char": "川",
+      "hv": [
+       "XUYÊN"
+      ],
+      "on": [
+       "セン"
+      ],
+      "kun": [
+       "かわ"
+      ],
+      "meaning": [
+       "Sông"
+      ],
+      "examples": [
+       "①　川：かわ (sông)",
+       "②　山川さん：やまかわさん (tên người: Yamakawa)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1267,
+    1268
+   ],
+   "vocab": 1270,
+   "kanji": 1280
+  }
+ },
+ "5": {
+  "vocab_p1": [
+   {
+    "kana": "りょう",
+    "kanji": "寮",
+    "vi": "Ký túc xá"
+   },
+   {
+    "kana": "いろいろな",
+    "kanji": "色々な",
+    "vi": "Nhiều"
+   },
+   {
+    "kana": "くに",
+    "kanji": "国",
+    "vi": "Nước"
+   },
+   {
+    "kana": "みんな",
+    "kanji": "皆",
+    "vi": "Mọi người, tất cả"
+   },
+   {
+    "kana": "りょうり",
+    "kanji": "料理",
+    "vi": "Món ăn"
+   },
+   {
+    "kana": "じょうずな",
+    "kanji": "上手な",
+    "vi": "Giỏi"
+   },
+   {
+    "kana": "はなし",
+    "kanji": "話",
+    "vi": "Câu chuyện"
+   },
+   {
+    "kana": "はなします",
+    "kanji": "話します",
+    "vi": "Nói chuyện"
+   },
+   {
+    "kana": "たのしい",
+    "kanji": "楽しい",
+    "vi": "Vui"
+   },
+   {
+    "kana": "じかん",
+    "kanji": "時間",
+    "vi": "Thời gian"
+   },
+   {
+    "kana": "ちかく",
+    "kanji": "近く",
+    "vi": "Gần"
+   },
+   {
+    "kana": "やすい",
+    "kanji": "安い",
+    "vi": "Rẻ"
+   },
+   {
+    "kana": "みせ",
+    "kanji": "店",
+    "vi": "Nhà hàng"
+   },
+   {
+    "kana": "あります（みせが）",
+    "kanji": "あります（店が）",
+    "vi": "Có (nhà hàng)"
+   },
+   {
+    "kana": "やきにくや",
+    "kanji": "焼き肉屋",
+    "vi": "Nhà hàng thịt nướng"
+   },
+   {
+    "kana": "～や",
+    "kanji": "～屋",
+    "vi": "Cửa hàng ～"
+   },
+   {
+    "kana": "その",
+    "kanji": "",
+    "vi": "～ đó"
+   },
+   {
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "vi": "Tuần trước"
+   },
+   {
+    "kana": "せんぱい",
+    "kanji": "先輩",
+    "vi": "Sinh viên khoá trên"
+   },
+   {
+    "kana": "レストラン",
+    "kanji": "",
+    "vi": "Nhà hàng"
+   },
+   {
+    "kana": "マレーシアりょうり",
+    "kanji": "マレーシア料理",
+    "vi": "Món ăn Malaysia"
+   },
+   {
+    "kana": "～りょうり",
+    "kanji": "～料理",
+    "vi": "Món ăn ～"
+   },
+   {
+    "kana": "やきそば",
+    "kanji": "焼きそば",
+    "vi": "Món Yakisoba (mì xào)"
+   },
+   {
+    "kana": "やきとり",
+    "kanji": "焼肉",
+    "vi": "Yakitori (món gà nướng)"
+   },
+   {
+    "kana": "ちゅうもんします",
+    "kanji": "注文します",
+    "vi": "Gọi món, đặt hàng"
+   },
+   {
+    "kana": "たのしみます",
+    "kanji": "楽しみます",
+    "vi": "Thưởng thức"
+   },
+   {
+    "kana": "さいごに",
+    "kanji": "最後に",
+    "vi": "Cuối cùng"
+   },
+   {
+    "kana": "へたな",
+    "kanji": "下手な",
+    "vi": "Không giỏi, tệ, dở"
+   },
+   {
+    "kana": "ほんとうに",
+    "kanji": "本当に",
+    "vi": "Thật"
+   },
+   {
+    "kana": "かのじょ",
+    "kanji": "彼女",
+    "vi": "Bạn gái"
+   },
+   {
+    "kana": "ちいさい",
+    "kanji": "小さい",
+    "vi": "Nhỏ"
+   },
+   {
+    "kana": "イタリアン",
+    "kanji": "",
+    "vi": "Món Ý"
+   },
+   {
+    "kana": "はいります（みせに）",
+    "kanji": "入ります（店に）",
+    "vi": "Vào trong (cửa hàng)"
+   },
+   {
+    "kana": "ちょっと",
+    "kanji": "",
+    "vi": "Một chút"
+   },
+   {
+    "kana": "ふるい",
+    "kanji": "古い",
+    "vi": "Cũ"
+   },
+   {
+    "kana": "すてきな",
+    "kanji": "素敵な",
+    "vi": "Dễ thương"
+   },
+   {
+    "kana": "おく",
+    "kanji": "奥",
+    "vi": "Góc"
+   },
+   {
+    "kana": "テーブル",
+    "kanji": "",
+    "vi": "Bàn"
+   },
+   {
+    "kana": "すわります",
+    "kanji": "座ります",
+    "vi": "Ngồi"
+   },
+   {
+    "kana": "さいしょに",
+    "kanji": "最初に",
+    "vi": "Đầu tiên"
+   },
+   {
+    "kana": "ワイン",
+    "kanji": "",
+    "vi": "Rượu vang"
+   },
+   {
+    "kana": "さかなりょうり",
+    "kanji": "魚料理",
+    "vi": "Món ăn làm từ cá"
+   },
+   {
+    "kana": "パスタ",
+    "kanji": "",
+    "vi": "Mỳ Ý"
+   },
+   {
+    "kana": "くろい",
+    "kanji": "黒い",
+    "vi": "Màu đen"
+   },
+   {
+    "kana": "ソース",
+    "kanji": "",
+    "vi": "Nước sốt"
+   },
+   {
+    "kana": "さいご",
+    "kanji": "最後",
+    "vi": "Cuối cùng"
+   },
+   {
+    "kana": "ひと",
+    "kanji": "人",
+    "vi": "Người"
+   },
+   {
+    "kana": "しんせつな",
+    "kanji": "親切な",
+    "vi": "Thân thiện, tốt bụng"
+   },
+   {
+    "kana": "いい",
+    "kanji": "",
+    "vi": "Tốt"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "おかねをはらいます",
+    "kanji": "お金を払います",
+    "vi": "trả tiền, thanh toán tiền"
+   },
+   {
+    "kana": "スープ",
+    "kanji": "",
+    "vi": "súp"
+   },
+   {
+    "kana": "メイン（りょうり）",
+    "kanji": "メイン（料理）",
+    "vi": "món chính"
+   },
+   {
+    "kana": "ポーク",
+    "kanji": "",
+    "vi": "heo"
+   },
+   {
+    "kana": "チキン",
+    "kanji": "",
+    "vi": "gà"
+   },
+   {
+    "kana": "おこのみやき",
+    "kanji": "お好み焼き",
+    "vi": "bánh xèo (okonomiyaki)"
+   },
+   {
+    "kana": "たこやき",
+    "kanji": "たこ焼き",
+    "vi": "bánh bạch tuộc nướng (takoyaki)"
+   },
+   {
+    "kana": "やさいいため",
+    "kanji": "野菜炒め",
+    "vi": "rau xào"
+   },
+   {
+    "kana": "すきやき",
+    "kanji": "すき焼き",
+    "vi": "món sukiyaki"
+   },
+   {
+    "kana": "てんぷら",
+    "kanji": "天ぷら",
+    "vi": "món tempura"
+   },
+   {
+    "kana": "しゃぶしゃぶ",
+    "kanji": "",
+    "vi": "món lẩu shabu shabu"
+   },
+   {
+    "kana": "グラタン",
+    "kanji": "",
+    "vi": "gratin"
+   },
+   {
+    "kana": "チーズケーキ",
+    "kanji": "",
+    "vi": "bánh phô mai"
+   },
+   {
+    "kana": "プリン",
+    "kanji": "",
+    "vi": "bánh flan"
+   },
+   {
+    "kana": "たいりょうり",
+    "kanji": "タイ料理",
+    "vi": "món Thái"
+   },
+   {
+    "kana": "インドりょうり",
+    "kanji": "インド料理",
+    "vi": "món Ấn"
+   },
+   {
+    "kana": "ベトナムりょうり",
+    "kanji": "ベトナム料理",
+    "vi": "món Việt"
+   },
+   {
+    "kana": "メキシコりょうり",
+    "kanji": "メキシコ料理",
+    "vi": "món Mêxicô"
+   },
+   {
+    "kana": "フランスりょうり",
+    "kanji": "フランス料理",
+    "vi": "món Pháp"
+   },
+   {
+    "kana": "イタリアりょうり",
+    "kanji": "イタリア料理",
+    "vi": "món Ý"
+   },
+   {
+    "kana": "スペインりょうり",
+    "kanji": "スペイン料理",
+    "vi": "món Tây Ban Nha"
+   },
+   {
+    "kana": "かんこくりょうり",
+    "kanji": "韓国料理",
+    "vi": "món Hàn"
+   },
+   {
+    "kana": "ちゅうかりょうり",
+    "kanji": "中華料理",
+    "vi": "món Hoa"
+   },
+   {
+    "kana": "ちゅうかのみせ",
+    "kanji": "中華の店",
+    "vi": "tiệm Hoa"
+   },
+   {
+    "kana": "フレンチのみせ",
+    "kanji": "フレンチの店",
+    "vi": "tiệm Pháp"
+   },
+   {
+    "kana": "わしょくのみせ",
+    "kanji": "和食の店",
+    "vi": "tiệm Nhật"
+   },
+   {
+    "kana": "てんぷらや",
+    "kanji": "天ぷら屋",
+    "vi": "tiệm Tempura"
+   },
+   {
+    "kana": "（お）すしや",
+    "kanji": "（お）寿司屋",
+    "vi": "tiệm Sushi"
+   },
+   {
+    "kana": "かいてんずし",
+    "kanji": "回転寿司",
+    "vi": "Sushi băng chuyền"
+   },
+   {
+    "kana": "おこのみやきや",
+    "kanji": "お好み焼き屋",
+    "vi": "tiệm Okonomiyaki"
+   },
+   {
+    "kana": "ラーメンや",
+    "kanji": "ラーメン屋",
+    "vi": "tiệm Ramen"
+   },
+   {
+    "kana": "うどんや",
+    "kanji": "うどん屋",
+    "vi": "tiệm Udon"
+   },
+   {
+    "kana": "そばや",
+    "kanji": "そば屋",
+    "vi": "tiệm Soba"
+   },
+   {
+    "kana": "かれ（し）",
+    "kanji": "彼（氏）",
+    "vi": "bạn trai"
+   },
+   {
+    "kana": "こうはい",
+    "kanji": "後輩",
+    "vi": "hậu bối (sinh viên khóa dưới)"
+   },
+   {
+    "kana": "おおきいみせ",
+    "kanji": "大きい店",
+    "vi": "cửa hàng lớn"
+   },
+   {
+    "kana": "たかいみせ",
+    "kanji": "高い店",
+    "vi": "nhà hàng mắc"
+   },
+   {
+    "kana": "あたらしいパソコン",
+    "kanji": "新しいパソコン",
+    "vi": "máy tính mới"
+   },
+   {
+    "kana": "しろいソース",
+    "kanji": "白いソース",
+    "vi": "nước sốt kem"
+   },
+   {
+    "kana": "からいもの",
+    "kanji": "辛い物",
+    "vi": "món cay"
+   },
+   {
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "vi": "thứ 2"
+   },
+   {
+    "kana": "かようび",
+    "kanji": "火曜日",
+    "vi": "thứ 3"
+   },
+   {
+    "kana": "すいようび",
+    "kanji": "水曜日",
+    "vi": "thứ 4"
+   },
+   {
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "vi": "thứ 5"
+   },
+   {
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "vi": "thứ 6"
+   },
+   {
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "vi": "thứ 7"
+   },
+   {
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "vi": "chủ nhật"
+   },
+   {
+    "kana": "こんしゅう",
+    "kanji": "今週",
+    "vi": "tuần này"
+   },
+   {
+    "kana": "らいしゅう",
+    "kanji": "来週",
+    "vi": "tuần sau"
+   },
+   {
+    "kana": "きょねん",
+    "kanji": "去年",
+    "vi": "năm ngoái"
+   },
+   {
+    "kana": "ことし",
+    "kanji": "今年",
+    "vi": "năm nay"
+   },
+   {
+    "kana": "らいねん",
+    "kanji": "来年",
+    "vi": "năm sau"
+   },
+   {
+    "kana": "きのう",
+    "kanji": "昨日",
+    "vi": "hôm qua"
+   },
+   {
+    "kana": "きょう",
+    "kanji": "今日",
+    "vi": "hôm nay"
+   },
+   {
+    "kana": "いちがつ",
+    "kanji": "一月",
+    "vi": "tháng 1"
+   },
+   {
+    "kana": "にがつ",
+    "kanji": "二月",
+    "vi": "tháng 2"
+   },
+   {
+    "kana": "さんがつ",
+    "kanji": "三月",
+    "vi": "tháng 3"
+   },
+   {
+    "kana": "しがつ",
+    "kanji": "四月",
+    "vi": "tháng 4"
+   },
+   {
+    "kana": "ごがつ",
+    "kanji": "五月",
+    "vi": "tháng 5"
+   },
+   {
+    "kana": "ろくがつ",
+    "kanji": "六月",
+    "vi": "tháng 6"
+   },
+   {
+    "kana": "しちがつ",
+    "kanji": "七月",
+    "vi": "tháng 7"
+   },
+   {
+    "kana": "はちがつ",
+    "kanji": "八月",
+    "vi": "tháng 8"
+   },
+   {
+    "kana": "きゅうがつ",
+    "kanji": "九月",
+    "vi": "tháng 9"
+   },
+   {
+    "kana": "じゅうがつ",
+    "kanji": "十月",
+    "vi": "tháng 10"
+   },
+   {
+    "kana": "じゅういちがつ",
+    "kanji": "十一月",
+    "vi": "tháng 11"
+   },
+   {
+    "kana": "じゅうにがつ",
+    "kanji": "十二月",
+    "vi": "tháng 12"
+   },
+   {
+    "kana": "ついたち",
+    "kanji": "一日",
+    "vi": "ngày 1"
+   },
+   {
+    "kana": "ふつか",
+    "kanji": "二日",
+    "vi": "ngày 2"
+   },
+   {
+    "kana": "みっか",
+    "kanji": "三日",
+    "vi": "ngày 3"
+   },
+   {
+    "kana": "よっか",
+    "kanji": "四日",
+    "vi": "ngày 4"
+   },
+   {
+    "kana": "いつか",
+    "kanji": "五日",
+    "vi": "ngày 5"
+   },
+   {
+    "kana": "むいか",
+    "kanji": "六日",
+    "vi": "ngày 6"
+   },
+   {
+    "kana": "なのか",
+    "kanji": "七日",
+    "vi": "ngày 7"
+   },
+   {
+    "kana": "ようか",
+    "kanji": "八日",
+    "vi": "ngày 8"
+   },
+   {
+    "kana": "ここのか",
+    "kanji": "九日",
+    "vi": "ngày 9"
+   },
+   {
+    "kana": "とおか",
+    "kanji": "十日",
+    "vi": "ngày 10"
+   },
+   {
+    "kana": "じゅういちにち",
+    "kanji": "十一日",
+    "vi": "ngày 11"
+   },
+   {
+    "kana": "さんじゅういちにち",
+    "kanji": "三十一日",
+    "vi": "ngày 31"
+   },
+   {
+    "kana": "じゅうよっか",
+    "kanji": "十四日",
+    "vi": "ngày 14"
+   },
+   {
+    "kana": "にじゅうよっか",
+    "kanji": "二十四日",
+    "vi": "ngày 24"
+   },
+   {
+    "kana": "はつか",
+    "kanji": "二十日",
+    "vi": "ngày 20"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "月",
+      "hv": [
+       "NGUYỆT"
+      ],
+      "on": [
+       "ゲツ、",
+       "ガツ"
+      ],
+      "kun": [
+       "つき"
+      ],
+      "meaning": [
+       "Mặt trăng"
+      ],
+      "examples": [
+       "①　月：つき (mặt trăng)",
+       "②　月よう日：げつようび (thứ hai)"
+      ]
+     },
+     {
+      "char": "円",
+      "hv": [
+       "VIÊN"
+      ],
+      "on": [
+       "エン"
+      ],
+      "kun": [
+       "まる"
+      ],
+      "meaning": [
+       "Viên mãn, tròn đầy"
+      ],
+      "examples": [
+       "①　100円：ひゃくえん (100 yên)",
+       "②　* 円滑：えんかつ (trơn tru, trôi chảy)"
+      ]
+     },
+     {
+      "char": "人",
+      "hv": [
+       "NHÂN"
+      ],
+      "on": [
+       "ジン、",
+       "ニン"
+      ],
+      "kun": [
+       "ひと"
+      ],
+      "meaning": [
+       "Người"
+      ],
+      "examples": [
+       "①　日本人：にほんじん (người Nhật)",
+       "②　女の人：おんなのひと (người phụ nữ)"
+      ]
+     },
+     {
+      "char": "大",
+      "hv": [
+       "ĐẠI"
+      ],
+      "on": [
+       "ダイ、",
+       "タイ"
+      ],
+      "kun": [
+       "おお"
+      ],
+      "meaning": [
+       "To lớn"
+      ],
+      "examples": [
+       "①　大学：だいがく (trường đại học)",
+       "②　大きい：おおきい (to lớn)"
+      ]
+     },
+     {
+      "char": "火",
+      "hv": [
+       "HOẢ"
+      ],
+      "on": [
+       "カ"
+      ],
+      "kun": [
+       "ひ"
+      ],
+      "meaning": [
+       "Lửa"
+      ],
+      "examples": [
+       "①　火：ひ (lửa)",
+       "②　火よう日：かようび (thứ ba)"
+      ]
+     },
+     {
+      "char": "八",
+      "hv": [
+       "BÁT"
+      ],
+      "on": [
+       "ハチ"
+      ],
+      "kun": [
+       "や、",
+       "やっ、",
+       "よう"
+      ],
+      "meaning": [
+       "Tám"
+      ],
+      "examples": [
+       "①　八つ：やっつ (tám cái)",
+       "②　八日：ようか (tám ngày/ngày mùng 8)"
+      ]
+     },
+     {
+      "char": "分",
+      "hv": [
+       "PHÂN"
+      ],
+      "on": [
+       "フン、",
+       "ブン、",
+       "プン"
+      ],
+      "kun": [
+       "わ"
+      ],
+      "meaning": [
+       "Phần"
+      ],
+      "examples": [
+       "①　分かります：わかります (hiểu)",
+       "②　* 分析：ぶんせき (phân tích)",
+       "③　十分：じゅっぷん (mười phút)"
+      ]
+     },
+     {
+      "char": "父",
+      "hv": [
+       "PHỤ"
+      ],
+      "on": [
+       "フ"
+      ],
+      "kun": [
+       "ちち"
+      ],
+      "meaning": [
+       "Bố"
+      ],
+      "examples": [
+       "①　父：ちち (bố mình)",
+       "②　お父さん：おとうさん (bố người khác)"
+      ]
+     },
+     {
+      "char": "小",
+      "hv": [
+       "TIỂU"
+      ],
+      "on": [
+       "ショウ"
+      ],
+      "kun": [
+       "ちい（ちいさい）",
+       "* こ（こやま）、",
+       "* お（おやま）"
+      ],
+      "meaning": [
+       "Nhỏ"
+      ],
+      "examples": [
+       "①　小学生：しょうがくせい (học sinh tiểu học)",
+       "②　小さい：ちいさい (nhỏ bé)"
+      ]
+     },
+     {
+      "char": "少",
+      "hv": [
+       "THIỂU"
+      ],
+      "on": [
+       "ショウ"
+      ],
+      "kun": [
+       "すく（すく.ない）、",
+       "すこ（すこ.し）"
+      ],
+      "meaning": [
+       "Ít"
+      ],
+      "examples": [
+       "①　少し：すこし (ít)",
+       "②　* 少年：しょうねん (cậu bé)"
+      ]
+     },
+     {
+      "char": "水",
+      "hv": [
+       "THỦY"
+      ],
+      "on": [
+       "スイ"
+      ],
+      "kun": [
+       "みず"
+      ],
+      "meaning": [
+       "Nước"
+      ],
+      "examples": [
+       "①　* 水道：すいどう (hệ thống nước máy)",
+       "②　水よう日：すいようび (thứ tư)"
+      ]
+     },
+     {
+      "char": "木",
+      "hv": [
+       "MỘC"
+      ],
+      "on": [
+       "モク"
+      ],
+      "kun": [
+       "き"
+      ],
+      "meaning": [
+       "Cây"
+      ],
+      "examples": [
+       "①　木よう日：もくようび (thứ năm)",
+       "②　木：き (cây)"
+      ]
+     },
+     {
+      "char": "本",
+      "hv": [
+       "BẢN"
+      ],
+      "on": [
+       "ホン"
+      ],
+      "kun": [
+       "もと"
+      ],
+      "meaning": [
+       "Gốc"
+      ],
+      "examples": [
+       "①　日本：にほん (Nhật Bản)",
+       "②　日本語：にほんご (tiếng Nhật)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1285,
+    1286
+   ],
+   "vocab": 1288,
+   "kanji": 1299
+  }
+ },
+ "6": {
+  "vocab_p1": [
+   {
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "vi": "Thứ bảy"
+   },
+   {
+    "kana": "かいもの",
+    "kanji": "買い物",
+    "vi": "Mua sắm"
+   },
+   {
+    "kana": "ショッピングモール",
+    "kanji": "",
+    "vi": "Trung tâm mua sắm"
+   },
+   {
+    "kana": "きれいな",
+    "kanji": "綺麗な",
+    "vi": "Đẹp"
+   },
+   {
+    "kana": "おおきい",
+    "kanji": "大きい",
+    "vi": "Lớn, to"
+   },
+   {
+    "kana": "モール",
+    "kanji": "",
+    "vi": "Trung tâm thương mại"
+   },
+   {
+    "kana": "なか",
+    "kanji": "中",
+    "vi": "Bên trong"
+   },
+   {
+    "kana": "にわ",
+    "kanji": "庭",
+    "vi": "Vườn"
+   },
+   {
+    "kana": "き",
+    "kanji": "木",
+    "vi": "Cây"
+   },
+   {
+    "kana": "ひろい",
+    "kanji": "広い",
+    "vi": "Rộng"
+   },
+   {
+    "kana": "います",
+    "kanji": "",
+    "vi": "Có"
+   },
+   {
+    "kana": "しろい",
+    "kanji": "白い",
+    "vi": "Trắng"
+   },
+   {
+    "kana": "ポロシャツ",
+    "kanji": "",
+    "vi": "Áo thun có cổ, áo polo"
+   },
+   {
+    "kana": "チェック",
+    "kanji": "",
+    "vi": "Sọc ca rô"
+   },
+   {
+    "kana": "スカート",
+    "kanji": "",
+    "vi": "Váy"
+   },
+   {
+    "kana": "ジーンズ",
+    "kanji": "",
+    "vi": "Quần jean"
+   },
+   {
+    "kana": "かわいい",
+    "kanji": "可愛い",
+    "vi": "Dễ thương"
+   },
+   {
+    "kana": "ポーチ",
+    "kanji": "",
+    "vi": "Ví, bóp"
+   },
+   {
+    "kana": "ボールペン",
+    "kanji": "",
+    "vi": "Bút bi"
+   },
+   {
+    "kana": "ストライプ",
+    "kanji": "",
+    "vi": "Sọc thẳng"
+   },
+   {
+    "kana": "シャツ",
+    "kanji": "",
+    "vi": "Áo sơ mi"
+   },
+   {
+    "kana": "くつ",
+    "kanji": "靴",
+    "vi": "Giày"
+   },
+   {
+    "kana": "しょっき",
+    "kanji": "食器",
+    "vi": "Chén bát"
+   },
+   {
+    "kana": "つかれます",
+    "kanji": "疲れます",
+    "vi": "Mệt"
+   },
+   {
+    "kana": "おなかがすきます",
+    "kanji": "お腹がすきます",
+    "vi": "Đói bụng"
+   },
+   {
+    "kana": "あじ",
+    "kanji": "味",
+    "vi": "Vị"
+   },
+   {
+    "kana": "うすい（あじが）",
+    "kanji": "薄い（味が）",
+    "vi": "Nhạt nhẽo"
+   },
+   {
+    "kana": "また",
+    "kanji": "",
+    "vi": "Lại"
+   },
+   {
+    "kana": "ほんや",
+    "kanji": "本屋",
+    "vi": "Nhà sách"
+   },
+   {
+    "kana": "あいます",
+    "kanji": "会います",
+    "vi": "Gặp"
+   },
+   {
+    "kana": "えいがかん",
+    "kanji": "映画館",
+    "vi": "Rạp chiếu phim"
+   },
+   {
+    "kana": "ちゅうごく",
+    "kanji": "中国",
+    "vi": "Trung quốc"
+   },
+   {
+    "kana": "おもしろい",
+    "kanji": "面白い",
+    "vi": "Hay, thú vị"
+   },
+   {
+    "kana": "かなしい",
+    "kanji": "悲しい",
+    "vi": "Buồn"
+   },
+   {
+    "kana": "ビル",
+    "kanji": "",
+    "vi": "Toà nhà"
+   },
+   {
+    "kana": "ピザ",
+    "kanji": "",
+    "vi": "Pizza"
+   },
+   {
+    "kana": "れきし",
+    "kanji": "歴史",
+    "vi": "Lịch sử"
+   },
+   {
+    "kana": "しっています",
+    "kanji": "知っています",
+    "vi": "Biết"
+   },
+   {
+    "kana": "でます（みせを）",
+    "kanji": "出ます（店を）",
+    "vi": "Ra khỏi (cửa tiệm)"
+   },
+   {
+    "kana": "おくります",
+    "kanji": "送ります",
+    "vi": "Tiễn"
+   },
+   {
+    "kana": "いちにち",
+    "kanji": "一日",
+    "vi": "Một ngày"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "Tシャツ",
+    "kanji": "",
+    "vi": "áo thun"
+   },
+   {
+    "kana": "ブラウス",
+    "kanji": "",
+    "vi": "áo blu cánh"
+   },
+   {
+    "kana": "パンツ",
+    "kanji": "",
+    "vi": "quần"
+   },
+   {
+    "kana": "セーター",
+    "kanji": "",
+    "vi": "áo len"
+   },
+   {
+    "kana": "カーディガン",
+    "kanji": "",
+    "vi": "áo khoác len"
+   },
+   {
+    "kana": "ジャンパー",
+    "kanji": "",
+    "vi": "áo khỉ"
+   },
+   {
+    "kana": "ジャケット",
+    "kanji": "",
+    "vi": "áo jacket"
+   },
+   {
+    "kana": "コート",
+    "kanji": "",
+    "vi": "áo khoác ngoài"
+   },
+   {
+    "kana": "スーツ",
+    "kanji": "",
+    "vi": "áo vest"
+   },
+   {
+    "kana": "ワンピース",
+    "kanji": "",
+    "vi": "đầm liền"
+   },
+   {
+    "kana": "スニーカー",
+    "kanji": "",
+    "vi": "giày bata"
+   },
+   {
+    "kana": "ブーツ",
+    "kanji": "",
+    "vi": "giày bốt"
+   },
+   {
+    "kana": "ピアス",
+    "kanji": "",
+    "vi": "khuyên tai"
+   },
+   {
+    "kana": "イヤリング",
+    "kanji": "",
+    "vi": "bông tai"
+   },
+   {
+    "kana": "リング",
+    "kanji": "",
+    "vi": "nhẫn"
+   },
+   {
+    "kana": "とけい",
+    "kanji": "時計",
+    "vi": "đồng hồ"
+   },
+   {
+    "kana": "ブレスレット",
+    "kanji": "",
+    "vi": "vòng tay"
+   },
+   {
+    "kana": "てぶくろ",
+    "kanji": "手袋",
+    "vi": "bao tay"
+   },
+   {
+    "kana": "マフラー",
+    "kanji": "",
+    "vi": "khăn quàng cổ"
+   },
+   {
+    "kana": "シャーペン",
+    "kanji": "",
+    "vi": "bút chì bấm"
+   },
+   {
+    "kana": "消しゴム",
+    "kanji": "",
+    "vi": "gôm, tẩy"
+   },
+   {
+    "kana": "グラス",
+    "kanji": "",
+    "vi": "ly"
+   },
+   {
+    "kana": "カップ",
+    "kanji": "",
+    "vi": "tách"
+   },
+   {
+    "kana": "ナイフ",
+    "kanji": "",
+    "vi": "dao"
+   },
+   {
+    "kana": "スプーン",
+    "kanji": "",
+    "vi": "thìa, muỗng"
+   },
+   {
+    "kana": "フォーク",
+    "kanji": "",
+    "vi": "nĩa"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "見",
+      "hv": [
+       "KIẾN"
+      ],
+      "on": [
+       "ケン"
+      ],
+      "kun": [
+       "み（み.る）"
+      ],
+      "meaning": [
+       "Xem, nhìn"
+      ],
+      "examples": [
+       "①　見ます：みます (xem)",
+       "②　* 見学：けんがく (tham quan mục đích học tập)"
+      ]
+     },
+     {
+      "char": "先",
+      "hv": [
+       "TIÊN"
+      ],
+      "on": [
+       "セン"
+      ],
+      "kun": [
+       "さき"
+      ],
+      "meaning": [
+       "Trước"
+      ],
+      "examples": [
+       "①　先生：せんせい (thầy giáo)",
+       "②　先に：さきに (trước)"
+      ]
+     },
+     {
+      "char": "生",
+      "hv": [
+       "SINH"
+      ],
+      "on": [
+       "セイ、",
+       "* ショウ"
+      ],
+      "kun": [
+       "（*）い（いきる）、",
+       "う（うまれる）、",
+       "なま（なまビール）"
+      ],
+      "meaning": [
+       "Sống"
+      ],
+      "examples": [
+       "①　先生：せんせい (thầy giáo)",
+       "②　学生：がくせい (sinh viên)"
+      ]
+     },
+     {
+      "char": "年",
+      "hv": [
+       "NIÊN"
+      ],
+      "on": [
+       "ネン"
+      ],
+      "kun": [
+       "とし"
+      ],
+      "meaning": [
+       "Năm"
+      ],
+      "examples": [
+       "①　毎年：まいねん (hàng năm)",
+       "②　今年：ことし (năm nay)"
+      ]
+     },
+     {
+      "char": "毎",
+      "hv": [
+       "* MÃI,",
+       "MỖI"
+      ],
+      "on": [
+       "マイ"
+      ],
+      "kun": [
+       "ごと"
+      ],
+      "meaning": [
+       "Mỗi"
+      ],
+      "examples": [
+       "①　毎日：まいにち (mỗi ngày)",
+       "②　毎月：まいつき (mỗi tháng)"
+      ]
+     },
+     {
+      "char": "子",
+      "hv": [
+       "TỬ"
+      ],
+      "on": [
+       "シ、",
+       "* ス（ようす）、",
+       "* ツ（めんつ）"
+      ],
+      "kun": [
+       "こ"
+      ],
+      "meaning": [
+       "Con, trẻ con"
+      ],
+      "examples": [
+       "①　子ども：こども (trẻ em)",
+       "②　男の子：おとこのこ (bé trai)"
+      ]
+     },
+     {
+      "char": "友",
+      "hv": [
+       "HỮU"
+      ],
+      "on": [
+       "ユウ"
+      ],
+      "kun": [
+       "とも"
+      ],
+      "meaning": [
+       "Bạn bè, bằng hữu"
+      ],
+      "examples": [
+       "①　友だち：ともだち (bạn bè)",
+       "②　友人：ゆうじん (bạn)"
+      ]
+     },
+     {
+      "char": "五",
+      "hv": [
+       "NGŨ"
+      ],
+      "on": [
+       "ゴ"
+      ],
+      "kun": [
+       "いつ"
+      ],
+      "meaning": [
+       "Năm"
+      ],
+      "examples": [
+       "①　五日：いつか (năm ngày/ngày mùng 5)"
+      ]
+     },
+     {
+      "char": "万",
+      "hv": [
+       "VẠN"
+      ],
+      "on": [
+       "マン"
+      ],
+      "kun": [
+       "バン"
+      ],
+      "meaning": [
+       "vạn"
+      ],
+      "examples": [
+       "①　1万円：いちまんえん (10,000 yên)"
+      ]
+     },
+     {
+      "char": "六",
+      "hv": [
+       "LỤC"
+      ],
+      "on": [
+       "ロク"
+      ],
+      "kun": [
+       "む（むい.か）、",
+       "むっ（むっ.つ）"
+      ],
+      "meaning": [
+       "Sáu"
+      ],
+      "examples": [
+       "①　六日：むいか (sáu ngày/ngày mùng 6)",
+       "②　六つ：むっつ (sáu cái)"
+      ]
+     },
+     {
+      "char": "七",
+      "hv": [
+       "THẤT"
+      ],
+      "on": [
+       "シチ"
+      ],
+      "kun": [
+       "なな",
+       "なの（なの.か）"
+      ],
+      "meaning": [
+       "Bảy"
+      ],
+      "examples": [
+       "①　七日：なのか (bảy ngày/ngày mùng 7)"
+      ]
+     },
+     {
+      "char": "九",
+      "hv": [
+       "CỬU"
+      ],
+      "on": [
+       "キュウ、",
+       "ク"
+      ],
+      "kun": [
+       "ここの（ここの.か）"
+      ],
+      "meaning": [
+       "Chín"
+      ],
+      "examples": [
+       "①　九日：ここのか (chín ngày/ngày mùng 9)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1303
+   ],
+   "vocab": 1305,
+   "kanji": 1314
+  }
+ },
+ "7": {
+  "vocab_p1": [
+   {
+    "kana": "あっ",
+    "kanji": "",
+    "vi": "A"
+   },
+   {
+    "kana": "もってきます",
+    "kanji": "持って来ます",
+    "vi": "Có, mang theo"
+   },
+   {
+    "kana": "すみません",
+    "kanji": "",
+    "vi": "Xin lỗi, cảm ơn"
+   },
+   {
+    "kana": "ミルク",
+    "kanji": "",
+    "vi": "Sữa"
+   },
+   {
+    "kana": "～は、いいです",
+    "kanji": "",
+    "vi": "Không, cảm ơn"
+   },
+   {
+    "kana": "どうぞ",
+    "kanji": "",
+    "vi": "Xin mời"
+   },
+   {
+    "kana": "がいこくごがくぶ",
+    "kanji": "外国語学部",
+    "vi": "Khoa ngoại ngữ"
+   },
+   {
+    "kana": "～じん",
+    "kanji": "～人",
+    "vi": "Người ～"
+   },
+   {
+    "kana": "はい",
+    "kanji": "",
+    "vi": "Vâng, dạ, ạ"
+   },
+   {
+    "kana": "どうして",
+    "kanji": "",
+    "vi": "Tại sao, vì sao"
+   },
+   {
+    "kana": "わかります",
+    "kanji": "分かります",
+    "vi": "Hiểu"
+   },
+   {
+    "kana": "マレーシアご",
+    "kanji": "マレーシア語",
+    "vi": "Tiếng Malaysia"
+   },
+   {
+    "kana": "きこえます",
+    "kanji": "聞こえます",
+    "vi": "Nghe được, nghe thấy"
+   },
+   {
+    "kana": "～から",
+    "kanji": "",
+    "vi": "Vì, bời vì"
+   },
+   {
+    "kana": "べんきょうしています",
+    "kanji": "勉強しています",
+    "vi": "Học"
+   },
+   {
+    "kana": "ああ",
+    "kanji": "",
+    "vi": "Tôi hiểu, thì ra là vậy"
+   },
+   {
+    "kana": "そうですか",
+    "kanji": "",
+    "vi": "Thế à"
+   },
+   {
+    "kana": "かんたんな",
+    "kanji": "簡単な",
+    "vi": "Đơn giản"
+   },
+   {
+    "kana": "かいわ",
+    "kanji": "会話",
+    "vi": "Hội thoại, giao tiếp"
+   },
+   {
+    "kana": "できます",
+    "kanji": "",
+    "vi": "Có thể (nói, chơi,…)"
+   },
+   {
+    "kana": "いえいえ",
+    "kanji": "",
+    "vi": "Không"
+   },
+   {
+    "kana": "ここ",
+    "kanji": "",
+    "vi": "ở đây"
+   },
+   {
+    "kana": "クアラルンプール",
+    "kanji": "",
+    "vi": "Kuala Lumpur"
+   },
+   {
+    "kana": "きんだいてきな",
+    "kanji": "近代的な",
+    "vi": "Hiện đại"
+   },
+   {
+    "kana": "まち",
+    "kanji": "町",
+    "vi": "Thành phố"
+   },
+   {
+    "kana": "こうそうビル",
+    "kanji": "高層ビル",
+    "vi": "Nhà cao tầng"
+   },
+   {
+    "kana": "そうですね",
+    "kanji": "",
+    "vi": "Vâng, đúng rồi"
+   },
+   {
+    "kana": "さいきん",
+    "kanji": "最近",
+    "vi": "Gần đây"
+   },
+   {
+    "kana": "にほんじん",
+    "kanji": "日本人",
+    "vi": "Người Nhật"
+   },
+   {
+    "kana": "すんでいます",
+    "kanji": "住んでいます",
+    "vi": "Sống"
+   },
+   {
+    "kana": "こうがい",
+    "kanji": "郊外",
+    "vi": "Ngoại ô"
+   },
+   {
+    "kana": "こと",
+    "kanji": "",
+    "vi": "Việc, thứ, điều"
+   },
+   {
+    "kana": "ええ",
+    "kanji": "",
+    "vi": "Vâng, dạ, ạ"
+   },
+   {
+    "kana": "じつは",
+    "kanji": "実は",
+    "vi": "Thật ra"
+   },
+   {
+    "kana": "ことし",
+    "kanji": "今年",
+    "vi": "Năm nay"
+   },
+   {
+    "kana": "なつ",
+    "kanji": "夏",
+    "vi": "Mùa hè"
+   },
+   {
+    "kana": "そういえば",
+    "kanji": "",
+    "vi": "Nói như vậy"
+   },
+   {
+    "kana": "いいえ",
+    "kanji": "",
+    "vi": "Không"
+   },
+   {
+    "kana": "よかったら",
+    "kanji": "",
+    "vi": "Nếu anh không phiền"
+   },
+   {
+    "kana": "えっ",
+    "kanji": "",
+    "vi": "Dạ?"
+   },
+   {
+    "kana": "～し",
+    "kanji": "",
+    "vi": "Và ～"
+   },
+   {
+    "kana": "ケーキ",
+    "kanji": "",
+    "vi": "Bánh kem"
+   },
+   {
+    "kana": "じゃあ",
+    "kanji": "",
+    "vi": "Thế thì"
+   },
+   {
+    "kana": "あした",
+    "kanji": "明日",
+    "vi": "Ngày mai"
+   },
+   {
+    "kana": "いろいろ",
+    "kanji": "色々",
+    "vi": "Nhiều"
+   },
+   {
+    "kana": "いいですよ",
+    "kanji": "",
+    "vi": "Không sao, không có chi"
+   }
+  ],
+  "vocab_ext": [],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "上",
+      "hv": [
+       "THƯỢNG"
+      ],
+      "on": [
+       "ジョウ"
+      ],
+      "kun": [
+       "うえ"
+      ],
+      "meaning": [
+       "Trên"
+      ],
+      "examples": [
+       "①　上：うえ (trên)",
+       "②　上手：じょうず (khéo léo)"
+      ]
+     },
+     {
+      "char": "下",
+      "hv": [
+       "HẠ"
+      ],
+      "on": [
+       "カ、",
+       "* ゲ"
+      ],
+      "kun": [
+       "した"
+      ],
+      "meaning": [
+       "Dưới"
+      ],
+      "examples": [
+       "①　下：した (dưới)",
+       "②　下手：へた (kém, không giỏi)"
+      ]
+     },
+     {
+      "char": "白",
+      "hv": [
+       "BẠCH"
+      ],
+      "on": [
+       "ハク"
+      ],
+      "kun": [
+       "しろ"
+      ],
+      "meaning": [
+       "Trắng"
+      ],
+      "examples": [
+       "①　白い：しろい (trắng)",
+       "②　面白い：おもしろい (thú vị)"
+      ]
+     },
+     {
+      "char": "百",
+      "hv": [
+       "BÁCH"
+      ],
+      "on": [
+       "ヒャク"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "trăm"
+      ],
+      "examples": [
+       "①　百：ひゃく (100)",
+       "②　三百：さんびゃく (300)"
+      ]
+     },
+     {
+      "char": "千",
+      "hv": [
+       "THIÊN"
+      ],
+      "on": [
+       "セン"
+      ],
+      "kun": [
+       "ち"
+      ],
+      "meaning": [
+       "nghìn"
+      ],
+      "examples": [
+       "①　千円：せんえん (1.000 yên)",
+       "②　千葉県：ちばけん (tỉnh Chiba)"
+      ]
+     },
+     {
+      "char": "四",
+      "hv": [
+       "TỨ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "よ、",
+       "よっ（よっ.つ）、",
+       "よん"
+      ],
+      "meaning": [
+       "Số 4"
+      ],
+      "examples": [
+       "①　四月：しがつ (tháng 4)",
+       "②　四人：よにん (4 người)"
+      ]
+     },
+     {
+      "char": "西",
+      "hv": [
+       "TÂY"
+      ],
+      "on": [
+       "セイ、",
+       "サイ"
+      ],
+      "kun": [
+       "にし"
+      ],
+      "meaning": [
+       "Hướng tây"
+      ],
+      "examples": [
+       "①　西山：にしやま (núi Tây)",
+       "②　西口：にしぐち (cửa tây)"
+      ]
+     },
+     {
+      "char": "今",
+      "hv": [
+       "KIM"
+      ],
+      "on": [
+       "コン"
+      ],
+      "kun": [
+       "いま"
+      ],
+      "meaning": [
+       "Bây giờ, hiện tại"
+      ],
+      "examples": [
+       "①　今：いま (bây giờ)",
+       "②　今月：こんげつ (tháng này)"
+      ]
+     },
+     {
+      "char": "金",
+      "hv": [
+       "KIM"
+      ],
+      "on": [
+       "キン"
+      ],
+      "kun": [
+       "かね"
+      ],
+      "meaning": [
+       "Tiền, vàng"
+      ],
+      "examples": [
+       "①　お金：おかね (tiền)",
+       "②　金曜日：きんようび (thứ sáu)"
+      ]
+     },
+     {
+      "char": "男",
+      "hv": [
+       "NAM"
+      ],
+      "on": [
+       "ダン、",
+       "* ナン"
+      ],
+      "kun": [
+       "おとこ"
+      ],
+      "meaning": [
+       "Con trai"
+      ],
+      "examples": [
+       "①　男の人：おとこのひと (người đàn ông)",
+       "②　男性：だんせい (nam giới)"
+      ]
+     },
+     {
+      "char": "女",
+      "hv": [
+       "NỮ"
+      ],
+      "on": [
+       "ジョ"
+      ],
+      "kun": [
+       "おんな"
+      ],
+      "meaning": [
+       "Con gái"
+      ],
+      "examples": [
+       "①　女の人：おんなのひと (người phụ nữ)",
+       "②　女性：じょせい (nữ giới)"
+      ]
+     },
+     {
+      "char": "母",
+      "hv": [
+       "MẪU"
+      ],
+      "on": [
+       "ボ"
+      ],
+      "kun": [
+       "はは"
+      ],
+      "meaning": [
+       "Mẹ"
+      ],
+      "examples": [
+       "①　母：はは (mẹ)",
+       "②　お母さん：おかあさん (mẹ, bà mẹ)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1319
+   ],
+   "vocab": 1321,
+   "kanji": 1331
+  }
+ },
+ "8": {
+  "vocab_p1": [
+   {
+    "kana": "けいえいしています",
+    "kanji": "経営しています",
+    "vi": "Kinh doanh, điều hành"
+   },
+   {
+    "kana": "しごとをしています",
+    "kanji": "仕事をしています",
+    "vi": "Làm việc"
+   },
+   {
+    "kana": "やさしい",
+    "kanji": "優しい",
+    "vi": "Hiền, tử tế"
+   },
+   {
+    "kana": "おしえています",
+    "kanji": "教えています",
+    "vi": "Dạy"
+   },
+   {
+    "kana": "きびしい",
+    "kanji": "厳しい",
+    "vi": "Nghiêm khắc"
+   },
+   {
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "vi": "Ngân hàng"
+   },
+   {
+    "kana": "つとめています",
+    "kanji": "勤めています",
+    "vi": "Làm việc ở"
+   },
+   {
+    "kana": "あたまがいい",
+    "kanji": "頭がいい",
+    "vi": "Thông minh"
+   },
+   {
+    "kana": "きんじょ",
+    "kanji": "近所",
+    "vi": "Hàng xóm"
+   },
+   {
+    "kana": "けいざいがく",
+    "kanji": "経済学",
+    "vi": "Kinh tế học"
+   },
+   {
+    "kana": "けっこんしています",
+    "kanji": "結婚しています",
+    "vi": "Đã lập gia đình"
+   },
+   {
+    "kana": "だいがくいん",
+    "kanji": "大学院",
+    "vi": "Cao học"
+   },
+   {
+    "kana": "くすり",
+    "kanji": "薬",
+    "vi": "Thuốc, y dược"
+   },
+   {
+    "kana": "けんきゅうをしています",
+    "kanji": "研究をしています",
+    "vi": "Học, nghiên cứu"
+   },
+   {
+    "kana": "ピアノ",
+    "kanji": "",
+    "vi": "Piano"
+   },
+   {
+    "kana": "ピアノきょうしつをしています",
+    "kanji": "ピアノ教室をしています",
+    "vi": "Dạy Piano"
+   },
+   {
+    "kana": "おなじ",
+    "kanji": "同じ",
+    "vi": "Giống"
+   },
+   {
+    "kana": "いっています",
+    "kanji": "行っています",
+    "vi": "Đi, điều hành"
+   },
+   {
+    "kana": "がいこくご",
+    "kanji": "外国語",
+    "vi": "Tiếng nước ngoài"
+   },
+   {
+    "kana": "フランスご",
+    "kanji": "フランス語",
+    "vi": "Tiếng Pháp"
+   },
+   {
+    "kana": "パソコン",
+    "kanji": "",
+    "vi": "Máy tính xách tay"
+   },
+   {
+    "kana": "あそんでいます",
+    "kanji": "遊んでいます",
+    "vi": "Chơi"
+   },
+   {
+    "kana": "ずっと",
+    "kanji": "",
+    "vi": "Suốt, mãi"
+   },
+   {
+    "kana": "まえ（は）",
+    "kanji": "前（は）",
+    "vi": "Trước đây"
+   },
+   {
+    "kana": "しゅふ",
+    "kanji": "主婦",
+    "vi": "Vợ, nội trợ"
+   },
+   {
+    "kana": "はな",
+    "kanji": "花",
+    "vi": "Hoa"
+   },
+   {
+    "kana": "そだてています",
+    "kanji": "育てています",
+    "vi": "Trồng, nuôi"
+   },
+   {
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "vi": "Vui tươi, sáng sủa"
+   },
+   {
+    "kana": "やまのぼり",
+    "kanji": "山登り",
+    "vi": "Leo núi"
+   },
+   {
+    "kana": "やまのかい",
+    "kanji": "山の会",
+    "vi": "Đội leo núi"
+   },
+   {
+    "kana": "メンバー",
+    "kanji": "",
+    "vi": "Thành viên"
+   },
+   {
+    "kana": "いまでも",
+    "kanji": "今でも",
+    "vi": "Đến bây giờ vẫn"
+   },
+   {
+    "kana": "エンジニア",
+    "kanji": "",
+    "vi": "Kỹ sư"
+   },
+   {
+    "kana": "すわっています",
+    "kanji": "座っています",
+    "vi": "Ngồi"
+   },
+   {
+    "kana": "まだ",
+    "kanji": "",
+    "vi": "Vẫn"
+   },
+   {
+    "kana": "りょこうがいしゃ",
+    "kanji": "旅行会社",
+    "vi": "Công ty du lịch"
+   },
+   {
+    "kana": "がいこく",
+    "kanji": "外国",
+    "vi": "Nước ngoài"
+   },
+   {
+    "kana": "がいこくじん",
+    "kanji": "外国人",
+    "vi": "Người nước ngoài"
+   },
+   {
+    "kana": "げんきな",
+    "kanji": "元気な",
+    "vi": "Khoẻ mạnh"
+   },
+   {
+    "kana": "どくしん",
+    "kanji": "独身",
+    "vi": "Độc thân"
+   },
+   {
+    "kana": "まじめな",
+    "kanji": "真面目な",
+    "vi": "Nghiêm chỉnh, nghiêm túc"
+   },
+   {
+    "kana": "おとこのひと",
+    "kanji": "男の人",
+    "vi": "Nam"
+   },
+   {
+    "kana": "みています",
+    "kanji": "見ています",
+    "vi": "Đang xem"
+   },
+   {
+    "kana": "おんなのひと",
+    "kanji": "女の人",
+    "vi": "Nữ"
+   },
+   {
+    "kana": "きいています",
+    "kanji": "聞いています",
+    "vi": "Đang nghe"
+   },
+   {
+    "kana": "パソコンをしています",
+    "kanji": "",
+    "vi": "Đang dùng máy tính"
+   },
+   {
+    "kana": "はなしをしています",
+    "kanji": "話をしています",
+    "vi": "Đang nói chuyện"
+   },
+   {
+    "kana": "よんでいます",
+    "kanji": "読んでいます",
+    "vi": "Đang đọc"
+   },
+   {
+    "kana": "のんでいます",
+    "kanji": "飲んでいます",
+    "vi": "Đang uống"
+   },
+   {
+    "kana": "ビール",
+    "kanji": "",
+    "vi": "Bia"
+   },
+   {
+    "kana": "たべています",
+    "kanji": "食べています",
+    "vi": "Đang ăn"
+   },
+   {
+    "kana": "（お）さら",
+    "kanji": "お皿",
+    "vi": "Đĩa, dĩa"
+   },
+   {
+    "kana": "あらっています",
+    "kanji": "洗っています",
+    "vi": "Đang rửa"
+   },
+   {
+    "kana": "つくっています",
+    "kanji": "作っています",
+    "vi": "Đang nấu"
+   },
+   {
+    "kana": "たっています",
+    "kanji": "立っています",
+    "vi": "Đang đứng"
+   },
+   {
+    "kana": "まっています",
+    "kanji": "待っています",
+    "vi": "Đang đợi"
+   }
+  ],
+  "vocab_ext": [],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "兄",
+      "hv": [
+       "HUYNH"
+      ],
+      "on": [
+       "キョウ、",
+       "* ケイ"
+      ],
+      "kun": [
+       "あに"
+      ],
+      "meaning": [
+       "Anh trai"
+      ],
+      "examples": [
+       "①　兄：あに (anh trai mình)",
+       "②　お兄さん：おにいさん (anh trai người khác)"
+      ]
+     },
+     {
+      "char": "姉",
+      "hv": [
+       "TỈ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "あね"
+      ],
+      "meaning": [
+       "Chị gái"
+      ],
+      "examples": [
+       "①　姉：あね (chị gái)",
+       "②　お姉さん：おねえさん (chị gái người khác)"
+      ]
+     },
+     {
+      "char": "弟",
+      "hv": [
+       "ĐỆ,",
+       "* ĐỄ"
+      ],
+      "on": [
+       "* テイ、",
+       "ダイ、",
+       "* デ"
+      ],
+      "kun": [
+       "おとうと"
+      ],
+      "meaning": [
+       "Em trai"
+      ],
+      "examples": [
+       "①　弟：おとうと (em trai mình)",
+       "②　弟さん：おとうとさん (em trai người khác)"
+      ]
+     },
+     {
+      "char": "妹",
+      "hv": [
+       "MUỘI"
+      ],
+      "on": [
+       "* マイ"
+      ],
+      "kun": [
+       "いもうと"
+      ],
+      "meaning": [
+       "Em gái"
+      ],
+      "examples": [
+       "①　妹：いもうと (em gái mình)",
+       "②　妹さん：いもうとさん (em gái người khác)"
+      ]
+     },
+     {
+      "char": "会",
+      "hv": [
+       "HỘI, CỐI"
+      ],
+      "on": [
+       "カイ"
+      ],
+      "kun": [
+       "あ.う"
+      ],
+      "meaning": [
+       "Gặp gỡ"
+      ],
+      "examples": [
+       "①　会います：あいます (gặp)",
+       "②　会話：かいわ (hội thoại)"
+      ]
+     },
+     {
+      "char": "社",
+      "hv": [
+       "XÃ"
+      ],
+      "on": [
+       "シャ"
+      ],
+      "kun": [
+       "* やしろ"
+      ],
+      "meaning": [
+       "Xã hội"
+      ],
+      "examples": [
+       "①　会社：かいしゃ (công ty)",
+       "②　会社員：かいしゃいん (nhân viên công ty)"
+      ]
+     },
+     {
+      "char": "仕",
+      "hv": [
+       "SĨ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "* つか（つか.える）"
+      ],
+      "meaning": [
+       "Công việc, làm việc"
+      ],
+      "examples": [
+       "①　仕事：しごと (công việc)",
+       "②　* 仕えます：つかえます (phục vụ)"
+      ]
+     },
+     {
+      "char": "事",
+      "hv": [
+       "SỰ"
+      ],
+      "on": [
+       "ジ、",
+       "* ズ"
+      ],
+      "kun": [
+       "こと"
+      ],
+      "meaning": [
+       "Sự việc"
+      ],
+      "examples": [
+       "①　* 事件：じけん (sự việc, vụ án)"
+      ]
+     },
+     {
+      "char": "学",
+      "hv": [
+       "HỌC"
+      ],
+      "on": [
+       "ガク"
+      ],
+      "kun": [
+       "まな（まな.ぶ）"
+      ],
+      "meaning": [
+       "Học tập"
+      ],
+      "examples": [
+       "①　学びます：まなびます (học)",
+       "②　学生：がくせい (sinh viên)"
+      ]
+     },
+     {
+      "char": "校",
+      "hv": [
+       "GIÁO,",
+       "HIỆU,",
+       "* HÀO"
+      ],
+      "on": [
+       "コウ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Trường học"
+      ],
+      "examples": [
+       "①　学校：がっこう (trường học)"
+      ]
+     },
+     {
+      "char": "高",
+      "hv": [
+       "CAO"
+      ],
+      "on": [
+       "コウ"
+      ],
+      "kun": [
+       "たか（たか.い）"
+      ],
+      "meaning": [
+       "Cao"
+      ],
+      "examples": [
+       "①　高い：たかい (cao)",
+       "②　高校生：こうこうせい (học sinh cấp 3)"
+      ]
+     },
+     {
+      "char": "語",
+      "hv": [
+       "NGỮ,",
+       "* NGỨ"
+      ],
+      "on": [
+       "ゴ"
+      ],
+      "kun": [
+       "* かた（かた.る）"
+      ],
+      "meaning": [
+       "Ngôn ngữ"
+      ],
+      "examples": [
+       "①　日本語：にほんご (tiếng Nhật)",
+       "②　英語：えいご (tiếng Anh)"
+      ]
+     },
+     {
+      "char": "国",
+      "hv": [
+       "QUỐC"
+      ],
+      "on": [
+       "コク"
+      ],
+      "kun": [
+       "くに"
+      ],
+      "meaning": [
+       "Quốc gia"
+      ],
+      "examples": [
+       "①　国：くに (quốc gia)"
+      ]
+     },
+     {
+      "char": "外",
+      "hv": [
+       "NGOẠI"
+      ],
+      "on": [
+       "ガイ"
+      ],
+      "kun": [
+       "そと"
+      ],
+      "meaning": [
+       "Bên ngoài"
+      ],
+      "examples": [
+       "①　外：そと (bên ngoài)",
+       "②　外国：がいこく (nước ngoài)"
+      ]
+     },
+     {
+      "char": "銀",
+      "hv": [
+       "NGÂN"
+      ],
+      "on": [
+       "ギン"
+      ],
+      "kun": [
+       "* しろがね"
+      ],
+      "meaning": [
+       "Bạc"
+      ],
+      "examples": [
+       "①　銀行：ぎんこう (ngân hàng)"
+      ]
+     },
+     {
+      "char": "行",
+      "hv": [
+       "HÀNH,",
+       "HÀNG"
+      ],
+      "on": [
+       "コウ、",
+       "* ギョウ"
+      ],
+      "kun": [
+       "い（い.く）、",
+       "* ゆ（ゆ.く）、",
+       "おこ（おこ.なう）"
+      ],
+      "meaning": [
+       "Đi"
+      ],
+      "examples": [
+       "①　行きます：いきます (đi)",
+       "②　行います：おこないます (tiến hành)"
+      ]
+     },
+     {
+      "char": "来",
+      "hv": [
+       "LAI,",
+       "* LÃI"
+      ],
+      "on": [
+       "ライ、",
+       "* タイ"
+      ],
+      "kun": [
+       "く（く.る）"
+      ],
+      "meaning": [
+       "Đến"
+      ],
+      "examples": [
+       "①　来ます：きます (đến)",
+       "②　来年：らいねん (năm tới)"
+      ]
+     },
+     {
+      "char": "明",
+      "hv": [
+       "MINH"
+      ],
+      "on": [
+       "メイ、",
+       "* ミョウ、",
+       "* ミン"
+      ],
+      "kun": [
+       "あか（あか.るい）"
+      ],
+      "meaning": [
+       "Sáng"
+      ],
+      "examples": [
+       "①　明るい：あかるい (sáng)",
+       "②　 文明：ぶんめい (văn minh)"
+      ]
+     },
+     {
+      "char": "元",
+      "hv": [
+       "NGUYÊN"
+      ],
+      "on": [
+       "* ゲン、",
+       "* ガン"
+      ],
+      "kun": [
+       "もと"
+      ],
+      "meaning": [
+       "Nguyên bản"
+      ],
+      "examples": [
+       "①　* 元恋人：もとこいびと (người yêu cũ)"
+      ]
+     },
+     {
+      "char": "気",
+      "hv": [
+       "KHÍ"
+      ],
+      "on": [
+       "キ",
+       "ケ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Không khí,",
+       "khí chất"
+      ],
+      "examples": [
+       "①　元気：げんき (khỏe mạnh)",
+       "②　空気：くうき (không khí)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1335
+   ],
+   "vocab": 1337,
+   "kanji": 1341
+  }
+ },
+ "9": {
+  "vocab_p1": [
+   {
+    "kana": "みち",
+    "kanji": "道",
+    "vi": "Đường"
+   },
+   {
+    "kana": "いえ",
+    "kanji": "家",
+    "vi": "Nhà"
+   },
+   {
+    "kana": "～つ",
+    "kanji": "",
+    "vi": "Số đếm của vật"
+   },
+   {
+    "kana": "きせつ",
+    "kanji": "季節",
+    "vi": "Mùa"
+   },
+   {
+    "kana": "はる",
+    "kanji": "春",
+    "vi": "Xuân"
+   },
+   {
+    "kana": "あき",
+    "kanji": "秋",
+    "vi": "Thu"
+   },
+   {
+    "kana": "ふゆ",
+    "kanji": "冬",
+    "vi": "Đông"
+   },
+   {
+    "kana": "あたたかい",
+    "kanji": "暖かい",
+    "vi": "Ấm áp"
+   },
+   {
+    "kana": "あつい",
+    "kanji": "暑い",
+    "vi": "Nóng"
+   },
+   {
+    "kana": "すずしい",
+    "kanji": "涼しい",
+    "vi": "Mát mẻ"
+   },
+   {
+    "kana": "さむい",
+    "kanji": "寒い",
+    "vi": "Lạnh"
+   },
+   {
+    "kana": "サクラ",
+    "kanji": "",
+    "vi": "Hoa Sakura"
+   },
+   {
+    "kana": "きょうと",
+    "kanji": "京都",
+    "vi": "Kyoto"
+   },
+   {
+    "kana": "おもっています",
+    "kanji": "思っています",
+    "vi": "Nghĩ"
+   },
+   {
+    "kana": "そのとき",
+    "kanji": "その時",
+    "vi": "Lúc đó"
+   },
+   {
+    "kana": "こうよう",
+    "kanji": "紅葉",
+    "vi": "Lá đỏ, lá phong"
+   },
+   {
+    "kana": "にほんりょうり",
+    "kanji": "日本料理",
+    "vi": "Món ăn Nhật"
+   },
+   {
+    "kana": "なつやすみ",
+    "kanji": "夏休み",
+    "vi": "Nghỉ hè"
+   },
+   {
+    "kana": "ほっかいどう",
+    "kanji": "北海道",
+    "vi": "Hokkaido"
+   },
+   {
+    "kana": "レンタカー",
+    "kanji": "",
+    "vi": "Xe mướn"
+   },
+   {
+    "kana": "りょこうします",
+    "kanji": "旅行します",
+    "vi": "Du lịch"
+   },
+   {
+    "kana": "ひがえり",
+    "kanji": "日帰り",
+    "vi": "Di lịch đi về trong ngày"
+   },
+   {
+    "kana": "ひくい",
+    "kanji": "低い",
+    "vi": "Thấp, rẻ"
+   },
+   {
+    "kana": "テント",
+    "kanji": "",
+    "vi": "Lều"
+   },
+   {
+    "kana": "～はく",
+    "kanji": "～泊",
+    "vi": "～Đêm"
+   },
+   {
+    "kana": "れんきゅう",
+    "kanji": "連休",
+    "vi": "Ngày nghỉ dài"
+   },
+   {
+    "kana": "たかい（やまが）",
+    "kanji": "高い（山が）",
+    "vi": "Núi cao"
+   },
+   {
+    "kana": "まいとし",
+    "kanji": "毎年",
+    "vi": "Mỗi năm"
+   },
+   {
+    "kana": "のぼります",
+    "kanji": "登ります",
+    "vi": "Leo núi"
+   },
+   {
+    "kana": "カラオケ",
+    "kanji": "",
+    "vi": "Karaoke"
+   },
+   {
+    "kana": "いつか",
+    "kanji": "",
+    "vi": "Một ngày nào đó"
+   },
+   {
+    "kana": "うた",
+    "kanji": "歌",
+    "vi": "Bài hát"
+   },
+   {
+    "kana": "うたう",
+    "kanji": "歌う",
+    "vi": "Hát"
+   },
+   {
+    "kana": "きもの",
+    "kanji": "着物",
+    "vi": "Kimono"
+   },
+   {
+    "kana": "きます",
+    "kanji": "着ます",
+    "vi": "Mặc"
+   },
+   {
+    "kana": "かぶき",
+    "kanji": "歌舞伎",
+    "vi": "Kubuki (ca vũ kỷ)"
+   },
+   {
+    "kana": "すもう",
+    "kanji": "相撲",
+    "vi": "Sumo"
+   },
+   {
+    "kana": "にほんしゅ",
+    "kanji": "日本酒",
+    "vi": "Rượu Nhật"
+   },
+   {
+    "kana": "ゆき",
+    "kanji": "雪",
+    "vi": "Tuyết"
+   },
+   {
+    "kana": "なまで",
+    "kanji": "生で",
+    "vi": "Tươi, sống"
+   },
+   {
+    "kana": "ライブハウス",
+    "kanji": "",
+    "vi": "Câu lạc bộ nhạc sống"
+   },
+   {
+    "kana": "おそい",
+    "kanji": "遅い",
+    "vi": "Chậm"
+   },
+   {
+    "kana": "あたらしい",
+    "kanji": "新しい",
+    "vi": "Mới"
+   },
+   {
+    "kana": "プリンター",
+    "kanji": "",
+    "vi": "Máy in"
+   }
+  ],
+  "vocab_ext": [],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "春",
+      "hv": [
+       "XUÂN"
+      ],
+      "on": [
+       "* シュン"
+      ],
+      "kun": [
+       "はる"
+      ],
+      "meaning": [
+       "Mùa xuân"
+      ],
+      "examples": [
+       "①　春：はる (mùa xuân)",
+       "②　* 青春：せいしゅん (thanh xuân)"
+      ]
+     },
+     {
+      "char": "夏",
+      "hv": [
+       "HẠ"
+      ],
+      "on": [
+       "カ、",
+       "* ゲ"
+      ],
+      "kun": [
+       "なつ"
+      ],
+      "meaning": [
+       "Mùa hè"
+      ],
+      "examples": [
+       "①　夏：なつ (mùa hè)",
+       "②　* 初夏：しょか (đầu hè)"
+      ]
+     },
+     {
+      "char": "秋",
+      "hv": [
+       "THU"
+      ],
+      "on": [
+       "シュウ"
+      ],
+      "kun": [
+       "あき"
+      ],
+      "meaning": [
+       "Mùa thu"
+      ],
+      "examples": [
+       "①　秋：あき (mùa thu)",
+       "②　* 秋分：しゅうぶん (Tiết thu phân)"
+      ]
+     },
+     {
+      "char": "冬",
+      "hv": [
+       "ĐÔNG"
+      ],
+      "on": [
+       "トウ"
+      ],
+      "kun": [
+       "ふゆ"
+      ],
+      "meaning": [
+       "Mùa đông"
+      ],
+      "examples": [
+       "①　冬：ふゆ (mùa đông)",
+       "②　* 冬眠：とうみん (ngủ đông)"
+      ]
+     },
+     {
+      "char": "道",
+      "hv": [
+       "ĐẠO"
+      ],
+      "on": [
+       "ドウ、",
+       "トウ"
+      ],
+      "kun": [
+       "みち"
+      ],
+      "meaning": [
+       "Đường"
+      ],
+      "examples": [
+       "①　道：みち (đường)",
+       "②　* 書道：しょどう (thư pháp)"
+      ]
+     },
+     {
+      "char": "近",
+      "hv": [
+       "CẬN"
+      ],
+      "on": [
+       "キン"
+      ],
+      "kun": [
+       "ちか（ちか.い）"
+      ],
+      "meaning": [
+       "Gần"
+      ],
+      "examples": [
+       "①　近い：ちかい (gần)",
+       "②　近所：きんじょ (hàng xóm)"
+      ]
+     },
+     {
+      "char": "新",
+      "hv": [
+       "TÂN"
+      ],
+      "on": [
+       "シン"
+      ],
+      "kun": [
+       "あたら（あたら.しい）",
+       "* あら（あら.たな）"
+      ],
+      "meaning": [
+       "Mới"
+      ],
+      "examples": [
+       "①　新しい：あたらしい (mới)",
+       "②　新聞：しんぶん (báo)"
+      ]
+     },
+     {
+      "char": "家",
+      "hv": [
+       "GIA"
+      ],
+      "on": [
+       "カ、",
+       "* ケ"
+      ],
+      "kun": [
+       "いえ"
+      ],
+      "meaning": [
+       "Nhà, gia đình"
+      ],
+      "examples": [
+       "①　家：いえ (nhà)",
+       "②　家族：かぞく (gia đình)"
+      ]
+     },
+     {
+      "char": "京",
+      "hv": [
+       "KINH"
+      ],
+      "on": [
+       "キョウ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Kinh đô"
+      ],
+      "examples": [
+       "①　東京：とうきょう (Tokyo)",
+       "②　京都：きょうと (Kyoto)"
+      ]
+     },
+     {
+      "char": "都",
+      "hv": [
+       "ĐÔ"
+      ],
+      "on": [
+       "ト",
+       "* つ"
+      ],
+      "kun": [
+       "* みやこ"
+      ],
+      "meaning": [
+       "Thủ đô"
+      ],
+      "examples": [
+       "①　都合：つごう (tình huống, hoàn cảnh)",
+       "②　都会：とかい (thành phố)"
+      ]
+     },
+     {
+      "char": "聞",
+      "hv": [
+       "VĂN,",
+       "VẤN"
+      ],
+      "on": [
+       "ブン、",
+       "* モン"
+      ],
+      "kun": [
+       "き（き.く）"
+      ],
+      "meaning": [
+       "Nghe, hỏi"
+      ],
+      "examples": [
+       "①　聞きます：ききます (nghe, hỏi)",
+       "②　新聞：しんぶん (báo)"
+      ]
+     },
+     {
+      "char": "食",
+      "hv": [
+       "THỰC"
+      ],
+      "on": [
+       "ショク、",
+       "* ジキ"
+      ],
+      "kun": [
+       "た（た.べる）",
+       "* く（く.う）"
+      ],
+      "meaning": [
+       "Ăn, ẩm thực"
+      ],
+      "examples": [
+       "①　食べます：たべます (ăn)",
+       "②　食事：しょくじ (bữa ăn)"
+      ]
+     },
+     {
+      "char": "休",
+      "hv": [
+       "HƯU"
+      ],
+      "on": [
+       "キュウ"
+      ],
+      "kun": [
+       "やす（やす.む）"
+      ],
+      "meaning": [
+       "Nghỉ"
+      ],
+      "examples": [
+       "①　休み：やすみ (nghỉ)",
+       "②　* 休日：きゅうじつ (ngày nghỉ)"
+      ]
+     },
+     {
+      "char": "思",
+      "hv": [
+       "TƯ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "おも（おも.う）"
+      ],
+      "meaning": [
+       "Nghĩ"
+      ],
+      "examples": [
+       "①　思います：おもいます (nghĩ)",
+       "②　不思議な：ふしぎな (kỳ lạ)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1346,
+    1347
+   ],
+   "vocab": 1349,
+   "kanji": 1353
+  }
+ },
+ "10": {
+  "vocab_p1": [
+   {
+    "kana": "ズボン",
+    "kanji": "",
+    "vi": "Quần"
+   },
+   {
+    "kana": "はきます",
+    "kanji": "履きます",
+    "vi": "Mặc (quần), đi (giày)"
+   },
+   {
+    "kana": "だめな",
+    "kanji": "",
+    "vi": "Không được, hỏng"
+   },
+   {
+    "kana": "スニーカー",
+    "kanji": "",
+    "vi": "Giày thể thao"
+   },
+   {
+    "kana": "ながそで",
+    "kanji": "長そで",
+    "vi": "Áo tay dài"
+   },
+   {
+    "kana": "ぼうし",
+    "kanji": "帽子",
+    "vi": "Mũ, nón"
+   },
+   {
+    "kana": "あまぐ",
+    "kanji": "雨具",
+    "vi": "Áo mưa"
+   },
+   {
+    "kana": "かならず",
+    "kanji": "必ず",
+    "vi": "Nhất định phải"
+   },
+   {
+    "kana": "もっていきます",
+    "kanji": "持って行きます",
+    "vi": "Mang"
+   },
+   {
+    "kana": "おかし",
+    "kanji": "お菓子",
+    "vi": "Bánh kẹo"
+   },
+   {
+    "kana": "ビスケット",
+    "kanji": "",
+    "vi": "Bánh quy"
+   },
+   {
+    "kana": "キャンディ",
+    "kanji": "",
+    "vi": "Kẹo"
+   },
+   {
+    "kana": "はしります",
+    "kanji": "走ります",
+    "vi": "Chạy"
+   },
+   {
+    "kana": "あぶない",
+    "kanji": "危ない",
+    "vi": "Nguy hiểm"
+   },
+   {
+    "kana": "ペース",
+    "kanji": "",
+    "vi": "Bước"
+   },
+   {
+    "kana": "あるきます",
+    "kanji": "歩きます",
+    "vi": "Đi bộ"
+   },
+   {
+    "kana": "とります（はなを）",
+    "kanji": "取ります（花を）",
+    "vi": "Hái hoa"
+   },
+   {
+    "kana": "しゃしん",
+    "kanji": "写真",
+    "vi": "Ảnh"
+   },
+   {
+    "kana": "とります（しゃしんを）",
+    "kanji": "撮ります（写真を）",
+    "vi": "Chụp (ảnh)"
+   },
+   {
+    "kana": "ゴミ",
+    "kanji": "",
+    "vi": "Rác"
+   },
+   {
+    "kana": "じぶんの",
+    "kanji": "自分の",
+    "vi": "～của mình"
+   },
+   {
+    "kana": "ごみぶくろ",
+    "kanji": "ゴミ袋",
+    "vi": "Bao rác"
+   },
+   {
+    "kana": "いれます",
+    "kanji": "入れます",
+    "vi": "Bỏ vào"
+   },
+   {
+    "kana": "もってかえります",
+    "kanji": "持って帰ります",
+    "vi": "Mang về nhà"
+   },
+   {
+    "kana": "あんぜんな",
+    "kanji": "安全な",
+    "vi": "An toàn"
+   },
+   {
+    "kana": "ルール",
+    "kanji": "",
+    "vi": "Luật, quy định, nội quy"
+   },
+   {
+    "kana": "せつめいします",
+    "kanji": "説明します",
+    "vi": "Giải thích"
+   },
+   {
+    "kana": "でんわ（を）します",
+    "kanji": "電話（を）します",
+    "vi": "Gọi điện thoại"
+   },
+   {
+    "kana": "また",
+    "kanji": "",
+    "vi": "Lại"
+   },
+   {
+    "kana": "れんらく（を）します",
+    "kanji": "連絡（を）します",
+    "vi": "Liên lạc với ai"
+   },
+   {
+    "kana": "～ちゅう",
+    "kanji": "～中",
+    "vi": "Trong suốt ～"
+   },
+   {
+    "kana": "できるだけ",
+    "kanji": "",
+    "vi": "Đến mức có thể"
+   },
+   {
+    "kana": "ことば",
+    "kanji": "言葉",
+    "vi": "Ngôn ngữ"
+   },
+   {
+    "kana": "つかいます",
+    "kanji": "使います",
+    "vi": "Sử dụng"
+   },
+   {
+    "kana": "でんしじしょ",
+    "kanji": "電子辞書",
+    "vi": "Kim từ điển"
+   },
+   {
+    "kana": "て",
+    "kanji": "手",
+    "vi": "Tay"
+   },
+   {
+    "kana": "あげます（てを）",
+    "kanji": "あげます（手を）",
+    "vi": "Giơ (tay)"
+   },
+   {
+    "kana": "こえ",
+    "kanji": "声",
+    "vi": "Tiếng"
+   },
+   {
+    "kana": "ほか",
+    "kanji": "他",
+    "vi": "Khác"
+   },
+   {
+    "kana": "ミネラルウォーター",
+    "kanji": "",
+    "vi": "Nước khoáng"
+   },
+   {
+    "kana": "きょうしつ",
+    "kanji": "教室",
+    "vi": "Phòng học"
+   },
+   {
+    "kana": "のみもの",
+    "kanji": "飲み物",
+    "vi": "Nước uống"
+   },
+   {
+    "kana": "あけます",
+    "kanji": "",
+    "vi": "Mở"
+   },
+   {
+    "kana": "いいます",
+    "kanji": "言います",
+    "vi": "Nói"
+   },
+   {
+    "kana": "ゆっくり",
+    "kanji": "",
+    "vi": "Chậm"
+   },
+   {
+    "kana": "しらべます",
+    "kanji": "調べます",
+    "vi": "Tra"
+   },
+   {
+    "kana": "まちます",
+    "kanji": "待ちます",
+    "vi": "Đợi, chờ"
+   },
+   {
+    "kana": "まど",
+    "kanji": "窓",
+    "vi": "Cửa sổ"
+   },
+   {
+    "kana": "しめます",
+    "kanji": "閉めます",
+    "vi": "Đóng"
+   },
+   {
+    "kana": "ドア",
+    "kanji": "",
+    "vi": "Cửa"
+   },
+   {
+    "kana": "でんき",
+    "kanji": "電気",
+    "vi": "Điện, đèn"
+   },
+   {
+    "kana": "つけます",
+    "kanji": "",
+    "vi": "Mở, bật"
+   },
+   {
+    "kana": "けします",
+    "kanji": "消します",
+    "vi": "Tắt"
+   },
+   {
+    "kana": "エアコン",
+    "kanji": "",
+    "vi": "Điều hoà"
+   },
+   {
+    "kana": "ブラインド",
+    "kanji": "",
+    "vi": "Mành (rèm), cuốn"
+   },
+   {
+    "kana": "あげます（ブラインド）",
+    "kanji": "",
+    "vi": "Kéo lên"
+   },
+   {
+    "kana": "おろします",
+    "kanji": "",
+    "vi": "Hạ xuống"
+   },
+   {
+    "kana": "だします（みずを）",
+    "kanji": "出します（水を）",
+    "vi": "Mở (nước)"
+   },
+   {
+    "kana": "とめます",
+    "kanji": "止めます",
+    "vi": "Khoá"
+   },
+   {
+    "kana": "てつだいます",
+    "kanji": "手伝います",
+    "vi": "Giúp đỡ"
+   },
+   {
+    "kana": "かばん",
+    "kanji": "",
+    "vi": "Cặp"
+   },
+   {
+    "kana": "しお",
+    "kanji": "塩",
+    "vi": "Muối, chuyển"
+   },
+   {
+    "kana": "とります（しおを）",
+    "kanji": "とります（塩を）",
+    "vi": "Lấy (muối)"
+   },
+   {
+    "kana": "コショー",
+    "kanji": "",
+    "vi": "Tiêu"
+   },
+   {
+    "kana": "しょうゆ",
+    "kanji": "醤油",
+    "vi": "Nước tương"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "ぬぎます",
+    "kanji": "脱ぎます",
+    "vi": "cởi"
+   },
+   {
+    "kana": "かぶる",
+    "kanji": "",
+    "vi": "đội"
+   },
+   {
+    "kana": "とります",
+    "kanji": "",
+    "vi": "lấy ra, gỡ ra"
+   },
+   {
+    "kana": "かさ",
+    "kanji": "傘",
+    "vi": "ô, dù"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "花",
+      "hv": [
+       "HOA"
+      ],
+      "on": [
+       "カ"
+      ],
+      "kun": [
+       "はな"
+      ],
+      "meaning": [
+       "Bông hoa"
+      ],
+      "examples": [
+       "①　花：はな (hoa)",
+       "②　* 花瓶：かびん (bình hoa)"
+      ]
+     },
+     {
+      "char": "自",
+      "hv": [
+       "TỰ"
+      ],
+      "on": [
+       "ジ"
+      ],
+      "kun": [
+       "* みず（みずか.ら）"
+      ],
+      "meaning": [
+       "Tự mình"
+      ],
+      "examples": [
+       "①　* 自ら：みずから (tự mình)",
+       "②　自分：じぶん (chính mình)"
+      ]
+     },
+     {
+      "char": "電",
+      "hv": [
+       "ĐIỆN"
+      ],
+      "on": [
+       "デン"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Điện"
+      ],
+      "examples": [
+       "①　電車：でんしゃ (tàu điện)",
+       "②　電気：でんき (điện)"
+      ]
+     },
+     {
+      "char": "話",
+      "hv": [
+       "THOẠI"
+      ],
+      "on": [
+       "ワ"
+      ],
+      "kun": [
+       "はな（はな.す）、",
+       "はなし"
+      ],
+      "meaning": [
+       "Lời nói"
+      ],
+      "examples": [
+       "①　話します：はなします (nói)",
+       "②　会話：かいわ (cuộc hội thoại)"
+      ]
+     },
+     {
+      "char": "英",
+      "hv": [
+       "ANH"
+      ],
+      "on": [
+       "エイ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Nước Anh"
+      ],
+      "examples": [
+       "①　英語：えいご (tiếng Anh)"
+      ]
+     },
+     {
+      "char": "手",
+      "hv": [
+       "THỦ"
+      ],
+      "on": [
+       "シュ"
+      ],
+      "kun": [
+       "て"
+      ],
+      "meaning": [
+       "Tay"
+      ],
+      "examples": [
+       "①　手：て (tay)",
+       "②　運転手：うんてんしゅ (tài xế)"
+      ]
+     },
+     {
+      "char": "動",
+      "hv": [
+       "ĐỘNG"
+      ],
+      "on": [
+       "ドウ"
+      ],
+      "kun": [
+       "うご（うご.く、うご.かす）"
+      ],
+      "meaning": [
+       "Cử động,",
+       "hoạt động"
+      ],
+      "examples": [
+       "①　動きます：うごきます (cử động)",
+       "②　運動：うんどう (vận động)"
+      ]
+     },
+     {
+      "char": "歩",
+      "hv": [
+       "BỘ"
+      ],
+      "on": [
+       "ホ、",
+       "* ブ、",
+       "* フ"
+      ],
+      "kun": [
+       "ある（ある.く）、",
+       "あゆ（あゆ.む）"
+      ],
+      "meaning": [
+       "Đi bộ"
+      ],
+      "examples": [
+       "①　歩きます：あるきます (đi bộ)",
+       "②　徒歩：とほ (đi bộ)"
+      ]
+     },
+     {
+      "char": "走",
+      "hv": [
+       "TẨU"
+      ],
+      "on": [
+       "* ソウ"
+      ],
+      "kun": [
+       "はし（はし.る）"
+      ],
+      "meaning": [
+       "Chạy"
+      ],
+      "examples": [
+       "①　走ります：はしります (chạy)"
+      ]
+     },
+     {
+      "char": "持",
+      "hv": [
+       "TRÌ"
+      ],
+      "on": [
+       "ジ"
+      ],
+      "kun": [
+       "も（も.つ）"
+      ],
+      "meaning": [
+       "Cầm, nắm, giữ"
+      ],
+      "examples": [
+       "①　持ちます：もちます (cầm)"
+      ]
+     },
+     {
+      "char": "使",
+      "hv": [
+       "SỬ,",
+       "SỨ"
+      ],
+      "on": [
+       "シ"
+      ],
+      "kun": [
+       "つか（つか.う）"
+      ],
+      "meaning": [
+       "Sử dụng, dùng"
+      ],
+      "examples": [
+       "①　使います：つかいます (sử dụng)",
+       "②　使用：しよう (sử dụng)"
+      ]
+     },
+     {
+      "char": "着",
+      "hv": [
+       "TRỨ, TRƯỚC"
+      ],
+      "on": [
+       "* チャク、",
+       "* ジャク"
+      ],
+      "kun": [
+       "き（き.る）、",
+       "つ（つ.く）"
+      ],
+      "meaning": [
+       "Đến nơi"
+      ],
+      "examples": [
+       "①　着ます：きます (mặc)",
+       "②　着きます：つきます (đến nơi)",
+       "③　* 到着：とうちゃく (đến nơi)"
+      ]
+     },
+     {
+      "char": "帰",
+      "hv": [
+       "QUY"
+      ],
+      "on": [
+       "キ"
+      ],
+      "kun": [
+       "かえ（かえ.る）"
+      ],
+      "meaning": [
+       "Quay lại"
+      ],
+      "examples": [
+       "①　帰ります：かえります (trở về)",
+       "②　帰国：きこく (về nước)"
+      ]
+     },
+     {
+      "char": "長",
+      "hv": [
+       "TRƯỜNG, TRƯỞNG"
+      ],
+      "on": [
+       "チョウ"
+      ],
+      "kun": [
+       "なが（なが.い）"
+      ],
+      "meaning": [
+       "Dài"
+      ],
+      "examples": [
+       "①　長い：ながい (dài)"
+      ]
+     },
+     {
+      "char": "楽",
+      "hv": [
+       "LẠC,",
+       "NHẠC"
+      ],
+      "on": [
+       "ガク、",
+       "* ラク、",
+       "* ゴウ"
+      ],
+      "kun": [
+       "たの（たの.しい、たの.しむ）"
+      ],
+      "meaning": [
+       "Vui vẻ"
+      ],
+      "examples": [
+       "①　楽しい：たのしい (vui)",
+       "②　音楽：おんがく (âm nhạc)"
+      ]
+     },
+     {
+      "char": "同",
+      "hv": [
+       "ĐỒNG"
+      ],
+      "on": [
+       "ドウ"
+      ],
+      "kun": [
+       "おな（おな.じ）"
+      ],
+      "meaning": [
+       "Như nhau"
+      ],
+      "examples": [
+       "①　同じ：おなじ (giống nhau)",
+       "②　* 同級生：どうきゅうせい (bạn học cùng lớp)"
+      ]
+     },
+     {
+      "char": "好",
+      "hv": [
+       "HẢO,",
+       "HIẾU"
+      ],
+      "on": [
+       "* コウ"
+      ],
+      "kun": [
+       "す（す.き）、",
+       "* この（この.む）"
+      ],
+      "meaning": [
+       "Tốt"
+      ],
+      "examples": [
+       "①　好き：すき (thích)",
+       "②　好みます：このみます (thích)"
+      ]
+     },
+     {
+      "char": "安",
+      "hv": [
+       "AN,",
+       "YÊN"
+      ],
+      "on": [
+       "アン"
+      ],
+      "kun": [
+       "やす（やす.い）"
+      ],
+      "meaning": [
+       "Bình an"
+      ],
+      "examples": [
+       "①　安い：やすい (rẻ)",
+       "②　安全：あんぜん (an toàn)"
+      ]
+     },
+     {
+      "char": "全",
+      "hv": [
+       "TOÀN"
+      ],
+      "on": [
+       "ゼン"
+      ],
+      "kun": [
+       "まった（まった.く）、",
+       "すべ（すべ.て）"
+      ],
+      "meaning": [
+       "Toàn bộ"
+      ],
+      "examples": [
+       "①　全く：まったく (hoàn toàn)",
+       "②　全て：すべて (toàn bộ)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1357
+   ],
+   "vocab": 1359,
+   "kanji": 1366
+  }
+ },
+ "11": {
+  "vocab_p1": [
+   {
+    "kana": "せいかつ",
+    "kanji": "生活",
+    "vi": "Sinh hoạt, cuộc sống"
+   },
+   {
+    "kana": "たいへんな",
+    "kanji": "大変な",
+    "vi": "Khó khăn, vất vả"
+   },
+   {
+    "kana": "じぶんで",
+    "kanji": "自分で",
+    "vi": "Tự mình"
+   },
+   {
+    "kana": "せっけん",
+    "kanji": "石けん",
+    "vi": "Xà phòng"
+   },
+   {
+    "kana": "シャンプー",
+    "kanji": "",
+    "vi": "Dầu gội đầu"
+   },
+   {
+    "kana": "ティッシュペーパー",
+    "kanji": "",
+    "vi": "Khăn giấy"
+   },
+   {
+    "kana": "そうじ（を）します",
+    "kanji": "掃除（を）します",
+    "vi": "Dọn dẹp"
+   },
+   {
+    "kana": "せんたく（を）します",
+    "kanji": "洗濯（を）します",
+    "vi": "Giặt"
+   },
+   {
+    "kana": "つくります（ぎんこうこうざを）",
+    "kanji": "作ります（銀行口座を）",
+    "vi": "Mở (tài khoản ngân hàng)"
+   },
+   {
+    "kana": "けいたいでんわ",
+    "kanji": "携帯電話",
+    "vi": "Điện thoại di động"
+   },
+   {
+    "kana": "りかいします",
+    "kanji": "理解します",
+    "vi": "Hiểu"
+   },
+   {
+    "kana": "シラバス",
+    "kanji": "",
+    "vi": "Nội dung môn học, đề cương"
+   },
+   {
+    "kana": "かもく",
+    "kanji": "科目",
+    "vi": "Môn học"
+   },
+   {
+    "kana": "えらびます",
+    "kanji": "選びます",
+    "vi": "Chọn"
+   },
+   {
+    "kana": "なかなか",
+    "kanji": "",
+    "vi": "Mãi mà"
+   },
+   {
+    "kana": "テスト",
+    "kanji": "",
+    "vi": "Kiểm tra"
+   },
+   {
+    "kana": "レポート",
+    "kanji": "",
+    "vi": "Báo cáo"
+   },
+   {
+    "kana": "うけます",
+    "kanji": "受けます",
+    "vi": "Nghe"
+   },
+   {
+    "kana": "でます（かいぎに）",
+    "kanji": "出ます（会議に）",
+    "vi": "Tham dự (hội nghị)"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "しやくしょ",
+    "kanji": "市役所",
+    "vi": "tòa thị chính"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "朝",
+      "hv": [
+       "TRIỀU"
+      ],
+      "on": [
+       "チョウ"
+      ],
+      "kun": [
+       "あさ"
+      ],
+      "meaning": [
+       "Buổi sáng"
+      ],
+      "examples": [
+       "① 　朝：あさ (buổi sáng)",
+       "②　朝食：ちょうしょく (bữa sáng)"
+      ]
+     },
+     {
+      "char": "晩",
+      "hv": [
+       "VÃN"
+      ],
+      "on": [
+       "バン"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Buổi tối"
+      ],
+      "examples": [
+       "①　 晩ごはん：ばんごはん (bữa tối)",
+       "② 　毎晩：まいばん (mỗi tối)"
+      ]
+     },
+     {
+      "char": "買",
+      "hv": [
+       "MÃI"
+      ],
+      "on": [
+       "バイ"
+      ],
+      "kun": [
+       "か（か.う）"
+      ],
+      "meaning": [
+       "Mua"
+      ],
+      "examples": [
+       "① 　買います：かいます (mua)",
+       "②　売買：ばいばい (mua bán)"
+      ]
+     },
+     {
+      "char": "物",
+      "hv": [
+       "VẬT"
+      ],
+      "on": [
+       "ブツ",
+       "モツ"
+      ],
+      "kun": [
+       "もの"
+      ],
+      "meaning": [
+       "Đồ vật"
+      ],
+      "examples": [
+       "①　荷物：にもつ (hành lý)",
+       "②　動物：どうぶつ (động vật)"
+      ]
+     },
+     {
+      "char": "勉",
+      "hv": [
+       "MIỄN"
+      ],
+      "on": [
+       "ベン"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Cố gắng, học tập"
+      ],
+      "examples": [
+       "①　勉強：べんきょう (học tập)"
+      ]
+     },
+     {
+      "char": "強",
+      "hv": [
+       "CƯỜNG"
+      ],
+      "on": [
+       "キョウ"
+      ],
+      "kun": [
+       "つよ（つよ.い）"
+      ],
+      "meaning": [
+       "Mạnh mẽ"
+      ],
+      "examples": [
+       "①　強い：つよい (mạnh)",
+       "②　勉強：べんきょう (học tập)"
+      ]
+     },
+     {
+      "char": "起",
+      "hv": [
+       "KHỞI"
+      ],
+      "on": [
+       "キ"
+      ],
+      "kun": [
+       "お（おき.る）"
+      ],
+      "meaning": [
+       "Khởi đầu"
+      ],
+      "examples": [
+       "①　起きます：おきます (thức dậy)",
+       "②　* 起立：きりつ (đứng lên)"
+      ]
+     },
+     {
+      "char": "作",
+      "hv": [
+       "TÁC"
+      ],
+      "on": [
+       "サク",
+       "* サ"
+      ],
+      "kun": [
+       "つ（つ.く）"
+      ],
+      "meaning": [
+       "Tạo ra"
+      ],
+      "examples": [
+       "①　作ります：つくります (làm)",
+       "②　* 作家：さっか (tác giả)"
+      ]
+     },
+     {
+      "char": "読",
+      "hv": [
+       "ĐỘC"
+      ],
+      "on": [
+       "ドク"
+      ],
+      "kun": [
+       "よ（よ.む）"
+      ],
+      "meaning": [
+       "Đọc"
+      ],
+      "examples": [
+       "①　読みます：よみます (đọc)",
+       "②　読書：どくしょ (đọc sách)"
+      ]
+     },
+     {
+      "char": "書",
+      "hv": [
+       "THƯ"
+      ],
+      "on": [
+       "ショ"
+      ],
+      "kun": [
+       "か（か.く）"
+      ],
+      "meaning": [
+       "Viết"
+      ],
+      "examples": [
+       "①　書きます：かきます (viết)",
+       "②　図書館：としょかん (thư viện)"
+      ]
+     },
+     {
+      "char": "出",
+      "hv": [
+       "XUẤT"
+      ],
+      "on": [
+       "シュツ"
+      ],
+      "kun": [
+       "で（で.る）、",
+       "だ（だ.す）"
+      ],
+      "meaning": [
+       "Ra khỏi"
+      ],
+      "examples": [
+       "①　出口：でぐち (cửa ra)",
+       "②　出します：だします (đưa ra)"
+      ]
+     },
+     {
+      "char": "後",
+      "hv": [
+       "HẬU"
+      ],
+      "on": [
+       "ゴ"
+      ],
+      "kun": [
+       "あと",
+       "*のち"
+      ],
+      "meaning": [
+       "Sau"
+      ],
+      "examples": [
+       "①　後ろ：うしろ (phía sau)",
+       "②　午後：ごご (buổi chiều)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1371
+   ],
+   "vocab": 1373,
+   "kanji": 1378
+  }
+ },
+ "12": {
+  "vocab_p1": [
+   {
+    "kana": "いそがしい",
+    "kanji": "忙しい",
+    "vi": "Bận rộn"
+   },
+   {
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "vi": "Thứ hai"
+   },
+   {
+    "kana": "～コマ",
+    "kanji": "",
+    "vi": "Tiết ～"
+   },
+   {
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "vi": "Khó"
+   },
+   {
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "vi": "Thứ bảy"
+   },
+   {
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "vi": "Chủ nhật"
+   },
+   {
+    "kana": "きょうかしょ",
+    "kanji": "教科書",
+    "vi": "Sách giáo khoa"
+   },
+   {
+    "kana": "やすみます",
+    "kanji": "休みます",
+    "vi": "Nghỉ"
+   },
+   {
+    "kana": "おもいます",
+    "kanji": "思います",
+    "vi": "Nghĩ"
+   },
+   {
+    "kana": "かぜ",
+    "kanji": "風邪",
+    "vi": "Cảm"
+   },
+   {
+    "kana": "ひきます（かぜを）",
+    "kanji": "ひきます（風邪を）",
+    "vi": "Bị cảm"
+   },
+   {
+    "kana": "ひ",
+    "kanji": "日",
+    "vi": "Ngày"
+   },
+   {
+    "kana": "てぶくろ",
+    "kanji": "手袋",
+    "vi": "Bao tay"
+   },
+   {
+    "kana": "します（てぶくろを）",
+    "kanji": "します（手袋を）",
+    "vi": "Đeo (bao tay)"
+   },
+   {
+    "kana": "マフラー",
+    "kanji": "",
+    "vi": "Khăn quàng cổ"
+   },
+   {
+    "kana": "ながい",
+    "kanji": "長い",
+    "vi": "Dài"
+   },
+   {
+    "kana": "そと",
+    "kanji": "外",
+    "vi": "Bên ngoài"
+   },
+   {
+    "kana": "すぐに",
+    "kanji": "",
+    "vi": "Liền, ngay lập tức"
+   },
+   {
+    "kana": "あらいます",
+    "kanji": "洗います",
+    "vi": "Rửa"
+   },
+   {
+    "kana": "おだやかな",
+    "kanji": "穏やかな",
+    "vi": "Nhẹ nhàng"
+   },
+   {
+    "kana": "たいふう",
+    "kanji": "台風",
+    "vi": "Bão"
+   },
+   {
+    "kana": "つよい",
+    "kanji": "強い",
+    "vi": "Mạnh"
+   },
+   {
+    "kana": "かぜ",
+    "kanji": "風",
+    "vi": "Gió"
+   },
+   {
+    "kana": "ふきます",
+    "kanji": "吹きます",
+    "vi": "Thổi"
+   },
+   {
+    "kana": "あめ",
+    "kanji": "雨",
+    "vi": "Mưa"
+   },
+   {
+    "kana": "ふります",
+    "kanji": "降ります",
+    "vi": "Rơi"
+   },
+   {
+    "kana": "かさ",
+    "kanji": "傘",
+    "vi": "Dù"
+   },
+   {
+    "kana": "やくにたちます",
+    "kanji": "役に立ちます",
+    "vi": "Có ích, có lợi"
+   },
+   {
+    "kana": "のります",
+    "kanji": "乗ります",
+    "vi": "Chạy, lái"
+   },
+   {
+    "kana": "てんきよほう",
+    "kanji": "天気予報",
+    "vi": "Dự báo thời tiết"
+   },
+   {
+    "kana": "はやく",
+    "kanji": "早く",
+    "vi": "Sớm"
+   },
+   {
+    "kana": "ぜんぶ",
+    "kanji": "全部",
+    "vi": "Tất cả"
+   }
+  ],
+  "vocab_ext": [
+   {
+    "kana": "よわい",
+    "kanji": "弱い",
+    "vi": "yếu"
+   },
+   {
+    "kana": "よわいかぜ",
+    "kanji": "弱い風",
+    "vi": "gió nhẹ"
+   },
+   {
+    "kana": "こさめ",
+    "kanji": "小雨",
+    "vi": "mưa nhỏ"
+   }
+  ],
+  "kanji": [
+   {
+    "title": "",
+    "items": [
+     {
+      "char": "曜",
+      "hv": [
+       "DIỆU"
+      ],
+      "on": [
+       "ヨウ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Ngày trong tuần"
+      ],
+      "examples": [
+       "①　月曜日：げつようび (Thứ hai)",
+       "②　木曜日：もくようび (Thứ năm)"
+      ]
+     },
+     {
+      "char": "週",
+      "hv": [
+       "CHU"
+      ],
+      "on": [
+       "シュウ"
+      ],
+      "kun": [
+       "-"
+      ],
+      "meaning": [
+       "Chu kì"
+      ],
+      "examples": [
+       "①　今週：こんしゅう (Tuần này)",
+       "②　週間：しゅうかん (Tuần lễ)"
+      ]
+     },
+     {
+      "char": "時",
+      "hv": [
+       "THÌ,",
+       "THỜI"
+      ],
+      "on": [
+       "ジ"
+      ],
+      "kun": [
+       "とき"
+      ],
+      "meaning": [
+       "Thời gian"
+      ],
+      "examples": [
+       "①　２時：2じ (2 giờ)",
+       "②　時間：じかん (Thời gian)"
+      ]
+     },
+     {
+      "char": "間",
+      "hv": [
+       "GIAN"
+      ],
+      "on": [
+       "カン"
+      ],
+      "kun": [
+       "* あいだ"
+      ],
+      "meaning": [
+       "Thời gian,",
+       "Không gian"
+      ],
+      "examples": [
+       "①　* ~間：あいだ (khoảng thời gian ~)",
+       "②　週間：しゅうかん (Tuần lễ)"
+      ]
+     },
+     {
+      "char": "洗",
+      "hv": [
+       "TẨY,",
+       "* TIỂN"
+      ],
+      "on": [
+       "セン"
+      ],
+      "kun": [
+       "あら.う"
+      ],
+      "meaning": [
+       "Giặt, rửa"
+      ],
+      "examples": [
+       "①　洗います：あらいます (rửa)"
+      ]
+     },
+     {
+      "char": "濯",
+      "hv": [
+       "TRẠC"
+      ],
+      "on": [
+       "タク"
+      ],
+      "kun": [
+       "* すす.ぐ"
+      ],
+      "meaning": [
+       "Rửa, giặt"
+      ],
+      "examples": [
+       "①　洗濯：せんたく (giặt)"
+      ]
+     },
+     {
+      "char": "雨",
+      "hv": [
+       "VŨ,",
+       "* VÚ"
+      ],
+      "on": [
+       "ウ"
+      ],
+      "kun": [
+       "あめ",
+       "* あま"
+      ],
+      "meaning": [
+       "Mưa"
+      ],
+      "examples": [
+       "①　雨：あめ (mưa)",
+       "②　雨具：あまぐ (áo mưa)"
+      ]
+     },
+     {
+      "char": "風",
+      "hv": [
+       "PHONG"
+      ],
+      "on": [
+       "フウ"
+      ],
+      "kun": [
+       "かぜ"
+      ],
+      "meaning": [
+       "Gió"
+      ],
+      "examples": [
+       "①　風：かぜ (gió)",
+       "②　* 風景：ふうけい (cảnh vật)"
+      ]
+     },
+     {
+      "char": "台",
+      "hv": [
+       "ĐÀI,",
+       "* THAI,",
+       "DI"
+      ],
+      "on": [
+       "タイ、",
+       "ダイ"
+      ],
+      "kun": [
+       "* うてな"
+      ],
+      "meaning": [
+       "Khung, bệ"
+      ],
+      "examples": [
+       "①　台風：たいふう (bão)"
+      ]
+     },
+     {
+      "char": "窓",
+      "hv": [
+       "SONG"
+      ],
+      "on": [
+       "ソウ"
+      ],
+      "kun": [
+       "まど"
+      ],
+      "meaning": [
+       "Cửa sổ"
+      ],
+      "examples": [
+       "①　窓：まど (cửa sổ)",
+       "②　窓口：まどぐち (quầy tiếp tân)"
+      ]
+     },
+     {
+      "char": "転",
+      "hv": [
+       "CHUYỂN"
+      ],
+      "on": [
+       "テン"
+      ],
+      "kun": [
+       "* ころ（ころ.がる、ころ.げる）"
+      ],
+      "meaning": [
+       "Chuyển động"
+      ],
+      "examples": [
+       "①　* 転がる：ころがる (lăn)",
+       "②　自転車：じてんしゃ (xe đạp)"
+      ]
+     },
+     {
+      "char": "天",
+      "hv": [
+       "THIÊN"
+      ],
+      "on": [
+       "テン"
+      ],
+      "kun": [
+       "*あまつ"
+      ],
+      "meaning": [
+       "Trời"
+      ],
+      "examples": [
+       "①　天気：てんき (thời tiết)",
+       "②　* 天候：てんこう (khí hậu)"
+      ]
+     },
+     {
+      "char": "入",
+      "hv": [
+       "NHẬP"
+      ],
+      "on": [
+       "ニュウ、",
+       "* ジュ"
+      ],
+      "kun": [
+       "はい（はい.る）、",
+       "い（ い.る、いれる）"
+      ],
+      "meaning": [
+       "Vào"
+      ],
+      "examples": [
+       "①　入ります：はいります (vào)",
+       "②　* 入国：にゅうこく (nhập cảnh)"
+      ]
+     },
+     {
+      "char": "乗",
+      "hv": [
+       "THỪA"
+      ],
+      "on": [
+       "* ジョウ、",
+       "* ショウ"
+      ],
+      "kun": [
+       "の（の.る 、の.り、の.せる）"
+      ],
+      "meaning": [
+       "Lên"
+      ],
+      "examples": [
+       "①　乗ります：のります (lên xe)",
+       "②　* 乗車：じょうしゃ (lên xe)"
+      ]
+     },
+     {
+      "char": "早",
+      "hv": [
+       "TẢO"
+      ],
+      "on": [
+       "* ソウ、",
+       "* サッ"
+      ],
+      "kun": [
+       "はや（はや.い）"
+      ],
+      "meaning": [
+       "Sớm"
+      ],
+      "examples": [
+       "①　早い：はやい (sớm)",
+       "②　* 早速：さっそく (nhanh chóng)"
+      ]
+     }
+    ]
+   }
+  ],
+  "videos": {
+   "text": [
+    1382
+   ],
+   "vocab": 1384,
+   "kanji": 1387
+  }
+ }
+}

@@ -1,0 +1,551 @@
+{
+ "2032/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa (Akio): 「母は、ごじゅうごさいです」→ mẹ Akio 55 tuổi.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Gia đình Akio: 父, 母, 兄, 姉, 妹 và Akio → 6 người (ろくにん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (Akio): 「兄は、にじゅうきゅうさいです。会社員です」→ anh trai là nhân viên công ty.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa (Li): 「姉は、大学院生です」→ chị gái Li là học viên cao học.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (Li): 「父は…ビジネスのコンサルタントです」→ bố Li là chuyên viên tư vấn kinh doanh.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa (Li): 「母は…大学の先生です」→ mẹ Li là giảng viên đại học.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/2/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Thầy Nishiyama, vợ (つま) và 2 con (こどもは、2人です) → 4 người (よにん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「女の子は、高校生です。高校2年生です」→ con gái học lớp 2 cấp ba.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/2/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa: 「男の子は、中学生です。中学1年生です」→ con trai học năm 1 cấp hai.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/3/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Asako (やまかわあさこ) là mẹ của Akio (bài đọc phần ngữ pháp: 「あさこさんは、あきおさんのおかあさんです」), không phải mẹ của Li → chọn câu いいえ (đáp án đã xác nhận).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2032/3/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Asako là mẹ Akio: 「高校の先生です。えいごの先生です」→ いいえ、こうこうのせんせいです (không phải nội trợ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2014/0/1": {
+  "type": "matching",
+  "answer": {
+   "1": "a",
+   "2": "e",
+   "3": "b",
+   "4": "c",
+   "5": "f"
+  },
+  "explain": "Theo tranh: りょうしん＝ちちとはは (a); そぼ＝ちちのはは・ははのはは (e); そふ＝ちちのちち・ははのちち (b); こども＝むすこ・むすめ (c); きょうだい＝あに・あね・おとうと・いもうと (f).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2014/0/2": {
+  "type": "matching",
+  "answer": {
+   "1": "d",
+   "2": "b",
+   "3": "a",
+   "4": "c",
+   "5": "e",
+   "6": "f"
+  },
+  "explain": "Tranh 1 nhân viên văn phòng nghe điện thoại → かいしゃいん (d); 2 thầy giáo đứng bảng → きょうし (b); 3 học sinh ngồi bàn → がくせい (a); 4 người phụ nữ ôm giỏ đồ giặt → しゅふ (c); 5 nhân viên ở quầy ủy ban (さいたま市) → こうむいん (e); 6 người đội mũ bảo hộ vẽ bản vẽ → エンジニア (f).",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2014/1/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Phải nghe audio để biết mỗi người được giới thiệu là ai (つま／おっと／こども／ちち／はは／あに／おとうと／いもうと).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo tranh: ① (Shimoyama giới thiệu người phụ nữ) つま; ② おっと; ③ こども (Inoue giới thiệu chồng và con gái); ④ ちち; ⑤ はは; ⑥ あに (Ookawa giới thiệu bố, mẹ, anh); ⑦ いもうと (không có nhãn あね); ⑧ おとうと (Ishida giới thiệu em gái, em trai). ⑥/⑧ có thể hoán đổi あに／おとうと."
+ },
+ "2014/2/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "おとうさん",
+   "2": "おかあさん",
+   "3": "おにいさん",
+   "4": "おねえさん",
+   "5": "おとうとさん",
+   "6": "いもうとさん"
+  },
+  "explain": "Đây là gia đình của người khác (すずきまりさんのかぞく) nên dùng từ kính ngữ: bố→おとうさん, mẹ→おかあさん, anh→おにいさん, chị→おねえさん, em trai→おとうとさん, em gái→いもうとさん (ghi chú ngữ pháp 5).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Nếu hệ thống chấm theo cách gọi trong nhà mình thì ① ちち ② はは ③ あに ④ あね ⑤ おとうと ⑥ いもうと."
+ },
+ "2014/2/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "ちち",
+   "2": "はは",
+   "3": "あに",
+   "4": "あね",
+   "5": "おとうと",
+   "6": "いもうと"
+  },
+  "explain": "わたしのかぞく → dùng từ khiêm nhường cho người nhà mình: ちち, はは, あに, あね, おとうと, いもうと (từ vựng bài 2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2014/3/1": {
+  "type": "dragtext",
+  "answer": null,
+  "explain": "Cần nghe 5 đoạn audio để biết mỗi người trong ảnh là ai và bao nhiêu tuổi (だれですか・なんさいですか).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo ảnh: ① bé trai → あにのこども (chip 7), ② người đàn ông trẻ → あに (5), ③ bà lớn tuổi → はは (0), ④ bé gái → あねのこども (9), ⑤ phụ nữ trẻ → あね (3); tuổi: ① 4 (2), ② 33 (8), ③ 57 (6), ④ 2 (4), ⑤ 29 (1). Tức answer dự đoán [7,5,0,9,3,2,8,6,4,1]."
+ },
+ "1800/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh hai anh em (bé trai và bé gái) đi học → きょうだい (anh chị em).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh hai ông bà lớn tuổi (bố và mẹ) → りょうしん (bố mẹ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh người thuyết trình biểu đồ kinh doanh → コンサルタント (tư vấn), như 「ビジネスのコンサルタント」 trong bài.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh người đàn ông lớn tuổi ngồi ghế giám đốc → しゃちょう (giám đốc).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh nhân viên văn phòng ngồi bàn nghe điện thoại → かいしゃいん (nhân viên công ty).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Mẹ của người khác (たなかさんの…) → dùng おかあさん; はは chỉ dùng cho mẹ mình.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Vợ của người khác (つなみさんの…) → おくさん; つま là vợ mình.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "わたしの… → bố mình nói là ちち, không dùng おとうさん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Anh trai của người khác (やまもとさんの…) → おにいさん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1800/1/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "わたしの… → em trai mình là おとうと; おとうとさん dùng cho em trai người khác.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2328/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "と",
+   "2": "と",
+   "3": "の",
+   "4": "の",
+   "5": "そして"
+  },
+  "explain": "① Nối danh từ: ちちとははとわたし (N1とN2); ② あにのこども (の sở hữu); ③ わたしのかぞく; ④ nối 2 câu dùng そして (ngữ pháp 2, 3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2328/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "の",
+   "2": "の",
+   "3": "の",
+   "4": "は",
+   "5": "と",
+   "6": "と",
+   "7": "と",
+   "8": "は",
+   "9": "は",
+   "10": "は"
+  },
+  "explain": "あきおさんのおかあさん, こうこうのえいごのせんせい (の sở hữu/thuộc tính); かぞくは６人です (は chủ đề); liệt kê người dùng と (ごしゅじんと、あさこさんと…; おんなのこ２人と、おとこのこ２人); các câu nói tuổi từng người dùng は làm chủ đề.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Slot 10: chọn は vì tuổi khác nhau (22 với 29) nên không dùng も."
+ },
+ "2328/2/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Hỏi nghề nghiệp: 「N は なにを していますか」(ngữ pháp 5); trả lời こうこうのせんせいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2328/2/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trả lời ふたりです (số người) → câu hỏi phải là なんにんですか (ngữ pháp 1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2328/2/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trả lời こうこう２ねんせいです (năm học) → hỏi なんねんせいですか.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2328/2/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Trả lời 「はい、います。２人います。あにとあねです」→ câu hỏi về anh chị em: きょうだいは、いますか (ngữ pháp 6).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1672/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Hỏi số người trong gia đình: かぞくはなんにんですか (ngữ pháp 1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1672/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「こどもは、2人です。女の子と男の子です」→ おとこのこ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1672/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Nối hai danh từ あに và あね dùng と (N1とN2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1672/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Nối hai câu văn dùng そして (ngữ pháp 3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1672/1/1": {
+  "type": "matching",
+  "answer": {
+   "・ なんにんですか？": "“Có bao nhiêu người? ”",
+   "・ N1とN2": "“ N1 và N2 ”",
+   "～。そして、～。": "“… . Và,...” (Dùng để nối 2 câu văn)"
+  },
+  "explain": "なんにんですか = Có bao nhiêu người?; N1とN2 = N1 và N2; そして = …Và,… dùng nối 2 câu (ngữ pháp 1–3).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1673/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Hỏi nghề nghiệp: 「なにを していますか」(ngữ pháp 5).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1673/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Nがすきです: thứ được thích là サッカー (bài khóa: サッカーが好きです); だいがく/こうこう không hợp nghĩa.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1673/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "はは (mẹ) là người lớn → nghề かいしゃいん; だいがくせい/こうこうせい là học sinh, không hợp.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1673/1/1": {
+  "type": "matching",
+  "answer": {
+   "・N が すきです。": "\"thích N\"",
+   "・ なにを していますか。": "Hỏi nghề nghiệp của ai đó"
+  },
+  "explain": "Nがすきです = thích N (ngữ pháp 4); なにをしていますか = hỏi nghề nghiệp của ai đó (ngữ pháp 5).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1674/0/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trả lời câu 「いもうとはいますか」: いいえ、いもうとがいません — chủ thể tồn tại đi với が (の, と không hợp).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Câu tự nhiên nhất là いもうとはいません nhưng は không có trong lựa chọn."
+ },
+ "1674/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "これはにほんごのほんです: sách tiếng Nhật (N1のN2); ぎんこう/こうこう không hợp nghĩa.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1674/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Nはいますか hỏi sự tồn tại của người thân: きょうだいはいますか (ví dụ ngữ pháp 6: ごきょうだいはいますか).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1674/1/1": {
+  "type": "matching",
+  "answer": {
+   "・ N（人）は いますか。": "Dùng để hỏi về sự tồn tại của người",
+   "・ これは Nです。": "“ Đây là…. ”"
+  },
+  "explain": "N（người）はいますか = hỏi sự tồn tại của người (ngữ pháp 6); これはNです = Đây là… (ngữ pháp 7).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1801/0/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Cần nghe 4 đoạn audio a–d giới thiệu gia đình rồi nối với tranh ①–④ (Tokyo, Hokkaido, Hiroshima, Okinawa).",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Gợi ý theo tranh: ① Tokyo – わたし là người đàn ông, gia đình 4 người (vợ, con gái, con trai); ② Hokkaido – わたし là con gái, có bố và 2 chị em gái, 5 người, có bò; ③ Hiroshima – わたし là con trai, có bố, anh/em trai, mẹ, 4 người; ④ Okinawa – わたし là mẹ, có chồng và 2 con gái, 5 người (có shisa). Nghe số người/thành viên để nối."
+ },
+ "1801/1/1": {
+  "type": "matching",
+  "answer": {
+   "①": "a、つま",
+   "②": "b、 おっと",
+   "③": "e、 あね",
+   "④": "c、 こども"
+  },
+  "explain": "① わたし là ông lớn tuổi, bên cạnh là vợ → つま; ② わたし là người phụ nữ, 「( )とわたしとこどもふたり」→ おっと; ③ 「ちちとははと( )とわたしとおとうと」, người còn lại là phụ nữ trẻ → あね; ④ 「ちちとははとつまと( )ふたりとわたし」→ こども.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1801/2/1": {
+  "type": "dragtext",
+  "answer": null,
+  "explain": "Cần nghe audio hội thoại Ueda giới thiệu gia đình cho Miro để biết ai có mặt và tuổi.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Đoán theo tranh (ông lớn tuổi trên ghế, người phụ nữ, bé trai): ① ちち (chip 0), つま (3), こども (5); ② con Ueda 4 tuổi (chip 2); ③ Miro 25 tuổi (chip 6) → dự đoán [0,3,5,2,6]; thứ tự 3 ô đầu có thể khác."
+ },
+ "1717/0/1": {
+  "type": "short",
+  "answer": "あねは、２５さいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「あねは、２５さいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/2": {
+  "type": "short",
+  "answer": "あねは、１９さいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「あねは、１９さいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/3": {
+  "type": "short",
+  "answer": "そして、これは、ははです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「そして、これは、ははです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/4": {
+  "type": "short",
+  "answer": "ぎんこういんです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「ぎんこういんです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/5": {
+  "type": "short",
+  "answer": "かいしゃいんです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「かいしゃいんです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/6": {
+  "type": "short",
+  "answer": "やまかわあきおです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「やまかわあきおです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/7": {
+  "type": "short",
+  "answer": "えいごのせんせいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「えいごのせんせいです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/8": {
+  "type": "short",
+  "answer": "ちちは、５６さいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「ちちは、５６さいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/9": {
+  "type": "short",
+  "answer": "これは、ちちです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「これは、ちちです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/10": {
+  "type": "short",
+  "answer": "これは、あにです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「これは、あにです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/11": {
+  "type": "short",
+  "answer": "ははは、５５さいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「ははは、５５さいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/12": {
+  "type": "short",
+  "answer": "かいしゃいんです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「かいしゃいんです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/13": {
+  "type": "short",
+  "answer": "だいがく２ねんせいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「だいがく２ねんせいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/14": {
+  "type": "short",
+  "answer": "こうこうのせんせいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「こうこうのせんせいです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/15": {
+  "type": "short",
+  "answer": "だいがくせいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「だいがくせいです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/16": {
+  "type": "short",
+  "answer": "これは、あねです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「これは、あねです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/17": {
+  "type": "short",
+  "answer": "あには、２９さいです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「あには、２９さいです。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Số trong ảnh hiển thị dạng full-width; nếu không được chấp nhận thì gõ số half-width."
+ },
+ "1717/0/18": {
+  "type": "short",
+  "answer": "そして、あねです。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「そして、あねです。」(câu trong bài khóa của Akio).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1717/0/19": {
+  "type": "short",
+  "answer": "わたしのかぞくを　しょうかいします。",
+  "explain": "Gõ lại đúng câu trong ảnh: 「わたしのかぞくを　しょうかいします。」(câu trong bài khóa của Akio).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ảnh có khoảng trắng giữa を và しょうかいします; có thể gõ liền 「わたしのかぞくをしょうかいします。」."
+ }
+}

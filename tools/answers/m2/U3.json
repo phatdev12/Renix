@@ -1,0 +1,824 @@
+{
+ "1871/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài khóa, Li: 「いつもパンをたべます」→ Li luôn ăn bánh mì vào bữa sáng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「わたしは、あまいものも、好きです」→ có thích đồ ngọt.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「でも、あまりたくさんたべません」→ không ăn (đồ ngọt) nhiều lắm → いいえ、あまり たべません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/1/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「そして、よく、サッカーを見ます」→ hay xem bóng đá.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「特に、サッカーが好きです」→ thích bóng đá.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「よく、友だちとサッカーをします」「水泳もします」→ có chơi thể thao.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/2/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「ごはんのときは、魚とたまごとのりも、食べます」→ cá, trứng và rong biển.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/2/2": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「パンのときは、パンとコーヒーとぎゅうにゅうとサラダです」→ ăn salad.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1871/2/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Đáp án đã xác nhận. Bài khóa: 「パンとコーヒーとぎゅうにゅうとサラダです」→ uống cà phê và sữa.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2051/0/1": {
+  "type": "matching",
+  "answer": {
+   "①": "c. パン",
+   "②": "i. コーヒー",
+   "③": "a. ごはん",
+   "④": "e. さかな",
+   "⑤": "k. くだもの",
+   "⑥": "g. たまご",
+   "⑦": "b. みず",
+   "⑧": "f. ぎゅうにゅう"
+  },
+  "explain": "Nhìn tranh: ① bánh mì=パン, ② bình cà phê=コーヒー, ③ bát cơm=ごはん, ④ cá=さかな, ⑤ cam/táo/chuối=くだもの, ⑥ trứng=たまご, ⑦ cốc nước=みず, ⑧ hộp MILK=ぎゅうにゅう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2051/0/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "c",
+   "2": "a",
+   "3": "a",
+   "4": "a",
+   "5": "a"
+  },
+  "explain": "Tranh 1 đọc truyện tranh → マンガを よみます (c); 2 nghe nhạc → おんがくを ききます (a); 3 đá bóng → サッカーを します (a); 4 nấu ăn → りょうりを つくります (a); 5 xem bóng đá ở sân → サッカーを みます (a).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2051/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "a",
+   "2": "b",
+   "3": "c",
+   "4": "d",
+   "5": "e",
+   "6": "f",
+   "7": "g",
+   "8": "h",
+   "9": "i",
+   "10": "j",
+   "11": "k",
+   "12": "l"
+  },
+  "explain": "Số ô trùng thứ tự chữ cái a–l trong tranh: スポーツ = a サッカー, e テニス, l やきゅう (ô 1,5,12); おんがく = c クラシック, g ロック, h ポップス, k ジャズ (ô 3,7,8,11); えいが = b れんあい, d アクション, f コメディ, i アニメ, j ホラー (ô 2,4,6,9,10).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô (1) trùng với ví dụ a; nếu hệ thống chấm theo thứ tự khác thì các chữ trong cùng nhóm có thể hoán đổi (ô 1/5/12 ∈ {a,e,l}; 3/7/8/11 ∈ {c,g,h,k}; 2/4/6/9/10 ∈ {b,d,f,i,j})."
+ },
+ "2051/2/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe CD: xếp 6 đồ uống (こうちゃ, ジュース, おちゃ, コーヒー, みず, ぎゅうにゅう) vào ô a–f theo nội dung nghe; không có file âm thanh trong dump nên không xác định được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không có audio để nghe. Ô a–f trống hoàn toàn, không suy ra được từ ngữ cảnh; cần nghe CD rồi điền thứ tự chip theo ô a→f."
+ },
+ "1647/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "B trả lời おさけ (rượu) là đồ uống → hỏi 「どんなのみものがすきですか」 (ngữ pháp どんなNがすきですか).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「ともだちと いっしょに えいがをみます」= xem phim cùng với bạn (ngữ pháp Nといっしょに).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài khóa: 「月に１・２回、山に行きます」→ số lần đi núi dùng ～かい: 月に２かい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Đáp án đã xác nhận. Bia đếm bằng cốc ～はい: いっぱい (1杯).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Đáp án đã xác nhận. Hai vế trái ngược (thích bơi / không thích cá) → でも (nhưng).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Đáp án đã xác nhận. Tranh 4 người bạn khoác vai nhau → ともだち.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đáp án đã xác nhận. Tranh cầu thủ đang đá bóng → サッカーをします.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/1/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Đáp án đã xác nhận. Tranh bánh mì kẹp tam giác → サンドイッチ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đáp án đã xác nhận. Tranh người đang bơi → すいえい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1647/1/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Đáp án đã xác nhận. Tranh mẹ và con đang trộn salad → サラダをつくります.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1675/0/1": {
+  "type": "matching",
+  "answer": {
+   "・ ～すきです・～すきではありません": "“Thích/không thích ”",
+   "・ どんなNがすきですか。": "“Thích N nào”",
+   "・とくに": "“Đặc biệt,...”"
+  },
+  "explain": "Ngữ pháp 1: ～すきです・～すきではありません = thích/không thích; 2-1: どんなNがすきですか = thích N nào; 2-2: とくに = đặc biệt là.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1675/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「のみものがすきです。とくに…」→ phải là một đồ uống: おさけ (りんご, みかん là trái cây).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1675/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Hỏi loại cụ thể trước danh từ スポーツ → 「どんなスポーツがすきですか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1675/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Đối tượng được thích đi với trợ từ が: 「なにが すきですか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1675/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Trả lời phủ định いいえ → 「ねこが すきではありません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1676/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tân ngữ của động từ đi với を: 「なにを しますか」 (ngữ pháp なにをVますか).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1676/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "みず (nước) đi với động từ のみます → 「みずを のみません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1676/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Ví dụ ngữ pháp 3: 「あさ、パンを たべます」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1676/1/1": {
+  "type": "matching",
+  "answer": {
+   "・ Vます・Vません": "Làm/không làm (một hành động nào đấy)",
+   "・ なにをVますか": "\"Làm gì/ Làm cái gì?\"",
+   "・ いつVますか": "“Làm (V) khi nào?”"
+  },
+  "explain": "Ngữ pháp 3: Vます・Vません = làm/không làm; ngữ pháp 4: なにをVますか = làm gì?, いつVますか = làm khi nào?",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1755/0/1": {
+  "type": "matching",
+  "answer": {
+   "N1やN2": "Dùng để liệt kê các đồ vật, sự việc",
+   "Nのとき": "“Khi…, Lúc,.....”",
+   "Nも": "“N cũng….”"
+  },
+  "explain": "Ngữ pháp 5-1 N1やN2 = liệt kê (như là N1, N2…); 5-2 Nのとき = khi/lúc…; 6 Nも = N cũng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1755/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Liệt kê đồ uống (trà sữa hay nước cam) → 「ミルクティーや オレンジジュースを のみます」 (ngữ pháp N1やN2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1756/0/1": {
+  "type": "matching",
+  "answer": {
+   "Nといっしょに": "“làm hành động cùng với ai”",
+   "でも": "“nhưng mà” (diễn đạt ý nghĩa trái ngược giữa 2 vế.)"
+  },
+  "explain": "Ngữ pháp 7 Nといっしょに = làm cùng với N (người); ngữ pháp 8 でも = nhưng mà, diễn đạt ý trái ngược.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1756/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Thích bóng đá nhưng chơi không giỏi lắm → hai vế trái ngược → でも.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1756/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Sau でも phải là ý trái ngược với 「わたしはすいえいがすきです」→ 「ともだちは すきじゃありません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1756/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài khóa: 「つまといっしょに、音楽を聞きます」→ 「つまと いっしょに テレビをみます」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1757/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tần suất: 「1日に 3かい」 (ngữ pháp 9: 日・週・月 ＋ に ＋ ～回).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1757/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thích trà sữa → hay uống: よく (60%); たまに/ときどき là ít hơn, không hợp nghĩa.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1757/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Không thích đào lắm → hiếm khi ăn: たまに (30%); いつも/たいてい mâu thuẫn với あまりすきじゃありません.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1757/1/1": {
+  "type": "matching",
+  "answer": {
+   "日・週・月に～回": "Dùng để diễn tả tần suất, trong Ngày/Tuần/Tháng thì thực hiện V bao nhiêu lần",
+   "いつも": "Lúc nào cũng (100%)",
+   "たいてい": "Đại khái (80%)",
+   "よく": "Thường (60%)",
+   "ときどき": "Thỉnh thoảng (50%)",
+   "たまに": "Hiếm khi (30%)"
+  },
+  "explain": "Ngữ pháp 10: いつも (100%) ＞ たいてい (80%) ＞ よく (60%) ＞ ときどき (50%) ＞ たまに (30%); ngữ pháp 9: 日・週・月に～回 diễn tả số lần trong ngày/tuần/tháng.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "8.000 = はっせん (8 + せん biến âm thành はっせん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "89 = はちじゅう (80) + きゅう (9) = はちじゅうきゅう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "3.000 = さんぜん (せん biến âm thành ぜん sau さん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Số 4 có hai cách đọc よん・し (に, いち chỉ có một cách đọc).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "800 = はっぴゃく (ひゃく biến âm thành ぴゃく sau はち→はっ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/6": {
+  "type": "single",
+  "answer": 1,
+  "explain": "300 = さんびゃく (ひゃく biến âm thành びゃく sau さん).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/7": {
+  "type": "single",
+  "answer": 0,
+  "explain": "600 = ろっぴゃく (ろく→ろっ, ひゃく→ぴゃく).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/0/8": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Số 7 đọc là なな hoặc しち.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/1/1": {
+  "type": "matching",
+  "answer": {
+   "10": "じゅう",
+   "100": "ひゃく",
+   "1,000": "せん",
+   "10,000": "いちまん",
+   "100,000": "じゅうまん",
+   "1,000,000": "ひゃくまん"
+  },
+  "explain": "Cách đọc hàng số: 10 じゅう, 100 ひゃく, 1.000 せん, 10.000 いちまん, 100.000 じゅうまん, 1.000.000 ひゃくまん (ngữ pháp 11: すうじのかぞえかた).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1758/1/2": {
+  "type": "matching",
+  "answer": {
+   "1": "いち",
+   "2": "に",
+   "3": "さん",
+   "4": "よん・し",
+   "5": "ご",
+   "6": "ろく",
+   "7": "なな・しち",
+   "8": "はち",
+   "9": "きゅう",
+   "10": "じゅう"
+  },
+  "explain": "Số đếm 1–10: いち, に, さん, よん・し, ご, ろく, なな・しち, はち, きゅう, じゅう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: 3 đồng 10 yên + 2 đồng 5 yên = 40 yên, đúng với câu 「ぜんぶで 40えん」→ ただしい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: 13 đồng 10 yên = 130 yên, không phải 103 yên → ただしくない.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: 5 đồng 100 yên + 3 đồng 10 yên = 530 yên, không phải 510 yên → ただしくない.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Đếm được 5 đồng 100 và 3 đồng 10 (530 yên); nếu đề in thiếu/thừa đồng xu thì kết quả có thể khác."
+ },
+ "2077/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh: 9 đồng 10 yên + 2 đồng 1 yên = 92 yên, đúng với câu → ただしい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tranh: 4 đồng 10 yên = 40 yên, không phải 70 yên → ただしくない.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/0/6": {
+  "type": "blanks",
+  "answer": {
+   "1": "あまり",
+   "2": "いつも",
+   "3": "よく",
+   "4": "よく",
+   "5": "あまり"
+  },
+  "explain": "Lịch ăn sáng: sữa chỉ thứ Tư → あまり のみません; bánh mì cả 7 ngày → いつも; thịt (T2,T3,CN) và trứng (T4–T7) → よく; cà phê 5/7 ngày (không có T4, T7) → よく; nước cam chỉ thứ Bảy → あまり のみません (ngữ pháp 10: いつも／よく／あまり～ません).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Ô (4) cà phê: 5/7 ngày, không phải mọi ngày nên chọn よく; nếu đáp án đề là いつも thì đổi lại."
+ },
+ "2077/1/1": {
+  "type": "short",
+  "answer": "もぎんこういんです。",
+  "explain": "Theo mẫu 「たなかさん＿もせんせいです。」: Ari và Wang đều là nhân viên ngân hàng → 「ワンさんもぎんこういんです。」 (ngữ pháp 6: Nも).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chỉ gõ phần điền vào chỗ trống như mẫu (chữ đỏ 「もせんせいです。」). Nếu hệ thống yêu cầu cả câu: ワンさんもぎんこういんです。"
+ },
+ "2077/1/2": {
+  "type": "short",
+  "answer": "もすきです。",
+  "explain": "Theo mẫu: 「たなかさんはリンゴがすきです。マンゴー＿」→ 「マンゴーもすきです。」 (Nも thay cho が).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chỉ gõ phần điền vào chỗ trống. Nếu yêu cầu cả câu: マンゴーもすきです。"
+ },
+ "2077/1/3": {
+  "type": "short",
+  "answer": "もしゅふです。",
+  "explain": "Theo mẫu: Han và Jessica đều là nội trợ → 「ジェシカさんもしゅふです。」 (Nも).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chỉ gõ phần điền vào chỗ trống. Nếu yêu cầu cả câu: ジェシカさんもしゅふです。"
+ },
+ "2077/1/4": {
+  "type": "short",
+  "answer": "もせんせいです。",
+  "explain": "Theo mẫu: Leon và Dani đều là giáo viên → 「ダニさんもせんせいです。」 (Nも).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chỉ gõ phần điền vào chỗ trống. Nếu yêu cầu cả câu: ダニさんもせんせいです。"
+ },
+ "2077/1/5": {
+  "type": "short",
+  "answer": "もがくせいです。",
+  "explain": "Theo mẫu: Tom và Tanaka đều là học sinh → 「たなかさんもがくせいです。」 (Nも).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chỉ gõ phần điền vào chỗ trống. Nếu yêu cầu cả câu: たなかさんもがくせいです。"
+ },
+ "2077/2/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe: nối 5 người (シン, あべ, よしだ, ジョイ, ホセ) với đồ uống họ thích/không thích theo 5 file audio; không nghe được nên chưa xác định.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Cần nghe 5 file mp3. Tranh: ví dụ ① シンさん thích a コーヒー, không thích b こうちゃ; các nhãn chọn d–h không khớp bảng a–f nên không suy ra được từ ngữ cảnh."
+ },
+ "2077/3/1": {
+  "type": "dragtext",
+  "answer": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "sentence": "いつも あさごはんを たべますか。— はい、たべます。— なにをたべますか。— わたしは パンと フルーツを よくたべます。— にくは？— にくは あまり たべません。",
+  "explain": "Hội thoại: hỏi có luôn ăn sáng không → 「はい、たべます」; hỏi tiếp 「なにをたべますか」 → trả lời ăn bánh mì và trái cây; hỏi 「にくは？」 → 「にくは あまり たべません」 (ngữ pháp あまり～ません).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2077/4/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe: xếp các chip (mã chữ cái đồ uống + số thứ tự người, ví dụ c5 = ホセさん・おちゃ) theo thứ tự thích/không thích của từng người 2–5; không có audio nên chưa xác định.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Các chip ghép theo người: người 2 = c2 おちゃ/b2 こうちゃ, người 3 = f3 ビール/e3 ワイン, người 4 = a4 コーヒー/d4 ジュース, người 5 = c5 おちゃ/d5 ジュース. Thứ tự có lẽ là (thích, không thích) lần lượt người 2→5, nhưng cần nghe để biết cái nào thích."
+ },
+ "1534/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bố thích cơm và súp miso, cũng ăn rau, không thích trái cây lắm → tranh ③ (salad, trứng, cơm, súp miso, không có trái cây) → ➂.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tân ngữ của たべます đi với を: 「あさごはんを たべますか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "350 = さんびゃく (300) + ごじゅう (50) + えん; chú ý ごじゅう có う dài.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thầy thích nhạc, vợ cũng thích → trợ từ も (ngữ pháp 6: Nも).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Luôn ăn bánh mì và trứng, uống cà phê, không ăn cơm, không thích rau → tranh ② (bánh mì nướng, trứng, cà phê, trái cây) → ➁.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Mẹ thích cơm và súp miso, hay ăn trái cây và cá, không ăn trứng → tranh ① (cá, cơm, súp miso, táo, chuối) → ➀.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "13.045 = いちまん (10.000) + さんぜん (3.000) + よんじゅうご (45) + えん; 10.000 đọc là いちまん, 3.000 là さんぜん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/8": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Đối tượng được thích đi với が: 「なにが すきですか」「さかなが すきです」 (ngữ pháp 1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/9": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Một tuần một lần → thỉnh thoảng: ときどき (ngữ pháp 10).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/10": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Tần suất: 「しゅうに ２・３かい」 (ngữ pháp 9: 週 ＋ に ＋ ～回).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/11": {
+  "type": "single",
+  "answer": 2,
+  "explain": "B trả lời ラーメン (một món ăn) → hỏi 「なにを たべますか」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/12": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Câu khẳng định たべます nên không dùng あまり; しゅうに/つきに cần kèm số lần → ときどき.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/13": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Động từ phủ định みません → phó từ あまり: 「あまり テレビをみません」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/14": {
+  "type": "single",
+  "answer": 2,
+  "explain": "8.706 = はっせん (8.000) + ななひゃく (700) + ろく (6) + えん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/15": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Nêu sở thích chung rồi nhấn mạnh cái thích nhất → とくに (ngữ pháp 2-2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1534/0/16": {
+  "type": "single",
+  "answer": 1,
+  "explain": "2022 = にせん (2.000) + にじゅうに (22) + ねん; 2.000 đọc là にせん.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/1": {
+  "type": "short",
+  "answer": "たいてい、ごはんをたべます。ときどき、パンをたべます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/2": {
+  "type": "short",
+  "answer": "そして、１にちに２・３かい、コーヒーをのみます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh hiển thị dạng toàn góc (１２３); nếu hệ thống không nhận thì gõ lại bằng số nửa góc (1, 2, 3)."
+ },
+ "1535/0/3": {
+  "type": "short",
+  "answer": "わたしは、スポーツがだいすきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/4": {
+  "type": "short",
+  "answer": "ハイキングも、すきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/5": {
+  "type": "short",
+  "answer": "とくに、サッカーがすきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/6": {
+  "type": "short",
+  "answer": "わたしは、コーヒーがだいすきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/7": {
+  "type": "short",
+  "answer": "ちゅうがくせいのときは、テニスぶでした。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/8": {
+  "type": "short",
+  "answer": "こうちゃは、のみません。こうちゃは、あまりすきではありません。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/9": {
+  "type": "short",
+  "answer": "あさごはんのときは、いつも、コーヒーをのみます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/10": {
+  "type": "short",
+  "answer": "そして、よく、サッカーをみます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/11": {
+  "type": "short",
+  "answer": "わたしは、まいにち、あさごはんをたべます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/12": {
+  "type": "short",
+  "answer": "わたしは、さかながだいすきです。さしみも、すきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/13": {
+  "type": "short",
+  "answer": "ごはんのときは、さかなとたまごとのりも、たべます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/14": {
+  "type": "short",
+  "answer": "つきに１・２かい、やまにいきます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh hiển thị dạng toàn góc (１２３); nếu hệ thống không nhận thì gõ lại bằng số nửa góc (1, 2, 3)."
+ },
+ "1535/0/15": {
+  "type": "short",
+  "answer": "すいえいもします。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/16": {
+  "type": "short",
+  "answer": "しゅうに２・３かい、すいえいをします。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Chữ số trong ảnh hiển thị dạng toàn góc (１２３); nếu hệ thống không nhận thì gõ lại bằng số nửa góc (1, 2, 3)."
+ },
+ "1535/0/17": {
+  "type": "short",
+  "answer": "パンのときは、パンとコーヒーとぎゅうにゅうとサラダです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/18": {
+  "type": "short",
+  "answer": "よく、ともだちとサッカーをします。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/19": {
+  "type": "short",
+  "answer": "ときどき、ヨーグルトも、たべます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/20": {
+  "type": "short",
+  "answer": "そして、みそしるをのみます。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/21": {
+  "type": "short",
+  "answer": "テニスも、すきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1535/0/22": {
+  "type": "short",
+  "answer": "やきざかなも、すきです。すしも、だいすきです。",
+  "explain": "Gõ lại nguyên văn câu trong ảnh (câu lấy từ bài khóa 「好きなもの、好きなこと」), giữ nguyên dấu 、 và 。.",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

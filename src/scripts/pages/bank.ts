@@ -36,7 +36,7 @@ function renderList(main: HTMLElement, query: Query) {
   const units = D.sel().filter((u) => list.some((q) => q.unit === u));
   units.forEach((u) => {
     const unit = D.unit(u);
-    const card = h('div', { class: 'card bank-unit', style: { '--c': `var(--u${u})` } });
+    const card = h('div', { class: 'card bank-unit', style: { '--c': 'var(--unit)' } });
     card.appendChild(h('div', { class: 'bank-unit-head' }, h('span', { class: 'un' }, 'Unit ' + u), h('span', { class: 'jp-sub', lang: 'ja', html: ruby(unit.title) })));
     list.filter((q) => q.unit === u).forEach((qz) => {
       const n = qCount(qz);

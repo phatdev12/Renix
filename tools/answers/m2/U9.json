@@ -1,0 +1,797 @@
+{
+ "1600/0/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Akio nói: 「私のパソコンは、ちょっと古いです。ですから、遅いです」→ máy tính hơi cũ và chậm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Akio: 「富士山に登ったことがありません」(chưa từng leo Phú Sĩ) → chọn いいえ、行ったことがありません.",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "Text nói muốn leo vào 秋 (mùa thu), đáp án ghi 夏 nhưng là lựa chọn duy nhất với いいえ."
+ },
+ "1600/0/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Akio: 「ジャズが好きです。でも、生で聞いたことがありません」→ chưa từng nghe nhạc sống.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「たいてい、日帰りで、近くの低い山に行きます」→ thường đi núi thấp ở gần.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/0/5": {
+  "type": "single",
+  "answer": 1,
+  "explain": "「5月の連休には、少し高い山に行きたいと思っています」→ muốn đi ngọn núi cao hơn một chút.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Li: 「わたしは、秋に、京都に行きたいと思っています」→ mùa thu muốn đi Kyoto.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "「夏休みには、友だちといっしょに、北海道に行きます」→ nghỉ hè đi Hokkaido cùng bạn.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Li: 「わたしは、着物を着たことがありません」→ chưa từng mặc kimono.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1600/1/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Bài đọc đầy đủ (câu gõ lại ở Part 5: 「でも、いつか、見に行きたいと思っています」) cho thấy Li chưa từng xem sumo: いいえ、見たことがありません.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Bản master text trong U9.json không có đoạn sumo; suy từ mẫu Vたことがありません + いつか trong bài."
+ },
+ "1600/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Chuyến đi Kyoto mùa thu: 「父と母は、秋に、日本に来ます。そのときに、いっしょに行きたいと思っています」→ đi cùng bố mẹ.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Câu hỏi không nêu rõ chuyến nào; Hokkaido thì đi với bạn (ともだち, lựa chọn 3) nhưng câu 1/2 đã hỏi ý đó nên câu này nhiều khả năng hỏi về Kyoto."
+ },
+ "1678/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tranh lịch ghi 「10連休!!」(10 ngày nghỉ liên tiếp) → れんきゅう (連休: kỳ nghỉ dài).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh các chai rượu ghi 日本酒・吟醸・純米 và chén sake → にほんしゅ (rượu Nhật).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Tranh ghi 「夏休み」với trẻ em bắt côn trùng dưới nắng hè → なつやすみ.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/0/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh lá phong đỏ → こうよう (紅葉: lá đỏ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Tranh cửa sổ có tuyết rơi, cô gái ngồi trong nhà ấm áp (áo len, má hồng) → あたたかい (ấm áp).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "はる・あき・なつ là tên các mùa; きせつ (季節) là từ chỉ 'mùa' nói chung → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "かぶき・すもう・きもの là văn hoá truyền thống Nhật; ジャズ là nhạc phương Tây → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/1/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Tháng 7 là mùa hè, bài đọc: 「夏は、あついです」→ あつい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "さくら・こうよう・ゆき là thiên nhiên theo mùa; れんきゅう (kỳ nghỉ dài) → khác loại.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1678/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài đọc: 「私のパソコンは、ちょっと古いです。ですから、遅いです」→ おそい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/0/1": {
+  "type": "order",
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Bốn mùa theo thứ tự trong bài: 「春と夏と秋と冬です」→ はる・なつ・あき・ふゆ.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "sentence": "はる → なつ → あき → ふゆ",
+  "note": "Câu kéo-thả vào tranh (a さくら… l はなみ) bị chuyển thành 'order'; dùng thứ tự xuân-hạ-thu-đông."
+ },
+ "2038/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "紅葉 đọc là こうよう (lá đỏ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/1/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "旅行します đọc là りょこうします (du lịch).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "季節 đọc là きせつ (mùa).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/2/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "かぶき・すもう là văn hoá truyền thống Nhật; やすみ (nghỉ) không cùng nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/2/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "すずしい・さむい tả thời tiết; たかい (cao) không cùng nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/2/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "にほんしゅ・きもの là đồ vật đặc trưng Nhật Bản (rượu Nhật, kimono); うた (bài hát) không cùng nhóm.",
+  "confidence": "medium",
+  "needs_audio": false
+ },
+ "2038/2/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "れんきゅう・なつやすみ là kỳ nghỉ; まいとし (mỗi năm) là từ chỉ tần suất → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2038/2/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "ふるい・あたらしい (cũ/mới) là cặp đối nghĩa; あたたかい (ấm áp) tả thời tiết → khác nhóm.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1790/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Mẫu ～たいと思っています (grammar 1): 「こうようを見たいと思っています」như bài đọc 「京都の紅葉を見たいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1790/0/2": {
+  "type": "single",
+  "answer": 2,
+  "explain": "日本酒 đi với động từ 飲みます; thể た: のみます → のんだ (nhóm I ～みます → ～んだ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1790/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "きのう (quá khứ) + りょうりを → つくった (thể た của つくります: ～ります → ～った).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1790/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Thích tiếng Nhật nên muốn đi Nhật: 行きたいです (Vます bỏ ます + たいです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1790/1/1": {
+  "type": "matching",
+  "answer": {
+   "～たいです／～たいと思っています": "\"Tôi muốn làm...\"",
+   "た形": "Thể ngắn của ました"
+  },
+  "explain": "～たいです = 'Tôi muốn làm…' (grammar 1); た形 là thể ngắn tương ứng với Vました (grammar 2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2046/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "のみたい",
+   "2": "たべたい",
+   "3": "みたい",
+   "4": "かきたい",
+   "5": "べんきょうしたい",
+   "6": "りょこうしたい",
+   "7": "けっこんしたい",
+   "8": "さんぽしたい"
+  },
+  "explain": "Vます bỏ ます + たい: のみます→のみたい, たべます→たべたい, みます→みたい, かきます→かきたい, ～します→～したい.",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "Nếu đáp án hệ thống yêu cầu đuôi lịch sự thì thêm です (のみたいです…)."
+ },
+ "2046/1/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "のんだ",
+   "2": "たべた",
+   "3": "みた",
+   "4": "かいた",
+   "5": "べんきょうした",
+   "6": "りょこうした",
+   "7": "けっこんした",
+   "8": "さんぽした"
+  },
+  "explain": "Thể た (grammar 2): ～みます→～んだ (のんだ), nhóm II bỏ ます+た (たべた, みた), ～きます→～いた (かいた), ～します→～した.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2046/2/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "かいました",
+   "2": "かいませんでした",
+   "3": "かいたいです"
+  },
+  "explain": "Theo mẫu ví dụ Ali (みました／みませんでした／みたいです) với động từ かいます: 「ふくとアクセサリーを かいました。でも、きものは かいませんでした。つぎは きものを かいたいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2046/2/2": {
+  "type": "blanks",
+  "answer": {
+   "1": "しませんでした",
+   "2": "したいです"
+  },
+  "explain": "Động từ します: 「でも、カラオケは しませんでした。つぎは カラオケを したいです」(theo mẫu ví dụ Ali).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2046/2/3": {
+  "type": "blanks",
+  "answer": {
+   "1": "たべました",
+   "2": "たべませんでした",
+   "3": "たべたいです"
+  },
+  "explain": "Động từ たべます: 「そばとうどんを たべました。でも、ラーメンは たべませんでした。つぎは ラーメンを たべたいです」.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "2046/3/1": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe (内容を聞いて): kéo 〇 vào việc đã làm ở Tokyo và chữ cái nơi muốn đi tiếp cho パク・ロザナ・カール; không có file audio trong dữ liệu nên không xác định được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Ví dụ マリア: うえの 〇, おみやげ 〇, つぎは a (ひろしま). Chip 〇/image-1 dùng lại nhiều lần; cần nghe audio của bài để điền."
+ },
+ "2046/3/2": {
+  "type": "order",
+  "answer": null,
+  "explain": "Bài nghe: với たなか・さとう・たなか chọn chủ đề (a–d) và 〇/× đã từng làm hay chưa; không có audio nên không xác định được.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Ví dụ キム: ① a (しごとで外国に行きます), ② 〇. Chip dùng lại được; cần audio."
+ },
+ "2046/4/1": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe 田中さん đến nước bạn, cùng đi đâu (bản đồ a–i); cần nghe audio 1703591074_9rUMoWE1IxSpaEKM.mp3.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Bản đồ: a bảo tàng/tượng, b-c nhà hàng, d công viên, e phố cổ, f quán bia, g quán cà phê, h cửa hàng quần áo, i cửa hàng giày. Không đoán được nếu không nghe."
+ },
+ "2046/4/2": {
+  "type": "blanks",
+  "answer": null,
+  "explain": "Bài nghe 日本でどんな経験をしましたか (chọn tranh a/b/c cho 1–3); cần audio 1703591071_R3vOFnbfp9iAvMGH.mp3.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Tranh 1: a sumo, b xem trên TV/giải đấu, c ăn sushi; 2: a múa, b hát karaoke/ban nhạc, c mặc kimono; 3: a xe ngựa, b cưỡi ngựa, c cưỡi voi. Không đoán được nếu không nghe."
+ },
+ "2046/4/3": {
+  "type": "matching",
+  "answer": null,
+  "explain": "Bài nghe 4 người nói muốn làm gì (a 旅行します, b 友だちに会いに行きます, c 炊飯器を買います, d うちでゆっくりします); cần 4 file audio.",
+  "confidence": "low",
+  "needs_audio": true,
+  "note": "Không có dữ liệu để đoán; cần nghe audio."
+ },
+ "1789/0/1": {
+  "type": "matching",
+  "answer": {
+   "つくります": "つくった",
+   "あらいます": "あらった",
+   "よびます": "よんだ",
+   "はなします": "はなした",
+   "のばります": "のぼった",
+   "しにます": "しんだ",
+   "あけます": "あけた",
+   "つとめます": "つとめた",
+   "たべます": "たべた",
+   "そだてます": "そだてた",
+   "けんきゅうします": "けんきゅうした",
+   "もってきます": "もってきた",
+   "りょこうします": "りょこうした",
+   "べんきょうします": "べんきょうした"
+  },
+  "explain": "Quy tắc thể た (grammar 2): ～ります/～います→～った, ～びます/～にます→～んだ, ～します→～した, nhóm II bỏ ます+た, nhóm III します→した, きます→きた (もってきた).",
+  "confidence": "high",
+  "needs_audio": false,
+  "note": "のばります là lỗi gõ của のぼります → のぼった."
+ },
+ "1791/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "いつか + Vたいです: 「いつか、着物を着たいと思っています」→ きたいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1791/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "富士山に + のぼります (leo núi): いつか富士山にのぼりたいです (bài: 「富士山に登りたいと思っています」).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1791/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Mẫu kinh nghiệm Vたことがあります (grammar 3-1): ゆきを見たことがあります (ví dụ: 「雪を見たことがありません」).",
+  "confidence": "medium",
+  "needs_audio": false,
+  "note": "見たいと思います cũng đúng ngữ pháp nhưng mẫu bài là 思っています; mục tiêu drill là Vたことがあります."
+ },
+ "1791/0/4": {
+  "type": "single",
+  "answer": 2,
+  "explain": "カラオケで + kinh nghiệm: 歌ったことがあります (Vた + ことがあります).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1791/1/1": {
+  "type": "matching",
+  "answer": {
+   "Vたことがあります/ Vたことがありません。": "\"Đã từng/chưa từng\"",
+   "いつか": "””Một lúc nào đó"
+  },
+  "explain": "Vたことがあります／ありません = 'đã từng / chưa từng' (grammar 3-1); いつか = 'một lúc nào đó' (grammar 3-2).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/0/1": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Thứ tự: いまは おなかが いたいですから なにも たべたくない です → vị trí ★ là なにも.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "いまは おなかが いたいですから なにも たべたくないです。"
+ },
+ "1703/0/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「レンタカーで、北海道を旅行したいと思っています」→ レンタカー／で／ほっかいどうを／りょこうしたい → ★ = ほっかいどうを.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "レンタカーで ほっかいどうを りょこうしたいとおもっています。"
+ },
+ "1703/0/3": {
+  "type": "single",
+  "answer": 2,
+  "explain": "Bài đọc: 「そのときに、いっしょに行きたいと思っています」→ いっしょ／に／行きたい／とおもっています → ★ = 行きたい.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "そのときに いっしょに 行きたいとおもっています。"
+ },
+ "1703/0/4": {
+  "type": "single",
+  "answer": 1,
+  "explain": "また、飲みに行きたいです (Vます bỏ ます + に行きます: mục đích) → また／飲み／に／行きたい → ★ = に.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "にほんしゅはとてもおいしいです。また、飲みに行きたいです。"
+ },
+ "1703/0/5": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Bài đọc: 「新しいパソコンを買いたいと思っています」→ あたらしい／パソコン／を／買いたい → ★ = を.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "あたらしいパソコンを買いたいとおもっています。"
+ },
+ "1703/0/6": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Bài đọc: 「富士山に登ったことがありません」→ ふじさん／に／のぼった／こと → ★ = のぼった.",
+  "confidence": "high",
+  "needs_audio": false,
+  "sentence": "山が好きです。でも、ふじさんにのぼったことがありません。"
+ },
+ "1703/1/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Vたことが + ありません: 'chưa từng làm việc xấu' (grammar 3-1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "Vます bỏ ます + たい: はなします → はなしたいです.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/1/3": {
+  "type": "single",
+  "answer": 3,
+  "explain": "Mẫu cố định Vたこと「が」ありますか (grammar 3-1).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "～たい đi với が/を: くだものが食べたいです (extra grammar 1: こうようが見たいです).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "言います → 言い + たい = 言いたい; なにか言いたいことがありますか.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1703/1/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "どこも + phủ định: 行きたくないです (～たい chia như tính từ い → たくない).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/0/1": {
+  "type": "blanks",
+  "answer": {
+   "1": "ちかく",
+   "2": "しんぶん",
+   "3": "おもいます",
+   "4": "たべます",
+   "5": "ききます",
+   "6": "あたらしい"
+  },
+  "explain": "Kanji bài 9: 近く ちかく, 新聞 しんぶん, 思います おもいます, 食べます たべます, 聞きます ききます, 新しい あたらしい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/1/1": {
+  "type": "single",
+  "answer": 1,
+  "explain": "Okurigana đúng: 近い (ちか.い), không phải 近かい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/1/2": {
+  "type": "single",
+  "answer": 0,
+  "explain": "聞こえる (きこえる) viết okurigana là 聞こえる.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "食べる: okurigana べる (た.べる) → 食べる.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/1/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "新しい: okurigana しい (あたら.しい) → 新しい.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/2/1": {
+  "type": "short",
+  "answer": "はる",
+  "explain": "春 đọc kun là はる (mùa xuân).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/2/2": {
+  "type": "short",
+  "answer": "ふゆ",
+  "explain": "冬 đọc kun là ふゆ (mùa đông).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/2/3": {
+  "type": "short",
+  "answer": "あき",
+  "explain": "秋 đọc kun là あき (mùa thu).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/2/4": {
+  "type": "short",
+  "answer": "いえ",
+  "explain": "家 đọc kun là いえ (nhà).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1713/2/5": {
+  "type": "short",
+  "answer": "みち",
+  "explain": "道 đọc kun là みち (đường).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/0/1": {
+  "type": "single",
+  "answer": 3,
+  "explain": "なつやすみ = 夏休み (夏 hè + 休 nghỉ); 体 là chữ 'thân thể', không phải.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/0/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "しんぶん = 新聞 (báo), ví dụ trong bảng kanji 新・聞.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/0/3": {
+  "type": "single",
+  "answer": 0,
+  "explain": "あたらしい = 新しい (TÂN: mới).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/0/4": {
+  "type": "single",
+  "answer": 0,
+  "explain": "なつ = 夏 (mùa hè).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/0/5": {
+  "type": "single",
+  "answer": 3,
+  "explain": "おもって = 思って (思います おもいます: nghĩ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/1": {
+  "type": "single",
+  "answer": 2,
+  "explain": "春 = はる; mùa xuân nhiều người đi ngắm hoa (はなみ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/2": {
+  "type": "single",
+  "answer": 1,
+  "explain": "食べて = たべて (食べます).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/3": {
+  "type": "single",
+  "answer": 1,
+  "explain": "春休み = はるやすみ (nghỉ xuân).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/4": {
+  "type": "single",
+  "answer": 3,
+  "explain": "首都 = しゅと (thủ đô); 都 âm on ト.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/5": {
+  "type": "single",
+  "answer": 2,
+  "explain": "近く = ちかく (gần): 海の近くに住んでいます.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/6": {
+  "type": "single",
+  "answer": 2,
+  "explain": "道 đứng một mình đọc kun みち (con đường).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/7": {
+  "type": "single",
+  "answer": 1,
+  "explain": "家 đứng một mình đọc いえ (nhà).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/8": {
+  "type": "single",
+  "answer": 1,
+  "explain": "北海道 ほっかいどう → 道 đọc on là どう.",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/9": {
+  "type": "single",
+  "answer": 0,
+  "explain": "休みます = やすみます (nghỉ).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1729/1/10": {
+  "type": "single",
+  "answer": 2,
+  "explain": "都 đọc kun là みやこ (kinh đô): 日本の古い都 = cố đô (Nara, Kyoto).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/1": {
+  "type": "short",
+  "answer": "夏休みには、友だちといっしょに、ほっかいどうに行きます。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/2": {
+  "type": "short",
+  "answer": "京都のこうようを見たいです。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/3": {
+  "type": "short",
+  "answer": "レンタカーで、ほっかいどうをりょこうしたいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/4": {
+  "type": "short",
+  "answer": "春は、あたたかいです。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/5": {
+  "type": "short",
+  "answer": "父と母は、秋に、日本に来ます。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/6": {
+  "type": "short",
+  "answer": "そのときに、いっしょに行きたいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/7": {
+  "type": "short",
+  "answer": "えきも、電車も、道も、家も、とてもきれいです。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/8": {
+  "type": "short",
+  "answer": "いつか、見たいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/9": {
+  "type": "short",
+  "answer": "でも、いつか、見に行きたいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/10": {
+  "type": "short",
+  "answer": "父と母は、日本に来たことがあります。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/11": {
+  "type": "short",
+  "answer": "わたしは、ゆきを見たことがありません。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/12": {
+  "type": "short",
+  "answer": "いつか、きものを着たいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/13": {
+  "type": "short",
+  "answer": "わたしは、秋に、京都に行きたいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/14": {
+  "type": "short",
+  "answer": "いつか、行きたいと思っています。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ },
+ "1728/0/15": {
+  "type": "short",
+  "answer": "わたしは、日本しゅを飲んだことがあります。",
+  "explain": "Gõ lại đúng câu trong tranh (câu của bài đọc Unit 9).",
+  "confidence": "high",
+  "needs_audio": false
+ }
+}

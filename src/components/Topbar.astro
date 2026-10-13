@@ -9,7 +9,7 @@ const { title, jp, back } = Astro.props;
 ---
 <header id="topbar">
   {back && <a class="icon-btn only-mobile" id="btn-back" href={back} aria-label="Quay lại"><Icon name="left" /></a>}
-  <a class="top-brand" href="/" title="Renix · Ôn tập N4 · Unit 13–17"><span class="wordmark">Renix</span></a>
+  <a class="top-brand" href="/" title="Renix · Ôn tập tiếng Nhật N5–N4 · Unit 1–17"><span class="wordmark">Renix</span></a>
   <div class="top-title"><b id="tt-main">{title}</b><span id="tt-sub" lang="ja">{jp}</span></div>
   <div class="search">
     <input id="search" type="search" placeholder="Tìm từ, kanji, ngữ pháp…" autocomplete="off" aria-label="Tìm kiếm" />
@@ -18,7 +18,13 @@ const { title, jp, back } = Astro.props;
   </div>
   <div class="top-tools">
     <button class="icon-btn only-mobile" id="btn-search" aria-label="Tìm kiếm"><Icon name="search" /></button>
-    <UnitFilter id="unit-filter" />
+    <span class="unit-pick">
+      <button class="unit-btn" id="unit-btn" title="Phạm vi ôn (Unit)" aria-haspopup="true" aria-expanded="false"><Icon name="layers" /><b>Tất cả</b></button>
+      <div class="unit-pop glass" id="unit-pop" hidden>
+        <div class="side-label">Phạm vi ôn</div>
+        <UnitFilter id="unit-filter" wrap />
+      </div>
+    </span>
     <button class="icon-btn" id="btn-furi" lang="ja" title="Furigana: bật / tắt">ふ</button>
     <button class="icon-btn" id="btn-theme" title="Đổi giao diện sáng / tối"><Icon name="moon" class="th-dark" /><Icon name="sun" class="th-light" /></button>
     <button class="icon-btn" id="btn-install" title="Cài Renix thành ứng dụng" hidden><Icon name="download" /></button>

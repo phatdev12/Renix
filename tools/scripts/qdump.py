@@ -3,7 +3,11 @@ import json
 import re
 from pathlib import Path
 
+import os
+
 ROOT = Path(__file__).resolve().parent.parent
+KEY = os.environ.get("NIX_KEY", "")
+SUFFIX = "_" + KEY if KEY else ""
 MEDIA_ABS = (ROOT / "qmedia").resolve()
 
 
@@ -19,9 +23,9 @@ def h2t(h):
 
 
 def main():
-    quizzes = json.loads((ROOT / "quizzes.json").read_text(encoding="utf-8"))
-    keys = json.loads((ROOT / "verified_keys.json").read_text(encoding="utf-8"))
-    out_dir = ROOT / "qdump"
+    quizzes = json.loads((ROOT / f"quizzes{SUFFIX}.json").read_text(encoding="utf-8"))
+    keys = json.loads((ROOT / f"verified_keys{SUFFIX}.json").read_text(encoding="utf-8"))
+    out_dir = ROOT / ("qdump" + SUFFIX)
     out_dir.mkdir(exist_ok=True)
     by_unit = {}
     for qz in quizzes:

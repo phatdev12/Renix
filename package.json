@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "description": "Renix — trang ôn tập tiếng Nhật N4 (NIX M3, Unit 13–17)",
+  "description": "Renix — trang ôn tập tiếng Nhật N5–N4 (NIX M2 Unit 1–12, M3 Unit 13–17, M17 bài đọc chuyên ngành)",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
